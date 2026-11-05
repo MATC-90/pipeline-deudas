@@ -1,0 +1,844 @@
+ClienteId;NombreCompleto;FechaEntrada;CanalCaptacion;DepartamentoOficina;CodigoPostal;Email;Telefono;IngresosMensuales;TieneAval
+CLI_0614;DOMÍNGUEZ GÓMEZ, FRANCISCO;26/04/2025;Recomendación;Valencia;46887;f.dominguez63@example.com;+34 672 949 241;2.141,38;1
+392;Marta García Pérez;2025-02-23;Redes Sociales;Madrid;28971;m.garcia68@example.org;(+34) 686083774;sin ingresos;N
+CLI_0082;María Díaz López;2025-05-12;SEO Orgánico;Malaga;29178;m.diaz3@example.com;623-559-456;1.101;N/A
+CLI_0476;TORRES NAVARRO, ANA;24/08/2025;GOOGLE ADS;Valencia;46608;a.torres36@example.org;638-182-902;2773;True
+cli-449;díaz romero lucía;06/06/2025;Teléfono / Directo;Madrid;28834;l.diaz8@example.org;NaN;2975.06;S
+11;Francisco Moreno García;07/06/2025;Google Ads;Sevilla;41601;N/A;647-994-956;3.225;N
+CLI_0248;TORRES DOMÍNGUEZ, DAVID;05/05/2025;SEO Orgánico;VALENCIA;46242; d.torres70@example.org ;+34 686 470 422;2.017;True
+CLI_0357;David Gil López;15.02.2025;Google Ads;Sevilla;08559;d.gil64@example.com;0034 671285407;1960;NO
+CLI_0388;Antonio López Gil;2025-09-07;Recomendación;BARCELONA;08336;a.lopez56@example.com;666711587;2.483 €;False
+cli-122;torres sánchez antonio;2025/07/20;Teléfono / Directo;barcelona;8707;a.torres70@example.org;695-427-960;3.038,54;Sí
+CLI_0452;SÁNCHEZ MARTÍNEZ, MANUEL;2025/10/05;Google Ads;BARCELONA;08419;m.sanchez82@example.org;610543900;1815 EUR;SI
+CLI_0237;LÓPEZ JIMÉNEZ, MANUEL;2025/07/18; Google Ads;n/d;29070;m.lopez38@example.org;648563483;121;SI
+CLI0029;Lucía Ruiz Díaz;NaN;teléfono / directo;Málaga;41654;l.ruiz16@example.org;693824799;1.583;False
+CLI_0579;MORENO GÓMEZ, MANUEL;2025-09-26;seo orgánico;Barcelona;08529;m.moreno92@example.org;602702795;NaN;S
+CLI0295;Pablo Romero Martínez;June 13, 2025;N/A;Madrid;28384;p.romero28@example.org;641186558;n/d;N
+CLI_0489;Pablo Gómez Moreno;18/08/2025;redes sociales;Sevilla;41820;NaN;+34 672 550 481;2503;SI
+CLI_0633;José Sánchez Navarro;2025-05-11;Gogle Ads;Sevilla;41278;j.sanchez88@example.org;661104711;913;No
+CLI0355;Ana Navarro Pérez;2025-10-18;Redes Sociales;MADRID;28113;a.navarro81@example.com;652-364-494;€ 1644;
+CLI_0200;PÉREZ JIMÉNEZ, JAVIER;October 16, 2025;Google Ads;Barcelona;08009;j.perez26@example.org;677-822-547;2.867 €;NULL
+473;Lucía López Gómez;10/05/2025;REDES SOCIALES;Málaga;29103;l.lopez48@example.com;684-879-756;3.374;S
+cli-676;GIL MORENO, JOSÉ;06/08/2025;REDES SOCIALES;Madrid;28798;J.GIL91@EXAMPLE.COM;649031;sin ingresos;False
+586;Pablo García Gómez;2025-10-05;Google Ads; Madrid;28410;p.garcia6@example.org;686336650;2479;False
+CLI_0052;Pedro Moreno Romero;2025/02/28;Google Ads;Málaga;29029;p.moreno50@example.org;631568902;3468;True
+CLI_0066;Pedro Jiménez Moreno;2025-04-08;Recomendación;valencia;46317;p.jimenez28.example.org;637-655-130;975.12;True
+CLI_0563;Ana Sánchez Torres;2025-05-28;seo orgánico;MADRID;28857;a.sanchez76@example.com;686555870;1.471;False
+cli-331;Lucía Moreno Gómez;14/06/2025;recomendación;Barcelona ;08667;NaN;675730776;1405.19;si
+647;Francisco Moreno Jiménez;2025-05-19;Recomendación ;Málaga;29918;f.moreno85@example.com;+34 606 039 064;1271;no
+CLI0028;SÁNCHEZ TORRES, ANTONIO;2025-09-04;GOOGLE ADS;málaga;29012;a.sanchez32@example.com;+34 691 353 720;2320;Sí
+cli-595;DOMÍNGUEZ RUIZ, JOSÉ;07-04-25;Telefono / Directo;Madrid;28644;j.dominguez5@example.org;619397229;2463.22;S
+CLI_0412;Ana Martínez Gil;10/03/2025;teléfono / directo;Valencia;46977;a.martinez40@example.org;682861;€ 1535;N/A
+CLI_0592;Antonio  Domínguez;2025-09-28;TELÉFONO / DIRECTO;Barcelona;n/d;a.dominguez92@example.org;668961215;1.938;False
+cli-193;Ana  Gómez;2025-07-02;SEO  Orgánico;Sevilla;41841;a.gomez81@example.com;0034 693866387;131.45;n/d
+cli-145;Lucía Gómez Martínez;25/10/2025;Redes Sociales;Sevilla;n/d;n/d;696707378;1201;NO
+CLI_0062;Francisco Pérez Martínez;12/08/2025;SEO Organico;málaga;29169;F.PEREZ26@EXAMPLE.ORG;627-795-081;1278.15;N
+CLI_0684;José García Domínguez;15/10/2025;Google Ads;SEVILLA;41521;j.garcia49@example.com;(+34) 685447233;1.616;0
+cli-583;Ana Ruiz Ruiz;02.02.2025;Redes Sociales ;Madrid;28326;a.ruiz8@example.org;688319512;sin ingresos;si
+CLI_0654;Carmen Torres Navarro;2025/08/30;Recomendación; Madrid;28413;N/A;665320590;349 €;null
+CLI_0210;Manuel Jiménez Pérez;22.08.2025;Redes Sociales ;Barcelona;8445;m.jimenez72@example.com;632961811;2142.29;False
+CLI_0334;Manuel Martínez Pérez;2025/09/06;SEO Orgánico ;Valencia;41927; m.martinez41@example.org ;0034 629237257;2052 EUR;True
+CLI_0438;Ana Jiménez Ruiz;2025-10-06;Redes Sociales;Sevilla;41081; a.jimenez70@example.com ;603-283-443;1.451,21;
+CLI_0158;Lucía Jiménez Sánchez;17/06/2025;Redes Sociales; Valencia;46402;l.jimenez76@example.org;NaN;NULL;no
+202;José López Ruiz;September 30, 2025;Redes Sociales ;Valencia;46240;j.lopez66@example.org;0034 609413962;1349;Sí
+CLI_0507;Manuel Moreno Gil;09/06/2025;Redes Sociales;Madrid;28416;m.moreno12@example.org;+34 626 131 500;285;0
+CLI0173;Antonio  Domínguez;20/08/2025;Google Ads;barcelona;08331;nuevo.CLI0173@example.com;600000173;969;1
+CLI_0379;LÓPEZ DOMÍNGUEZ, FRANCISCO;2025-04-24;Google Ads;Madrid;28657;n/d;674-711-412;2312;N
+CLI_0408;MORENO RUIZ, JAVIER;2025-02-13;Redes Sociales;Valencia;46927;J.MORENO56@EXAMPLE.ORG;644369785;703 €;No
+CLI_0109;Pedro Martínez Sánchez;2025-05-22;Google Ads;Madrid;28944;p.martinez87@example.org;608-214-396;3314;NO
+CLI_0760;torres moreno marta;2025-08-07;TELÉFONO / DIRECTO;Malaga;28424; m.torres36@example.com ;637-697-378;€ 2671;NO
+CLI_0638;Elena Pérez Domínguez;31-03-25;Redes  Sociales;Valencia;46567;e.perez83@example.org;660628786;sin ingresos;S
+CLI_0683;Carmen  Torres;15/10/2025;Redes  Sociales;Madrid;28630;c.torres75@example.org;693813815;sin ingresos;1
+CLI_0769;María  Moreno;2025-02-11;Redes Sociales;N/A;29040;m.moreno82@example.org;610342141;1.072;si
+CLI_0156;José Gómez Romero;18/07/2025;Teléfono / Directo;Valencia ;46370;j.gomez71@example.org;615222300;247;No
+CLI_0350;Pablo Romero Ruiz;19/02/2025;Teléfono / Directo;Málaga;29744; p.romero24@example.com ;+34 631 333 651;1.426;no
+650;Ana Pérez Pérez;12-09-25;Google Ads;Sevilla;41624;a.perez88@example.com;632-065-647;€ 468;no
+CLI_0138;Javier Jiménez Gil;10/01/2025; Google Ads;sevilla;41364;j.jimenez74@example.org;0034 655308817;sin ingresos;S
+CLI0455;José Martínez García;2025-06-29;Google Ads;Valencia;8987;j.martinez16@example.com;0034 680927676;421;null
+CLI_0238;Francisco López Jiménez;2025-05-10;Redes Sociales;Sevilla;41060;f.lopez96@example.org;653325133;1.840;NO
+CLI_0631;Marta Gómez Torres;10/08/2025;Recomendación;barcelona;NULL;m.gomez68@example.org;+34 622 860 632;645,19;0
+49;MARTÍNEZ ROMERO, LAURA;2025-07-23;Google Ads;Málaga;29798;l.martinez71@example.org;652-288-379;2848.70;No
+CLI_0291;TORRES LÓPEZ, CARMEN;31/08/2025;Google Ads;Barcelona;8737;c.torres94@example.com;607095912;1043;1
+cli-363;Carmen Romero Gómez;2025-03-09;Teléfono / Directo;Málaga;29279;c.romero82@example.org;626-497-159;3319.12;No
+675;Ana  Pérez;06-07-25;redes sociales;Málaga;29524;a.perez65@example.com;+34 646 816 040;271;null
+CLI_0102;GARCÍA TORRES, MARÍA;01/03/2025;Google Ads ;Sevilla;41015;m.garcia16@example.com;664764021;sin ingresos;True
+CLI_0124;DÍAZ TORRES, FRANCISCO;22.05.2025;Redes Sociales;Sevilla;41939;f.diaz3@example.org;644187802;25;True
+cli-325;GÓMEZ GIL, MANUEL;20.10.2025;Redes Sociales;málaga;29860;m.gomez64@example.com;607-628-121;1998.91;Sí
+CLI_0500;Manuel Pérez Moreno;08-05-25;Redes Sociales;sevilla;41491;m.perez36@example.com;677-575-335;1311;Sí
+CLI_0522;GARCÍA SÁNCHEZ, CARMEN;13-02-25;Redes Sociales;Madrid ;28613;c.garcia8@example.com;-;€ 601;si
+CLI_0059;Laura Jiménez Gómez;12/08/2025;Redes Sociales;Valencia;46979;l.jimenez31@example.org;n/d;364;NO
+CLI_0727;Lucía Gómez Gil;2025-08-05;Redes Sociales;Madrid;28173;l.gomez34@example.com;+34 600 980 095;2196;No
+42;torres navarro laura;2025/08/16;SEO Orgánico;Valencia;n/d;l.torres57@example.com;(+34) 699141099;1745;S
+cli-178;Carmen López Díaz;2025-02-18;Redes Sociales;BARCELONA;08738;c.lopez82@example.com;690138;-131;S
+CLI_0712;torres torres laura;2025-06-06;Google Ads ;Madrid;28173;l.torres97@example.com;(+34) 660174270;2095.21;No
+CLI_0465;Pedro Martínez Pérez;02/01/2025;REDES SOCIALES;Madrid;28735;-;636560522;3192 EUR;null
+cli-46;GÓMEZ MORENO, PEDRO;19.10.2025;teléfono / directo;Sevilla;41352;p.gomez26@example.org;691193028;580;Sí
+CLI_0410;Carmen  Sánchez;2025-01-05;Redes Sociales;Málaga;ABCDE;c.sanchez93@example.com;653093695;€ 1665;null
+CLI_0086;Manuel Ruiz Pérez;July 30, 2025;Redes Sociales;Valencia;46699;m.ruiz59@example.org;671008318;-705;Sí
+CLI_0750;Pablo Romero Díaz;2025/02/17;google ads;Sevilla;41805;p.romero42@example.com;648118840;1281;1
+CLI_0569;MARTÍNEZ GIL, JAVIER;2025-07-12;Google Ads;Málaga;08510;j.martinez27@example.com;+34 638 144 635;€ 3216;True
+CLI_0081;Ana  Díaz;10/10/2025;REDES SOCIALES;Sevilla;41524;A.DIAZ22@EXAMPLE.COM;(+34) 620243133;2876;True
+CLI_0324;José Gómez Pérez;02/10/2025;Google Ads;Madrid;28637;j.gomez53@example.org;NULL;269 €;
+cli-230;Lucía  Gómez;February 23, 2025; Redes Sociales;MADRID;28898;l.gomez12@example.org;647-575-667;1.515,92;N
+CLI_0176;Pedro Gil García;2025/05/19;SEO Orgánico;Madrid ;28681;p.gil46@example.org;642336005;2.552;1
+CLI_0451;Lucía Torres Jiménez;16/10/2025;GOOGLE ADS;Madrid;28956;L.TORRES15@EXAMPLE.COM;664899969;sin ingresos;Sí
+CLI_0596;Javier Ruiz Navarro;2025-08-29;Google Ads;;08046;j.ruiz61@example.com;695-338-676;700;0
+CLI_0568;DÍAZ MARTÍNEZ, LAURA;16/03/2025;Google Ads;Barcelona;8184;l.diaz14@example.org;625281418;2895;SI
+CLI_0304;MORENO DÍAZ, JOSÉ;September 26, 2025;Teléfono / Directo;Sevilla;41681;NaN;626392862;778;NO
+CLI0640;Javier Pérez Martínez;2025-10-12;Recomendación;málaga;28677;j.perez38@example.org;667852711;849;1
+cli-713;Ana  Ruiz;07/08/2025;SEO Orgánico;valencia;46664;A.RUIZ63@EXAMPLE.COM;637096988;382;NULL
+CLI_0613;Lucía  Moreno;24/08/2025;Teléfono / Directo;Madrid;28893;l.moreno38@example.com;648800340;3.131;no
+CLI_0104;PÉREZ LÓPEZ, MANUEL;2025-01-03;REDES SOCIALES;Málaga;46889;m.perez44@example.org;+34 604 236 865;826;S
+CLI_0207;Lucía Navarro Sánchez;2025-08-18;Recomendación ;Málaga;29653;l.navarro58@example.com;+34 600 400 118;671;NO
+cli-564;María Jiménez López;2025-02-24;google ads;MADRID;28876;m.jimenez37@example.org;639336857;2.080;S
+CLI_0693;Manuel Gil Díaz;2025-10-07;SEO Orgánico;sevilla;41138;m.gil35@example.com;636274928;sin ingresos;S
+CLI_0590;Elena Jiménez López;11/09/2025;Google Ads;Málaga;29034;e.jimenez31@example.org;694206806;1.196;N
+CLI_0797;Javier  Domínguez;2025/10/18;Google Ads ;Valencia;46370;j.dominguez62@example.com;628183299;1.474,31;Sí
+CLI_0786;Pedro Jiménez Jiménez;26/06/2025;RECOMENDACIÓN;Madrid;28991;p.jimenez24@example.com;+34 654 779 320;1.706 €;N
+cli-195;domínguez romero david;2025-10-15;Recomendación;null;8248;d.dominguez37@example.com;+34 685 706 657;1435.18;No
+CLI_0074;Pablo Díaz Romero;2025-02-08;redes sociales;Sevilla;41026;;+34 660 056 972;3024;Sí
+CLI_0323;ruiz sánchez manuel;04/07/2025;Teléfono / Directo;MADRID;28720;m.ruiz17@example.com;0034 643689486;3.327,84;-
+CLI_0698;Elena Pérez Torres;27/06/2025;SEO  Orgánico;Valencia;28244;e.perez85@example.com;604528624;402.81;No
+79;MARTÍNEZ TORRES, ANTONIO;2025-06-19;SEO Orgánico;barcelona;08579;a.martinez63.example.com;+34 641 443 677;1.739;NO
+CLI_0196;SÁNCHEZ GÓMEZ, DAVID;27/01/2025;Redes Sociales;Valencia;46096;d.sanchez52@example.com;(+34) 668336652;1.319;False
+cli-340;Marta Torres Pérez;13/10/2025;SEO Orgánico;Barcelona;8139;m.torres53@example.org;649928;2750.74;SI
+CLI0164;sánchez pérez marta;2025-05-02;Google Ads;Madrid;28621;M.SANCHEZ47@EXAMPLE.ORG;N/A;€ 2922;N
+CLI_0125;Ana Jiménez Martínez;14/09/2025;Google Ads;MADRID;28589;a.jimenez9@example.com;+34 605 844 241;3.490;Sí
+CLI_0643;Javier Domínguez Sánchez;2025-09-14; Google Ads;Málaga;29524;j.dominguez5@example.com;+34 615 466 581;1053;SI
+cli-697;David García García;2025-08-05; Teléfono / Directo;Barcelona;08146;d.garcia16@example.org;610419583;2.344,56;1
+CLI0047;David Domínguez Díaz;14/05/2025;Redes Sociales;Sevilla;41753;d.dominguez9@example.org;694486547;2.331;NO
+CLI_0005;DÍAZ ROMERO, MANUEL;10/05/2025;Google  Ads;Valencia;;m.diaz50@example.org;-;€ 2526;N
+330;ROMERO DÍAZ, MARTA;2025-06-16;Recomendación;Valencia;46531;M.ROMERO13@EXAMPLE.COM;676031500;2.627,46;Sí
+191;Pablo López Navarro;25/07/2025;seo orgánico;Madrid;28322;p.lopez75@example.com;(+34) 609878769;€ 2382;si
+CLI_0382;gil romero david;2025-10-09;Google Ads;Málaga;29995;d.gil41@example.com;644085945;;N
+CLI_0103;Javier Sánchez García;30/08/2025;Google Ads;Madrid;28557;j.sanchez31@example.com;+34 602 168 867;947;Sí
+CLI_0240;Lucía Romero Pérez;08-07-25;GOOGLE ADS;Málaga;29719;L.ROMERO38@EXAMPLE.ORG;665-605-046;2.500,20;no
+cli-618;Pedro Díaz Ruiz;21/03/2025;RRSS;Barcelona ;8753;p.diaz44@example.com;+34 668 406 950;3.207,56;0
+271;Laura Gómez Moreno;March 30, 2025;Teléfono / Directo;Valencia;46538;l.gomez47@example.org;622-416-792;1.687,39;False
+cli-127;Pablo López Jiménez;2025/01/24; Google Ads;Barcelona;8511;p.lopez93@example.org;0034 646020907;820.03;1
+CLI_0147;Lucía Martínez Ruiz;January 11, 2025;SEO Organico;MÁLAGA;29949;l.martinez53@example.org;672570623;286;Sí
+cli-470;moreno lópez pablo;2025/10/07;REDES SOCIALES;sevilla;NULL;p.moreno89@example.org;618831705;1011;0
+CLI_0347;Ana Gómez Navarro;25/10/2025;SEO Orgánico;Barcelona;08819;a.gomez46@example.org;N/A;460;NO
+CLI0537;Pablo  Jiménez;2025/05/17;Gogle Ads; Valencia;46794;p.jimenez1@example.com;615026170;1.240;No
+CLI_0217;Elena Romero Pérez;2025-01-24;SEO  Orgánico;Madrid;28901;e.romero46@example.com;(+34) 615752923;460 €;False
+CLI_0244;Manuel Ruiz Díaz;2025-07-14;SEO Orgánico;madrid;28142;M.RUIZ28@EXAMPLE.ORG;646655635;sin ingresos;si
+CLI_0622;DÍAZ TORRES, MANUEL;24/05/2025;Redes Sociales;Málaga;29756;m.diaz89@example.com;(+34) 673384073;2476;False
+CLI_0761;RUIZ JIMÉNEZ, LAURA;2025-02-22;Recomendación;MADRID;28720;l.ruiz28@example.org;+34 641 963 809;3405;S
+cli-736;DÍAZ ROMERO, ELENA;21-07-25;Redes Sociales;Sevilla;41294;e.diaz65@example.com;NaN;1966.09;Sí
+CLI_0092;Elena Gil Martínez;30-08-25;Recomendación;Valencia;46625;e.gil88@example.com;653184277;3.202 €;0
+CLI0087;SÁNCHEZ RUIZ, ELENA;30.01.2025;REDES SOCIALES;sevilla;;e.sanchez35@example.com;677070633;1.433,26;NaN
+CLI_0386;DÍAZ SÁNCHEZ, ANA;2025-02-06;Teléfono / Directo ;madrid;28750;A.DIAZ55@EXAMPLE.ORG;0034 600197660;€ 717;Sí
+CLI_0543;Javier Díaz Romero;2025-02-28;Redes Sociales;;41871;j.diaz59@example.org;602739347;2.308,42;Sí
+cli-646;DOMÍNGUEZ GIL, JOSÉ;09/04/2025;REDES SOCIALES;sevilla;41388;j.dominguez49@example.com;+34 670 058 953;1.937;S
+CLI_0247;Lucía  Domínguez;2025-08-16;google ads;madrid;28706;l.dominguez31@example.org;(+34) 629526660;2.478;N/A
+cli-544;Manuel Pérez Martínez;22-02-25;redes sociales;Barcelona ;8096;m.perez48@example.org;610720812;2.898 €;si
+CLI_0017;José  Martínez;03/06/2025;TELÉFONO / DIRECTO;sevilla;41196;j.martinez81@example.com;625-039-595;273 €;True
+cli-135;Francisco Navarro Jiménez;2025-08-27;SEO Orgánico;Barcelona ;8859;f.navarro1@example.com;+34 674 813 713;1.051;True
+cli-637;moreno sánchez marta;2025-03-12;Google Ads;barcelona;08088;m.moreno54@example.org;-;566,24;no
+CLI_0236;garcía martínez elena;04/08/2025;SEO Orgánico; Valencia;46556;e.garcia88@example.com;647341475;1.604;True
+cli-669;Pablo Navarro Jiménez;03/10/2025;SEO Orgánico;Valencia;46736;p.navarro15@example.org;691731258;1718;S
+CLI_0459;Laura  Gil;2025-09-10;Redes Sociales;n/d;8301;l.gil27@example.org;(+34) 675759476;1070;no
+cli-738;Laura Torres Torres;11-04-25;SEO Orgánico;Sevilla ;41249;l.torres33@example.com;(+34) 664686489;650;NO
+535;lópez pérez carmen;2025/06/23;Recomendación;Barcelona;8700;C.LOPEZ31@EXAMPLE.ORG;681678;2.718;-
+CLI_0781;Antonio Díaz Gil;21/09/2025;Teléfono / Directo ;Madrid;28905; a.diaz7@example.com ;635946;1820;True
+CLI_0264;Marta Gil Jiménez;05/10/2025;SEO ORGÁNICO;Valencia;46477;m.gil68@example.org;+34 692 476 189;442;True
+CLI_0784;Lucía López Gil;2025-02-06;Google Ads; Barcelona;8146;l.lopez57@example.com;637095663;1404;False
+CLI_0695;GARCÍA GIL, DAVID;28/01/2025;Redes  Sociales;Barcelona;08988;d.garcia83@example.org;677328245;1159;si
+CLI_0265;Ana García Gil;2025-10-24;GOOGLE ADS;Valencia;28428;A.GARCIA66@EXAMPLE.COM;670439987;€ 740;1
+cli-601;ROMERO LÓPEZ, FRANCISCO;2025-07-04;redes sociales;Málaga ;29241;f.romero52@example.com;-;;no
+515;Carmen Ruiz Martínez;2025-10-15; Google Ads;málaga;29876;c.ruiz24@example.com;642864561;1032;1
+CLI_0779;José Gil García;23.03.2025;Recomendación;Sevilla;41 016;j.gil54@example.org;+34 694 812 678;932.43;SI
+CLI_0657;GIL DÍAZ, PEDRO;2025-08-18;Google Ads;Málaga;41580;P.GIL63@EXAMPLE.ORG;696814428;sin ingresos;NO
+CLI_0778;LÓPEZ SÁNCHEZ, JOSÉ;05.02.2025;Teléfono / Directo;Valencia;46831;j.lopez31@example.com;666933585;1.228 €;Sí
+CLI_0391;SÁNCHEZ JIMÉNEZ, ANA;13/08/2025;Redes  Sociales;Barcelona;8316;a.sanchez31@example.org;+34 691 695 938;2183.19;S
+CLI_0791;JIMÉNEZ NAVARRO, MARÍA;2025/01/29;Google Ads;Valencia;46664;m.jimenez36@example.org;622505891;-;SI
+CLI_0348;Manuel Gil Díaz;08/10/2025; Teléfono / Directo;Valencia;41364;m.gil25@example.org;697325438;1.517 €;0
+CLI_0454;David Romero Martínez;08/01/2025;seo orgánico;Valencia;46445;;0034 677848856;2004;SI
+724;Elena  Moreno;05-02-25;SEO Orgánico; Sevilla;41405;e.moreno53@example.com;0034 663089034;1.003;si
+239;Elena Pérez Domínguez;03/04/2025;Redes Sociales;Barcelona;08359;E.PEREZ88@EXAMPLE.COM;N/A;1.219,77;no
+CLI_0040;Carmen Romero Moreno;2025/07/09;Redes Sociales;MÁLAGA;29285;C.ROMERO83@EXAMPLE.ORG;;2121;-
+CLI_0450;TORRES TORRES, PABLO;2025-03-27;Recomendación;Málaga;29444;p.torres25@example.org;+34 698 501 294;1220;si
+cli-32;jiménez ruiz ana;2025-03-10;Redes  Sociales;madrid;28648;A.JIMENEZ74@EXAMPLE.ORG;680572187;715;N
+CLI0557;Ana Martínez López;09.08.2025;Redes Sociales ;Madrid;28297;A.MARTINEZ40@EXAMPLE.ORG;697366;3.125;N
+CLI_0198;Javier Pérez Moreno;2025/02/05;Google  Ads;MADRID;28281;j.perez12@example.com;615641079;1723;No
+CLI_0655;Elena Gómez Gil;15/06/2025;GOOGLE ADS;Barcelona;08962;e.gomez75@example.com;619192425;3371;True
+215;DÍAZ MORENO, PEDRO;10/08/2025;Google Ads;Barcelona;08238;P.DIAZ3@EXAMPLE.COM;617115;1.502;NO
+cli-519;DOMÍNGUEZ MARTÍNEZ, MARÍA;23/05/2025;SEO Orgánico;Barcelona;8539;M.DOMINGUEZ72@EXAMPLE.ORG;645262916;3222 EUR;null
+CLI_0113;GÓMEZ NAVARRO, ANTONIO;2025-06-16;recomendación;Madrid;28821;a.gomez63@example.org;616388530;1681;si
+CLI_0181;DÍAZ JIMÉNEZ, MARTA;2025-10-09;RECOMENDACIÓN;Barcelona;08591;m.diaz12@example.com;680144871;385 EUR;si
+CLI_0133;David Ruiz Jiménez;28/01/2025; Redes Sociales;Madrid;29923;d.ruiz41@example.com;698151369;sin ingresos;No
+cli-96;Francisco Romero Domínguez;2025/03/28;Teléfono / Directo;NULL;46969;f.romero22@example.com;;2137;
+CLI_0400;ROMERO RUIZ, MARÍA;2025/04/04;SEO Orgánico;Valencia;46074;null;667747876;1171;False
+CLI0212;RUIZ SÁNCHEZ, ELENA;2025-08-04;Redes Sociales;Valencia;46811;e.ruiz98@example.org;n/d;918,89;no
+CLI_0256;Carmen Pérez Gil;13-02-25;SEO Orgánico ;Málaga;29130;c.perez98@example.org;644394469;814.56;NaN
+CLI_0469;Ana García Gil;24-02-25; Redes Sociales;Málaga;29983;a.garcia10@example.org;688347155;164;No
+CLI0004;jiménez torres ana;12-05-25;Redes Sociales;Málaga;29159;A.JIMENEZ8@EXAMPLE.COM;688530657;3.068,37;
+CLI0467;PÉREZ RUIZ, ANA;n/d;Google Ads;sevilla;28507;a.perez47@example.com;614474052;€ 1581;1
+CLI_0547;Laura López Jiménez;2025-05-09;Redes Sociales;Málaga;29471;l.lopez1@example.com;613164004;823.08;SI
+CLI_0418;José Martínez Díaz;2025-02-06;Redes  Sociales;VALENCIA;46440;j.martinez58@example.com;(+34) 634907946;NaN;no
+CLI_0006;LÓPEZ PÉREZ, ANA;2025-09-15;Google Ads;Valencia;46 934;NaN;+34 648 732 723;2.491,71;0
+CLI_0302;GIL TORRES, CARMEN;05.09.2025;Google Ads;BARCELONA;08797;c.gil36@example.org;662991;1.316,95;NO
+CLI0225;PÉREZ SÁNCHEZ, FRANCISCO;05/08/2025;SEO ORGÁNICO;Málaga;29738;f.perez66@example.org;648-507-921;873.33;1
+CLI_0772;romero sánchez javier;2025-10-23;Redes Sociales;Madrid;28454;j.romero8@example.com;625-932-756;1.319;no
+CLI_0233;GIL JIMÉNEZ, ANA;2025-01-06;Redes Sociales;Valencia;46489;a.gil37@example.com;0034 666606865;1351;SI
+CLI_0318;Pablo Moreno López;07/08/2025;SEO Orgánico;Barcelona ;08655;p.moreno27@example.org;+34 650 392 856;2.286,36;0
+CLI_0160;gil moreno antonio;2025-08-24;Redes Sociales;BARCELONA;08120;a.gil23@example.org;0034 618284457;2109;Sí
+CLI_0478;ruiz garcía maría;2025-01-06;google ads;Valencia ;46575;m.ruiz60@example.com;681-239-785;2.562 €;no
+98;RUIZ MORENO, CARMEN;24/07/2025;Google Ads;Sevilla;41957;c.ruiz53@example.com;(+34) 663268487;2913.28;False
+CLI_0653;moreno garcía francisco;2025-03-02;Telefono / Directo;Sevilla;41681;f.moreno22@example.com;699838229;2644 EUR;no
+CLI_0587;Javier Pérez Jiménez;26/07/2025;SEO Orgánico;Barcelona;29801;j.perez72@example.com;+34 696 982 836;1412.27;1
+CLI_0377;Ana Torres García;09/08/2025;Redes Sociales ;Madrid ;28 176;a.torres24@example.com;667213793;2177.73;si
+CLI_0360;Javier Díaz García;13/08/2025;SEO Orgánico;Madrid;41540;j.diaz75@example.com;679-707-289;611;S
+CLI_0350;Pablo Romero Ruiz;19/02/2025;Teléfono / Directo;Málaga;29744; p.romero24@example.com ;+34 631 333 651;1.426;no
+CLI0294;María Sánchez López;10/04/2025;Google Ads;Madrid;28932;m.sanchez62@example.org;632555127;€ 2148;No
+CLI_0187;Pablo Ruiz Martínez;2025-02-19;Google Ads;Valencia;46391;p.ruiz7@example.com;0034 661740151;796,42;NO
+CLI_0128;moreno garcía marta;2025-08-18;Teléfono / Directo;Madrid;28891;m.moreno24@example.org;+34 653 646 772;1.663,67;False
+CLI_0706;DOMÍNGUEZ GARCÍA, ANA;19/06/2025;redes sociales;Madrid ;28599;A.DOMINGUEZ57@EXAMPLE.ORG;617664236;1.407;True
+CLI_0448;Ana Díaz Moreno;2025-10-14;Google Ads;BARCELONA;8151; a.diaz71@example.com ;685662031;sin ingresos;False
+CLI_0502;Manuel Gil Moreno;2025-07-15;REDES SOCIALES;Barcelona;08096; m.gil44@example.com ;681997059;2.248;no
+CLI_0065;Marta Domínguez Martínez;04/05/2025;Google  Ads;NaN;29548;m.dominguez61@example.org;601072409;1.083,40;N
+CLI_0015;moreno torres ana;04-08-25;;Valencia;46802;a.moreno3@example.com;(+34) 612464304;1923;False
+CLI_0171;Manuel Gil Gil;2025-02-01;GOOGLE ADS;madrid;28541; m.gil93@example.com ;;N/A;True
+CLI0270;Elena  Díaz;27-06-25;Redes Sociales;SEVILLA;41425;e.diaz53@example.com;699985677;€ 783;no
+137;Lucía Martínez Gómez;2025-06-30;Recomendación;Sevilla;41344;l.martinez70@example.org;617422046;2534;No
+CLI_0468;Carmen García Navarro;28/06/2025;recomendación;MADRID;28633;c.garcia59@example.com;0034 658978548;413;0
+CLI0353;Carmen Navarro García;March 31, 2025;Google Ads ;Barcelona;08992;c.navarro93.example.org;0034 611077899;1167.67;N
+CLI_0722;Carmen López Romero;07/10/2025;Redes  Sociales;Valencia;46 924;nuevo.CLI_0722@example.com;600000722;1.099 €;True
+CLI_0267;díaz romero javier;May 15, 2025;Redes Sociales;Málaga;29913;j.diaz76@example.com;(+34) 681091874;2.879,77;N
+CLI_0602;Manuel Pérez Romero;22.08.2025; Google Ads;Madrid;28628;nuevo.CLI_0602@example.com;600000602;2596.96;si
+CLI_0751;José Martínez Gil;2025/10/16;Google Ads;Madrid;28833;j.martinez82@example.org;+34 675 854 646;NaN;SI
+cli-528;DOMÍNGUEZ NAVARRO, ANTONIO;13/02/2025;REDES SOCIALES;Sevilla;41802;;626443111;1.905;No
+305;ROMERO SÁNCHEZ, DAVID;2025-06-12;GOOGLE ADS;Madrid ;28391;d.romero59@example.com;606625752;sin ingresos;si
+CLI_0020;Antonio Romero López;2025/05/16;Google Ads;MÁLAGA;29032;a.romero5@example.com;+34 616 455 224;48;SI
+CLI_0378;gil domínguez marta;13/08/2025;Redes Sociales;sevilla;41053;m.gil61@example.com;698338086;3088;S
+CLI_0108;Ana  Martínez;2025-07-19;Google Ads;SEVILLA;41 235;a.martinez7@example.com;+34 625 780 109;922;S
+CLI_0447;Laura Jiménez Domínguez;05/04/2025;SEO Orgánico;MÁLAGA;29780;NaN;625295540;sin ingresos;1
+CLI_0523;Antonio Moreno Jiménez;27/02/2025;GOOGLE ADS;Barcelona;08989;a.moreno48@example.com;633486908;2895;True
+106;Pablo Martínez García;25/08/2025;SEO Orgánico;Valencia;46830;p.martinez35@example.org;647842;2.321,60;False
+CLI_0529;Elena Jiménez Gómez;2025-10-02;Google Ads;Valencia;46397;e.jimenez94@example.org;632827186;2126;si
+CLI_0100;Carmen Torres Domínguez;2025-02-11;Redes Sociales;valencia;46282;c.torres57.example.com;675741764;3.458;No
+CLI_0292;Elena Jiménez Ruiz;22/03/2025; SEO Orgánico;Barcelona;08662;e.jimenez58@example.org;693376;1.781;1
+CLI0728;Manuel Navarro García;27-01-25;Redes Sociales;Sevilla;41647;m.navarro81@example.com;664088;€ 683;False
+CLI_0320;Marta  Díaz;19/08/2025;Teléfono  /  Directo;BARCELONA;08598;M.DIAZ16@EXAMPLE.COM;659-087-718;N/A;N
+CLI_0635;Lucía García Domínguez;2025/02/24;google ads;Madrid;28236;l.garcia52@example.com;0034 660193162;2.924,18;si
+CLI_0110;José Ruiz Díaz;2025-07-31;Google Ads;;41909;j.ruiz19@example.com;669519571;2281;Sí
+CLI_0731;José García Moreno;07.08.2025;Google Ads;sevilla;41496;j.garcia89@example.org;663424978;2.578;NO
+CLI_0788;Manuel Navarro Martínez;2025-07-25;RRSS;Sevilla;41109;m.navarro40@example.org;0034 621862450;2.401;False
+cli-428;Antonio Pérez Martínez;30/08/2025;Redes Sociales;MÁLAGA;n/d;a.perez68@example.com;+34 601 781 972;3170.37;n/d
+CLI_0718;Carmen García Navarro;28/05/2025; Recomendación;Sevilla;41194;c.garcia60@example.com;+34 638 539 412;NaN;SI
+CLI_0358;José Navarro Martínez;25/09/2025;Google Ads;Málaga;ABCDE;j.navarro28@example.com;+34 667 545 905;2144.98;True
+CLI_0402;José García García;August 22, 2025; Redes Sociales;Barcelona;08696;j.garcia24@example.org;(+34) 642257527;470.21;N
+CLI_0398;José Díaz Romero;2025-02-28;SEO Organico;Málaga;29987;j.diaz59@example.org;636822030;3320;NO
+CLI_0289;MARTÍNEZ GIL, ANTONIO;2025-06-12;Redes Sociales;valencia;46924;null;636-432-227;sin ingresos;True
+CLI_0031;Javier Gil Navarro;16-05-25; SEO Orgánico;MADRID;28538;j.gil29@example.org;625199730;1967;n/d
+CLI_0714;Pedro  Pérez;2025-08-18;SEO  Orgánico;MADRID;28191;p.perez2@example.org;674505;1.647,01;Sí
+CLI_0538;Antonio García Díaz;04/02/2025;REDES SOCIALES;madrid;28903;a.garcia53@example.org;649-358-057;2900;NO
+CLI_0800;Javier Gil Gil;2025-05-13;Google Ads;Valencia;46640;-;621299827;1400;1
+CLI_0425;sánchez díaz javier;2025-05-06; Google Ads;Barcelona;08149;J.SANCHEZ43@EXAMPLE.COM;674314857;1.696;Sí
+CLI_0234;DOMÍNGUEZ MARTÍNEZ, PABLO;16-08-25;Recomendación ;Madrid;28599;p.dominguez31@example.org;695525;3092;Sí
+CLI0328;romero pérez lucía;2025-01-12;SEO Orgánico;Valencia;46728;l.romero59@example.com;N/A;475,20;SI
+CLI0597;Javier Ruiz Díaz;23.06.2025;REDES SOCIALES;Valencia;46500;j.ruiz83@example.org;647-628-722;326 €;S
+cli-366;MARTÍNEZ DOMÍNGUEZ, PABLO;2025-06-05;TELÉFONO / DIRECTO;Sevilla;41581;nuevo.cli366@example.com;600000366;2.189,38;N
+CLI0720;Pablo  Sánchez;2025-06-29;Google Ads;Barcelona;08838;p.sanchez77@example.com;643501;663,19;NaN
+CLI_0117;pérez domínguez manuel;12/01/2025;Google Ads;Barna;08385;m.perez58@example.org;637957;€ 2794;SI
+CLI_0396;Pedro Pérez Moreno;20/09/2025;Google Ads;Valencia;46670;p.perez31@example.org;663908038;sin ingresos;S
+CLI_0069;Ana Pérez Gómez;2025-01-23;Google Ads ;Barcelona;08096;a.perez90@example.com;0034 617043059;2.138,36;True
+CLI_0462;Manuel Torres Torres;2025-02-12;REDES SOCIALES;Málaga;29442;m.torres54@example.com;+34 616 474 771;3.156 €;False
+CLI_0756;Pablo López Díaz;12/05/2025;SEO Orgánico;Sevilla;41174;p.lopez81@example.org;(+34) 605030209;3.209,17;False
+CLI_0112;Marta Pérez Sánchez;23/08/2025;Teléfono / Directo;Sevilla;41894;M.PEREZ19@EXAMPLE.ORG;645256284;3.158 €;si
+146;María Sánchez Ruiz;2025-09-14;Google Ads;Sevilla;41110;M.SANCHEZ77@EXAMPLE.ORG;605456389;3.234,44;0
+CLI_0527;DOMÍNGUEZ DÍAZ, ELENA;2025-10-05;REDES SOCIALES;valencia;46801;e.dominguez87@example.org;0034 630637033;1750;Sí
+CLI_0116;Antonio Martínez Sánchez;2025/06/20;Recomendación ;Barcelona ;8313;a.martinez22@example.org;+34 636 594 256;€ 2547;True
+CLI_0144;RUIZ MARTÍNEZ, FRANCISCO;03.05.2025;Redes Sociales;BARCELONA;08133;f.ruiz47@example.org;679473832;1.212 €;Sí
+CLI_0280;PÉREZ JIMÉNEZ, MARÍA;25/01/2025;Google  Ads;málaga;ABCDE;M.PEREZ70@EXAMPLE.COM;623393976;2.666 €;1
+CLI_0607;Pedro Navarro Pérez;07/04/2025;Recomendacion;Madrid;28 588;p.navarro69@example.org;681569165;1.205,78;si
+CLI_0372;MARTÍNEZ MORENO, JOSÉ;2025-07-18;SEO ORGÁNICO;VALENCIA;46269;NULL;;3390;False
+cli-389;navarro gil marta;2025-09-25;Google Ads;Barcelona;8961;m.navarro50@example.org;null;1.306;no
+CLI_0038;GÓMEZ MORENO, JOSÉ;2025-09-06;Recomendación;Sevilla;41534;j.gomez22@example.org;648382255;n/d;
+CLI_0585;Elena Gil García;NaN;RECOMENDACIÓN;MADRID;28191;e.gil53@example.com;629046970;2784;NO
+CLI_0511;JIMÉNEZ ROMERO, PABLO;26-10-25;Redes Sociales;Barcelona;08708;p.jimenez40@example.org;639754572;1537;
+CLI_0107;martínez ruiz javier;23/08/2025;redes sociales;Barcelona;08881;j.martinez15@example.org;+34 671 356 084;3.029;True
+CLI_0493;David Domínguez Jiménez;15/08/2025;Redes Sociales;Barcelona ;08765;d.dominguez17@example.com;693-672-991;3.010,91;False
+CLI_0252;JIMÉNEZ MARTÍNEZ, LUCÍA;29/05/2025;Google Ads; Madrid;28154;l.jimenez11@example.com;681601;1020 EUR;n/d
+CLI_0550;David Martínez López;2025-07-24;Google Ads;Barcelona;08288;d.martinez12@example.org;682668770;2645 EUR;N
+cli-710;Ana Ruiz Jiménez;May 20, 2025;SEO  Orgánico;Valencia;46267;a.ruiz71@example.org;630797940;2.414 €;no
+CLI_0359;María Moreno Torres;2025-01-28;Redes Sociales;MADRID;28691;m.moreno71@example.org;0034 603389670;1087 EUR;NO
+cli-216;MARTÍNEZ JIMÉNEZ, FRANCISCO;2025-03-23;google ads;Málaga;29028;f.martinez6@example.org;+34 641 018 401;sin ingresos;NO
+CLI_0716;Francisco Navarro Martínez;-;Google Ads; Málaga;41939;f.navarro95@example.org;614-497-615;58,76;SI
+CLI_0717;Francisco Domínguez Romero;05/06/2025;Google Ads; Barcelona;8292;f.dominguez40@example.org;690885284;3481;Sí
+CLI_0290;MORENO ROMERO, CARMEN;2025-05-23;redes sociales;NaN;41 841;c.moreno83@example.org;NULL;1749.85;False
+cli-170;MARTÍNEZ GIL, LUCÍA;07/01/2025;Google Ads;Sevilla;41869;l.martinez64@example.com;(+34) 618320738;€ 2888;No
+CLI_0444;Francisco  Torres;27/05/2025;Google Ads;Barcelona;28501;f.torres83@example.org;680462850;N/A;NULL
+CLI_0054;Elena Martínez Sánchez;2025-05-21;Recomendación;Madrid;28906;E.MARTINEZ76@EXAMPLE.COM;(+34) 692075810;1837.83;True
+CLI_0549;Carmen Gómez García;04/06/2025;Redes Sociales;Valencia;46413;c.gomez82@example.com;+34 629 118 401;1991;No
+CLI_0780;David  Sánchez;2025-09-13;TELÉFONO / DIRECTO;Valencia;46971;d.sanchez60@example.org;+34 635 860 535;755;N
+753;LÓPEZ DÍAZ, JAVIER;26/01/2025;Google Ads;Barcelona ;8291;j.lopez9@example.org;646-272-671;-149;S
+CLI_0152;RUIZ DÍAZ, LAURA;26/03/2025;Google  Ads;Madrid;28387;l.ruiz24@example.com;652572563;€ 1191;False
+CLI_0231;Elena Sánchez Martínez;2025-05-19;Redes Sociales;barcelona;08307;E.SANCHEZ73@EXAMPLE.COM;609-883-562;855;0
+CLI0652;Carmen  Gil;2025-07-15;seo orgánico;SEVILLA;41243;c.gil58@example.com;664726593;1874;Sí
+CLI0709;Pablo López Sánchez;2025-05-23;Google Ads;Malaga;46891;p.lopez78@example.org;636250;sin ingresos;no
+CLI_0704;Marta López Torres;21/02/2025;Redes Sociales;Madrid;28593;m.lopez2@example.com;645430067;2.432,64;S
+CLI0725;Marta Navarro Navarro;24/08/2025; SEO Orgánico;null;46605;m.navarro51@example.org;675300222;286;si
+CLI_0189;MARTÍNEZ GIL, JAVIER;2025/03/13;Google Ads;Madrid;28420;j.martinez57@example.com;635381758;3.122,14;N
+cli-771;LÓPEZ MARTÍNEZ, ELENA;15/07/2025;Redes Sociales;Sevilla;ABCDE;e.lopez34@example.org;675646668;1624;NaN
+CLI_0274;PÉREZ GARCÍA, JAVIER;2025-10-15;Recomendación;Barcelona;8035;nuevo.CLI_0274@example.com;600000274;805 €;no
+cli-186;María Ruiz Romero;2025-05-14;Recomendación;Valencia;46277;m.ruiz91@example.org;682140896;36,39;No
+CLI_0044;SÁNCHEZ JIMÉNEZ, PEDRO;April 17, 2025;Redes Sociales;Sevilla;41807;p.sanchez61@example.org;650099517;1189;S
+CLI_0143;María Jiménez Romero;24-03-25;Google Ads;málaga;46329;M.JIMENEZ14@EXAMPLE.COM;617-879-903;2998.01;NO
+CLI_0492;RUIZ GARCÍA, ELENA;N/A;SEO ORGÁNICO;Málaga;29339;e.ruiz92@example.org;610-744-339;232;S
+CLI_0666;Marta Jiménez Jiménez;July 28, 2025;SEO Orgánico;sevilla;41297;-;688-220-065;2.192;No
+CLI0616;garcía moreno david;11/07/2025;SEO Orgánico;Valencia;46202;d.garcia48@example.org;699436138;-;
+CLI_0351;Pablo Jiménez Ruiz;June 09, 2025;Google  Ads;madrid;28902;p.jimenez13@example.org;633640;126;0
+CLI_0795;Manuel López Pérez;10/05/2025;Teléfono / Directo;valencia;46484;m.lopez36@example.com;681090063;61.18;Sí
+CLI_0151;RUIZ MARTÍNEZ, MARTA;2025-09-14;Redes Sociales;SEVILLA;41613;m.ruiz4@example.com;+34 608 318 019;3101;Sí
+CLI_0068;Francisco  Ruiz;22/04/2025;;Málaga;29097;f.ruiz74@example.com;+34 646 972 284;2160;SI
+CLI_0479;MORENO MORENO, MANUEL;19/07/2025;Teléfono / Directo;Sevilla;41723;m.moreno14@example.org;+34 681 889 437;647,40;NO
+CLI_0556;Javier Navarro Torres;2025-06-01;Google Ads;barcelona;08422;j.navarro46@example.com;685696109;sin ingresos;False
+CLI_0542;GIL MORENO, ANA;17.01.2025;Teléfono / Directo;Sevilla;41228;nuevo.CLI_0542@example.com;600000542;€ 3382;0
+cli-337;María López Díaz;16.10.2025;Redes Sociales;Valencia;46016;m.lopez47@example.org;0034 644675182;2416;1
+711;Antonio Navarro Domínguez;2025-07-23;Google Ads; Madrid;28434;a.navarro27@example.com;(+34) 606559725;3422 EUR;True
+CLI_0672;Ana Gil García;2025/07/04; Google Ads;Valencia ;NULL;a.gil18@example.com;690-350-543;2139;
+CLI_0649;GARCÍA ROMERO, LAURA;16-10-25;SEO  Orgánico;Valencia;46943;l.garcia37@example.com;686905584;1.419,93;si
+CLI_0016;Lucía Navarro Gómez;2025-08-24;Teléfono / Directo;Málaga;29522;nuevo.CLI_0016@example.com;600000016;1.662,58;null
+CLI_0555;gómez moreno david;23/10/2025;TELÉFONO / DIRECTO;Madrid;28705;d.gomez82@example.com;698-421-332;2743.03;S
+CLI_0329;LÓPEZ TORRES, MARÍA;2025-02-12;SEO Orgánico;Barcelona;8231;M.LOPEZ56@EXAMPLE.COM;660175421;735;SI
+CLI_0600;Marta Romero Domínguez;12/07/2025;Redes  Sociales;Madrid ;28788;m.romero98@example.org;650204082;110 €;0
+CLI_0132;Carmen Pérez Pérez;2025-06-16;REDES SOCIALES; Valencia;NULL;c.perez45@example.com;618695194;3407.82;S
+CLI_0656;DÍAZ LÓPEZ, LAURA;09/06/2025;Google Ads;Sevila;41468;L.DIAZ69@EXAMPLE.COM;631714156;951;no
+cli-297;PÉREZ RUIZ, PABLO;12-09-25;GOOGLE ADS;Málaga;29965;p.perez3@example.com;672-848-153;sin ingresos;
+CLI0284;LÓPEZ GÓMEZ, ANA;28.05.2025;Teléfono / Directo ;Barcelona;08823;a.lopez27@example.com;618413620;1.541,77;True
+CLI_0702;DOMÍNGUEZ TORRES, PEDRO;2025-07-04;Recomendación;Madrid;28404;p.dominguez63@example.org;666709;N/A;S
+CLI_0611;DOMÍNGUEZ TORRES, MANUEL;08/09/2025;Teléfono / Directo; Sevilla;41863;m.dominguez1@example.org;(+34) 667851044;€ 2728;False
+131;GARCÍA PÉREZ, PABLO;2025/06/19;GOOGLE ADS; Barcelona;-;p.garcia1@example.com;635622352;sin ingresos;NO
+CLI_0110;José Ruiz Díaz;2025-07-31;Google Ads;;41909;nuevo.CLI_0110@example.com;600000110;2281;Sí
+CLI_0315;Antonio  Gómez;15/03/2025;; Sevilla;41003;a.gomez31@example.org;655-061-434;3.439 €;S
+CLI_0115;Marta Ruiz Gil;2025-06-01;Recomendación; Barcelona;null;m.ruiz18@example.org;644501941;3.231,28;no
+CLI_0383;LÓPEZ DÍAZ, LUCÍA;12.10.2025; Google Ads;Valencia;46059;l.lopez10@example.com;(+34) 661511552;sin ingresos;1
+CLI0356;garcía garcía marta;25-10-25;Google Ads;Barcelona;08189;m.garcia18@example.com;699592944;1415;SI
+CLI_0420;Pedro Romero Martínez;01-06-25;GOOGLE ADS;Barcelona ;8223; p.romero75@example.com ;+34 643 759 274;359;N
+CLI_0782;pérez lópez manuel;11-07-25; Google Ads;Madrid;41567;m.perez48@example.com;637282526;2.229;True
+cli-272;Elena Pérez Moreno;2025-01-07;SEO Orgánico;Madrid;28366;e.perez97@example.org;684334504;NULL;True
+CLI_0314;Laura Moreno Domínguez;26/03/2025;Recomendación;Madrid;28205;;673134452;2.927;N
+CLI_0525;Javier López Domínguez;06-04-25;google ads;Málaga;29397;j.lopez19@example.com;+34 640 865 090;3472;S
+CLI_0285;garcía pérez marta;2025-05-13;recomendación;Madrid;28289;m.garcia44@example.org;619589409;3297;NO
+cli-130;JIMÉNEZ MARTÍNEZ, FRANCISCO;2025-07-10;SEO Orgánico;Barcelona;08550;f.jimenez33@example.com;+34 667 775 052;572;False
+730;Javier López García;2025-07-17;Google Ads;Málaga ;NULL;j.lopez12@example.org;+34 641 804 265;1.846,73;N
+CLI_0551;Pablo  Martínez;2025-08-29;seo orgánico;Sevilla ;41432;p.martinez52@example.org;615894266;2.902;no
+211;Manuel Torres Ruiz;20/03/2025;SEO Orgánico;Madrid;28278;M.TORRES54@EXAMPLE.COM;620391605;1.610;
+CLI0576;DÍAZ ROMERO, DAVID;2025-04-23;Google Ads;Málaga;29169;d.diaz10@example.com;(+34) 622847566;2898.35;True
+CLI_0524;SÁNCHEZ GARCÍA, MARÍA;2025/09/05;SEO Orgánico;MÁLAGA;29313;m.sanchez72@example.org;691827672;3244;False
+cli-387;DOMÍNGUEZ TORRES, MARTA;2025-01-21;Redes Sociales;Sevilla;41631;m.dominguez23@example.com;+34 651 078 620;1702.65;S
+CLI_0416;PÉREZ SÁNCHEZ, PABLO;23/07/2025;Redes  Sociales;SEVILLA;41773;p.perez92@example.org;n/d;1.453,47;N
+CLI_0041;sánchez garcía antonio;2025-02-19;-;Madrid ;ABCDE;a.sanchez72@example.com;+34 652 374 880;675;True
+307;Elena Romero Torres;null;-;Madrid;28310;e.romero60@example.com;0034 601514789;481.44;No
+553;Pedro Moreno López;2025-09-06;Google Ads;Barcelona ;29095;p.moreno77@example.com;621504170;931;SI
+CLI_0205;lópez torres ana;2025-05-18;SEO Orgánico ;Sevilla;41915; a.lopez78@example.com ;659214304;995;False
+cli-273;José  García;February 15, 2025;REDES SOCIALES;VALENCIA;46502;j.garcia93.example.com;670-867-937;658;1
+CLI_0009;DOMÍNGUEZ PÉREZ, FRANCISCO;02-03-25;Redes Sociales;madrid;28796;f.dominguez63@example.org;677314014;1155.70;N
+CLI_0536;David García García;16/02/2025;Teléfono / Directo;Málaga;29303;d.garcia3@example.com;+34 680 206 715;2.974;False
+CLI_0071;Antonio García Gil;27/08/2025;SEO Orgánico;Barcelona;8997;;656-044-611;1.159;No
+CLI_0506;ROMERO DÍAZ, ANTONIO;2025-05-17;RECOMENDACIÓN;Valencia;46551;a.romero50@example.org;654122;NULL;1
+CLI_0394;martínez moreno antonio;2025-06-29;Recomendación; Valencia;29920;A.MARTINEZ63@EXAMPLE.COM;0034 668991324;1144 EUR;0
+CLI_0008;Ana Torres Torres;31/02/2025;GOOGLE ADS;SEVILLA;41133;a.torres96@example.org;629196983;sin ingresos;SI
+CLI_0701;DOMÍNGUEZ PÉREZ, LUCÍA;2025-06-06;SEO Organico;Barcelona;29193;l.dominguez15@example.com;616732168;363,71;False
+CLI_0513;Javier López Romero;September 10, 2025;Redes Sociales;Valencia;46298;J.LOPEZ70@EXAMPLE.COM;NULL;328.78;N
+CLI_0352;GÓMEZ NAVARRO, MARTA;2025/01/14;TELÉFONO / DIRECTO;Barcelona;null;m.gomez61@example.com;+34 695 627 421;3.368;No
+94;Marta Moreno Romero;27/04/2025;GOOGLE ADS;Málaga;29341;m.moreno35@example.com;n/d;2249;S
+559;GÓMEZ LÓPEZ, MARTA;26/08/2025;SEO Orgánico;Sevilla;41043;m.gomez6@example.org;(+34) 614975375;728;1
+cli-374;Laura Gómez Navarro;23/04/2025;SEO Orgánico;Sevilla;41226;L.GOMEZ40@EXAMPLE.ORG;(+34) 687299939;1407;False
+cli-80;María Domínguez García;2025/07/20; Redes Sociales; Valencia;46192;M.DOMINGUEZ47@EXAMPLE.ORG;619895576;1089;1
+CLI_0432;Ana Domínguez López;10-08-25;Redes Sociales;Valencia;46717;a.dominguez95@example.org;661025861;€ 3217;
+CLI_0343;ruiz torres maría;06/07/2025;Telefono / Directo;Málaga;29488;m.ruiz92@example.com;647678120;1917.33;si
+CLI0050;Pedro Romero Gómez;22-08-25;Recomendación; Valencia;46566;p.romero56@example.com;+34 658 386 075;2.037,00;no
+CLI_0251;David  Navarro;2025-02-23;SEO Orgánico;Barcelona;08594;D.NAVARRO50@EXAMPLE.COM;650055959;878,72;SI
+CLI_0148;Laura Gil Gil;2025-03-12;Teléfono / Directo;Sevilla ;41274; l.gil86@example.org ;671644;1.677 €;NULL
+CLI_0176;Pedro Gil García;2025/05/19;SEO Orgánico;Madrid ;28681;p.gil46@example.org;642336005;2.552;1
+CLI_0058;Pedro Torres Díaz;16/02/2025;Teléfono / Directo;Sevilla ;ABCDE;p.torres73@example.org;642876369;1.515;1
+cli-433;Elena Jiménez Jiménez;05.09.2025;Google Ads;MÁLAGA;46818;e.jimenez17@example.org;629945;1342 EUR;si
+CLI_0440;DOMÍNGUEZ SÁNCHEZ, JAVIER;30/04/2025;Google Ads;Sevilla;41548;J.DOMINGUEZ95@EXAMPLE.COM;698206651;3036;SI
+CLI0709;Pablo López Sánchez;2025-05-23;Google Ads;Malaga;46891;p.lopez78@example.org;636250;sin ingresos;no
+CLI_0056;Javier Moreno Gil;2025-01-14;redes sociales;Málaga;29533;J.MORENO53@EXAMPLE.ORG;+34 647 298 805;1723;1
+CLI_0458;Carmen García Gómez;2025-07-10;Teléfono / Directo;barcelona;08123;c.garcia3@example.org;687-856-463;N/A;True
+CLI_0258;ROMERO JIMÉNEZ, LAURA;2025-02-01;Google Ads;Valencia;46358;nuevo.CLI_0258@example.com;600000258;1137;No
+cli-441;Elena Ruiz Pérez;2025-10-19;Teléfono / Directo;Barcelona;08550;e.ruiz64@example.com;610-496-690;1240;NO
+390;Carmen Gil Pérez;2025-02-15;SEO Orgánico;Sevilla;41103;c.gil18@example.com;+34 670 001 399;594;True
+CLI_0571;Elena Ruiz Díaz;-;Google Ads ;Málaga;29938;e.ruiz66@example.org;+34 605 935 317;2.669;S
+CLI_0339;Ana Ruiz Romero;02/03/2025;Google  Ads;Valencia;46535;a.ruiz23@example.com;657474927;2615;True
+cli-757;DÍAZ GÓMEZ, ELENA;2025-08-10;Recomendación;Málaga;29212;e.diaz12@example.org;639-521-105;€ 840;SI
+CLI_0572;Javier Romero Díaz;05.05.2025;Recomendación; Madrid;29521;j.romero21@example.com;0034 677089842;795;True
+CLI_0026;MARTÍNEZ RUIZ, ANA;13/07/2025;Google Ads;Sevilla;41133;a.martinez70@example.org;609409947;€ 2108;NaN
+CLI_0048;Pedro  Moreno;25/09/2025;SEO Orgánico; Sevilla;41059;p.moreno35@example.org;+34 632 599 514;€ 1737;No
+CLI_0175;Manuel  Moreno;2025-07-29;Google Ads;Sevilla;NaN;m.moreno81@example.com;606562277;661;
+cli-443;garcía torres maría;2025/02/09;REDES SOCIALES;Málaga;29 931;m.garcia89@example.org;0034 617117328;2.547 €;n/d
+CLI_0060;María García Ruiz;2025-07-24;Redes  Sociales;MÁLAGA;29161;m.garcia25@example.org;621435501;776;N
+cli-154;PÉREZ GARCÍA, ANA;30/03/2025;Google Ads;Barcelona;8275;a.perez80@example.com;(+34) 661493617;1697.36;0
+cli-510;Pedro  Gómez;12/03/2025;Recomendación;Málaga;29905;p.gomez73@example.com;690297564;442.73;S
+CLI_0641;Francisco Sánchez Moreno;July 21, 2025;Google Ads;valencia;46789;f.sanchez54@example.com;NaN;766;no
+CLI0162;Pedro Ruiz García;19/07/2025;Redes Sociales;-;8827;p.ruiz75@example.com;(+34) 630506966;sin ingresos;NO
+CLI_0245;Lucía  Gómez;08.07.2025;Google Ads;Valencia;46622;l.gomez79@example.org;697276462;433 EUR;Sí
+CLI_0659;Pablo Jiménez García;2025/01/22;recomendación;Madrid;28025;p.jimenez62.example.org;694-744-346;2.122;N
+CLI_0159;PÉREZ JIMÉNEZ, MARTA;2025-06-01;Redes Sociales;Málaga;29308;m.perez78@example.com;675501088;€ 665;N
+cli-499;Marta  Gil;2025-10-05;SEO Orgánico ;Barcelona ;8153;m.gil88@example.org;625228717;sin ingresos;False
+327;Laura Jiménez Romero;12.03.2025;redes sociales;Málaga;29150;l.jimenez41@example.com;633698941;1489;si
+CLI_0773;Ana Sánchez Ruiz;2025-01-02;;Valencia;46941;a.sanchez29@example.com;674281433;2883;No
+CLI_0667;José Romero Sánchez;2025-05-31;Redes Sociales;Valencia;46630;j.romero89@example.org;690849279;1194.49;no
+cli-488;Antonio  Romero;2025-06-09; Google Ads;Madrid;28085;a.romero19@example.org;616806805;1.681 €;0
+CLI_0401;Manuel Gómez García;2025-10-27; Redes Sociales;Málaga;29114;m.gomez75@example.com;657908;2.420;False
+CLI_0630;Laura Gil Moreno;2025-04-20;Redes Sociales ;valencia;46326;l.gil46@example.org;689120237;329;No
+180;Pablo Navarro García;2025-05-31;Gogle Ads;Barcelona;08500;p.navarro39@example.com;608297881;€ 1131;No
+CLI_0438;Ana Jiménez Ruiz;2025-10-06;Redes Sociales;Sevilla;41081; a.jimenez70@example.com ;603-283-443;1.451,21;
+CLI_0430;SÁNCHEZ JIMÉNEZ, LUCÍA;2025-08-03; Google Ads;Madrid;28857;l.sanchez98@example.com;621-317-912;1.823 €;si
+CLI_0726;David Torres Ruiz;05/02/2025;Google Ads;Sevilla;41 804;d.torres47@example.com;+34 626 665 321;2725.03;S
+CLI_0055;ruiz lópez lucía;2025-05-30;google ads;madrid;28754;l.ruiz67@example.org;692728102;473;1
+CLI_0645;Pablo  López;20-08-25;Google Ads;Sevilla;41229;p.lopez59@example.org;634-225-154;445,11;SI
+CLI_0588;SÁNCHEZ ROMERO, ELENA;January 30, 2025;GOOGLE ADS;null;28275;N/A;631432348;477;N/A
+cli-169;ROMERO RUIZ, JOSÉ;2025/04/11;Redes Sociales;Málaga;29549;j.romero27@example.com;+34 613 929 486;217;SI
+CLI0723;Laura Jiménez Sánchez;2025-09-11; Teléfono / Directo;Sevilla ;41393;l.jimenez51@example.org;(+34) 632855529;535;1
+CLI_0147;Lucía Martínez Ruiz;January 11, 2025;SEO Organico;MÁLAGA;29949;nuevo.CLI_0147@example.com;600000147;286;Sí
+CLI_0762;Laura Domínguez Jiménez;2025-06-15;SEO Orgánico;Madrid;28097;l.dominguez53@example.org;+34 693 258 414;919 EUR;S
+CLI_0686;María López Sánchez;29-08-25;Google Ads;Málaga;29816;m.lopez28@example.com;-;1.359 €;N
+CLI_0025;Elena Sánchez Gómez;2025-08-23;Teléfono / Directo ; Valencia;46327;e.sanchez27@example.com;629343933;3467 EUR;no
+CLI_0299;María Ruiz Moreno;27-03-25;Telefono / Directo;Sevilla;41692;m.ruiz83@example.com;696729254;3.275,75;si
+CLI_0692;Carmen Díaz Gil;2025-08-27;Telefono / Directo;Barcelona;08898;C.DIAZ20@EXAMPLE.ORG;608561984;1399;no
+CLI_0662;Elena  Jiménez;2025-08-09;Redes Sociales ; Madrid;28824;e.jimenez89@example.org;662-094-823;3338;SI
+CLI_0019;David Jiménez Gil;09.09.2025;SEO Orgánico;Valencia;46025;d.jimenez45@example.com;683304477;1562 EUR;True
+CLI_0681;TORRES RUIZ, DAVID;06/08/2025;Redes Sociales ;Sevilla;41803;d.torres32@example.com;653726296;1421;SI
+CLI_0313;domínguez gómez david;2025-02-05;SEO Organico;Sevilla;41739;d.dominguez21@example.org;(+34) 671100079;2361;si
+CLI_0255;Carmen Torres Moreno;18/07/2025;Google Ads; Sevilla;41703;C.TORRES79@EXAMPLE.COM;696951;3.137;1
+CLI_0226;Javier Moreno López;02/04/2025;Google Ads;Sevilla;41004;j.moreno89@example.org;(+34) 642436704;2306;False
+CLI0088;DOMÍNGUEZ MORENO, PEDRO;04/04/2025;Google Ads;sevilla;41529;p.dominguez20@example.org;637726425;2.509 €;N
+CLI_0460;Francisco Sánchez Moreno;2025-02-01;Recomendación;Málaga;29075;f.sanchez56@example.org;606-058-078;173;N
+570;Pedro Gómez Díaz;21/06/2025;GOOGLE ADS;Valencia;46411;p.gomez55@example.com;665590098;€ 48;N
+621;María Martínez Díaz;11/05/2025;SEO Orgánico;Málaga;29857;m.martinez18@example.com;671591937;1727;si
+CLI_0223;María Gómez Navarro;31/07/2025;Recomendación;Málaga;29620;m.gomez48@example.org;691-043-218;280;S
+CLI_0558;garcía martínez maría;2025-09-20;Redes Sociales;Sevilla;41230; m.garcia26@example.org ;0034 613704410;1.603 €;False
+CLI_0688;Laura Domínguez Gil;2025-06-28;Redes Sociales ;Sevilla;41643;l.dominguez48@example.org;+34 621 238 613;2683.28;0
+cli-219;PÉREZ LÓPEZ, PEDRO;2025/05/15;Google Ads;Sevilla;41465;p.perez37@example.com;675240;1.495;no
+CLI0689;gómez sánchez laura;14/05/2025;teléfono / directo;Sevilla ;41805;nuevo.CLI0689@example.com;600000689;3.317,12;-
+CLI_0429;David Díaz Domínguez;January 08, 2025;Recomendación;Sevilla ;41401;d.diaz24@example.org;-;sin ingresos;NULL
+CLI_0480;ruiz gil josé;02-02-25;Redes Sociales;Málaga;29779;j.ruiz75@example.org;601174204;2522;si
+431;David Navarro Gil;26-01-25;google ads;málaga;29219;D.NAVARRO31@EXAMPLE.ORG;+34 691 915 364;sin ingresos;N/A
+CLI_0522;GARCÍA SÁNCHEZ, CARMEN;13-02-25;Redes Sociales;Madrid ;28613;c.garcia8@example.com;-;€ 601;si
+ClienteId;NombreCompleto;FechaEntrada;CanalCaptacion;DepartamentoOficina;CodigoPostal;Email;Telefono;IngresosMensuales;TieneAval
+CLI_0194;TORRES DÍAZ, JOSÉ;19/04/2025;Google Ads ;Barcelona;08690;null;687894781;€ 1817;NO
+CLI0225;PÉREZ SÁNCHEZ, FRANCISCO;05/08/2025;SEO ORGÁNICO;Málaga;29738;f.perez66@example.org;648-507-921;873.33;1
+CLI_0287;GIL SÁNCHEZ, JAVIER;18-02-25;SEO Orgánico;Malaga;29094;j.gil3@example.org;(+34) 684861702;1.239;No
+CLI_0067;Javier Díaz López;2025-09-29;Telefono / Directo;Málaga ;null;j.diaz56@example.com;618806634;-341;si
+CLI_0785;José Pérez Navarro;2025-05-24;SEO Orgánico; Valencia;46742;j.perez7@example.org;;2.835;N/A
+cli-72;José Ruiz Sánchez;N/A;Google Ads;Madrid;28776;j.ruiz89@example.org;605758500;222 €;SI
+CLI_0413;GARCÍA DOMÍNGUEZ, DAVID;NULL;Redes Sociales;Barcelona;8782;d.garcia17@example.org;+34 673 590 305;3217;1
+83;Lucía García Domínguez;18/02/2025;Recomendación;barcelona;08954;l.garcia84@example.com;NaN;709.37;si
+CLI_0764;NAVARRO DOMÍNGUEZ, PABLO;08/10/2025;Recomendación ;Málaga;29885;p.navarro75@example.org;609712238;1.392;0
+CLI0639;Ana Torres Pérez;2025-08-26;Recomendación;Madrid;28655;a.torres24@example.org;+34 661 650 232;1940;no
+CLI_0694;José  Martínez;2025/10/11;SEO  Orgánico;N/A;28907;j.martinez51@example.org;605757410;139 €;No
+CLI_0016;Lucía Navarro Gómez;2025-08-24;Teléfono / Directo;Málaga;29522;l.navarro72@example.com;+34 647 303 456;1.662,58;null
+CLI_0770;GARCÍA MARTÍNEZ, MARÍA;2025-04-23;RRSS;málaga;29978;m.garcia58@example.com;NaN;3.142;1
+cli-752;Francisco García Díaz;14/02/2025;Redes Sociales;Malaga;29446;f.garcia60@example.org;635810698;sin ingresos;no
+CLI_0629;Laura Gómez Díaz;2025/06/01;SEO Orgánico ;MADRID;NULL;l.gomez23@example.com;641362476;148,90;Sí
+CLI_0457;José Jiménez Navarro;2025-02-14;SEO Orgánico;Madrid;28681;null;608-601-464;1.253 €;N/A
+CLI_0407;Carmen Torres García;2025-05-11;SEO Orgánico;Barcelona;8495;c.torres6@example.com;687753295;n/d;N
+CLI_0256;Carmen Pérez Gil;13-02-25;SEO Orgánico ;Málaga;29130;c.perez98@example.org;644394469;814.56;NaN
+cli-446;Laura Jiménez Torres;2025-07-18;Google Ads;Málaga;46555;l.jimenez8@example.com;601287264;2.071;Sí
+CLI_0136;TORRES RUIZ, ANA;2025-04-02;NaN;Málaga;29317;a.torres72@example.com;678-295-676;€ 2331;1
+CLI_0674;José Domínguez Romero;29/01/2025; Redes Sociales;Madrid;28719;j.dominguez22@example.com;693391798;388;NULL
+417;MARTÍNEZ TORRES, MARÍA;18.10.2025;Google Ads; Barcelona;08426;m.martinez97@example.com;;1511;0
+CLI_0030;Javier García López;2025-05-14;GOOGLE ADS;Sevilla;41136;j.garcia65.example.org;667987484;212;1
+CLI_0182;Francisco Ruiz Romero;February 15, 2025;Teléfono / Directo;VALENCIA;46837;f.ruiz84@example.org;0034 611198873;1.042,56;-
+CLI_0228;Elena  Sánchez;2025-06-23;-;Madrid;28302;E.SANCHEZ30@EXAMPLE.COM;649213191;3473.34;False
+405;Carmen Gómez Martínez;2025-05-30;Google Ads;Valencia;46667;c.gomez19@example.org;608656;2702 EUR;False
+CLI_0365;Javier Sánchez Moreno;04/02/2025;Google  Ads;Barcelona;08754;j.sanchez66.example.com;609329758;3.496,71;no
+CLI_0783;Javier García Martínez;06-02-25;Redes Sociales;BARCELONA;28555;J.GARCIA52@EXAMPLE.ORG;+34 609 530 600;2494;no
+CLI_0105;TORRES MARTÍNEZ, LAURA;2025-08-28;Recomendación;Barcelona;8949;l.torres43@example.com;608086032;1.634;SI
+cli-322;Elena López Martínez;2025-02-02;google ads; Sevilla;41745;e.lopez26@example.org;+34 609 983 558;2.273 €;True
+CLI_0269;Elena Díaz Sánchez;2025-07-03;Google Ads;Madrid;28737;e.diaz54@example.com;699552872;€ 721;SI
+CLI_0466;Laura Moreno Gómez;2025-10-17;teléfono / directo;sevilla;41213;l.moreno35@example.com;+34 687 595 257;3.479 €;N
+CLI0593;TORRES GARCÍA, LAURA;2025-03-13;Google Ads;málaga;29409;l.torres67@example.com;658679256;3143.21;1
+CLI0393;Lucía Moreno Domínguez;N/A;Teléfono / Directo;Sevilla;41981;n/d;667-255-107;2.295 €;si
+CLI_0534;GIL GÓMEZ, JOSÉ;2025-03-27;Recomendacion;Málaga;29198;j.gil53@example.org;+34 611 389 899;2.289 €;NO
+CLI0707;Manuel Martínez Romero;2025-01-03;SEO Orgánico; Málaga;29625;m.martinez25@example.org;0034 610765100;83 €;False
+242;GARCÍA NAVARRO, FRANCISCO;25.06.2025;seo orgánico;Málaga;46270;f.garcia57@example.org;607607745;sin ingresos;NO
+431;David Navarro Gil;26-01-25;google ads;málaga;29219;D.NAVARRO31@EXAMPLE.ORG;+34 691 915 364;sin ingresos;N/A
+CLI_0566;LÓPEZ ROMERO, FRANCISCO;13/03/2025;RRSS;Sevilla;28036;f.lopez69@example.com;0034 667975488;333.40;True
+CLI_0594;María Gómez Martínez;2025-10-21;Google Ads;Valencia ;n/d;m.gomez1.example.org;679578276;752;S
+cli-204;Javier Moreno Moreno;29.07.2025;Google Ads;Málaga;29760;j.moreno16@example.com;649-837-083;205;N
+CLI_0453;domínguez díaz david;30/05/2025;Google Ads;Sevilla;41960;d.dominguez17@example.com;662174812;2089;1
+CLI_0746;DOMÍNGUEZ LÓPEZ, MARTA;April 20, 2025;REDES SOCIALES;Barcelona;08017;m.dominguez35@example.org;0034 670789326;2946.26;Sí
+CLI_0084;JIMÉNEZ GARCÍA, PABLO;07/09/2025;Redes Sociales;Sevilla;41497;P.JIMENEZ85@EXAMPLE.ORG;0034 671064680;1805;True
+cli-119;RUIZ SÁNCHEZ, DAVID;15/03/2025;Google  Ads;madrid;28019;d.ruiz21@example.org;623316027;2473 EUR;1
+CLI_0097;Ana García García;2025-03-13;Google Ads;Barcelona;8952;a.garcia73@example.org;+34 640 170 533;322,90;SI
+CLI0531;Antonio García Gómez;2025-06-29;SEO ORGÁNICO;Barcelona;08540;A.GARCIA49@EXAMPLE.COM;;;False
+CLI_0167;Ana López Gil;April 07, 2025;Recomendacion;Valencia;ABCDE;a.lopez27@example.com;+34 625 926 181;255;Sí
+CLI_0540;David  Pérez;32-01-25;Redes Sociales;Barcelona;8406;d.perez91@example.com;NaN;2438;-
+CLI_0190;Ana Romero Torres;2025-04-01; SEO Orgánico;Valencia;46776;a.romero34.example.org;(+34) 680976504;1926 EUR;Sí
+CLI_0759;Laura  Domínguez;2025-02-08;SEO Orgánico;Málaga;29027;l.dominguez11@example.com;654766733;sin ingresos;si
+CLI_0696;Carmen Torres Moreno;18/03/2025;SEO Orgánico;Barna;08879;c.torres37@example.com;+34 619 328 367;-564;1
+CLI_0093;Carmen Torres Díaz;2025-09-10;Google Ads;Barcelona;8286;c.torres9@example.com;697839246;14;True
+CLI_0367;María  Torres;21/05/2025;TELÉFONO / DIRECTO;Sevilla;41627;m.torres18@example.org;683391898;1781;Sí
+316;martínez pérez manuel;2025-07-17;Google Ads ;Barcelona;41926;m.martinez70@example.org;0034 661536622;980 €;True
+CLI_0262;Laura Jiménez Romero;21.02.2025;SEO Orgánico;Valencia;46826;l.jimenez53@example.com;+34 648 730 784;sin ingresos;NO
+CLI_0362;ROMERO LÓPEZ, LUCÍA;25/09/2025;SEO Orgánico ;Barcelona;08442;;N/A;n/d;1
+139;Elena  López;15/04/2025;teléfono / directo; Barcelona;29434;e.lopez8@example.org;682849702;1.390,82;True
+CLI_0741;martínez jiménez francisco;2025-09-03;Teléfono / Directo;Barcelona;ABCDE;f.martinez98@example.org;+34 601 157 240;NaN;NO
+CLI_0277;Marta García Romero;00/00/0000;redes sociales;VALENCIA;28739;m.garcia2@example.com;625197459;3.170 €;N
+CLI_0385;Pablo  Navarro;2025-01-10;GOOGLE ADS;Barcelona;8708;p.navarro68@example.com;+34 625 785 650;376,87;
+57;martínez garcía ana;13-06-25;SEO Orgánico;Madrid;08753;A.MARTINEZ5@EXAMPLE.COM;664045527;sin ingresos;No
+668;NAVARRO DÍAZ, PEDRO;16/09/2025;NaN;Madrid ;28526;p.navarro25@example.org;674467120;3485;-
+CLI_0533;Laura Ruiz Moreno;2025-02-16;Redes Sociales;Barcelona;08502;l.ruiz66@example.com;623-907-194;2801;1
+CLI_0411;Ana  Gómez;2025-02-22;SEO Orgánico;Valencia;46383;A.GOMEZ62@EXAMPLE.ORG;665772580;2.006 €;True
+CLI0089;moreno navarro maría;2025-08-19;Google Ads;Sevilla;41971;m.moreno49@example.org;(+34) 665967192;1.901 €;False
+670;Marta Navarro Pérez;2025-02-09;n/d;Sevila;41739;m.navarro71@example.org;695-499-384;2.083;S
+CLI_0574;Laura  Díaz;2025-01-15;NaN; Barcelona;08607;l.diaz80@example.org;617300583;1.632,54;No
+281;Pablo Díaz Martínez;24/03/2025; Google Ads;Málaga;29348;p.diaz79@example.org;646655;€ 3372;no
+CLI_0371;MARTÍNEZ TORRES, CARMEN;2025-04-11;Redes Sociales;València;46182;c.martinez34@example.org;657126;1282 EUR;1
+CLI_0140;Carmen  Romero;12/05/2025;Google Ads;Barcelona;08556;c.romero15@example.org;-;3.285,14;no
+CLI_0361;díaz navarro maría;11/09/2025;Google Ads;BARCELONA;08552;m.diaz51@example.com;;3.021 €;0
+CLI_0461;jiménez torres elena;2025-08-05;google ads;MADRID;28256;e.jimenez64@example.com;678637675;2017;N
+526;JIMÉNEZ LÓPEZ, CARMEN;2025/04/04;Teléfono / Directo;Sevilla ;41388;c.jimenez82@example.org;647522489;1051;si
+CLI_0288;GARCÍA NAVARRO, PABLO;21-06-25;SEO Orgánico;-;29659;p.garcia14@example.org;678553;1111;S
+CLI_0735;Elena Gil Romero;March 04, 2025;GOOGLE ADS;MÁLAGA;29420;e.gil6@example.com;695596509;500;si
+CLI_0700;MARTÍNEZ MORENO, JAVIER;29/01/2025;SEO Orgánico;Málaga;29370;j.martinez20@example.com;694091969;1893;True
+CLI_0203;DOMÍNGUEZ DÍAZ, MARTA;2025/05/29;Google Ads ;Barcelona;08646;m.dominguez25@example.org;666635;3.177,81;SI
+CLI_0403;pérez martínez antonio;07/04/2025;Teléfono / Directo; Málaga;29429;n/d;651130758;2040 EUR;N
+341;Lucía Pérez Martínez;10/07/2025;Redes Sociales; Málaga;29243;l.perez96@example.org;637650664;585,94;True
+CLI_0575;GIL DOMÍNGUEZ, MARTA;03/01/2025;Recomendación;Málaga;NaN;m.gil95@example.com;685779775;2455;True
+cli-366;MARTÍNEZ DOMÍNGUEZ, PABLO;2025-06-05;TELÉFONO / DIRECTO;Sevilla;41581;p.martinez66@example.com;670-617-942;2.189,38;N
+CLI_0024;Javier Díaz Moreno;06.10.2025;SEO Orgánico;Valencia;46488; j.diaz13@example.org ;NaN;1866;NO
+CLI_0346;Marta Sánchez Gil;18-03-25;Google Ads ;Barcelona;08330;m.sanchez44@example.org;+34 659 441 731;756;N
+cli-165;Carmen López García;06/05/2025; Recomendación;Málaga;29612;c.lopez42@example.com;634039949;2611;N
+CLI_0491;Manuel López Díaz;07/10/2025;Redes Sociales;Madrid;28256;m.lopez65@example.org;+34 604 221 516;€ 2198;n/d
+CLI_0530;Manuel Gómez Romero;October 04, 2025;Google Ads; Madrid;28989;m.gomez12@example.org;608986;3.365 €;si
+cli-789;torres martínez manuel;13-06-25;GOOGLE ADS;Málaga;29223;m.torres19@example.com;606313448;2489;NO
+CLI_0335;GÓMEZ LÓPEZ, MARÍA;19-05-25;Recomendación;Valencia;46178;m.gomez40@example.org;675807;1.988;NO
+CLI_0311;LÓPEZ GÓMEZ, MARÍA;19.07.2025;Google Ads;Valencia;46100;m.lopez15@example.com;654-778-146;108;False
+CLI0763;TORRES TORRES, PEDRO;12/10/2025;Teléfono / Directo;Madrid;08263;p.torres98@example.com;+34 683 176 721;1.262;True
+CLI_0129;José Martínez Gil;2025-06-22;Redes Sociales;Barcelona;08320;j.martinez58@example.com;677820957;1061;S
+CLI_0354;Elena  Navarro;2025/05/11;Google Ads;málaga;NaN;e.navarro76@example.com;633261769;2.078;Sí
+CLI_0765;María Gómez Domínguez;2025-04-19;SEO Orgánico;barcelona;08596;m.gomez64@example.com;0034 639631546;1222;n/d
+CLI_0241;Francisco Pérez Jiménez;2025-02-12;google ads;Valencia;46632;f.perez83@example.com;0034 627750964;1756;No
+cli-319;Francisco Navarro García;2025-10-09;Google Ads;VALENCIA;46787;f.navarro39@example.com;644028810;3296;S
+CLI_0624;torres gómez josé;06.05.2025;REDES SOCIALES;VALENCIA;46503;j.torres81@example.org;+34 615 965 816;sin ingresos;SI
+CLI_0263;DOMÍNGUEZ SÁNCHEZ, MARÍA;2025-03-31; Google Ads;SEVILLA;41770;N/A;636564717;2790;SI
+CLI_0099;David  Torres;2025-07-11;Google Ads;sevilla;41573;d.torres79@example.org;+34 621 759 294;2.536 €;si
+CLI_0628;Marta García Sánchez;32-01-25;Google Ads;málaga;29035;m.garcia45@example.com;613933;2.794;si
+CLI_0758;Carmen  Pérez;2025/04/25;Redes Sociales;Valencia;46846;c.perez74@example.org;615293349;178 €;True
+CLI_0733;Pablo Navarro López;2025-10-04;Redes Sociales;Málaga;29047;p.navarro94@example.org;+34 620 401 274;€ 82;1
+CLI_0090;Antonio Gómez Torres;07/09/2025;SEO Orgánico;Madrid;28812;A.GOMEZ48@EXAMPLE.COM;604016727;NaN;SI
+CLI0516;Laura  Ruiz;2025-02-01; SEO Orgánico;Madrid;28313;-;606807;597;0
+CLI_0332;Carmen Torres Pérez;2025-04-22;redes sociales;valencia;46101;c.torres14@example.com;;2792 EUR;Sí
+CLI_0578;RUIZ ROMERO, ELENA;2025-06-07;Teléfono / Directo;Valencia;46571;e.ruiz74@example.com;674039253;1316.68;no
+CLI_0434;Lucía Gómez Gil;09/02/2025;SEO Orgánico;VALENCIA;46403;l.gomez93@example.com;636756;3.194;n/d
+CLI_0776;GARCÍA GÓMEZ, LUCÍA;2025-10-13;Google Ads;MADRID;28044;l.garcia90@example.com;647627637;-425;no
+cli-615;Pablo Martínez Moreno;2025-07-25;Google Ads;-;08935;P.MARTINEZ15@EXAMPLE.ORG;(+34) 645522755;3.230;NO
+cli-487;RUIZ DOMÍNGUEZ, PABLO;2025-04-11;Redes Sociales;málaga;29017;p.ruiz41@example.com;+34 660 601 230;2.210;No
+CLI0632;LÓPEZ GÓMEZ, PABLO;April 09, 2025;SEO Orgánico ;SEVILLA;41675;p.lopez76@example.org;+34 684 590 296;2803;1
+CLI_0634;NAVARRO GARCÍA, FRANCISCO;24-04-25;google ads;barcelona;08976;f.navarro7@example.org;0034 662117685;743;Sí
+cli-261;Carmen Navarro Martínez;27/08/2025;Recomendación; Valencia;46462;c.navarro76@example.org;-;€ 3455;1
+CLI_0306;David Gil Torres;12/02/2025;SEO  Orgánico;Sevilla;41151;d.gil62@example.org;615767244;1.050;False
+CLI0197;romero gil elena;13-04-25;SEO Orgánico;BARCELONA;8470;e.romero10@example.com;+34 640 688 565;2570.52;N
+141;Laura Pérez Martínez;2025-10-22;Google Ads;Valencia ;46 175;n/d;NULL;136;no
+CLI0123;Francisco Sánchez Ruiz;2025-07-16;SEO Orgánico ;Barcelona;8530;f.sanchez84@example.org;N/A;3346;No
+CLI_0495;GIL ROMERO, LAURA;28/03/2025;Google Ads ;Málaga;29628;L.GIL66@EXAMPLE.ORG;668969526;1187.26;null
+CLI_0111;María  Gil;2025-03-25;SEO Orgánico;Valencia;46095;NULL;+34 648 302 206;;si
+CLI_0085;SÁNCHEZ RUIZ, MARTA;July 08, 2025;Google Ads;MÁLAGA;29402;m.sanchez61@example.org;602843261;3.235 €;False
+CLI_0796;Ana Díaz Díaz;2025-03-30;SEO  Orgánico;Sevilla;41459;a.diaz24@example.com;655249192;194;S
+cli-514;José Ruiz Jiménez;02/09/2025;Google Ads; Málaga;29291;NaN;+34 612 395 291;2.703,99;Sí
+CLI0483;Pablo Sánchez Gil;17/03/2025;redes sociales;MADRID;;P.SANCHEZ28@EXAMPLE.ORG;636656792;2695;NO
+CLI_0580;Lucía Ruiz Sánchez;2025/01/31; Redes Sociales;barcelona;08345;l.ruiz10@example.com;N/A;1.162,70;S
+cli-75;Carmen Moreno Moreno;25/07/2025;SEO Orgánico;Valencia;46928;c.moreno10@example.org;693989765;333;N
+CLI_0085;SÁNCHEZ RUIZ, MARTA;July 08, 2025;Google Ads;MÁLAGA;29402;m.sanchez61@example.org;602843261;3.235 €;False
+CLI0620;SÁNCHEZ NAVARRO, PABLO;2025-02-11;Recomendación;Barcelona;08288;p.sanchez59@example.com;(+34) 680478375;€ 2247;Sí
+CLI_0274;PÉREZ GARCÍA, JAVIER;2025-10-15;Recomendación;Barcelona;8035;j.perez47@example.org;608469360;805 €;no
+CLI_0397;Francisco Gómez López;2025-01-14;Google Ads;valencia;46375;f.gomez34@example.com;+34 679 711 053;€ 2892;NO
+155;DOMÍNGUEZ ROMERO, LAURA;2025-05-11;Recomendación;Valencia;-;l.dominguez52@example.com;0034 630256995;797.34;0
+CLI_0192;SÁNCHEZ ROMERO, LAURA;09/07/2025;SEO Orgánico;Barcelona;28036;l.sanchez85@example.org;636500;2635;si
+CLI_0777;TORRES GARCÍA, MARTA;08/05/2025;SEO Organico;Barcelona;08389;m.torres52@example.com;669-353-033;null;False
+CLI0188;Manuel  Gil;2025-04-25;Google Ads;Madrid;28992; m.gil78@example.org ;677745025;2.300 €;1
+CLI_0051;Manuel Martínez López;2025/08/16;Google Ads;Málaga;29948;m.martinez58@example.org;NaN;580 €;1
+CLI_0039;LÓPEZ LÓPEZ, ELENA;25/03/2025;Redes Sociales ;Sevilla;41631;e.lopez20@example.org;609-710-068;1128.62;Sí
+CLI0419;romero gil josé;2025-03-30;SEO Orgánico;Málaga;29904;j.romero83@example.org;+34 676 588 759;809.93;no
+CLI_0743;GIL SÁNCHEZ, JOSÉ;10/07/2025;Redes Sociales;Sevilla;41054;j.gil78@example.org;684929166;€ 1761;True
+CLI_0209;Marta Jiménez López;2025-03-21;SEO Orgánico;Valencia;46229;m.jimenez47@example.com;null;1195;Sí
+376;PÉREZ LÓPEZ, MANUEL;29/01/2025;SEO Orgánico;MADRID;;m.perez58@example.org;N/A;2961;no
+cli-464;MARTÍNEZ NAVARRO, MARTA;NaN;Recomendación;málaga;29230;m.martinez10.example.com;0034 633060252;513;Sí
+CLI_0471;David Gómez Gil;10/08/2025;Recomendación;;28441;d.gomez28@example.com;674944;sin ingresos;
+cli-518;Antonio Pérez Sánchez;20-01-25;google ads;Barcelona;08767;A.PEREZ69@EXAMPLE.COM;648330246;2.098;False
+CLI_0076;María Torres Pérez;2025-05-23;Teléfono  /  Directo;Barcelona;08295;m.torres82@example.com;607-261-178;392,43;N
+CLI_0249;Elena Navarro Domínguez;2025-08-25;Teléfono / Directo;Valencia;46043;e.navarro36@example.org;698-078-817;1.108,99;False
+CLI_0560;José Martínez Sánchez;2025-09-13;Google Ads; Madrid;28393;j.martinez15@example.com;679195733;767;No
+CLI_0303;Pablo  Ruiz;2025-01-03;SEO Orgánico; Málaga;29044;p.ruiz64@example.com;688-204-350;991;True
+CLI_0627;PÉREZ PÉREZ, FRANCISCO;sin fecha;Google Ads;Valencia;ABCDE;f.perez22@example.com;null;1.752,65;0
+CLI_0243;ROMERO MARTÍNEZ, JOSÉ;2025-01-29;SEO Orgánico;Barcelona;08995;j.romero34@example.org;600452393;1179;SI
+CLI0012;GÓMEZ NAVARRO, FRANCISCO;sin fecha;Google Ads;Málaga;29308;f.gomez70@example.com;691199146;3.170,27;NaN
+CLI_0486;díaz domínguez laura;2025-03-11; Recomendación;Sevilla;41119;l.diaz21@example.com;n/d;1.372;S
+cli-463;Elena Gil Pérez;2025-08-13;Google Ads;Barcelona;08319;e.gil92@example.org;667529182;;True
+CLI0342;María López Pérez;2025-03-29;SEO Orgánico;Madrid;28498;m.lopez9@example.com;+34 677 267 585;3418;N
+CLI_0282;TORRES NAVARRO, DAVID;26/05/2025;RECOMENDACIÓN;Málaga;29224;d.torres49@example.org;630004549;389,85;0
+CLI_0254;TORRES SÁNCHEZ, ELENA;2025-04-09;Google Ads;Málaga;29181;e.torres83@example.org;627717221;2691.62;0
+CLI_0448;Ana Díaz Moreno;2025-10-14;Google Ads;BARCELONA;8151;nuevo.CLI_0448@example.com;600000448;sin ingresos;False
+CLI_0372;MARTÍNEZ MORENO, JOSÉ;2025-07-18;SEO ORGÁNICO;VALENCIA;46269;NULL;;3390;False
+775;Antonio Gil Navarro;2025-09-11;Google Ads;Sevilla ;41655;a.gil35@example.com;683864335;287 €;NO
+CLI_0220;JIMÉNEZ GIL, ANA;28/09/2025; Redes Sociales;Sevilla;41433;a.jimenez94@example.org;649769173;null;si
+CLI_0426;María  Torres;2025-03-01;Teléfono / Directo;Málaga;28868;m.torres28@example.org;699113571;2080;N
+CLI_0370;María López Moreno;20.08.2025;Google Ads;Málaga;29339; m.lopez16@example.org ;0034 660272092;2706;True
+CLI_0708;PÉREZ GÓMEZ, LUCÍA;2025-06-21;Redes Sociales;Barcelona;8935;l.perez42@example.com;669-762-449;2154;1
+70;SÁNCHEZ RUIZ, ANA;21-05-25;google ads;SEVILLA;41465;a.sanchez45@example.org;691918391;594 EUR;-
+CLI_0581;Marta  Díaz;28.01.2025;Redes Sociales;Málaga ;29792;m.diaz59@example.com;+34 623 501 960;2.269 €;N
+CLI_0022;José Ruiz López;22/04/2025;Redes Sociales; Valencia;46945;j.ruiz83@example.com;642401207;NULL;True
+CLI_0078;David Pérez López;2025-03-10;Google Ads;Valencia;46173;d.perez83@example.com;641973;2.869;null
+CLI_0548;MORENO JIMÉNEZ, MANUEL;2025-06-27;Redes Sociales;Valencia;08478;m.moreno38@example.com;694413091;2.381 €;False
+559;GÓMEZ LÓPEZ, MARTA;26/08/2025;SEO Orgánico;Sevilla;41043;nuevo.559@example.com;600000559;728;1
+CLI_0009;DOMÍNGUEZ PÉREZ, FRANCISCO;02-03-25;Redes Sociales;madrid;28796;f.dominguez63@example.org;677314014;1155.70;N
+CLI_0126;Lucía Domínguez Navarro;2025-06-19;null;Malaga;29906;L.DOMINGUEZ77@EXAMPLE.ORG;646498708;sin ingresos;S
+CLI0229;Elena Pérez Domínguez;2025-06-14; SEO Orgánico;Barcelona;8294;e.perez16@example.org;662-089-005;274;True
+CLI_0043;GIL GARCÍA, MARTA;30.07.2025;Redes Sociales;Malaga;29836;m.gil53@example.org;N/A;571,22;False
+CLI_0517;Francisco  Martínez;2025-09-22;REDES SOCIALES;VALENCIA;46614;f.martinez18@example.com;651490712;1497.82;NO
+573;Laura  Díaz;26/03/2025;Redes Sociales ;Barcelona;8295;n/d;640228881;913 EUR;NaN
+CLI_0577;garcía navarro antonio;October 05, 2025;SEO Orgánico ;MÁLAGA;29376;a.garcia30@example.com;691310953;2.638;S
+CLI_0677;Antonio Moreno Pérez;24/06/2025;REDES SOCIALES;Barcelona;08427;NaN;657752559;729;Sí
+CLI_0375;Pablo Gil Domínguez;2025-09-23;Redes Sociales;Sevilla;ABCDE;p.gil29@example.org;607840010;1.339;S
+CLI_0206;Francisco Gómez Torres;2025-03-21;Redes Sociales; Málaga;29225;f.gomez39@example.com;627415087;€ 2828;No
+CLI_0566;LÓPEZ ROMERO, FRANCISCO;13/03/2025;RRSS;Sevilla;28036;f.lopez69@example.com;0034 667975488;333.40;True
+CLI_0007;Ana García Gómez;26/01/2025;SEO Orgánico;Barcelona;8779;a.garcia74@example.org;687822554;2.485,06;Sí
+CLI0494;María  Sánchez;2025-06-30;Google Ads;Sevilla;41387;M.SANCHEZ76@EXAMPLE.ORG;+34 673 676 464;594;1
+CLI0798;José  Jiménez;18-05-25;Google Ads;valencia;46932;NaN;0034 616771236;1409.98;si
+cli-625;ROMERO ROMERO, JAVIER;01/07/2025;redes sociales;MADRID;28399;j.romero69@example.com;0034 655933763;NaN;0
+CLI_0260;NAVARRO GIL, PABLO;2025-06-26;SEO  Orgánico;Madrid;28195;P.NAVARRO65@EXAMPLE.ORG;689687921;2307;SI
+CLI_0283;Lucía Martínez Martínez;2025-07-21; Recomendación;Málaga;29026;l.martinez57@example.com;604377422;null;S
+CLI_0591;María  Pérez;2025-08-29;Recomendación ; Madrid;28522;M.PEREZ6@EXAMPLE.ORG;0034 607558009;556;False
+CLI_0749;María Díaz Gómez;2025-04-04;Google Ads;Barcelona;08550;m.diaz92@example.org;(+34) 611365926;2804;SI
+CLI_0302;GIL TORRES, CARMEN;05.09.2025;Google Ads;BARCELONA;08797;c.gil36@example.org;662991;1.316,95;NO
+CLI_0456;ROMERO MARTÍNEZ, LUCÍA;16/06/2025; Teléfono / Directo;Sevilla;ABCDE;l.romero84@example.org;654227883;89 €;No
+321;SÁNCHEZ MARTÍNEZ, ANA;07-04-25;SEO Orgánico;Sevilla;41247;a.sanchez3@example.com;0034 623794431;2247;1
+CLI_0435;José Gómez Domínguez;11-05-25;Google Ads;Valencia;46259;j.gomez27@example.org;(+34) 618231493;632 €;1
+300;Javier  Jiménez;2025-01-07;Google Ads;Barcelona;08370; j.jimenez37@example.com ;+34 644 812 904;30;no
+437;Javier Sánchez Jiménez;2025-06-20;Google Ads;Sevilla ;41995;j.sanchez71@example.org;+34 681 923 426;1.595,00;0
+CLI_0787;Manuel  Jiménez;2025-01-10;Google Ads;Málaga;ABCDE;m.jimenez9@example.com;633712992;17;SI
+439;Marta Gómez Navarro;25-01-25; Google Ads;MADRID;28520;m.gomez95@example.com;686943808;677.21;1
+CLI_0326;David Gómez Torres;March 11, 2025;Redes Sociales;Málaga;29005;d.gomez5@example.org;+34 698 825 353;1.373,34;False
+CLI_0404;Francisco Jiménez Martínez;2025-10-19;SEO ORGÁNICO;Valencia;46999; f.jimenez50@example.com ;670-044-655;3.409;
+cli-266;Ana López Moreno;2025-06-24;Recomendación;madrid;28081;A.LOPEZ62@EXAMPLE.ORG;633750374;2.013;Sí
+CLI_0565;SÁNCHEZ MARTÍNEZ, CARMEN;2025-09-24;Redes Sociales;Barcelona;08633;c.sanchez91@example.com;662262256;2700;si
+cli-603;Carmen  Díaz;August 10, 2025;Recomendación;Madrid ;28045;c.diaz73@example.org;606392483;2.137,98;True
+cli-690;José Torres Pérez;August 23, 2025; Redes Sociales;Barcelona;08375;j.torres56@example.com;+34 693 659 554;383;No
+279;José Romero Martínez;N/A;SEO Orgánico;Barcelona;8625;j.romero34@example.com;;sin ingresos;S
+CLI_0643;Javier Domínguez Sánchez;2025-09-14; Google Ads;Málaga;29524;j.dominguez5@example.com;+34 615 466 581;1053;SI
+CLI_0554;María  García;2025/04/06;Google Ads;Málaga;29022;m.garcia95@example.org;611968271;2.587;si
+CLI_0636;Elena Moreno Díaz;2025-07-25;RECOMENDACIÓN;Sevilla;41076;e.moreno72.example.org;(+34) 649726433;2020;si
+CLI0754;Antonio Domínguez Romero;08-10-25;Redes Sociales;Valencia;n/d;a.dominguez89.example.org;+34 666 010 694;9;0
+CLI_0232;José López Jiménez;2025-09-14;SEO Orgánico;Sevila;41111;NULL;614742;857;si
+cli-246;JIMÉNEZ TORRES, LUCÍA;26/01/2025;Google Ads;Sevilla;41811;l.jimenez82@example.org;663-472-656;981,02;
+CLI_0168;Carmen Gómez Jiménez;20/02/2025;GOOGLE ADS;Madrid;28 480;c.gomez4.example.com;613580414;825 €;NO
+cli-503;RUIZ TORRES, MANUEL;2025-10-16;SEO Orgánico;Valencia;46764;null;698129437;-;NO
+CLI_0333;DÍAZ RUIZ, ANTONIO;03-04-25;GOOGLE ADS;VALENCIA;46235;a.diaz30@example.org;625-415-912;€ 2865;N
+;;;;;;;;;
+CLI_0427;JIMÉNEZ GÓMEZ, PABLO;17/09/2025;Redes Sociales;Sevilla;41977;p.jimenez71@example.com;661606707;1505;null
+CLI_0542;GIL MORENO, ANA;17.01.2025;Teléfono / Directo;Sevilla;41228;a.gil76@example.com;N/A;€ 3382;0
+CLI_0163;RUIZ JIMÉNEZ, ANTONIO;03.05.2025;Google Ads;Málaga;29559; a.ruiz34@example.org ;+34 609 168 790;1933;No
+CLI_0150;MARTÍNEZ GIL, PEDRO;18/01/2025;Google Ads;Madrid;28 332;p.martinez41@example.org;0034 690206671;€ 546;SI
+cli-227;Marta Ruiz Sánchez;2025-08-31;Recomendación;sevilla;46250;m.ruiz47@example.com;650325589;2752;Sí
+CLI_0095;torres lópez javier;2025-09-27;SEO Orgánico;;46051;j.torres22@example.org;657-018-614;3007;True
+cli-222;SÁNCHEZ RUIZ, LAURA;May 17, 2025;SEO Orgánico;Sevilla;41155; l.sanchez14@example.org ;+34 633 607 474;8,44;no
+CLI_0598;Lucía García Domínguez;22/08/2025;Recomendación;VALENCIA;46851;l.garcia51@example.org;698168667;2.260,42;False
+CLI_0474;GARCÍA GIL, ANA;2025/05/21;Redes Sociales;;46470;a.garcia45@example.com;633606728;736,80;
+CLI_0136;TORRES RUIZ, ANA;2025-04-02;NaN;Málaga;29317;a.torres72@example.com;678-295-676;€ 2331;1
+CLI_0602;Manuel Pérez Romero;22.08.2025; Google Ads;Madrid;28628;m.perez31@example.org;669496729;2596.96;si
+CLI_0740;LÓPEZ DOMÍNGUEZ, PEDRO;27/09/2025;Redes  Sociales;Valencia;46500;p.lopez5@example.org;+34 672 047 196;1.853 €;N
+CLI0035;Pedro Gómez Moreno;2025-09-24;SEO Orgánico;;29066;P.GOMEZ56@EXAMPLE.COM;(+34) 615792070;sin ingresos;No
+cli-218;Pablo Díaz Torres;29/01/2025;TELÉFONO / DIRECTO;Barcelona;08709;p.diaz52.example.com;670648030;2.421,51;1
+CLI_0073;Javier Pérez Gómez;19/05/2025;Recomendación;sevilla;29142;j.perez39@example.com;600807;2417;S
+CLI_0221;GÓMEZ MORENO, CARMEN;2025/02/08;Teléfono / Directo;Sevilla;41252;C.GOMEZ45@EXAMPLE.ORG;639378262;3051.96;No
+CLI_0214;Laura Martínez Moreno;2025-05-15;Recomendación;madrid;28485;l.martinez43@example.org;620155618;1.714 €;SI
+CLI_0742;TORRES DÍAZ, MARÍA;NULL;Google Ads;Madrid;28554;M.TORRES13@EXAMPLE.ORG;640-532-362;247;si
+CLI_0395;Francisco  García;2025-08-04; Teléfono / Directo;Barcelona;8090;f.garcia43@example.com;654300523;sin ingresos;-
+CLI_0704;Marta López Torres;21/02/2025;Redes Sociales;Madrid;28593;m.lopez2@example.com;645430067;2.432,64;S
+CLI_0368;torres gómez ana;05/04/2025;Redes Sociales;Madrid;28038;a.torres29@example.com;+34 620 198 924;1837;No
+cli-13;David  Sánchez;2025-08-09;Recomendación;VALENCIA;46203;d.sanchez58@example.com;+34 693 678 493;3449 EUR;si
+CLI_0799;María López García;05-04-25;Teléfono / Directo ;Málaga;29301;m.lopez51@example.org;659494010;350;N
+344;MARTÍNEZ TORRES, PABLO;2025-06-04;Telefono / Directo;Málaga;29200;p.martinez9@example.com;+34 688 532 969;81;S
+CLI_0199;Lucía Moreno Torres;April 12, 2025;Recomendación;Málaga;29782; l.moreno69@example.org ;618459028;2.224,00;0
+CLI_0235;Antonio Domínguez Torres;28.05.2025;REDES SOCIALES;Sevilla;41100;a.dominguez25@example.com;(+34) 644660134;2.078 €;no
+CLI_0421;José Díaz Ruiz;06/10/2025; Google Ads;Valencia ;46295;j.diaz45@example.org;;242;False
+CLI0703;TORRES NAVARRO, ANA;20/02/2025;Redes Sociales;Madrid;28685;A.TORRES88@EXAMPLE.COM;637919017;3439;NO
+CLI_0609;José Navarro Torres;null;Telefono / Directo;Sevilla;41938;j.navarro50@example.org;0034 671587356;3133;False
+CLI_0664;DOMÍNGUEZ PÉREZ, ANTONIO;02.03.2025;google ads;Sevilla;41685;a.dominguez1@example.org;606638089;272 EUR;False
+CLI_0298;Carmen Pérez Gil;12/05/2025;Teléfono / Directo;Valencia;46143;c.perez44@example.com;+34 673 873 985;sin ingresos;S
+64;Antonio Díaz García;18/10/2025;redes sociales;valencia;46837;a.diaz67@example.org;NULL;1641.97;No
+CLI_0608;ROMERO GARCÍA, MARTA;2025-06-04;google ads;NULL;29749;M.ROMERO96@EXAMPLE.ORG;+34 673 588 227;3.322;1
+CLI_0014;Lucía Moreno Jiménez;17/08/2025;Redes Sociales;Madrid;28104;l.moreno67@example.org;643514158;sin ingresos;0
+CLI_0436;SÁNCHEZ GIL, ANA;07/02/2025;Google  Ads;Madrid ;28782;a.sanchez33@example.com;(+34) 656730865;;No
+CLI_0018;lópez romero david;2025/02/08;REDES SOCIALES;Sevilla;41368;d.lopez72@example.org;NaN;2569;SI
+CLI_0699;Laura  Gil;16-01-25;Google Ads;Barcelona;08011;NULL;608931216;946,08;NO
+CLI_0349;gil gómez ana;24/02/2025;Redes Sociales;Valencia;46 121;a.gil47@example.org;636-322-600;1.735,97;N
+CLI0208;SÁNCHEZ TORRES, JOSÉ;18/10/2025;Google  Ads;Barcelona;08374; j.sanchez35@example.org ;600616197;1935;False
+91;lópez sánchez antonio;2025/05/11;Google Ads;Sevilla;41498;a.lopez84@example.org;(+34) 651522079;€ 1763;si
+CLI_0308;Marta Domínguez Domínguez;2025-06-16; Redes Sociales;málaga;29027;m.dominguez97@example.org;656738;255;False
+CLI0342;María López Pérez;2025-03-29;SEO Orgánico;Madrid;28498;m.lopez9@example.com;+34 677 267 585;3418;N
+CLI_0381;Marta García Gómez;02/01/2025;SEO Orgánico;Valencia;46912;M.GARCIA95@EXAMPLE.COM;n/d;sin ingresos;1
+CLI_0345;PÉREZ MORENO, JOSÉ;29.09.2025; Redes Sociales;Madrid;28607;J.PEREZ89@EXAMPLE.ORG;-;3.472;
+cli-472;Lucía Sánchez Moreno;30/08/2025;Redes Sociales;sevilla;41 577;l.sanchez3@example.org;630-970-059;1.128 €;NO
+CLI0679;Ana Moreno Domínguez;2025/06/06;Redes Sociales;Madrid;28705;a.moreno46@example.com;645905308;493,61;no
+CLI_0552;Manuel Pérez Torres;29-04-25;Teléfono / Directo;MADRID;NaN;m.perez76@example.com;635621823;1894;S
+CLI_0599;Ana Pérez Pérez;July 08, 2025;Redes Sociales ;Sevilla;41217;a.perez30@example.org;685669682;€ 989;null
+CLI0033;Marta Sánchez Pérez;January 28, 2025;Redes Sociales;Barcelona;08240;m.sanchez69@example.com;660-809-799;1.826;no
+CLI_0792;Lucía Romero Domínguez;17/05/2025;Google Ads;Madrid;28507;l.romero90@example.com;695-109-263;2.354;no
+cli-658;NAVARRO DÍAZ, MANUEL;2025/07/09;Redes Sociales;Barcelona;08097;n/d;679119386;1.979;Sí
+CLI_0671;María Torres Ruiz;13/10/2025;Recomendación;Málaga;29069;m.torres18@example.com;694008321;2.647,47;
+CLI0173;Antonio  Domínguez;20/08/2025;Google Ads;barcelona;08331;;657272241;969;1
+CLI_0737;Manuel Navarro Sánchez;08/08/2025;SEO Orgánico;Sevilla;41646;m.navarro11@example.org;+34 640 195 638;2863;No
+CLI_0722;Carmen López Romero;07/10/2025;Redes  Sociales;Valencia;46 924;c.lopez54@example.org;+34 653 228 373;1.099 €;True
+CLI_0409;Manuel Jiménez Gil;2025-10-08;Google Ads;Madrid;28438;M.JIMENEZ66@EXAMPLE.COM;n/d;-488;si
+CLI_0794;David Jiménez Romero;05.09.2025;Redes Sociales;Sevilla;41438;d.jimenez44@example.com;(+34) 608011889;213 €;si
+cli-767;navarro sánchez javier;03-07-25;Google Ads ;Málaga;29051;j.navarro28@example.org;683897916;2528 EUR;0
+CLI_0201;Javier García Sánchez;2025-04-20;GOOGLE ADS;Málaga;29167;j.garcia63@example.org;626657138;2.282;Sí
+CLI_0293;Ana  Moreno;14/10/2025;Google Ads;Málaga;29 723;a.moreno31@example.com;663889508;1.036,19;no
+CLI_0584;MARTÍNEZ GIL, MANUEL;2025-01-16; Recomendación;málaga;41048;m.martinez56@example.org;698-471-811;1820;True
+CLI_0734;Antonio Torres Martínez;2025-08-21;SEO Orgánico;Sevila;41653;a.torres98@example.com;644344138;1.436;N
+CLI_0511;JIMÉNEZ ROMERO, PABLO;26-10-25;Redes Sociales;Barcelona;08708;p.jimenez40@example.org;639754572;1537;
+CLI_0774;moreno gómez manuel;2025-08-04;teléfono / directo;Málaga;29210;m.moreno10@example.com;661-226-537;969;No
+CLI_0021;María Jiménez Díaz;2025-05-31;Google  Ads;Sevila;41769;nuevo.CLI_0021@example.com;600000021;3433;0
+747;Javier Torres Sánchez;June 09, 2025;google ads;Valencia;46990;null;697631256;276 €;-
+CLI_0538;Antonio García Díaz;04/02/2025;REDES SOCIALES;madrid;28903;a.garcia53@example.org;649-358-057;2900;NO
+CLI_0112;Marta Pérez Sánchez;23/08/2025;Teléfono / Directo;Sevilla;41894;M.PEREZ19@EXAMPLE.ORG;645256284;3.158 €;si
+CLI_0490;Francisco Torres Gil;01/07/2025;Redes Sociales;Valencia;46042;f.torres33@example.org;678022519;1.064 €;True
+CLI_0744;romero moreno elena;23/03/2025;GOOGLE ADS;Barcelona;8057;e.romero9@example.com;628543022;743;False
+CLI0739;Pedro Gil López;10.08.2025;Teléfono / Directo;Valencia;46542;p.gil18@example.org;632151175;1400;1
+CLI_0134;RUIZ DOMÍNGUEZ, FRANCISCO;17/06/2025; SEO Orgánico;Valencia;46288;f.ruiz63@example.org;+34 626 237 117;375;1
+cli-61;Marta Moreno Gil;2025-10-04;SEO Orgánico;málaga;08379;m.moreno39@example.org;686541349;201 EUR;-
+CLI0691;DÍAZ RUIZ, DAVID;2025-10-26;Google Ads;Madrid;28550;d.diaz95@example.com;685518251;;SI
+27;Pedro Ruiz García;01-05-25; Redes Sociales;;46257;p.ruiz87@example.org;+34 687 375 044;1.446 €;S
+101;Manuel  Jiménez;2025-09-07;redes sociales;Sevilla;41660;m.jimenez93@example.com;664-734-476;791,66;SI
+CLI0532;Elena Moreno Gil;2025/02/19;redes sociales;Valencia ;46437;e.moreno24@example.org;687797999;NaN;S
+CLI_0589;Laura Domínguez Moreno;2025/09/09;Recomendación;Málaga;29443;l.dominguez47@example.com;+34 699 360 612;2.174,14;SI
+CLI_0412;Ana Martínez Gil;10/03/2025;teléfono / directo;Valencia;46977;nuevo.CLI_0412@example.com;600000412;€ 1535;N/A
+cli-521;José Ruiz Gil;April 18, 2025;Redes Sociales;SEVILLA;41509;j.ruiz74@example.org;695045972;sin ingresos;-
+CLI_0364;Carmen  Gómez;September 26, 2025;Google Ads;BARCELONA;08381;c.gomez33@example.com;646050152;sin ingresos;False
+CLI_0310;Pedro  Ruiz;2025-02-02;Google Ads;Sevilla;41105;p.ruiz74@example.org;630543155;874.27;False
+CLI_0605;Pablo Jiménez Gómez;2025-09-05;Google Ads;Sevilla;41332;p.jimenez59@example.org;648001899;2.766,51;N
+cli-253;Ana Martínez Gil;26/02/2025;Google  Ads;Barcelona;29350;A.MARTINEZ58@EXAMPLE.COM;610-210-331;759;no
+CLI_0545;Javier Gómez Sánchez;07/09/2025;Recomendacion;Sevilla;41897;j.gomez44.example.com;-;2220;NO
+CLI_0482;domínguez ruiz maría;2025-09-06;Redes  Sociales;VALENCIA;46399;m.dominguez37@example.org;663802941;3343;True
+CLI_0442;sánchez domínguez elena;2025-04-01;Google Ads;Valencia;-;;601731237;sin ingresos;1
+CLI_0648;Manuel Moreno Gil;10/06/2025;Redes Sociales;Málaga;29578;m.moreno6@example.org;0034 690124611;-180;n/d
+CLI_0477;Laura Navarro Gil;2025-09-12;google ads;Valencia ;46360;L.NAVARRO21@EXAMPLE.ORG;624113557;3331;NO
+CLI0023;Laura  Pérez;24/02/2025;Google Ads;Sevilla;41372;l.perez23@example.com;610435276;2.508;NaN
+cli-63;Elena Díaz Navarro;2025-04-20;SEO Organico;Sevilla;41168;E.DIAZ32@EXAMPLE.ORG;621982189;N/A;1
+CLI_0149;LÓPEZ RUIZ, DAVID;04-09-25;Teléfono / Directo;Málaga;29221;d.lopez45@example.com;615268539;1933.35;si
+484;José  Romero;2025-08-28;SEO Orgánico;Málaga;29591; j.romero32@example.com ;607-467-365;3.230,10;SI
+CLI_0765;María Gómez Domínguez;2025-04-19;SEO Orgánico;barcelona;08596;m.gomez64@example.com;0034 639631546;1222;n/d
+CLI_0258;ROMERO JIMÉNEZ, LAURA;2025-02-01;Google Ads;Valencia;46358;l.romero20@example.com;602517168;1137;No
+CLI0053;Carmen Navarro Torres;2025-04-20;Teléfono / Directo ;Málaga;29334;c.navarro77@example.com;638072150;2.473,44;no
+CLI_0243;ROMERO MARTÍNEZ, JOSÉ;2025-01-29;SEO Orgánico;Barcelona;08995;j.romero34@example.org;600452393;1179;SI
+CLI0174;José  Jiménez;August 05, 2025;null; Barcelona;08595;j.jimenez20@example.com;676679296;270;Sí
+CLI_0036;DOMÍNGUEZ DÍAZ, ELENA;2025-01-20;Redes Sociales;VALENCIA;46763;e.dominguez88@example.org;658-902-408;1.825;No
+CLI_0179;MARTÍNEZ MARTÍNEZ, FRANCISCO;2025-09-28;Redes Sociales;MADRID;28796;f.martinez7.example.org;617720381;220 EUR;N
+CLI_0680;José García Moreno;October 08, 2025;Redes Sociales;barcelona;8992;j.garcia94@example.com;669808692;520 EUR;1
+121;LÓPEZ LÓPEZ, PEDRO;12/05/2025;Google Ads;Málaga;N/A;p.lopez61@example.org;676054727;649.33;no
+CLI_0276;Ana García Pérez;2025-05-25;Gogle Ads;Sevilla;41937;a.garcia61@example.org;689021104;3418.35;Sí
+CLI_0045;Carmen  Díaz;21/01/2025;Google Ads;Sevilla ;41030;c.diaz64@example.com;+34 629 022 248;2.113;no
+CLI_0301;Javier Torres Domínguez;20-04-25;google ads;Barna;8990;j.torres93.example.org;641370128;1582 EUR;0
+CLI0077;PÉREZ JIMÉNEZ, DAVID;2025-04-10;REDES SOCIALES;Barcelona;08801;d.perez89@example.org;(+34) 691185232;948;SI
+CLI_0721;Antonio Torres García;2025-02-11;google ads;Málaga;29995;a.torres37@example.org;+34 616 056 334;2.042 €;0
+CLI_0369;GÓMEZ PÉREZ, DAVID;07/01/2025;Teléfono / Directo;málaga;29653;d.gomez63@example.com;+34 662 150 468;sin ingresos;1
+CLI_0213;Elena Jiménez Martínez;2025-08-25;Redes Sociales;madrid;28 079;e.jimenez95@example.org;644-354-121;113.15;No
+268;Laura Jiménez Gil;-;SEO Orgánico;Valencia;46133;l.jimenez52@example.com;645714042;3.143;si
+CLI_0312;María  Moreno;21/07/2025;Redes Sociales;MADRID;28475;m.moreno7@example.com;688605687;744.47;NO
+CLI_0729;Carmen Romero Domínguez;27/05/2025;GOOGLE ADS;Sevilla;41127;c.romero96@example.org;621895802;94 €;si
+CLI0445;José Domínguez Navarro;2025-06-02;Redes Sociales ;Málaga;;j.dominguez84@example.org;0034 631410596;279;N
+CLI_0504;Antonio Romero Moreno;18/09/2025;Google Ads;Málaga;29966;a.romero22@example.org;+34 603 636 257;2.835,31;
+CLI_0496;María Ruiz Sánchez;2025-05-04;Redes Sociales; Barcelona;08932;m.ruiz53@example.com;698647613;1744;N
+CLI0034;PÉREZ PÉREZ, ANTONIO;31/02/2025;SEO Orgánico; Sevilla;41331;a.perez18@example.org;648090047;1.742,99;si
+CLI_0010;LÓPEZ PÉREZ, ANA;29-01-25;Recomendación; Málaga;29559;a.lopez25@example.com;;1431;NULL
+CLI0689;gómez sánchez laura;14/05/2025;teléfono / directo;Sevilla ;41805;L.GOMEZ83@EXAMPLE.COM;-;3.317,12;-
+161;GÓMEZ PÉREZ, LAURA;26/10/2025;Redes Sociales;Sevilla;41105;l.gomez37@example.com;+34 624 955 962;2.034;NO
+CLI_0286;Carmen Gil Gil;October 09, 2025;seo orgánico; Málaga;29200;c.gil68.example.com;(+34) 606936844;1.031,30;1
+CLI_0296;Antonio  Domínguez;06/06/2025;Redes  Sociales;Sevilla;29267;a.dominguez91@example.org;n/d;sin ingresos;n/d
+cli-617;Elena Jiménez Romero;2025-03-16;Redes Sociales;Valencia;46402;e.jimenez64@example.com;646244163;2.861;0
+CLI_0626;TORRES GARCÍA, MARTA;11/03/2025;Redes Sociales;Málaga;29460;m.torres22@example.com;635064162;-;No
+CLI_0278;GIL LÓPEZ, MARÍA;23/08/2025; Redes Sociales;sevilla;41322;m.gil97@example.com;(+34) 650967103;1.453;no
+CLI_0768;MORENO GIL, MARÍA;2025/05/24;Google Ads;VALENCIA;46022;m.moreno49@example.org;617376979;2.966;Sí
+CLI_0604;Javier Martínez Romero;10.02.2025; Google Ads;Madrid;28143;J.MARTINEZ63@EXAMPLE.COM;688-689-156;2520.76;No
+485;NAVARRO SÁNCHEZ, MARÍA;19/05/2025;Recomendación;Madrid;28649;m.navarro69@example.com;635-169-009;sin ingresos;S
+CLI_0497;Lucía Ruiz Gómez;05/02/2025;GOOGLE ADS;Madrid;28223;l.ruiz41@example.org;+34 639 115 815;1054;True
+183;María  Moreno;00/00/0000;SEO Orgánico;Barcelona;08350;m.moreno29@example.org;661482903;1165.09;0
+cli-736;DÍAZ ROMERO, ELENA;21-07-25;Redes Sociales;Sevilla;41294;e.diaz65@example.com;NaN;1966.09;Sí
+CLI_0685;GIL JIMÉNEZ, ANA;2025/02/20;SEO Organico;Barcelona;08056;a.gil13@example.org;643300339;-;SI
+CLI_0745;Carmen Torres Romero;2025-08-27;REDES SOCIALES;Madrid;28647;c.torres48@example.org;676151934;857 €;N
+CLI_0037;martínez ruiz javier;September 15, 2025;SEO Orgánico;Málaga;29987;j.martinez68@example.com;625010271;2.646;S
+CLI_0157;Ana López Domínguez;07/02/2025;SEO Orgánico;Barcelona;08453;NULL;(+34) 623136651;1.243,76;Sí
+CLI_0003;José Sánchez Martínez;2025-07-16;TELÉFONO / DIRECTO;Barcelona;08274;j.sanchez19@example.com;622958626;786 €;NO
+CLI_0755;Pablo López Sánchez;16-06-25;Google Ads ;Barcelona;08184;p.lopez49@example.org;+34 611 171 484;sin ingresos;Sí
+CLI_0509;Francisco Martínez Gil;22/03/2025;Google  Ads;BARCELONA;08419;n/d;621062746;€ 2241;no
+498;moreno lópez pablo;April 23, 2025;Google Ads;VALENCIA;46174;p.moreno57@example.org;(+34) 691416992;1499 EUR;NULL
+309;Elena Sánchez Moreno;05-04-25;Recomendación;Málaga;29609;e.sanchez76@example.org;675-300-784;1.222;False
+CLI_0290;MORENO ROMERO, CARMEN;2025-05-23;redes sociales;NaN;41 841;c.moreno83@example.org;NULL;1749.85;False
+CLI_0561;MORENO LÓPEZ, MANUEL;2025-06-10;SEO Orgánico;sevilla;41354;m.moreno78@example.com;630549951;533,11;False
+CLI0415;Pedro Torres Pérez;2025-01-06;Google Ads; Sevilla;41204;p.torres58@example.com;656-912-290;2.950;NO
+cli-422;RUIZ PÉREZ, ELENA;2025-07-28;;Barcelona;08677;e.ruiz14@example.org;0034 615975564;2151;True
+CLI_0142;José Romero López;2025-03-06;Teléfono / Directo;Barcelona;08163;j.romero78@example.org;(+34) 611954126;2.838;Sí
+CLI_0224;Javier  Ruiz;02-03-25;Redes Sociales;Málaga;08627;j.ruiz11@example.org;n/d;535.93;True
+CLI_0184;Carmen Jiménez Jiménez;28-07-25;Redes  Sociales;Valencia;46107;N/A;601806538;2632.48;False
+cli-793;David Ruiz López;2025/08/05; Recomendación;Madrid;NULL;d.ruiz54@example.com;+34 684 444 108;630;No
+CLI_0673;Ana Pérez García;2025/07/10;Google Ads;barcelona;08182;a.perez4@example.com;689185269;1.051;N
+512;Javier Pérez Jiménez;2025-08-12;Recomendación;Madrid;28133; j.perez28@example.org ;686-301-942;1652;N
+CLI_0732;David  López;06/05/2025;Google Ads;sevilla;41873;d.lopez32@example.org;665802559;2.672;0
+cli-612;GÓMEZ GARCÍA, MARTA;19.05.2025;Recomendación;Barcelona;8814;M.GOMEZ63@EXAMPLE.COM;+34 666 378 520;42;False
+CLI0748;Antonio López Romero;2025-04-05;SEO Orgánico;MÁLAGA;29951;a.lopez55@example.org;606595755;1.432 €;NO
+CLI_0118;LÓPEZ TORRES, LUCÍA;11/02/2025;Gogle Ads;Valencia;46098;l.lopez17@example.org;605700354;874,95;1
+CLI_0002;Lucía Romero Torres;21-08-25;Google Ads;Madrid;28526;l.romero14@example.com;+34 613 211 154;1.441;N
+114;David Martínez Moreno;2025-05-18;Recomendación;MÁLAGA;29752;d.martinez65@example.org;612391;2762;SI
+CLI_0541;Marta Navarro Ruiz;August 01, 2025;Google Ads;BARCELONA;8816;m.navarro97@example.org;656686;1088;False
+CLI0687;DÍAZ DÍAZ, MARTA;03.05.2025;Recomendación;n/d;41806; m.diaz66@example.com ;649-778-664;74 €;No
+CLI_0766;Manuel López Díaz;2025-08-23;Redes Sociales;Barcelona;08203;m.lopez74@example.org;+34 653 227 905;613;si
+CLI0166;Elena Martínez Domínguez;02/09/2025;redes sociales;barcelona;;e.martinez5@example.org;609-546-535;sin ingresos;
+CLI_0185;Javier Díaz Gil;NaN;GOOGLE ADS;barcelona;08915;j.diaz61@example.org;675095266;€ 235;N
+CLI_0678;díaz jiménez manuel;2025-01-26;Recomendación;Madrid;28910;m.diaz51@example.org;641938523;3443;1
+CLI0373;Elena Pérez Torres;04/05/2025;Google Ads;Madrid;28500;e.perez71.example.org;NaN;570.67;N
+CLI0275;David  García;06/05/2025;Teléfono / Directo;barcelona;28477;d.garcia33@example.org;+34 651 122 496;-540;True
+705;Ana Sánchez Torres;08/02/2025;Teléfono / Directo;barcelona;08929;a.sanchez72@example.org;695056;€ 2274;NO
+CLI_0001;DOMÍNGUEZ NAVARRO, ANA;27/01/2025;SEO  Orgánico;Sevilla;41429;a.dominguez14@example.org;689239520;1.324 €;True
+CLI0567;RUIZ TORRES, PABLO;2025-03-10;Google Ads;Madrid;28113;p.ruiz83@example.com;+34 677 315 158;416 €;1
+CLI_0541;Marta Navarro Ruiz;August 01, 2025;Google Ads;BARCELONA;8816;m.navarro97@example.org;656686;1088;False
+CLI_0501;DÍAZ GIL, JAVIER;2025-02-04;Gogle Ads;Valencia;46880;j.diaz21@example.org;650779;1033;Sí
+CLI_0719;Carmen  Jiménez;March 12, 2025;Google Ads;BARCELONA;8584;c.jimenez85@example.org;+34 607 850 844;991 €;N
+CLI_0384;gómez gómez carmen;2025-03-14;Google Ads;barcelona;08599;c.gomez67@example.org;623926196;;True
+CLI_0406;Manuel Torres Ruiz;31-05-25;Google Ads;Málaga;29659;m.torres26@example.com;652-456-743;676.47;N
+CLI_0562;Marta  Navarro;14/01/2025;REDES SOCIALES;SEVILLA;41421;m.navarro84@example.org;647009763;1.787;0
+CLI_0021;María Jiménez Díaz;2025-05-31;Google  Ads;Sevila;41769;m.jimenez84.example.com;607-893-096;3433;0
+CLI_0177;MORENO MARTÍNEZ, MANUEL;2025-08-04;redes sociales;sevilla;41028;M.MORENO30@EXAMPLE.COM;+34 619 410 393;3.327 €;Sí
+CLI_0336;GÓMEZ MARTÍNEZ, ANTONIO;2025-08-31;Google Ads;SEVILLA;41255;a.gomez33@example.org;668257719;€ 644;SI
+CLI_0380;Carmen Torres López;20/03/2025;Google Ads;SEVILLA;41540;c.torres84@example.com;626801290;€ 785;N
+CLI_0546;navarro martínez pablo;2025-01-17;SEO Organico;Málaga;29431;p.navarro78@example.com;626270362;€ 2776;no
+CLI_0172;GÓMEZ MARTÍNEZ, LUCÍA;2025-01-28; Google Ads;Barcelona;8250;l.gomez2@example.com;n/d;NULL;N/A
+CLI_0520;gómez domínguez javier;2025-06-28;Teléfono / Directo;Madrid;28642;j.gomez94@example.org;623-172-606;2600;N
+CLI_0508;LÓPEZ PÉREZ, ANA;2025-03-16;SEO ORGÁNICO;Madrid;28350;a.lopez30@example.com;624387196;1623.54;1
+CLI_0153;Manuel Díaz Ruiz;2025-10-03;Google Ads;Valencia;46890;m.diaz67@example.org;+34 602 956 877;€ 2002;-
+cli-619;RUIZ MARTÍNEZ, JOSÉ;19-01-25;Teléfono / Directo;Málaga ;29320;j.ruiz75@example.com;(+34) 649703817;193 EUR;NO
+414;Lucía Pérez Domínguez;09/02/2025;Redes Sociales ;Málaga;NaN;l.perez71@example.org;611651690;2.714,39;SI
+CLI0610;Ana Moreno García;2025-09-15;SEO Orgánico ;Madrid;28732;a.moreno89@example.com;615326298;2.479;si
+CLI0623;Carmen Domínguez Torres;2025/02/19;REDES SOCIALES; Barcelona;08075;C.DOMINGUEZ73@EXAMPLE.ORG;663987438;1185.10;S
+CLI_0582;ROMERO TORRES, ELENA;2025-09-08;Google Ads;Madrid ;28602;N/A;656685781;2931;0
+CLI_0642;Carmen Ruiz Domínguez;02/10/2025;Google Ads;Barcelona;08668;c.ruiz46@example.org;(+34) 639323356;1.211;si
+CLI_0317;Javier Moreno Martínez;08/08/2025;Google Ads;Málaga ;29798;j.moreno1@example.com;688767;1.125;False
+CLI_0259;MORENO JIMÉNEZ, ANTONIO;22/02/2025;Redes Sociales;Barcelona;08783;a.moreno47@example.com;(+34) 604373961;19 EUR;1
+CLI_0663;Antonio Díaz Martínez;January 11, 2025;Google Ads ;Sevilla;41037; a.diaz29@example.com ;663780968;3.300,29;SI
+CLI_0475;PÉREZ TORRES, ANA;10/07/2025;Google  Ads; Valencia;46326;null;654873521;836;No
+CLI_0338;SÁNCHEZ MORENO, MARÍA;06.04.2025;Redes Sociales;Madrid ;28562;m.sanchez53@example.com;607772213;€ 660;No
+CLI_0539;SÁNCHEZ SÁNCHEZ, MARTA;2025-06-12;Teléfono / Directo;;46455;m.sanchez6@example.com;+34 685 010 774;386.37;N
+CLI0505;jiménez díaz carmen;24/03/2025;Teléfono / Directo;Valencia;46152;c.jimenez77@example.org;604-339-252;163.06;si
+cli-399;romero gil francisco;26/03/2025;Google Ads;Málaga;29568;f.romero62@example.org;+34 662 454 671;-113;S
+CLI_0424;Elena Gil Díaz;2025-06-24; SEO Orgánico;Valencia;46514;e.gil32@example.org;631032296;€ 3254;no
+cli-606;Antonio Gómez Moreno;2025/06/10;Google Ads;Sevilla;41570;n/d;(+34) 685479186;3221;False
+CLI_0661;Javier  Ruiz;February 23, 2025;SEO Orgánico;Valencia;29916;NaN;N/A;174;N
+481;José López Gil;2025-03-28;Redes Sociales;Valencia ;46451;j.lopez24@example.org;646865225;660 EUR;S
+423;Antonio  Ruiz;18-08-25;Teléfono / Directo;Málaga ;08258;a.ruiz2@example.org;637-184-550;1366.64;True
+CLI_0120;Ana Martínez Romero;04.02.2025;Redes Sociales;Valencia ;null;a.martinez87@example.org;649986191;2925;Sí
+CLI_0651;Francisco Ruiz Gómez;27-05-25;;Madrid ;28620;f.ruiz47@example.org;NaN;sin ingresos;True
+CLI_0682;GIL SÁNCHEZ, ANA;11/02/2025;GOOGLE ADS;Sevilla;41703;a.gil94@example.com;+34 677 940 496;2290;Sí
+CLI_0715;DÍAZ GARCÍA, PEDRO;04/10/2025;Teléfono / Directo;Madrid;28716;p.diaz91@example.com;0034 653267040;2.038 €;Sí
+CLI_0660;Elena  García;March 28, 2025;Redes Sociales;Barcelona ;08774;E.GARCIA98@EXAMPLE.ORG;687-111-879;3.250;N
+CLI_0790;ROMERO LÓPEZ, ANTONIO;2025-01-04;GOOGLE ADS;Sevilla;41642;a.romero68@example.com;633138831;3.087,40;0
+CLI_0257;Pedro Moreno Romero;23/07/2025;Recomendación ;Barcelona;08142;p.moreno35@example.org;+34 636 250 709;675;1
+CLI_0644;gómez gómez marta;25-05-25;google ads;Barcelona;8481;M.GOMEZ37@EXAMPLE.ORG;628-841-296;3.349;NO
+CLI_0250;DOMÍNGUEZ SÁNCHEZ, ELENA;13/01/2025;Google  Ads;Sevila;41743;e.dominguez51@example.com;(+34) 685388573;1.590 €;NO
+CLI_0665;GARCÍA SÁNCHEZ, MARTA;2025-06-29;SEO Orgánico ;MÁLAGA;29684;m.garcia73@example.com;+34 660 824 247;NaN;S
+TOTAL;840 registros;;;;;;;;

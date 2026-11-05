@@ -1,0 +1,1044 @@
+EXPEDIENTE-ID,CLIENTE-ID,FECHA-APERTURA,DEUDA-TOTAL,NUM-ACREEDORES,ACREEDORES,CUOTA-MENSUAL-PROPUESTA,ESTADO-EXPEDIENTE
+EXP0488,CLI_0509,25.04.2025,29154,2,"Consumo Ya,Banco Sur",278,null
+EXP_0081,CLI0444,02/06/2025,52503,8,Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Préstamos Rápidos SL; Telecom Dato; Banco Norte; Caja Campiña,481,ACEPTADO / EN NEGOCIACIÓN
+exp-827,CLI_0960,24/01/2025,46388,2,Seguros Atlántico; Financiera Hispalis,€ 182,Estudio
+EXP_0661,CLI_0391,2025-08-23,9999999,6,"Préstamos Rápidos SL,Banco Sur,Crédito Express,Tarjetas Mediterráneo,Caja Campiña,Telecom Dato",383,en estudio
+EXP_0511,CLI_0481,23.04.2025,43462 EUR,1,Financiera Hispalis; Telecom Dato,498 EUR,Aceptado / En Negociación
+EXP_0264,CLI_0308,27/06/2025,38246 EUR,2,Crédito Express; Préstamos Rápidos SL,634 EUR,-
+EXP_0943,CLI0402,2025-10-13,"39.645,67",4,Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Seguros Atlántico,375 €,Aceptado / En Negociación
+EXP0364,CLI_0413,2025-04-15,60.585,4,Caja Campiña | Seguros Atlántico | Préstamos Rápidos SL | Tarjetas Mediterráneo,544,Cancelado
+EXP_0106,CLI_0505,01-05-25,32625,4,Seguros Atlántico; Telecom Dato; Crédito Express; Banco Sur,562,En Estudio
+EXP_0630,CLI_0091,01/06/2025,"24.257,60",8,"Préstamos Rápidos SL,Banco Sur,Tarjetas Mediterráneo,Consumo Ya,Telecom Dato,Caja Campiña,Crédito Express,Financiera Hispalis",407,Plan Activo
+EXP_0244,CLI_0345,2025/10/09,28.849,7,"Banco Sur,Seguros Atlántico,Financiera Hispalis, Crédito Express,Consumo Ya,Banco Norte,Caja Campiña",305,Plan Activo
+EXP_0110,CLI_0177,2025-09-06,50135.59,NULL,Tarjetas Mediterráneo | Crédito Express | Caja Campiña | Banco Sur | Financiera Hispalis | Telecom Dato | Seguros Atlántico,236 €,Cancelado con Éxito
+EXP_0301,238,30/06/2025,48.411,2,"Banco Sur,Tarjetas Mediterráneo",241 €,Plan Activo
+EXP_0194,cli-109,,25140,1,"Telecom Dato,FINANCIERA HISPALIS",310,Cancelado con Éxito
+EXP_0477,cli-641,06.08.2025,64180,N/A,Banco Sur / Consumo Ya / Crédito Express / FINANCIERA HISPALIS / Préstamos Rápidos SL,649,Incumplido
+EXP0261,cli-116,29/07/2025,54227.93,4,Banco Sur; Consumo Ya; Caja Campiña; Banco Norte,389.60,en estudio
+EXP_0400,CLI_0541,10/09/2025,31592.21,7,Banco Sur y  Financiera Hispalis y Telecom Dato y Caja Campiña y Préstamos Rápidos SL y Crédito Express y Tarjetas Mediterráneo,€ 464,ACEPTADO / EN NEGOCIACIÓN
+EXP0608,CLI0250,25/01/2025,18243,3,"Seguros Atlántico,Consumo Ya,Banco Sur,Caja Campiña",168,aceptado / en negociación
+EXP_0183,CLI_0350,28/03/2025,37121,8,Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Credito Express; Caja Campiña,"677,09",Aceptado / En Negociación
+EXP_0567,CLI_0468,30/06/2025,40.300,2,"Seguros Atlántico,Caja Campiña ",397,En Estudio
+EXP_0056,CLI_0667,10-06-25,41.091 €,6,Seguros  Atlántico; Préstamos Rápidos SL; Caja Campiña; Crédito Express; Telecom Dato; Consumo Ya,"293,91",ACEPTADO / EN NEGOCIACIÓN
+EXP0498,CLI_0238,2025-05-15,51.210,2,Consumo Ya / Banco Sur,625, En Estudio
+EXP_0341,CLI0154,14/05/2025,12.507 €,5,Consumo Ya; Banco Sur; Prestamos Rapidos SL; Telecom Dato; Caja Campiña,355,Aceptado / En Negociación
+exp-466,CLI_0395,2025/08/06,18.076 €,7,"Crédito Express,Caja Campiña,Banco Norte,Préstamos Rápidos SL,Financiera Hispalis,Tarjetas Mediterráneo,Seguros Atlántico",339 EUR,Plan Activo
+EXP_0396,CLI0116,18-08-25,26949,8,Préstamos Rápidos SL y Tarjetas Mediterráneo y Banco Sur y Seguros Atlántico y CONSUMO YA y Banco Norte y Crédito Express y Caja Campiña,154,En Estudio
+EXP0138,CLI_0280,sin fecha,43.159,,"Financiera Hispalis,Crédito Express,Caja Campiña,Banco Sur,Banco Norte,Telecom Dato,Consumo Ya",€ 276,Plan Activo
+EXP_0023,CLI_0040,2025-08-22,20802.07,8,"Telecom Dato,Seguros Atlántico,Banco Norte,Préstamos Rápidos SL,Tarjetas Mediterráneo,Caja Campiña,Consumo Ya,Banco Sur",505,Plan Activo
+EXP_969,CLI_0418,21/02/2025,53993.66,2,Caja Campiña; Préstamos Rápidos SL,578 €,NaN
+EXP_0721,CLI0995,15/01/2025,48649.85,7,Préstamos Rápidos SL; Seguros Atlántico; Banco Sur; Telecom Dato; Banco Norte; Consumo Ya; Caja Campiña,"346,07",plan activo
+EXP_0664,CLI_0204,2025-09-10,28977,6,Crédito Express y Telecom Dato y Caja Campiña y Consumo Ya y Banco Norte y Financiera Hispalis,231,Aceptado/En Negociacion
+EXP_0796,CLI_0498,02-02-25,10.041,3,"Consumo Ya,Préstamos Rápidos SL,Caja Campiña",695,Cancelado con Éxito
+EXP_0910,CLI_0211,29/04/2025,16823 EUR,tres,"Seguros Atlántico,Telecom Dato,Crédito Express,Caja Campiña,Consumo Ya",473.10,Aceptado / En Negociación
+EXP_180,CLI_0238,26.06.2025,"40.914,85",5,"Telecom Dato,Consumo Ya,Financiera Hispalis,Banco Sur,Seguros Atlántico",null,en estudio
+EXP_0818,CLI_0615,2025-08-05,10480.87,6,Caja Campiña y  Financiera Hispalis y Tarjetas Mediterráneo y Crédito Express y Préstamos Rápidos SL y Banco Sur,"453,93",Incumplido
+EXP_0515,CLI_0439,01/02/2025,42.079 €,8,"Telecom Dato,Tarjetas Mediterráneo,Credito Express,Financiera Hispalis,Préstamos Rápidos SL,Caja Campiña,consumo ya,Banco Sur",519,Aceptado/En Negociacion
+EXP_0531,cli-236,2025-07-25,26158 EUR,2,Banco Sur; Caja Campiña,565.12,EN ESTUDIO
+EXP_151,CLI_0152,28-04-25,37.593,6,Tarjetas Mediterráneo; Telecom Dato; Caja Campiña; Crédito Express,€ 688, Plan Activo
+exp-852,CLI_0129,NULL,€ 18905,2,Banco Norte / Préstamos Rápidos SL,165,Aceptado / En Negociación
+EXP_0973,CLI_0229,"July 21, 2025",13270.56,2,Seguros Atlántico; Consumo Ya,674,Plan Activo
+EXP_648,CLI_0533,2025-04-07,€ 49273,5,Consumo Ya; Préstamos Rápidos SL; Banco Sur,535,plan  activo
+EXP_0580,CLI_0558,2025/11/14,"50.165,15",6,Seguros Atlántico | Caja Campiña | Banco Sur | Tarjetas Mediterráneo | Crédito Express,187.44,Plan Activo
+EXP_0013,CLI_0323,27.08.2025,"49.424,44",3,NaN,"242,14",En Estudio
+EXP_406,NaN,2025/01/14,13243 EUR,n/d,Consumo Ya | Banco Norte | Crédito Express,"428,06",Plan Activo
+exp-108,CLI_0253,2025-03-19,20809,8,"Seguros Atlántico,Tarjetas Mediterráneo,Telecom Dato,Financiera Hispalis,Banco Sur,Crédito Express,Consumo Ya,Banco Norte",€ 391,Aceptado / En Negociación
+EXP_0208,CLI_0591,19/09/2025,23413,8,Crédito Express | Tarjetas Mediterráneo | Consumo Ya | Caja Campiña | Préstamos Rápidos SL | Banco Norte | Banco Sur | Telecom Dato,264 €,Plan Activo
+EXP_0976,CLI_0487,2030-01-01,10.821 €,3,"Financiera Hispalis,Crédito Express",513,Plan Activo
+EXP_0982,CLI_0246,2025-01-29,18748 EUR,6,Financiera Hispalis; Telecom Dato; Banco Sur; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL,441,aceptado / en negociación
+EXP_0179,CLI_0067,"October 23, 2025",45.115 €,3,Tarjetas Mediterráneo / Banco Norte / Préstamos Rápidos SL,656,Aceptado / En Negociación
+EXP0756,CLI_0246,2025-02-12,14120 EUR,5,Caja Campiña; Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Banco Sur,155.14,En Estudio
+EXP_0015,null,2025-03-25,26151.05,6,Financiera Hispalis; Tarjetas Mediterráneo; Banco Norte; Seguros Atlántico; Crédito Express; Telecom Dato,"163,33",Aceptado / En Negociación
+EXP_0749,CLI0298,2025-06-09,54150 EUR,5,Préstamos Rápidos SL y Financiera Hispalis y Consumo Ya y TELECOM DATO y Caja Campiña,642,
+EXP_0072,CLI0622,2025-06-17,64.316,6,Banco Norte; Crédito Express; Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico; Financiera Hispalis,€ 234,EN ESTUDIO
+exp-248,CLI_0151,2025-10-02,51258 EUR,3,Crédito Express; Caja Campiña; Telecom Dato,344,Aceptado / En Negociación
+EXP0057,CLI_0393,2025/05/08,61.980,6,n/d,379,aceptado / en negociación
+EXP_0563,CLI0217,2025-02-13,30792.16,6,"Consumo Ya,Seguros Atlántico,Crédito Express,Telecom Dato,Préstamos Rápidos SL,Banco Sur",154 EUR,En Estudio
+EXP_0383,CLI_0244,18/07/2025,51.771 €,5,NaN,"507,64",plan  activo
+EXP_585,CLI_0642,2030/01/01,56417 EUR,3,"Crédito Express,Telecom Dato,Préstamos Rápidos SL",589,Plan Activo
+EXP0397,CLI_0125,"October 01, 2025","21.308,06",7,Telecom Dato y Consumo Ya y Caja Campiña y Tarjetas Mediterráneo y Préstamos Rápidos SL y Crédito Express y Financiera Hispalis,436,ACEPTADO / EN NEGOCIACIÓN
+exp-631,CLI_0162,2025-08-22,16526,7,Crédito Express; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Consumo Ya; Telecom Dato; Préstamos Rápidos SL,202 €,ACEPTADO / EN NEGOCIACIÓN
+exp-293,CLI_0289,21/06/2025,36016,8,"Banco Norte,Consumo Ya,Préstamos Rápidos SL,Seguros Atlántico,Tarjetas Mediterráneo,Financiera Hispalis,Banco Sur,Telecom Dato",272.49,En Estudio
+EXP_0875,CLI_0029,2025-07-11,16648,,Financiera Hispalis; Crédito Express; Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Consumo Ya,151, En Estudio
+EXP_0197,CLI0414,28/02/2025,64552,4,Caja Campiña | Préstamos Rápidos SL | Seguros Atlántico | Consumo Ya,546 €,Plan Activo
+EXP_0149,CLI_0215,"September 29, 2025",14088,3,Banco Sur / Consumo Ya / Caja Campiña,260 €,Cancelado con Exito
+EXP_526,CLI_0117,18-01-25,€ 27475,8,Seguros Atlántico; Financiera Hispalis; Banco Sur; Préstamos Rápidos SL; Crédito Express; Telecom Dato; Consumo Ya; Banco Norte,"458,71",Incumplido
+EXP_0757,CLI0178,04/03/2025,50.494,6,"Financiera Hispalis,Consumo Ya,Préstamos Rápidos SL,Tarjetas Mediterráneo,Telecom Dato,Banco Sur",237.18,ACEPTADO / EN NEGOCIACIÓN
+exp-191,CLI_0306,19.02.2025,64661,8,banco sur y Seguros Atlántico y Caja Campiña y Préstamos Rápidos SL y Crédito Express y Telecom Dato y Tarjetas Mediterráneo y Banco Norte,586,En Estudio 
+EXP_0044,CLI_0318,16.09.2025,29.429,5,null,223,plan  activo
+EXP_0961,cli-147,2025/01/20,20.516,2,Caja Campiña | Tarjetas Mediterráneo,679,Plan Activo
+EXP_257,CLI_0612,2025-06-28,€ 57154,cinco,Consumo Ya / Seguros Atlántico / Financiera Hispalis / Banco Sur / Tarjetas Mediterráneo / Caja Campiña,445,En Estudio
+EXP0455,CLI_0123,03/08/2025,"10.505,74",2,N/A,null,Aceptado / En Negociación
+EXP_0413,CLI_0186,26/05/2025,36488,6,"Tarjetas Mediterráneo,Seguros Atlántico,Préstamos Rápidos SL,Banco Sur,Caja Campiña,Consumo Ya",191.22,Aceptado / En Negociación
+EXP_0309,CLI_0031,18/05/2025,10.630,4,Préstamos Rápidos SL / Financiera Hispalis / Consumo Ya / Telecom Dato,480,En Estudio
+EXP0933,CLI_0548,21/05/2025,51960,n/d,Caja Campina; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Banco Sur,681,Plan Activo
+exp-170,CLI_0663,27/01/2025,12.135,2,Telecom Dato / Seguros Atlántico,a determinar,En Estudio 
+EXP0898,CLI_0002,2025-09-09,"39.071,80",5,Financiera Hispalis; Consumo Ya ; Telecom Dato; Caja Campiña; Banco Norte,446,aceptado / en negociación
+exp-942,CLI_0149,"July 13, 2025",58311.52,8,Consumo Ya; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis; Banco Sur,€ 607,Aceptado / En Negociación 
+exp-265,CLI_0047,2025-06-30,15538,2,"Tarjetas Mediterráneo,Banco Sur",558 €,Aceptado / En Negociación 
+EXP0018,cli-327,04.05.2025,13027,6,"Caja Campiña,Banco Norte,Banco Sur,Seguros Atlántico,Tarjetas Mediterráneo,Consumo Ya",535,Aceptado / En Negociación
+EXP_0683,CLI_0356,2025-12-23,"49.982,12",6,Seguros Atlántico; Crédito Express; Telecom Dato; Consumo Ya; Tarjetas Mediterráneo; Financiera Hispalis,414,CANCELADO CON ÉXITO
+EXP_0012,cli-666,2025-05-28,57.890,6,"Banco Norte,Financiera Hispalis,Consumo Ya,Crédito Express,Telecom Dato,Caja Campiña",322,Cancelado
+EXP_0872,CLI_0346,2025-04-11,58.521 €,8,"Tarjetas Mediterráneo,Caja Campiña,crédito express,Telecom Dato,Banco Sur,Préstamos Rápidos SL,Consumo Ya,Banco Norte","393,68",Aceptado / En Negociación
+EXP_0202,CLI_0182,2025-03-03,"30.904,29",5,Consumo Ya / Crédito Express / Telecom Dato / Tarjetas Mediterráneo,"567,34",Plan Activo
+EXP_0357,193,2025-08-05,€ 46433,2,Crédito Express y Caja Campiña,€ 558,PLAN ACTIVO
+EXP_0743,CLI_0005,24.06.2025,22.075 €,2,"Consumo Ya,Préstamos Rápidos SL",698,Cancelado con Éxito
+EXP_0497,CLI_0255,15.09.2025,€ 13949,6,Banco Norte; Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis,375, Plan Activo
+EXP_0224,cli-249,2025-08-25,42.749,5,"Consumo Ya,Seguros Atlántico,Financiera Hispalis,Caja Campiña","180,82",Aceptado/En Negociacion
+EXP_41,CLI_0053,24/04/2025,63778.47,n/d,Tarjetas Mediterráneo; Banco Norte; Crédito Express; Telecom Dato,577,Plan Activo
+exp-472,CLI_0314,14/05/2025,52.090,dos,"Banco Norte,Financiera Hispalis,Seguros Atlántico,Consumo Ya,Telecom Dato",412,En Estudio
+EXP_0649,CLI0002,2025-09-21,31.734,cuatro,Seguros Atlántico / Préstamos Rápidos SL / Crédito Express / Banco Sur / Banco Norte / Telecom Dato,698 EUR,aceptado / en negociación
+EXP_0494,CLI0291,"September 24, 2025",15.992,8,"Consumo Ya,Telecom Dato,Préstamos Rápidos SL,Banco Sur,Tarjetas Mediterráneo,Financiera Hispalis,CAJA CAMPIÑA,Seguros Atlántico",368,PLAN ACTIVO
+EXP_0758,CLI_0368,30/01/2025,"35.532,12",6,"Consumo Ya,Crédito Express,Préstamos Rápidos SL,Financiera Hispalis,Tarjetas Mediterráneo",657,En Estudio
+EXP_0647,CLI_0673,22/07/2025,null,4,Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Caja Campiña,388 €,Activo
+EXP_0603,576,NULL,60443.36,2,Caja Campiña; Crédito Express,€ 498,Aceptado / En Negociación
+EXP_706,CLI_0022,NaN,12.281,2,"Crédito Express,Préstamos Rápidos SL",345.86,Aceptado / En Negociación
+EXP_0428,CLI_0668,2025-11-02,€ 46482,6,Telecom Dato; Seguros Atlántico; Tarjetas Mediterráneo; Banco Norte; Crédito Express; Consumo Ya ,568.37,CANCELADO CON ÉXITO
+EXP_0759,343,2025-07-15,47.455,8,Telecom Dato / Préstamos Rápidos SL / Banco Norte / Caja Campiña / Banco Sur / Crédito Express / Consumo Ya / Tarjetas Mediterráneo,210,Plan Activo
+EXP_592,cli-182,2025/04/01,46873,cuatro,Consumo Ya; Tarjetas Mediterráneo; banco sur; Crédito Express; Banco Norte; Préstamos Rápidos SL; Financiera Hispalis; Seguros Atlántico,653.15,Plan Activo
+EXP_0367,173,18-10-25,15.888,5,Préstamos Rápidos SL; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis,"452,88", Plan Activo
+exp-955,CLI_0627,04/06/2025,"32.332,13",8,Banco Sur / Caja Campiña / Financiera Hispalis / Banco Norte / Préstamos Rápidos SL / Telecom Dato / Tarjetas Mediterráneo / Crédito Express,€ 424,Plan  Activo
+EXP0688,CLI_0404,14/12/2025,16.586,8,Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Caja Campiña; Crédito Express; Seguros Atlántico; Telecom Dato; Banco Sur,268 €,ACEPTADO / EN NEGOCIACIÓN
+EXP_854,CLI_0634,2025-05-21,43420,4,Banco Norte y Préstamos Rápidos SL y Caja Campiña y Seguros Atlántico,"465,04",aceptado / en negociación
+EXP_0363,CLI_0051,2025-09-13,25.203,7,Préstamos Rápidos SL; Banco Norte; Caja Campiña; Consumo Ya; Financiera Hispalis; TARJETAS MEDITERRÁNEO; Crédito Express,252,PLAN ACTIVO
+EXP_0133,CLI_0307,12/05/2025,49102,7,Caja Campiña / Tarjetas Mediterráneo / Seguros Atlántico / Financiera Hispalis / Banco Norte / Consumo Ya / Crédito Express,648,Aceptado / En Negociacion
+EXP_0016,CLI_0649,2025-11-09,14895.25,7,Banco Sur; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Banco Norte; Crédito Express; Préstamos Rápidos SL,"289,64",Plan Activo
+EXP_80,CLI_0607,28/04/2025,57.356,6,Préstamos Rápidos SL / Crédito Express / Consumo Ya / Banco Norte / Tarjetas Mediterráneo / Caja Campiña,346 €,Cancelado con Éxito
+EXP_0226,CLI_0596,2025-10-16,58.183 €,6,n/d,531 €,Incumplido
+EXP_0715,CLI_0078,2025-04-24,"14.043,95",3,Banco Norte y Financiera Hispalis y Caja Campina,487,PLAN ACTIVO
+exp-188,CLI_0014,2025-06-19,41925,2,Banco Sur; Seguros Atlántico,n/d,aceptado / en negociación
+EXP_0118,CLI_0581,2025-03-20,48.096,4,Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Caja Campiña,408,Aceptado / En Negociación
+EXP_0478,CLI0105,2025/08/30,"11.477,94",2,"Banco Norte,Seguros Atlántico",179,Plan Activo
+EXP_569,CLI_0116,N/A,"13.581,45",7,"Financiera Hispalis,Préstamos Rápidos SL,Telecom Dato,Banco Norte,Banco Sur,Tarjetas Mediterráneo,Consumo Ya",498 €,Incumplido 
+EXP_274,CLI_0119,28-04-25,14.194 €,9,"Financiera Hispalis,Caja Campiña,Banco Norte,Telecom Dato,Crédito Express,Tarjetas Mediterráneo,Seguros Atlántico","656,88",Cancelado con Éxito
+EXP_0182,CLI0070,2025/06/04,20491.32,7,Caja Campiña; Financiera Hispalis ; Banco Sur; Telecom Dato; Crédito Express; Banco Norte,346,Aceptado / En Negociación
+EXP_0358,CLI_0399,2025-04-11,29.727 €,4," Seguros Atlántico,Consumo Ya,Crédito Express,Telecom Dato",€ 203,plan  activo
+EXP_566,CLI_0252,2025-03-09,22106,8,Préstamos Rápidos SL / Financiera Hispalis / Banco Sur / Consumo Ya / Telecom Dato / Crédito Express / Caja Campiña / Seguros Atlántico,383 €,Cancelado con Éxito
+EXP0099,CLI0136,2025-04-15,53.510,2,Préstamos Rápidos SL y Crédito Express,583.59,Plan Activo
+EXP_0856,CLI_0337,2025/11/19,"44.313,30",4,"Banco Sur,Telecom Dato,Caja Campiña,Préstamos Rápidos SL",389 €,En Estudio
+EXP0635,CLI_0559,12/09/2025,"37.526,76",4,Crédito Express / Caja Campiña / Financiera Hispalis / Banco Sur,"438,86",En Estudio
+EXP_0675,CLI0094,06/05/2025,"57.047,86",2,,273 €,null
+EXP_0717,CLI_0021,2025-13-01,53.855,7,Telecom Dato / Consumo Ya / Crédito Express / Banco Sur / Préstamos Rápidos SL / Tarjetas Mediterráneo / Caja Campiña,378,Plan Activo
+EXP_0781,CLI_0520,2025-07-09,24767,6," Tarjetas Mediterráneo,Seguros Atlántico,Crédito Express,Consumo Ya,Financiera Hispalis,Préstamos Rápidos SL",€ 663,PLAN ACTIVO
+EXP_0785,CLI_0594,14/11/2025,8718 EUR,7,Préstamos Rápidos SL | Consumo Ya | Banco Norte | Caja Campiña | Banco Sur | Telecom Dato | Seguros Atlántico,155.78,Plan Activo
+EXP_0034,CLI_0511,15/12/2025,53.466,7,Consumo Ya; Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Banco Norte; Banco Sur; Financiera Hispalis,586 €,Aceptado / En Negociacion
+EXP0460,CLI_0324,29/10/2025,42995,7,Préstamos Rápidos SL; Consumo Ya; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Banco Norte; Crédito Express,553.60,Aceptado / En Negociación
+EXP_0646,CLI_0081,2025-11-30,"40.168,90",tres,Préstamos Rápidos SL / Crédito Express / FINANCIERA HISPALIS / Caja Campiña / Consumo Ya / Telecom Dato / Banco Norte / Banco Sur,679 €,
+EXP_0005,CLI_0122,04.09.2025,€ 12260,2,Crédito Express | Tarjetas  Mediterráneo,276.40,Plan Activo 
+EXP_0032,cli-244,11/09/2025,37981,3,Seguros Atlántico y Banco Sur y Telecom Dato,594,Estudio
+exp-817,CLI_0181,2025-07-28,61328,6,Banco Sur | Caja Campiña | Tarjetas Mediterráneo | Seguros Atlántico | Telecom Dato | Financiera Hispalis,0,Cancelado con Éxito
+EXP_0482,CLI_0248,2025-05-14,57710 EUR,2,"Crédito Express,Seguros Atlántico",281,Estudio
+EXP_0372,CLI_0137,2025-08-28,46840,3,Préstamos Rápidos SL ; Caja Campiña; Telecom Dato,389,Plan Activo
+EXP_0503,CLI_0034,2025-07-13,64987,6,"Préstamos Rápidos SL,Seguros Atlántico,Consumo Ya,Caja Campiña,Financiera Hispalis,Telecom Dato","334,48",Aceptado / En Negociación 
+EXP_0161,CLI_1096,09/02/2025,"38.846,60",3,Crédito Express; Banco Sur; Caja Campiña,585,Aceptado / En Negociación 
+EXP_0524,CLI0045,06.03.2025,34.766 €,7,,341.17,En Estudio
+EXP_0855,531,2025-06-29,45575,7,null,196.46, Plan Activo
+EXP_0644,484,31/02/2025,43383 EUR,4,Tarjetas Mediterráneo / Préstamos Rápidos SL / Banco Norte / Financiera Hispalis,478,Cancelado con Éxito
+EXP_0846,34,2025-06-23,8709,2, Telecom Dato y  Banco Norte,"197,74",Plan Activo
+exp-924,CLI_0005,23/05/2025,34590 EUR,2,"Seguros Atlántico,Banco Sur",376,En Estudio
+exp-838,CLI_0230,2025-04-02,57940 EUR,5,"Telecom Dato,Banco Sur,Caja Campiña,Tarjetas Mediterráneo,Financiera Hispalis","249,22",En Estudio
+EXP_0595,CLI0004,2025-02-25,31481.16,6,Crédito Express; Caja Campiña; Banco Sur; Financiera Hispalis; Seguros Atlántico; Consumo Ya,€ 478,plan activo
+EXP_0540,CLI_0528,07/03/2025,37834.36,7,Banco Sur; Préstamos Rápidos SL; Financiera Hispalis; Caja Campiña; Consumo Ya; Telecom Dato; Seguros Atlántico,457, Cancelado con Éxito
+EXP_0369,CLI0533,25-02-25,51.807,5,Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Seguros Atlántico; Crédito Express,"635,53",plan activo
+EXP_0232,CLI_0264,"January 01, 2030",61500 EUR,7,Crédito Express; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; CONSUMO YA; Caja Campiña; Financiera Hispalis,"173,32",PLAN ACTIVO
+EXP_0135,CLI_0641,2025-09-09,42879,4,Banco Norte; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis,"350,07",Cancelado con Éxito
+exp-991,CLI_0629,19/06/2025,17.914,8,"Financiera Hispalis,Banco Sur,Caja Campiña,Consumo Ya,Banco Norte,Tarjetas Mediterráneo,Préstamos Rápidos SL,Seguros Atlántico",592,Aceptado / En Negociación
+EXP_0489,CLI_0259,18/03/2025,40.078 €,null,Tarjetas Mediterráneo | Crédito Express | Financiera Hispalis | Consumo Ya | Banco Norte | Telecom Dato | Caja Campiña,614,Aceptado / En Negociación 
+EXP_0951,CLI_0515,18/11/2025,60.537 €,4,N/A,544,Plan  Activo
+EXP_0141,CLI_0215,2025-08-25,33309,5,Caja Campiña / Banco Norte / Seguros Atlántico / Telecom Dato / Banco Sur,€ 672,en estudio
+EXP_0652,CLI_0050,14/10/2025,30.761 €,tres,Seguros Atlántico; Caja Campiña,447 €,Plan Activo
+EXP_0093,CLI_0532,2025/03/02,61578,5,"Crédito Express,FINANCIERA HISPALIS,Caja Campiña,Préstamos Rápidos SL,Consumo Ya","252,46",En Estudio
+EXP_0521,614,16-05-25,61713.77,5,Préstamos Rápidos SL; Banco Sur; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo,509,plan  activo
+EXP_0003,CLI_0427,2025-09-20,"13.512,11",5,Telecom Dato; Crédito Express; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur,N/A,null
+EXP_0060,CLI0472,2025-09-08,38.304 €,7,Financiera Hispalis / Crédito Express / Tarjetas Mediterráneo / Banco Norte / Seguros Atlántico,"273,57",En Estudio 
+EXP_0157,449,2025-06-21,25.093 €,5,"Telecom Dato,Consumo Ya,Tarjetas Mediterráneo,Banco Norte,Seguros Atlántico",216,Aceptado / En Negociación
+EXP_0596,255,2025-08-09,19817,N/A,Financiera Hispalis; Banco Sur; Telecom Dato; Crédito Express; Banco Norte,"240,78",Activo
+EXP_0828,CLI_0130,2025-08-15,35416,6,Seguros Atlántico; Financiera Hispalis; Banco Sur; Banco Norte; Consumo Ya; Crédito Express,651,plan activo
+EXP_0594,CLI_0234,21/09/2025,€ 53238,3,Consumo Ya y Tarjetas Mediterráneo y Banco Norte,619 EUR,Aceptado / En Negociacion
+EXP_431,cli-596,17/10/2025,-18475,3,Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte,"630,97",Activo
+EXP_0399,CLI_0529,2025/11/17,59.365,4,Banco Sur; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico,474,Aceptado / En Negociación
+EXP_0094,CLI_0595,08/04/2025,35370 EUR,null,Crédito Express / Financiera Hispalis / Banco Sur,369 €,Aceptado / En Negociación
+EXP_0366,CLI_0570,"August 09, 2025",43.810,6,"Telecom Dato,Caja Campiña,Banco Sur,Crédito Express,Financiera Hispalis",697,Aceptado / En Negociación
+EXP_0163,CLI_0212,31/02/2025,32.418 €,3,"Seguros Atlántico,Financiera Hispalis,Crédito Express",626 €,Plan Activo
+EXP_0377,CLI_0638,05/05/2025,42871 EUR,6,Banco Sur | Telecom Dato | Préstamos Rápidos SL | Banco Norte | Crédito Express | Financiera Hispalis,494,En Estudio
+EXP_0866,CLI1148,21-01-25,49.214 €,NaN,Préstamos Rápidos SL / Banco Norte / Consumo Ya / Crédito Express,"516,42",Incumplido
+EXP_0001,CLI_0167,26/05/2025,42.427 €,6,Préstamos Rápidos SL; Crédito Express; Banco Sur; Tarjetas Mediterraneo; Banco Norte; Consumo Ya,672.95,En Estudio
+EXP_0525,CLI_0675,2025-07-18,"60.568,91",4,"Banco Sur,Tarjetas Mediterráneo,Préstamos Rápidos SL,Crédito Express",201,Plan  Activo
+EXP0270,522,2025-02-09,32176.89,5,"Banco Sur,Consumo Ya,Crédito Express,Préstamos Rápidos SL,Financiera Hispalis",348.97,ACEPTADO / EN NEGOCIACIÓN
+EXP_0788,CLI_0038,2025-10-24,€ 58469,4,Consumo Ya | Banco Sur | Caja Campiña | Crédito Express,438,Plan Activo
+EXP_0227,CLI_0671,29/10/2025,31733,2,Seguros Atlántico | Crédito Express,"589,66",Estudio
+EXP_0435,CLI_0332,12.05.2025,53.287 €,7,Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Banco Norte; Consumo Ya; Financiera Hispalis,155.98,aceptado / en negociación
+EXP_0582,CLI_0496,12/05/2025,"57.544,19",8,"Consumo Ya,Tarjetas Mediterráneo,Crédito Express,Caja Campiña,Telecom Dato,Seguros Atlántico,Banco Sur,Financiera Hispalis",569,Aceptado / En Negociación
+EXP_0047,CLI_0551,2025-10-23,25923.95,8,Crédito Express y Banco Sur y Tarjetas Mediterráneo y Préstamos Rápidos SL y Telecom Dato y Caja Campiña y Seguros Atlántico y Banco Norte,359,Cancelado con Exito
+EXP_0697,CLI_0149,06/10/2025,N/A,7,Telecom Dato; Seguros Atlántico; Banco Sur; Crédito Express; Consumo Ya; Financiera Hispalis; Banco Norte,€ 686,Plan Activo
+EXP_0156,CLI_0357,23-03-25,20598.79,8,Telecom Dato / Banco Norte / Crédito Express / Tarjetas Mediterráneo / Caja Campiña / Consumo Ya / Financiera Hispalis / Préstamos Rápidos SL,199 EUR,Plan Activo
+EXP_471,cli-397,20/02/2025,44073,5,Préstamos Rápidos SL; Consumo Ya; Tarjetas Mediterráneo; Banco Norte; Telecom Dato,549,plan activo
+EXP_0722,677,06-08-25,47434,4,Crédito Express / Caja Campiña / Banco Norte / Financiera Hispalis,€ 386,Aceptado / En Negociación
+EXP_0653,CLI0454,2030-01-01,8923,8,Financiera Hispalis | Banco Sur | Caja Campiña | Telecom Dato | Seguros Atlántico | Préstamos Rápidos SL | Banco Norte | Consumo Ya,293,Activo
+EXP_376,CLI_0369,2025-02-22,"63.077,20",6,Telecom Dato; Banco Sur; Tarjetas Mediterráneo; Financiera Hispalis; Préstamos Rápidos SL; Crédito Express,"585,69",Aceptado / En Negociación
+exp-971,CLI_0306,25/02/2025,21553,3,Telecom Dato; Caja Campiña; Crédito Express,478.20,Plan Activo
+EXP_0584,CLI_0280,,11898.94,5,Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis; Seguros Atlántico; Caja Campiña,378,Cancelado con Exito
+exp-493,cli-89,2025-13-01,45.539,2,Seguros Atlántico; Financiera Hispalis,589,Plan Activo
+EXP_0667,CLI_0014,2025/09/18,42609,7,Préstamos Rápidos SL; Financiera Hispalis; Telecom Dato; Crédito Express; Seguros Atlántico; Caja Campiña; Banco Norte,390,Cancelado con Éxito
+EXP_0379,CLI0297,2025-10-10,"33.233,85",6,Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Telecom Dato,372,Plan Activo 
+EXP_0351,CLI0126,2025-07-29,45167,2,"Caja Campiña,Préstamos Rápidos SL",474,Activo
+EXP_0833,cli-177,01/09/2025,10879 EUR,7,Consumo Ya / Telecom Dato / Banco Norte / Préstamos Rápidos SL / Tarjetas Mediterráneo  / Banco Sur / Crédito Express,"288,76",Plan  Activo
+EXP_0680,cli-131,2025-07-12,€ 36880,4,"Seguros Atlántico,Banco Norte,Banco Sur,Préstamos Rápidos SL",197,Activo
+EXP_458,CLI_0144,19/05/2025,14546.25,5,-,432.15,ACEPTADO / EN NEGOCIACIÓN
+EXP0473,CLI_0019,09/09/2025,"57.631,99",7,"Crédito Express,Consumo Ya,Banco Norte,Tarjetas Mediterráneo,Financiera Hispalis,Préstamos Rápidos SL,Banco Sur",219,
+exp-137,CLI_0347,07/11/2025,31.251 €,5,Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis,0,Plan Activo
+EXP_0522,CLI0254,2025-04-18,38858,4,Telecom Dato; Préstamos Rápidos SL; Banco Norte; Crédito Express,589,Plan Activo
+EXP_0521,614,16-05-25,61713.77,5,Préstamos Rápidos SL; Banco Sur; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo,509,plan  activo
+exp-853,cli-677,2025-08-14,13461.83,2,Crédito Express; Financiera Hispalis,243 €,Cancelado
+EXP_0693,190,03/04/2025,55307,7,"Seguros Atlántico,Crédito Express,Caja Campiña,Consumo Ya,Tarjetas Mediterráneo,Financiera Hispalis,Banco Sur",484,Plan Activo
+EXP_0641,CLI_0605,13.10.2025,38571,7,"Financiera Hispalis,Telecom Dato,Préstamos Rápidos SL,Caja Campiña,Seguros Atlántico,Crédito Express,Banco Norte,Consumo Ya",411,En Estudio
+EXP_0516,CLI_0111,2025-04-09,31.588,3,"Financiera Hispalis,Consumo Ya,Seguros Atlántico",549 EUR,Aceptado/En Negociacion
+EXP_0233,cli-673,02/05/2025,45.316 €,cinco,"Financiera Hispalis,Préstamos Rápidos SL,Consumo Ya,Telecom Dato,Crédito Express,Caja Campiña,Banco Norte",616,Estudio
+EXP_0169,CLI_0314,2025-04-30,33.137,6,Financiera Hispalis y Tarjetas Mediterráneo y Banco Sur y Crédito Express y Préstamos Rápidos SL,428 €,En Estudio
+EXP_0395,CLI_0129,"July 24, 2025","26.188,89",6,"Financiera Hispalis,Banco Sur,Consumo Ya,Crédito Express,Banco Norte,Tarjetas Mediterráneo",490 €,plan  activo
+exp-171,303,2025-02-10,"20.725,67",6,Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Sur; Telecom Dato,"415,83",Aceptado / En Negociación
+EXP_0288,CLI_0534,N/A,31.680,6,Préstamos Rápidos SL; Banco Sur; CONSUMO YA; Banco Norte; Telecom Dato; CAJA CAMPIÑA,"288,00",Incumplido
+EXP_0819,CLI_0623,19-04-25,36528,5,Préstamos Rápidos SL / Telecom Dato / Caja Campiña / Banco Norte / Tarjetas Mediterráneo,464 €,Aceptado / En Negociacion
+EXP_0871,cli-360,"September 10, 2025",25056 EUR,8,Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; CAJA CAMPIÑA; Banco Norte; Consumo Ya; Préstamos Rápidos SL,354,Activo
+EXP_0097,CLI_0578,2025-06-12,60666 EUR,3,"Caja Campiña,Banco Norte,Seguros Atlántico",215 €,en estudio
+EXP_0200,CLI_0599,2025-07-11,"54.968,11",4,Préstamos Rápidos SL / Seguros Atlántico / Caja Campiña,295,Aceptado / En Negociación
+EXP_0350,CLI_0652,05/07/2025,55127,8,null,413,Plan Activo
+EXP_980,CLI_0653,10-03-25,38888 EUR,7,Préstamos Rápidos SL / Banco Norte / Banco Sur / Crédito Express / Seguros Atlántico /  Financiera Hispalis / Consumo Ya,"353,59",Plan  Activo
+EXP_0579,CLI_0930,2025-02-06,64710,4,Telecom Dato | Tarjetas Mediterráneo | Banco Norte | Crédito Express,308 €,Cancelado con Éxito
+exp-316,CLI_0611,2025-09-21,€ 58158,8,Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Financiera Hispalis; Banco Norte; Telecom Dato,"327,37",Aceptado / En Negociación
+EXP_0974,CLI_0408,06.03.2025,29740,6,Banco Norte; Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico,333,Aceptado / En Negociacion
+EXP_0597,630,2025-06-11,€ 9179,dos,Seguros Atlantico; Tarjetas Mediterráneo,345,aceptado / en negociación
+EXP0892,CLI_0301,11/05/2025,"30.156,45",4,Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express,€ 177,plan  activo
+EXP_0859,CLI_0397,2025-02-16,31.179,8,Préstamos Rápidos SL / Banco Norte / Caja Campiña / Banco Sur / Crédito Express / Seguros Atlántico,"218,35",Plan Activo
+EXP_0702,CLI0612,2025-07-01,8.189 €,7,Seguros Atlántico; Telecom Dato; Financiera Hispalis; Banco Sur; Consumo Ya; Crédito Express; Préstamos Rápidos SL,€ 280,Cancelado con Éxito
+EXP_0409,CLI_0652,25/07/2025,46270,5,Banco Sur; Préstamos Rápidos SL; Caja Campiña; Financiera Hispalis; Seguros Atlántico,308,En  Estudio
+EXP_0889,CLI_0311,"September 03, 2025",n/d,3,Banco Sur; Seguros Atlántico; Banco Norte,457,Activo
+EXP_0317,CLI_0061,2025-11-21,"54.634,94",5,"Financiera Hispalis,Tarjetas Mediterráneo,Banco Sur,Banco Norte",660.60,Plan Activo
+EXP0790,CLI0057,,19111 EUR,4,Financiera Hispalis y Caja Campiña y Seguros Atlántico y Banco Norte,196,Plan Activo
+EXP_0289,360,"September 16, 2025","63.256,34",6,"Crédito Express,Telecom Dato,Préstamos Rápidos SL,Banco Norte,Caja Campiña",698,Plan Activo
+EXP_0578,CLI_0101,25.09.2025,56188.18,4,Seguros Atlántico / Tarjetas Mediterráneo / préstamos rápidos sl / Crédito Express,219 EUR,En Estudio
+EXP_0656,CLI_0016,2030/01/01,19.461,3,Telecom Dato / Crédito Express / Préstamos Rápidos SL,214,plan activo
+exp-684,CLI_0521,11/05/2025,"49.046,09",3,Financiera Hispalis / Seguros Atlántico / Caja Campiña,234,Cancelado con Éxito
+EXP_0167,CLI_0657,26-08-25,"57.148,53",5,Tarjetas Mediterráneo y Crédito Express y Consumo Ya y Caja Campiña y Seguros Atlántico,291,Plan Activo
+EXP_0972,CLI_0124,,56.256,6,Banco Sur | Consumo Ya | Telecom Dato | Tarjetas Mediterráneo | Préstamos Rápidos SL | Crédito Express,291 €,Plan Activo 
+EXP_0249,CLI_0125,12/10/2025,,4,Banco Norte; Préstamos Rápidos SL;  Crédito Express; Financiera Hispalis,659.44,ACEPTADO / EN NEGOCIACIÓN
+EXP0204,CLI_0540,09/01/2025,44362,6,Banco Sur | Telecom Dato | Crédito Express | Seguros Atlántico | Consumo Ya | Tarjetas Mediterráneo,NaN,En Estudio
+EXP_0606,CLI_0100,13/02/2025,31797.46,5,Préstamos Rápidos SL; Consumo Ya; Banco Sur; Seguros Atlántico; Telecom Dato; Crédito Express,"671,03",Aceptado / En Negociación 
+EXP_0360,CLI_0034,02-08-25,10.694 €,7,"Tarjetas Mediterráneo,Banco Norte,Telecom Dato,Seguros Atlántico,Financiera Hispalis,Consumo Ya,Caja Campiña",€ 193,aceptado / en negociación
+EXP_445,CLI_0380,2025-03-23,14.647 €,5,Seguros Atlántico; Crédito Express; Préstamos Rápidos SL; Telecom Dato; Caja Campiña,"422,67",En Estudio
+EXP_0330,CLI_0125,2025/09/28,46618,-,"Banco Norte,Seguros Atlántico,Financiera Hispalis,Caja Campiña,Banco Sur,Crédito Express","688,45",Aceptado / En Negociacion
+EXP_0483,CLI_0126,2025-08-01,62244,2,Financiera Hispalis / Tarjetas Mediterráneo,570,Plan Activo
+EXP_0240,CLI_0672,05-08-25,"38.354,52",3,Banco Sur; Crédito Express; Seguros Atlántico,208 EUR,Cancelado con Éxito
+EXP_0258,CLI_0454,30/01/2025,"59.760,88",7,Telecom Dato / Banco Sur / Crédito Express / Banco Norte / Caja Campiña / Financiera Hispalis / Seguros Atlántico,€ 408,plan activo
+EXP_0613,cli-1096,13.02.2025,€ 33732,8,Seguros Atlántico | Caja Campiña | Crédito Express | Telecom Dato | Financiera Hispalis | Préstamos Rápidos SL | Banco Sur | Tarjetas Mediterráneo,605,Aceptado / En Negociación
+EXP0590,CLI_0044,14/05/2025,19422 EUR,5,Crédito Express |  Caja Campiña | Préstamos Rápidos SL | Banco Norte | Financiera Hispalis,172,En Estudio 
+EXP_0840,CLI_0513,2025/09/13,"16.728,34",8,"Telecom Dato,Crédito Express,Consumo Ya,Banco Norte,Seguros Atlántico,Préstamos Rápidos SL,Banco Sur,Tarjetas Mediterráneo",615,En Estudio
+exp-876,CLI0641,08/08/2025,29947,7,"Caja Campiña,Seguros Atlántico,Telecom Dato,Préstamos Rápidos SL,Tarjetas Mediterráneo,Banco Norte,Banco Sur",397,Plan  Activo
+EXP_0012,cli-666,2025-05-28,10.202,6,"Banco Norte,Financiera Hispalis,Consumo Ya,Crédito Express,Telecom Dato,Caja Campiña",322,Cancelado con Éxito
+EXP_0433,CLI_0072,2025-03-04,€ 22932,8,Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Préstamos Rápidos SL; Crédito Express; Telecom Dato; Seguros Atlántico,531 EUR,Incumplido
+EXP_0736,CLI_0145,05/12/2025,26391 EUR,7,Consumo Ya / Caja Campiña / Seguros Atlántico / Financiera Hispalis / Tarjetas Mediterráneo,685 €,Aceptado / En Negociación
+EXP0038,cli-424,01/07/2025,22.179 €,8,Telecom Dato | Tarjetas Mediterráneo | Crédito Express | Banco Sur | Consumo Ya | Caja Campiña | Préstamos Rápidos SL | Seguros Atlántico,€ 534,En Estudio
+EXP_0888,CLI0273,2025-03-29,43400,8,Banco Norte; Crédito Express; Consumo Ya; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Financiera Hispalis,559,ACEPTADO / EN NEGOCIACIÓN
+EXP_0629,CLI_0117,2025/03/03,53.035,5,,,Aceptado / En Negociación
+EXP_0818,CLI_0615,2025-08-05,10480.87,6,Caja Campiña y  Financiera Hispalis y Tarjetas Mediterráneo y Crédito Express y Préstamos Rápidos SL y Banco Sur,"453,93",Incumplido
+EXP_513,CLI_0642,2025-08-26,20.519 €,1,Financiera Hispalis | seguros atlántico,a determinar,Cancelado con Éxito
+exp-767,CLI_0252,15.06.2025,22.494 €,2,"Crédito Express,Tarjetas Mediterráneo",281.90,En Estudio
+EXP0153,CLI_0157,07.03.2025,25142,5,Consumo Ya | Banco Sur | Telecom Dato | Tarjetas Mediterráneo | Préstamos Rápidos SL,426,ACEPTADO / EN NEGOCIACIÓN
+EXP_408,CLI_0635,06-04-25,43339,3,Crédito Express; Financiera Hispalis; BANCO SUR,"699,40",Plan Activo
+EXP_0535,CLI_0474,18/07/2025,"20.773,65",3,Seguros Atlántico; Telecom Dato; Caja Campiña,444,Aceptado/En Negociacion
+EXP_0500,CLI_0656,13.06.2025,59.211,6,Crédito Express; Banco Norte; Banco Sur; Consumo Ya; Financiera Hispalis; Tarjetas Mediterráneo,,Cancelado con Exito
+EXP_0810,cli-548,"July 13, 2025",50.189,4,Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo,278,Cancelado con Exito
+exp-990,CLI0159,2025-06-06,19849,8,"Telecom Dato,Consumo Ya,Banco Sur,Crédito Express,Financiera Hispalis,Seguros Atlántico,Tarjetas Mediterráneo,Caja Campiña","196,23",Aceptado/En Negociacion
+EXP_0611,CLI_0335,2025-06-01,35842 EUR,6,Consumo Ya / Crédito Express / Banco Norte / Préstamos Rápidos SL / Telecom Dato / Caja Campiña,173,Aceptado / En Negociación
+EXP0923,CLI_0214,"May 27, 2025",32.489,dos,Telecom Dato | Banco Norte,656,Aceptado / En Negociación
+EXP0089,cli-543,2025-04-12,32.302 €,2,"Préstamos Rápidos SL,Banco Sur",€ 283,En Estudio 
+EXP_0206,CLI_0643,22/10/2025,15.899,4,CAJA CAMPIÑA; Préstamos Rápidos SL; Crédito Express; Banco Sur,"444,93",Aceptado/En Negociacion
+EXP_154,CLI_0294,2025-05-15,31725.91,8,Banco Sur; Banco Norte; Caja Campiña; Crédito Express; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya,306 €,Plan Activo
+exp-275,CLI_0224,2025/04/12,46725.44,7,Banco Sur / Financiera Hispalis / Préstamos Rápidos SL / Consumo Ya / Caja Campiña,464,PLAN ACTIVO
+exp-805,CLI_0192,30-07-25,38472,3,Telecom Dato; Crédito Express; Consumo Ya ,"666,65",Activo
+EXP_0380,-,02/09/2025,26987.97,2,"Financiera Hispalis,Banco Norte",619 €,Cancelado con Exito
+EXP_0092,CLI0121,"May 25, 2025","46.906,59",2,"Financiera Hispalis,BANCO NORTE",365 €,Plan Activo
+EXP_0783,CLI_0047,2025-06-21,35839,8,Banco Norte | Telecom Dato | Financiera Hispalis | Consumo Ya | Tarjetas Mediterráneo | Seguros Atlántico | Préstamos Rápidos SL | Caja Campiña,479.99,Estudio
+EXP_0870,CLI_0225,2025-08-20,23794,5,Consumo Ya; Seguros Atlántico ; Préstamos Rápidos SL; Caja Campiña; Tarjetas Mediterráneo,652,Plan Activo
+EXP_713,CLI_0595,11.04.2025,59900,4,Banco Sur; CRÉDITO EXPRESS; Tarjetas Mediterráneo; Seguros Atlántico,391,Aceptado/En Negociacion
+exp-241,cli-539,2025-06-12,47.512,2,NULL,184,Plan  Activo
+EXP_0523,CLI_1170,2025-01-30,47547.21,3,Banco Sur | Seguros Atlántico | Banco Norte,,en estudio
+EXP0725,485,2025/07/08,"18.807,98",4,Préstamos Rápidos SL | Banco Norte | Banco Sur | Telecom Dato,514 EUR, Aceptado / En Negociación
+EXP_0558,CLI_0113,05/08/2025,23973.94,7,Consumo Ya | Financiera Hispalis | seguros atlántico | Banco Sur | Caja Campiña | Préstamos Rápidos SL | Banco Norte,281,Aceptado/En Negociacion
+EXP0053,158,15-08-25,46886.70,7,"Crédito Express,Consumo Ya,Financiera Hispalis,Caja Campiña,Banco Sur,Banco Norte,Telecom Dato","504,71",Aceptado / En Negociación
+EXP_0196,662,2025-09-04,27.864,7,Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Seguros Atlántico; Caja Campina; Financiera Hispalis,229 €,Cancelado con Éxito
+EXP_0387,CLI_0373,2025-06-05,"13.746,67",7,Banco Norte / Seguros Atlántico / Préstamos Rápidos SL / Crédito Express / Tarjetas Mediterráneo / Telecom Dato / Caja Campiña,469,incumplido
+EXP_0186,CLI_0086,27/08/2025,48.048 €,5,Financiera Hispalis; Banco Norte; Telecom Dato; Tarjetas Mediterráneo; Consumo Ya,637 €,NULL
+EXP_0159,CLI_0534,2025-04-15,23.308 €,3,"Préstamos Rápidos SL,Caja Campiña",282,en estudio
+EXP_512,CLI_0272,28.01.2025,32595.39,n/d,Caja Campiña ; Financiera Hispalis,326,ACEPTADO / EN NEGOCIACIÓN
+EXP0211,CLI_0579,01.10.2025,16.178 €,7,Caja Campiña | Crédito Express | Seguros Atlántico | Préstamos Rápidos SL | Banco Sur | Tarjetas Mediterráneo | Financiera Hispalis,€ 361,PLAN ACTIVO
+EXP_0651,CLI_0533,2025-03-09,"15.957,57",2,Crédito Express; Banco Norte,"628,78",incumplido
+EXP_0014,CLI_0271,2025/04/15,"8.288,54",6,Financiera Hispalis; Telecom Dato; Préstamos Rápidos SL; BANCO SUR; Crédito Express; Seguros Atlántico,189,Incumplido
+EXP_0011,CLI_0047,2025-06-12,10882 EUR,2,Crédito Express / Consumo Ya,538,Cancelado con Éxito
+EXP_0439,CLI_0155,2025-06-22,42600.85,5,Caja Campiña; Consumo Ya; Banco Sur; Préstamos Rápidos SL; Financiera Hispalis,478,Plan Activo
+EXP_0899,CLI_0421,"November 03, 2025",38179,9,"Consumo Ya,Financiera Hispalis,Crédito Express,Préstamos Rápidos SL,Seguros Atlántico,Telecom Dato,Banco Sur,Tarjetas Mediterráneo",355,aceptado / en negociación
+EXP_0329,CLI_0295,20/06/2025,45623.46,8,Caja Campiña | Consumo Ya | Financiera Hispalis | Telecom Dato | préstamos rápidos sl | Tarjetas Mediterráneo | Seguros Atlántico | Banco Norte,409,plan activo
+EXP0509,CLI_0174,"August 23, 2025",47174,5,"Financiera Hispalis,Telecom Dato,Consumo Ya,Caja Campiña,Seguros Atlántico","159,32",Aceptado / En Negociación
+exp-911,CLI_0458,null,"57.842,27",5,Caja Campiña y Tarjetas Mediterráneo y Préstamos Rápidos SL y Banco Sur y Seguros Atlántico,193,Aceptado / En Negociación
+EXP_0773,CLI_0466,19/10/2025,15.376 €,4,Financiera Hispalis; Caja Campina; Telecom Dato; Consumo Ya; Préstamos Rápidos SL,610,PLAN ACTIVO
+EXP0033,CLI_0635,13/03/2025,56418 EUR,3,Seguros Atlántico; Banco Sur; Crédito Express,530,En Estudio
+EXP_0292,CLI_0676,26/08/2025,€ 29792,8,"Telecom Dato,Financiera Hispalis,Banco Norte,Préstamos Rápidos SL,Consumo Ya,Seguros Atlántico,Caja Campiña,Banco Sur",667,Aceptado / En Negociación
+EXP_0760,CLI_0566,05/04/2025,50.836,2,Consumo Ya | Crédito Express,343 €,Activo
+EXP_0430,CLI_0644,2025-06-04,NULL,2,Caja Campiña; Préstamos Rápidos SL,368,Aceptado / En Negociación
+EXP_0909,CLI0135,2025-10-16,€ 23623,5,Financiera Hispalis; Consumo Ya; Seguros Atlántico; Crédito Express; Préstamos Rápidos SL,526,Plan Activo
+EXP_0401,N/A,N/A,"10.787,96",3,Consumo Ya;  Préstamos Rápidos SL; Banco Norte,241,En Estudio
+EXP_216,CLI_0425,29/06/2025,53226,3,Banco Sur; Financiera Hispalis; Telecom Dato,273,Aceptado / En Negociación
+EXP_616,CLI_0573,2025-05-23,42.551 €,6,Telecom Dato / Consumo Ya / Préstamos Rápidos SL / Seguros Atlántico / Banco Sur / Financiera Hispalis,289,en estudio
+EXP_0764,CLI_0557,28-09-25,41315,5,Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Banco Norte,660 EUR, En Estudio
+EXP_0404,CLI_0119,2025-04-27,23140.34,7,"Financiera Hispalis,Caja Campiña,Seguros Atlántico,Préstamos Rápidos SL,Crédito Express,Banco Norte,Telecom Dato",299,Aceptado/En Negociacion
+EXP0740,CLI_0183,"July 06, 2025",50.613,3,"Financiera Hispalis,Consumo Ya,Banco Norte",222 €,Aceptado / En Negociación
+EXP_499,399,2025-04-12,€ 13377,2,Telecom Dato | Caja Campiña,-,Plan Activo 
+EXP_123,CLI_0005,25/06/2025,29.212 €,5,"Crédito Express,Banco Norte,Préstamos Rápidos SL,Telecom Dato,Tarjetas Mediterráneo",265.95,Plan Activo
+EXP_0116,CLI0213,2025-10-14,63.591,n/d,Banco Sur; Crédito Express; Consumo Ya; Caja Campiña,565,Plan Activo
+EXP0679,417,16/11/2025,36752,3,Tarjetas Mediterráneo y Banco Sur y Crédito Express,172 EUR,Aceptado/En Negociacion
+EXP_0026,CLI_0428,2025-09-12,12381,7,Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Financiera Hispalis; Caja Campiña; Banco Sur,€ 614,ACEPTADO / EN NEGOCIACIÓN
+EXP_0042,CLI_0235,13/03/2025,"30.201,69",6,"Financiera Hispalis,Crédito Express,Préstamos Rápidos SL,Caja Campiña,Banco Norte,Seguros Atlántico",696,Incumplido
+exp-692,CLI_0529,03-11-25,26182,5,Consumo Ya;  Crédito Express; Préstamos Rápidos SL; Banco Norte; Telecom Dato,550 EUR,Cancelado con Éxito
+exp-303,CLI_0127,11/03/2025,9.638 €,4,Banco Norte / Financiera Hispalis / Consumo Ya / Tarjetas Mediterráneo,216,Cancelado con Exito
+EXP_0776,CLI_0563,2025/06/30,46833,5,-,454 €,n/d
+EXP_0386,CLI_0146,15/09/2025,64.432,4,"Préstamos Rápidos SL,Banco Norte,Caja Campiña,Telecom Dato",572 EUR, En Estudio
+EXP_0543,CLI_0578,32-01-25,"63.371,28",4,"Tarjetas Mediterráneo,Seguros Atlántico,Consumo Ya,Financiera Hispalis",N/A,PLAN ACTIVO
+EXP_142,CLI_0507,2025-06-29,51284,2,Telecom Dato; Préstamos Rápidos SL,365,Plan Activo
+EXP_0189,CLI_0259,2025-04-22,11.331,5,"Préstamos Rápidos SL,Caja Campiña,Banco Norte,Consumo Ya,SEGUROS ATLÁNTICO",165,Activo
+EXP_0777,CLI_0320,26-08-25,32567,-,Seguros Atlántico y Financiera Hispalis,366 €,Incumplido 
+EXP_0333,CLI_0381,"February 14, 2025",44.458 €,5,"Consumo Ya,Caja Campiña,Seguros Atlántico,Tarjetas Mediterráneo,Financiera Hispalis",685 EUR,Cancelado con Éxito
+EXP_0267,CLI_0987,23/02/2025,63.297,dos,Consumo Ya | Financiera Hispalis | Préstamos Rápidos SL | Telecom Dato | Caja Campiña | Banco Norte,169,Activo
+exp-886,533,15/03/2025,14412 EUR,8,"Préstamos Rápidos SL,Telecom Dato,Banco Norte,Crédito Express,Consumo Ya,Seguros Atlántico,Caja Campiña,Tarjetas Mediterráneo",535,Aceptado / En Negociacion
+EXP_0479,cli-88,2025-05-06,"12.284,98",7,Banco Norte y Caja Campiña  y Préstamos Rápidos SL y Crédito Express y Seguros Atlántico y Banco Sur y Consumo Ya,202 €,CANCELADO CON ÉXITO
+EXP_0107,CLI_0639,21/10/2025,"46.866,96",5,Financiera Hispalis | Seguros Atlántico | Banco Sur | TELECOM DATO | Banco Norte,663 €,Aceptado / En Negociación
+exp-654,CLI_0550,29/07/2025,38.038,3,Crédito Express / Consumo Ya / Préstamos Rápidos SL,682 EUR,Plan Activo
+EXP_0716,CLI_0670,-,35.798,3,Consumo Ya; Telecom Dato; Banco Sur,"662,73",Aceptado  /  En  Negociación
+EXP_0332,17,2025-07-17,54.731,5,BANCO NORTE / Financiera Hispalis / Banco Sur / Tarjetas Mediterráneo,430,Aceptado / En Negociación
+EXP_0122,CLI_0468,14.07.2025,29747,tres,"Financiera Hispalis,Seguros Atlántico,Banco Norte,Préstamos Rápidos SL,Crédito Express",540,Aceptado / En Negociacion
+EXP_0391,cli-245,03/09/2025,41650,null,Banco Norte y Préstamos Rápidos SL y Banco Sur,423,Cancelado con Éxito
+EXP_0052,CLI_0576,09/05/2025,54763 EUR,5,"Banco Norte,Caja Campiña,Seguros Atlántico,Financiera Hispalis",350,Plan Activo
+EXP_0610,CLI_0258,28/02/2025,"18.439,02",6,"Tarjetas Mediterráneo,BANCO NORTE,Consumo Ya,Seguros Atlántico,Crédito Express,Financiera Hispalis",657,Aceptado  /  En  Negociación
+EXP_0446,CLI_0107,03-10-25,64.164,5,Seguros Atlántico | Crédito Express | Financiera Hispalis,333,INCUMPLIDO
+EXP_0481,CLI0051,2030-01-01,23785,8,"Seguros Atlántico,Crédito Express,Banco Sur,Caja Campiña,Préstamos Rápidos SL,Banco Norte,Telecom Dato,Consumo Ya",473,Aceptado
+EXP0928,CLI_0584,2025-03-11,31026.52,6,Telecom Dato; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya,670,Incumplido
+exp-948,CLI_0097,2025-04-20,13781 EUR,6,Banco Sur / Crédito Express / Caja Campiña / Préstamos Rápidos SL / Consumo Ya  / Tarjetas Mediterráneo,676,aceptado / en negociación
+EXP_0104,CLI0303,04/01/2025,€ 51176,7,"Telecom Dato,Seguros Atlántico,Crédito Express,Banco Sur,Préstamos Rápidos SL,Financiera Hispalis,Consumo Ya","371,63",Plan Activo
+EXP0243,CLI_0383,2025/10/25,"60.733,98",7,Telecom Dato ; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico,407,aceptado / en negociación
+EXP_0345,218,2025-02-05,"50.599,90",8," Seguros Atlántico,Préstamos Rápidos SL,Consumo Ya,Banco Sur,Tarjetas Mediterráneo,Caja Campiña,Banco Norte,Crédito Express",688,Cancelado
+EXP_300,CLI_0130,15.08.2025,62.535,4,Seguros Atlántico; Préstamos Rápidos SL; Banco Norte; Caja Campiña,€ 456,Aceptado / En Negociación
+EXP_0941,177,04/09/2025,10479,4,Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte,"426,89",Aceptado / En Negociación 
+exp-278,CLI_0675,25/07/2025,53336.75,2,Crédito Express / Préstamos Rápidos SL,618,Plan Activo
+EXP_811,CLI_0595,2025-05-23,22063.54,9,"FINANCIERA HISPALIS,Préstamos Rápidos SL,Telecom Dato,Tarjetas Mediterráneo,Caja Campiña,Consumo Ya,Banco Norte",503,Activo
+exp-177,186,15/06/2025,"36.668,34",7,Préstamos Rápidos SL; Banco Sur; Financiera Hispalis; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo; Crédito Express,"393,08",Plan Activo
+EXP_0410,CLI0637,2025/03/19,30949,5,"Financiera Hispalis,Banco Sur,Consumo Ya,Seguros Atlántico,Préstamos Rápidos SL",397,Aceptado/En Negociacion
+EXP_0559,CLI_0259,2025/04/08,31.014,6,Consumo Ya; Banco Norte; Préstamos Rápidos SL; financiera hispalis; Caja Campiña; Seguros Atlántico,€ 506,Aceptado
+EXP_0242,CLI_0078,2025-05-07,28182,4,Financiera Hispalis; Banco Sur; Caja Campiña; BANCO NORTE,408.34,Aceptado  /  En  Negociación
+EXP0382,cli-329,"April 12, 2025",51787,3,Tarjetas Mediterráneo y Préstamos Rápidos SL y Banco Sur y Seguros Atlántico,€ 428,plan activo
+exp-989,CLI0302,12/08/2025,60112,5,Telecom Dato; Caja Campiña; Préstamos Rápidos SL,348,EN ESTUDIO
+EXP_860,cli-491,11/10/2025,37200.82,2,Crédito Express; Seguros Atlántico,220,aceptado / en negociación
+EXP_0970,CLI_0229,12/07/2025,26655,6,Tarjetas Mediterráneo / Caja Campiña / Telecom Dato / Seguros Atlántico / Crédito Express,400,Estudio
+EXP_0281,cli-88,12-05-25,34053,3,Consumo Ya; Banco Sur; Telecom Dato,471 €,Plan Activo
+EXP_0922,CLI0479,12/09/2025,59.821,5,Banco Norte; Préstamos Rápidos SL; Crédito Express; Tarjetas Mediterráneo; Telecom Dato,254,Aceptado / En Negociación
+EXP_0164,CLI_0080,2025-07-28,59317,8,Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Crédito Express,311,Plan Activo 
+EXP0589,CLI_0485,22/06/2025,€ 17548,4,"Préstamos Rápidos SL,Seguros Atlántico,Financiera Hispalis,Crédito Express",444,Aceptado
+EXP_0532,CLI_0633,04-07-25,58484.47,6,Préstamos Rápidos SL / Banco Sur / Caja Campiña / Consumo Ya / Telecom Dato / Banco Norte,"380,37",En Estudio
+EXP_0422,CLI_0320,19/09/2025,18971,4,Consumo Ya / Seguros Atlántico / Telecom Dato / Banco Sur,"422,48",Plan Activo 
+EXP_0670,cli-205,2025-05-28,€ 23943,4,Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico; Telecom Dato,€ 643,ACEPTADO / EN NEGOCIACIÓN
+EXP_851,CLI0427,2025-10-18,13296,7,Banco Sur / Consumo Ya / Telecom Dato / Caja Campiña /  Seguros Atlántico / Financiera Hispalis / Préstamos Rápidos SL,536,Plan Activo
+EXP_0644,484,31/02/2025,48338 EUR,4,Tarjetas Mediterráneo / Préstamos Rápidos SL / Banco Norte / Financiera Hispalis,478,INCUMPLIDO
+EXP_0209,cli-585,19/05/2025,15454,2,Consumo Ya  / Tarjetas Mediterráneo,414.65,Cancelado con Éxito
+EXP_0800,CLI_0135,28/08/2025,61294,5,financiera hispalis / Telecom Dato / banco sur / Caja Campiña / Banco Norte,384,En Estudio
+EXP_0931,CLI_0184,2025-09-13,23106 EUR,3," Banco Norte,Caja Campiña,Financiera Hispalis",665 €,Plan  Activo
+EXP_0986,CLI_0075,28-07-25,"23.434,85",2,Financiera Hispalis y Crédito Express,"586,25",En Estudio
+exp-88,CLI_0459,2025-09-04,49000,4,Financiera Hispalis y Préstamos Rápidos SL y Banco Norte y Seguros Atlántico,399 EUR,Plan Activo
+EXP0462,CLI_0380,2025-04-08,39471,2,Crédito Express; Caja Campiña,"343,37",INCUMPLIDO
+EXP_0994,CLI_0563,22-07-25,18.531,7,Crédito Express; Banco Norte; Seguros Atlántico; Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Consumo Ya,363,plan  activo
+EXP_0337,CLI_0053,09/03/2025,€ 18757,5,Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Banco Norte; financiera hispalis,387,En Estudio
+EXP_0238,CLI_0396,15/11/2025,50.345,4,Banco Sur; Seguros Atlántico; Financiera Hispalis; Banco Norte,672,Plan Activo
+EXP_0660,CLI_0516,09/02/2025,33044,7,n/d,647,Plan Activo
+EXP_0388,CLI_0078,17.03.2025,13367,3,Telecom Dato; Banco Norte; Consumo Ya,688 EUR,Aceptado / En Negociación
+EXP_0722,677,06-08-25,45.864 €,4,Crédito Express / Caja Campiña / Banco Norte / Financiera Hispalis,€ 386,Cancelado con Éxito
+EXP_0730,cli-50,16/10/2025,64071,4,"Caja Campiña,Financiera Hispalis,Banco Norte,Consumo Ya,Banco Sur",425 €,Plan Activo
+EXP0487,CLI_0540,"February 22, 2025",54.684 €,6,"Préstamos Rápidos SL,Seguros Atlántico,Tarjetas Mediterráneo,Caja Campiña,Banco Norte,Financiera Hispalis",539,Cancelado con Éxito
+EXP0993,CLI_0461,2025-09-05,10.309 €,4,Préstamos Rápidos SL; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte,207, Aceptado / En Negociación
+EXP_0469,564,2025-03-04,21153,4,Tarjetas Mediterráneo / Financiera Hispalis / Seguros Atlántico / Consumo Ya,256,Activo
+exp-349,CLI_0273,01/03/2025,58.720 €,2,Seguros Atlántico; Financiera Hispalis,319 EUR,Aceptado / En Negociación
+EXP_0009,CLI_0394,2025-07-26,62530 EUR,3,Telecom Dato; Tarjetas Mediterráneo; Banco Norte,626 €,Aceptado / En Negociación
+EXP_0541,667,29.06.2025,28195,3, Consumo Ya; Préstamos Rápidos SL; Banco Sur,602,PLAN ACTIVO
+EXP_0352,CLI_0278,2025-10-01,30249 EUR,8,Telecom Dato; Crédito Express; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Caja Campiña,312,En  Estudio
+EXP0636,CLI_0288,2025-06-26,13760 EUR,2,null,697.42, Plan Activo
+EXP_0220,CLI_0273,14-03-25,8.411 €,1,Banco Norte y Crédito Express,523,Incumplido
+EXP_0427,CLI_0547,2025-05-28,20711.48,8,Caja Campiña / Financiera Hispalis / Seguros Atlántico / Banco Norte / Banco Sur / Tarjetas Mediterráneo / Crédito Express / Consumo Ya,612,EN ESTUDIO
+EXP_0826,437,28-07-25,€ 61437,6,"Crédito Express,Banco Norte,Telecom Dato,Caja Campiña,Seguros Atlántico,Banco Sur",584 €,Incumplido 
+EXP_0981,CLI_0014,2025-09-02,26.564,8,Caja Campiña y Banco Norte y Seguros Atlántico y Banco Sur y Telecom Dato y Préstamos Rápidos SL y Consumo Ya y Crédito Express,536 EUR,Cancelado con Exito
+EXP_775,CLI_0196,,"9.606,81",3,Banco Sur y Caja Campiña y Consumo Ya,526.10,Plan Activo
+EXP_0506,620,32-01-25,42.650,5,Financiera Hispalis y Préstamos Rápidos SL y Banco Norte y Telecom Dato y Crédito Express,579,En Estudio
+EXP_0114,CLI_0545,19-09-25,49.782 €,8,Crédito Express / Tarjetas Mediterráneo / Caja Campiña / Préstamos Rápidos SL / Banco Sur / Seguros Atlántico / Financiera Hispalis / Telecom Dato,NaN,Plan Activo 
+EXP_0529,CLI_0420,01/06/2025,64728,5,Tarjetas Mediterráneo; Seguros Atlántico; Financiera Hispalis; Préstamos Rápidos SL; Crédito Express,"447,80",ACEPTADO / EN NEGOCIACIÓN
+EXP_0361,CLI_0328,2025-02-11,12220,2,Telecom Dato; Crédito Express; Tarjetas Mediterráneo,641 EUR,Plan Activo
+EXP_0436,CLI_0625,2025-07-28,44.155,8,Seguros Atlántico | Consumo Ya | Banco Norte | Crédito Express | Caja Campiña | Banco Sur | Tarjetas Mediterráneo | Préstamos Rápidos SL,"595,31",plan activo
+EXP_0213,596,null,"48.373,06",-,Caja Campiña | Consumo Ya,547 EUR,Activo
+EXP_0748,201,00/00/0000,37.935,4,Financiera Hispalis / Préstamos Rápidos SL,336,en estudio
+EXP0671,CLI_0077,07-06-25,,6,Crédito Express | Seguros Atlántico | Banco Norte | Caja Campiña | Consumo Ya | Tarjetas Mediterráneo,334 €,Aceptado
+EXP_0938,CLI_0013,14/08/2025,52.755 €,8,Préstamos Rápidos SL / Banco Sur / Tarjetas Mediterráneo / Crédito Express / Banco Norte / Telecom Dato / Consumo Ya / Seguros Atlántico,276,Estudio
+EXP_0166,CLI_0636,18/08/2025,43306,2,,297,Cancelado con Éxito
+EXP_0561,CLI_0668,2025-10-09,55.267,8,"Telecom Dato,Seguros Atlántico,Financiera Hispalis,Banco Sur,Banco Norte,Crédito Express,Préstamos Rápidos SL,Tarjetas Mediterráneo",670 €,Plan Activo
+EXP_0949,CLI0126,05-07-25,28870,7,"Telecom Dato,Préstamos Rápidos SL,Financiera Hispalis,Banco Norte,Consumo Ya,Crédito Express,Banco Sur","241,09",ACEPTADO / EN NEGOCIACIÓN
+EXP0136,CLI_0117,2025-02-24,21.738,5,Caja Campiña / Crédito Express / Seguros Atlántico / Banco Norte / Consumo Ya,326,aceptado / en negociación
+EXP_0786,304,02/11/2025,32.018 €,cinco,"Caja Campiña,Consumo Ya,Préstamos Rápidos SL,TARJETAS MEDITERRÁNEO","441,17",Plan  Activo
+EXP_0960,CLI_0024,10/11/2025,27285,4,Préstamos Rápidos SL / Banco Sur / Telecom Dato,359,incumplido
+EXP_0225,CLI0313,27/02/2025,50818 EUR,4,Banco Norte y Financiera Hispalis,€ 511,Plan Activo
+EXP_0184,cli-658,2025/09/02,62.520 €,8,"Banco Sur,Telecom Dato,Banco Norte,Caja Campina,Tarjetas Mediterráneo,Seguros Atlántico,Consumo Ya,Crédito Express",660,Plan Activo
+EXP_0312,CLI_0514,28.09.2025,54998,4,NULL,558 €,Estudio
+EXP_0597,630,2025-06-11,€ 9179,dos,Seguros Atlantico; Tarjetas Mediterráneo,345,aceptado / en negociación
+EXP_0096,CLI_0095,21-11-25,44.542,cuatro,Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis,251,En Estudio 
+EXP_0798,CLI_0407,27-06-25,42036,,Banco Sur / Crédito Express / Caja Campiña / Préstamos Rápidos SL / CONSUMO YA / Financiera Hispalis / Banco Norte / Telecom Dato,271,En Estudio
+EXP_0212,CLI_0411,2025-03-31,"49.743,29",9,Financiera  Hispalis; Banco Sur; Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Crédito Express; Préstamos Rápidos SL,202 EUR,Plan Activo
+EXP_0676,CLI_0052,26/03/2025,12145,8,Banco Norte / Caja Campiña / Financiera Hispalis / Tarjetas Mediterráneo / Crédito Express / Seguros Atlántico / Telecom Dato / Banco Sur,654.23,Plan Activo
+EXP_0362,659,2025-01-23,12.452,cinco,Préstamos Rápidos SL; Banco Sur; Banco Norte; Financiera Hispalis; Caja Campiña; Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato,545 €,en estudio
+EXP_0752,CLI_0411,28.03.2025,€ 17247,8,"Préstamos Rápidos SL,Tarjetas Mediterráneo,Crédito Express,Banco Norte,Telecom Dato,Seguros Atlántico,Banco Sur,Consumo Ya",334,en estudio
+EXP_0896,CLI0190,2025-04-12,13.179,2,Banco Norte; Financiera Hispalis,588,Aceptado
+EXP0858,CLI_0621,2025-06-07,€ 63462,7,Prestamos Rapidos SL; Caja Campiña; Consumo Ya; Seguros Atlántico; Financiera Hispalis; Crédito Express; Banco Sur,456,aceptado / en negociación
+EXP_0632,CLI_0586,02.11.2025,19.437,,Consumo Ya / Seguros Atlántico / Telecom Dato / Préstamos Rápidos SL / Caja Campiña / Tarjetas Mediterráneo,349.74,Cancelado
+EXP_0712,533,04/03/2025,52.789,7,"Banco Norte,Seguros Atlántico,Préstamos Rápidos SL,Banco Sur,Telecom Dato,Tarjetas Mediterráneo,Consumo Ya,Financiera Hispalis",673 €,PLAN ACTIVO
+EXP_701,cli-443,2025-02-22,23.985 €,3,Financiera Hispalis; Caja Campiña; Tarjetas Mediterráneo,650,Activo
+exp-1000,CLI_0598,2025-08-31,12757,3,Crédito Express | Consumo Ya | Financiera Hispalis,451,aceptado / en negociación
+EXP_297,CLI_0489,19/09/2025,25858,8,"Financiera Hispalis,Préstamos Rápidos SL,Banco Sur,Consumo Ya,Telecom Dato,Caja Campiña,Crédito Express,Tarjetas Mediterráneo",372,plan  activo
+EXP_0301,238,30/06/2025,48.411,2,"Banco Sur,Tarjetas Mediterráneo",241 €,Plan Activo
+EXP_0346,CLI0033,09/03/2025,"34.147,91",cuatro,"Préstamos Rápidos SL,Crédito Express,Telecom Dato,Tarjetas Mediterráneo,Caja Campiña,Consumo Ya,Banco Sur,Banco Norte",N/A,Aceptado / En Negociación
+EXP_154,CLI_0294,2025-05-15,31725.91,8,Banco Sur; Banco Norte; Caja Campiña; Crédito Express; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya,306 €,Plan Activo
+EXP_0385,CLI_0007,2025-02-08,9276,6,Préstamos Rápidos SL; Banco Sur; Crédito Express; Financiera Hispalis; Consumo Ya; Seguros Atlántico,644,EN ESTUDIO
+EXP_0695,CLI_0315,15.03.2025,41292,8,Préstamos Rápidos SL; Telecom Dato; Crédito Express; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Banco Norte,564,plan activo
+EXP_0516,CLI_0111,2025-04-09,32750,3,"Financiera Hispalis,Consumo Ya,Seguros Atlántico",549 EUR,Cancelado con Éxito
+EXP_0505,CLI_0141,2025-12-06,22468,3,"Consumo Ya,Seguros Atlántico,Crédito Express",465,plan  activo
+EXP_0643,CLI_0302,28/10/2025,,2,Crédito Express | Consumo Ya,363,EN ESTUDIO
+EXP_0054,CLI_0076,04/07/2025,N/A,2,"Seguros Atlántico, Tarjetas Mediterráneo",327,Plan Activo
+EXP_0814,CLI_0675,23-07-25,18.888,6,"Consumo Ya,Financiera Hispalis,Tarjetas Mediterráneo , Banco Sur,Seguros Atlántico,Préstamos  Rápidos  SL",353 €,ACEPTADO / EN NEGOCIACIÓN
+EXP_0983,CLI_0224,08/04/2025,14582.55,3,"Telecom Dato,Crédito Express,Seguros Atlántico",479 €,Plan Activo
+EXP_0049,CLI_0528,2025-03-15,52.105,5,"Consumo Ya,Financiera Hispalis,Crédito Express,Telecom Dato,PRÉSTAMOS RÁPIDOS SL",318 EUR,Plan Activo
+EXP_0873,CLI_0416,31-07-25,32.749,5,Telecom Dato; Financiera Hispalis; Banco Norte; Banco Sur; Préstamos Rápidos SL,189,PLAN ACTIVO
+EXP_0793,CLI_0664,2025/04/21,31474.71,6,Banco Norte; Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL; Crédito Express,497,Plan Activo
+EXP0987,CLI0074,23/02/2025,22.726,2,Crédito Express / Préstamos Rápidos SL,"433,73",aceptado / en negociación
+EXP_0903,478,15/01/2025,61487,8,Crédito Express; Préstamos Rápidos SL; Banco Norte; TARJETAS MEDITERRÁNEO; Telecom Dato; Financiera Hispalis,396,En Estudio
+EXP_0591,CLI_0226,2025-05-13,42.995 €,5,Préstamos Rápidos SL y Financiera Hispalis y Telecom Dato y Crédito Express y Consumo Ya,394 €,plan activo
+EXP0804,CLI_0348,2025-11-05,18975 EUR,5,"Telecom Dato,Seguros Atlántico,Crédito Express,Tarjetas Mediterráneo,Préstamos Rápidos SL","553,90",En Estudio
+EXP_0074,CLI_0109,20/06/2025,22613,2,"Consumo Ya,Banco Norte","407,06", En Estudio
+EXP_0308,CLI_0202,2025-11-21,61697.70,4,Telecom Dato; Consumo Ya; Crédito Express; Tarjetas Mediterráneo,€ 496,Aceptado / En Negociación
+EXP_0313,CLI_0481,2025/05/06,47460 EUR,5,"Préstamos Rápidos SL,Banco Sur,Caja Campiña,Seguros Atlántico,Telecom Dato,Banco Norte",429,Aceptado / En Negociación
+EXP_0272,CLI_0182,2025-03-15,21707,2,"Seguros Atlántico,Banco Norte",-,Plan Activo
+EXP_0602,CLI0313,2025-03-25,18453.21,6,Préstamos Rápidos SL y Consumo Ya y Tarjetas Mediterráneo y Telecom Dato,677,Activo
+EXP_0912,CLI_0541,12.08.2025,57.495,7,Caja Campiña | CRÉDITO EXPRESS | Banco Sur | Telecom Dato | Banco Norte | Consumo Ya | Seguros Atlántico,€ 357,Plan  Activo
+EXP_0008,cli-486,2025-03-18,"57.916,12",3,NULL,"477,76",En Estudio
+EXP_0996,CLI_0108,11/09/2025,43538 EUR,6,"Consumo Ya,Tarjetas Mediterráneo,Crédito Express,Caja Campiña,Banco Sur,Seguros Atlántico",€ 364, En Estudio
+EXP_0229,CLI_0666,2025-08-01,36071.58,3,Tarjetas Mediterráneo y Préstamos Rápidos SL y Seguros Atlántico,"672,86",Incumplido
+EXP_0326,CLI_0217,2025-03-02,62807 EUR,4,Crédito Express / Seguros Atlántico / Financiera Hispalis / Banco Norte,"644,14",Plan Activo
+exp-959,CLI_0422,17-08-25,30.630,4,Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Banco Norte,159,Plan Activo
+EXP_0463,CLI_0626,06/04/2025,17995 EUR,3,"Caja Campiña,Financiera Hispalis,Crédito Express,Tarjetas Mediterráneo",446,Plan  Activo
+exp-614,CLI0503,2025-11-12,18480,7,Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo; Telecom Dato; Banco Norte,417,En Estudio 
+exp-139,CLI_0238,2025/05/11,38.018,6,Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya,316 €,Aceptado / En Negociacion
+EXP_0571,CLI_0618,06/04/2025,15.855,null,"Banco Sur,Crédito Express,Telecom Dato,Consumo Ya,Caja Campiña",230 €,Cancelado con Éxito
+EXP_0534,CLI_0033,2025/02/03,26404.68,2,Banco Sur / Caja Campiña,"478,67",plan activo
+EXP_0843,CLI_0055,19.06.2025,"48.651,92",4,"Telecom Dato,Banco Norte,Banco Sur,Préstamos Rápidos SL","461,13",En Estudio
+EXP_0279,41,2025/04/02,22166 EUR,7,Banco Norte / Crédito Express / Caja Campiña / Telecom Dato / Financiera Hispalis / Préstamos Rápidos SL / Banco Sur,495,Plan Activo 
+EXP_0384,CLI_0196,2025-03-01,54053,9,Banco Sur | Banco Norte | Seguros Atlántico | Caja Campiña | Consumo Ya | Tarjetas Mediterráneo | Préstamos Rápidos SL | Crédito Express,n/d,Incumplido
+EXP_0799,CLI_0479,2030-01-01,32510,7,Banco Sur / Tarjetas Mediterráneo / Telecom Dato / Financiera Hispalis / Crédito Express / Préstamos Rápidos SL / Consumo Ya,255 €,Aceptado/En Negociacion
+EXP_0324,CLI_0664,05/03/2025,49.246,,Financiera Hispalis / Banco Sur / Consumo Ya / Banco Norte,524.85,Incumplido
+EXP_0628,CLI_0530,31/10/2025,42581 EUR,3,Banco Sur; Financiera Hispalis; Préstamos Rápidos SL,376,Aceptado / En Negociación
+exp-787,CLI0229,03.07.2025,12819,4,Seguros Atlántico; Telecom Dato; Banco Norte; Préstamos Rápidos SL,€ 586,Cancelado con Éxito
+EXP_0927,CLI_0657,05/09/2025,"14.309,77",5,"Préstamos Rápidos SL,Crédito Express,Consumo Ya,Tarjetas Mediterráneo,Financiera Hispalis",526,Plan Activo
+EXP_0510,CLI_0602,17/10/2025,36.408,8,Consumo Ya; Tarjetas Mediterráneo; Telecom Dato; Caja Campiña; Crédito Express; Seguros Atlántico; Préstamos Rápidos SL,417,Plan Activo
+EXP_0868,CLI0581,2025-03-24,42675,5,Telecom Dato / Seguros Atlántico / Tarjetas Mediterráneo / Crédito Express / Banco Sur,n/d,En Estudio
+EXP_0518,null,24-12-25,60678,6,"Financiera Hispalis,Banco Sur,Banco Norte,Tarjetas Mediterráneo,Seguros Atlántico,Caja Campiña","633,23",Cancelado
+EXP_0754,CLI0104,"March 01, 2025","25.734,50",dos,Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Banco Norte,397 EUR,Incumplido
+EXP_0726,CLI_0122,2025-07-27,61.367,2,"Consumo Ya,Banco Norte",null,En Estudio
+EXP_965,CLI_0493,19/08/2025,8.339 €,2,Crédito Express; Seguros Atlántico,520,-
+EXP_0925,CLI_0426,15-03-25,61209.34,3,"Crédito Express,Banco Sur,Préstamos Rápidos SL","641,33",
+exp-884,CLI_0256,12/03/2025,27425 EUR,5,"Banco Norte,Financiera Hispalis,Consumo Ya,Telecom Dato,Tarjetas Mediterráneo","347,57",Cancelado con Éxito
+EXP_0112,CLI0487,2025-05-07,24545,3,Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo,620.10,Plan Activo 
+exp-708,CLI_1298,26/01/2025,14435.00,2,Crédito Express / Seguros Atlántico / Banco Norte,568,Incumplido
+EXP_0830,CLI_0552,08-06-25,21.711,3,Préstamos Rápidos SL; Seguros Atlántico,€ 276,Plan Activo
+EXP_0355,CLI_0080,20.08.2025,58.636,4,Préstamos Rápidos SL / Seguros Atlántico / Telecom Dato / Consumo Ya,329 EUR,Plan Activo
+exp-113,CLI_0544,01/03/2025,13.140,8,Financiera Hispalis; Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña; Consumo Ya; Crédito Express; Telecom Dato,305,Incumplido
+EXP_0662,CLI_0441,"December 11, 2025",43.880,NaN,Financiera Hispalis | Crédito Express,443.05,Aceptado / En Negociación
+EXP_0862,CLI_0248,2025-06-03,52.851,8,Financiera Hispalis; Telecom Dato; Banco Norte; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Préstamos Rápidos SL,"178,02",Plan Activo
+EXP_0421,CLI_0509,2025-05-15,64314.08,2,"Banco Sur,Telecom Dato",509,Incumplido
+EXP_0417,CLI_0187,21/02/2025,"53.127,53",cinco,Telecom Dato; Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Seguros Atlántico ,458,Cancelado con Éxito 
+EXP0756,CLI_0246,2025-02-12,14120 EUR,5,Caja Campiña; Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Banco Sur,155.14,En Estudio
+exp-331,CLI_0465,2025-01-31,8.974,5,Caja Campiña; Banco Sur; Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL,NaN,Aceptado / En Negociación
+EXP0728,CLI0211,2025-04-20,11070,5,Banco Norte / Caja Campiña / crédito express / Préstamos Rápidos SL,"202,81",Incumplido
+EXP_0518,null,24-12-25,60678,6,"Financiera Hispalis,Banco Sur,Banco Norte,Tarjetas Mediterráneo,Seguros Atlántico,Caja Campiña","633,23",Cancelado
+EXP_0696,CLI_0058,2025-03-03,13319,dos,Caja Campiña / Banco Sur / Financiera Hispalis / Tarjetas Mediterráneo / Consumo  Ya / Banco Norte / Crédito Express,"448,91",INCUMPLIDO
+EXP_250,CLI0110,13/09/2025,46.907,6,Seguros Atlántico / Consumo Ya / Préstamos Rápidos SL / Financiera  Hispalis / Caja Campiña / Crédito Express,417,Aceptado / En Negociación
+EXP_677,CLI_0067,2025-11-19,13693,5,"Consumo Ya,Telecom Dato,Préstamos Rápidos SL,Seguros Atlántico,Banco Sur,Caja Campiña","351,43",En Estudio
+EXP_0223,CLI_0622,09-07-25,21731,3,Consumo Ya / Financiera Hispalis / Préstamos Rápidos SL,185.07,Estudio
+exp-277,CLI_0625,2025-08-09,18798.10,3,Telecom Dato; Consumo Ya; Caja Campiña,646.24,plan activo
+EXP_744,CLI_0499,2025-11-03,61.606 €,2,Telecom Dato / Préstamos Rápidos SL,290.86,En Estudio
+EXP_0444,660,07.05.2025,48614,4,NULL,187 EUR, Plan Activo
+EXP_0545,CLI0379,2025-06-15,"30.912,64",2,"Consumo Ya,Crédito Express",506,Aceptado/En Negociacion
+EXP0119,CLI_0186,02/07/2025,30964 EUR,9,"Tarjetas Mediterráneo,Seguros Atlántico,Banco Norte,Financiera Hispalis,Consumo Ya,Banco Sur,Telecom Dato,Crédito Express","396,28",Plan Activo
+EXP_0230,CLI0399,14/04/2025,51535.51,9,n/d,557,Plan Activo 
+EXP0772,CLI_0352,2025-03-01,36152,4,Crédito Express; Caja Campiña; Banco Norte;  Seguros Atlántico,243,En Estudio
+EXP_0802,CLI_0419,2025-05-27,56.815 €,8,Caja Campiña / Banco Sur / Crédito Express / Telecom Dato / Seguros Atlántico / Tarjetas Mediterráneo / Consumo  Ya / Préstamos Rápidos SL,182.73,Plan Activo
+EXP0344,CLI_0667,2025-06-17,18256,6,Banco Norte y Tarjetas Mediterráneo y Financiera Hispalis y Seguros Atlántico y Telecom Dato y Crédito Express,NULL,Incumplido
+EXP_0530,CLI_0660,"April 01, 2025",49.977,3,"Caja Campiña,Tarjetas Mediterráneo,Financiera Hispalis",552,Plan Activo
+exp-453,CLI_0287,2025-03-11,52.936 €,7,Banco Sur y Caja Campiña y Préstamos Rápidos SL y Crédito Express y Seguros Atlántico y Telecom Dato,612 €, En Estudio
+EXP_0956,CLI_0178,2025-02-18,48922 EUR,4,Banco Norte; Caja Campiña; Banco Sur; Telecom Dato,"171,33",En Estudio
+EXP_0375,CLI_0368,26/05/2025,47931,6,Crédito Express; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL ; Banco Norte,450,Aceptado / En Negociación
+EXP_0440,CLI_0493,02/06/2025,31727,8,Consumo Ya y Préstamos Rápidos SL y Seguros Atlántico y Telecom Dato y Caja Campiña y Banco Norte y Crédito Express y Financiera Hispalis,496,En Estudio
+EXP_0669,cli-123,2025-09-05,27817,2,Seguros Atlántico; Consumo Ya,490 EUR, Plan Activo
+EXP_0441,CLI0501,2025-02-27,43869 EUR,6,Caja Campiña / Seguros Atlántico / Telecom Dato / Crédito Express / Tarjetas Mediterráneo / Banco Sur,483.32,Cancelado con Exito
+EXP_0762,CLI0675,NaN,14528 EUR,5,Consumo Ya; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico; Caja Campiña,518,en estudio
+EXP_0127,CLI_0459,2025/09/21,56.833,n/d,Consumo Ya; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña; Crédito Express,166,PLAN ACTIVO
+exp-423,CLI_0579,2025-11-07,30.288 €,2,Tarjetas Mediterráneo; Telecom Dato,354.20,En Estudio
+EXP_0572,CLI_0554,30/05/2025,22134,10,Consumo Ya; Banco Sur; Banco Norte; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Préstamos Rápidos SL,202 €,En Estudio
+EXP_0718,CLI0637,"March 22, 2025","52.873,30",2,Crédito Express; Consumo Ya,274,cancelado con éxito
+EXP_0766,,20/09/2025,13860 EUR,6,Banco Sur / Caja Campiña / Telecom Dato / Seguros Atlántico,650.19,Aceptado / En Negociacion
+EXP_0291,CLI_0634,2025-05-15,59023,6,Banco Sur;  Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis,608 EUR,En Estudio
+EXP0765,CLI_0076,27-05-25,€ 46830,3,Telecom Dato / Caja Campiña / Banco Norte,613,Aceptado / En Negociación
+EXP_0795,CLI_0443,25/03/2025,57370,cinco,Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico,502,Aceptado / En Negociación
+EXP_0402,CLI_0482,2025-10-15,56278,5,Caja Campiña y Consumo Ya y Telecom Dato y Financiera Hispalis y Banco Norte,N/A,Cancelado con Exito
+EXP_0115,CLI_0955,,47.538 €,3,null,299 EUR,plan  activo
+EXP0891,CLI_0610,2025-09-18,12370 EUR,3,Préstamos Rápidos SL; Consumo Ya; Banco Norte,352,Activo
+EXP_0724,CLI_0643,18/08/2025,60128,4,"Caja Campiña,Tarjetas Mediterráneo,Seguros Atlántico,Financiera Hispalis","521,25",Aceptado  /  En  Negociación
+EXP_0746,CLI_0129,14/08/2025,54226,5,Seguros Atlántico y Caja Campiña y Consumo Ya y crédito express y Tarjetas Mediterráneo,"695,61",En Estudio
+EXP_0222,CLI_0057,2025-08-06,30.909,2,Telecom Dato; Financiera Hispalis,620.18,plan  activo
+exp-248,CLI_0151,2025-10-02,51258 EUR,3,Crédito Express; Caja Campiña; Telecom Dato,344,Aceptado / En Negociación
+EXP_0821,CLI_0363,14.04.2025,43202,2,Telecom Dato / Consumo Ya,"227,02",Aceptado / En Negociación
+EXP_0276,cli-235,2025/07/03,9999999,6,Caja Campiña; Consumo Ya; Seguros Atlántico; Telecom Dato; Tarjetas Mediterráneo; Banco Norte,367,En Estudio
+EXP_0310,CLI_0287,2025-04-16,"39.793,39",6,Caja Campiña / Préstamos Rápidos SL / Banco Norte / Crédito Express / Telecom Dato / Tarjetas Mediterráneo,260,Plan Activo 
+exp-28,CLI_0306,15/02/2025,16.520,8,Consumo Ya; Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña; Banco Norte; Banco Sur; Tarjetas Mediterráneo,620 EUR,en estudio
+EXP_451,CLI_0167,2025-05-22,20460,7,Banco Norte; Banco Sur; Caja Campiña; Financiera Hispalis; Consumo Ya; Préstamos Rápidos SL; TELECOM DATO,"237,00",Aceptado / En Negociación
+EXP_0995,cli-163,26/05/2025,18782 EUR,5,"Crédito Express,Tarjetas Mediterráneo,Telecom Dato,Financiera Hispalis,Banco Sur",190,En Estudio
+EXP_0160,cli-51,2025-09-09,"42.026,82",8,Crédito Express / Caja Campiña / Telecom Dato / Financiera Hispalis / CONSUMO YA / Préstamos Rápidos SL / Banco Sur / Seguros Atlántico,512 EUR,Incumplido
+EXP_0915,CLI_0576,29/04/2025,60495,3,"Tarjetas Mediterráneo,Banco Norte,Seguros Atlántico",203,En  Estudio
+EXP0262,CLI_0027,2025-05-26,44534 EUR,7,"Tarjetas Mediterráneo,Consumo Ya,Financiera Hispalis,Crédito Express,Préstamos Rápidos SL,Telecom Dato,Seguros Atlántico",528,Cancelado
+EXP_0443,CLI_0037,09-10-25,56225,4,"Préstamos Rápidos SL,Banco Norte,Crédito Express,Tarjetas Mediterráneo",413,plan  activo
+EXP_0449,CLI_0192,21/07/2025,€ 42997,6,N/A,188,en estudio
+EXP_0622,CLI_0052,20/04/2025,49700 EUR,5,Crédito Express; Seguros Atlántico; Telecom Dato; Financiera Hispalis; Consumo Ya,"516,86",Plan Activo
+exp-816,CLI_0413,2025-05-17,27901.71,7,"Préstamos Rápidos SL,Consumo Ya,Banco Norte,Seguros Atlántico,Tarjetas Mediterráneo,Banco Sur,Caja Campiña",538,Plan Activo
+EXP_0318,CLI_0025,2025-10-10,15584,cinco,Caja Campiña; Préstamos Rápidos SL; Consumo Ya; Banco Norte; Telecom Dato; Financiera Hispalis; Seguros Atlántico,488 €,Plan Activo
+EXP_0415,CLI_0673,13/07/2025,9859,3,"Banco Norte,Banco Sur ,Caja Campiña",€ 507, Plan Activo
+EXP0218,cli-329,12/03/2025,"43.364,92",4,"Crédito Express,Banco Norte,Consumo Ya,Tarjetas Mediterráneo",365,Plan Activo
+EXPEDIENTE-ID,CLIENTE-ID,FECHA-APERTURA,DEUDA-TOTAL,NUM-ACREEDORES,ACREEDORES,CUOTA-MENSUAL-PROPUESTA,ESTADO-EXPEDIENTE
+EXP_0720,CLI_0465,2025-02-17,36.779 €,4,"Seguros Atlántico,Préstamos Rápidos SL,Crédito Express,Telecom Dato",197,Activo
+EXP_0165,CLI_0593,2025-04-06,"55.537,55",tres,Banco Sur; Telecom Dato; Financiera Hispalis; Seguros Atlántico; Préstamos Rápidos SL,440.74,Plan Activo
+EXP_0900,CLI0189,NULL,€ 49095,5,"Crédito Express,Seguros Atlántico,Consumo Ya,Préstamos Rápidos SL,Financiera Hispalis","460,84",Plan Activo
+EXP_0007,CLI_0243,30/01/2025,53862,2,Caja Campiña / Seguros Atlántico,575.05,Activo
+exp-813,CLI1123,2025-01-15,45.910 €,8,Tarjetas Mediterráneo | Banco Sur | Caja Campiña | Crédito Express | Telecom Dato | Financiera Hispalis | Banco Norte | Consumo Ya,272,Plan Activo
+exp-621,CLI_0143,14-02-25,56386,7,Crédito Express ; Tarjetas Mediterráneo; Financiera Hispalis; Telecom Dato; Consumo Ya; Banco Norte; Seguros Atlántico,€ 301,Aceptado / En Negociacion
+EXP0625,CLI_0016,16-09-25,28.439,6,Banco Norte; Telecom Dato; Financiera Hispalis; Caja Campiña; Crédito Express; Banco Sur,"354,47",Cancelado con Exito
+EXP_0084,CLI_0015,2025/08/14,"52.921,42",5,Caja Campiña; Financiera Hispalis; Crédito Express; Telecom Dato; Tarjetas Mediterráneo,598,Plan Activo
+EXP0808,CLI0666,2025-08-09,55.189 €,3,"Caja Campiña,Crédito Express,Tarjetas Mediterráneo","582,64",Plan Activo
+EXP_0306,CLI_0274,02/11/2025,16620,5,"Consumo Ya,Banco Sur,Banco Norte,Caja Campiña,Telecom Dato",€ 455,Plan Activo
+EXP_0837,CLI_0086,2025-05-12,22.085 €,5,Consumo Ya y Banco Norte y Seguros Atlántico y Financiera Hispalis y Crédito Express,607 €,Plan Activo
+EXP_132,CLI_0543,2024-12-14,NaN,7,Banco Sur; Telecom Dato; Consumo Ya; Caja Campiña; Banco Norte; Préstamos Rápidos SL; Financiera Hispalis,238,En Estudio
+EXP0659,CLI_0019,"September 18, 2025",40190,4,"Consumo Ya,Caja Campiña,Banco Norte,Seguros Atlántico",417 €,Aceptado / En Negociación
+exp-29,CLI_0629,17-06-25,56.197 €,8,Crédito Express y Consumo Ya y Tarjetas Mediterráneo y Préstamos Rápidos SL y Telecom Dato y Banco Sur y Caja Campiña y Financiera Hispalis,549,Aceptado / En Negociacion
+EXP_734,CLI_0547,14.05.2025,"23.952,70",5,"Banco Norte,Caja Campiña,Préstamos Rápidos SL,Consumo Ya,Banco Sur",151,PLAN ACTIVO
+EXP_0801,CLI_0651,2025-06-16,"54.979,78",6,Financiera Hispalis; BANCO NORTE; Prestamos Rapidos SL; Crédito Express; Banco Sur; Telecom Dato,"173,58",Aceptado / En Negociación
+EXP_0785,CLI_0594,14/11/2025,8718 EUR,7,Préstamos Rápidos SL | Consumo Ya | Banco Norte | Caja Campiña | Banco Sur | Telecom Dato | Seguros Atlántico,155.78,Plan Activo
+EXP0239,CLI0070,10/06/2025,40624,4,Seguros Atlántico | Banco Norte | Préstamos Rápidos SL | Telecom Dato,238,Plan  Activo
+EXP_0577,CLI_0389,2025-10-21,44237,5,Financiera Hispalis; Telecom Dato; Crédito Express; Banco Norte; Seguros Atlántico,151,PLAN ACTIVO
+exp-368,CLI_0132,2025/08/09,"32.312,03",8,"Crédito Express,Caja Campiña,Consumo Ya,Seguros Atlántico,Banco Norte,Préstamos Rápidos SL,Financiera Hispalis,Tarjetas Mediterráneo",202,Aceptado / En Negociación
+EXP_0709,CLI_0338,30/04/2025,€ 25658,5,Financiera Hispalis / Crédito Express / Banco Sur / Seguros Atlántico / Consumo Ya,577,Plan Activo
+exp-959,CLI_0422,17-08-25,30.630,4,Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Banco Norte,159,Plan Activo
+EXP_0897,214,26.06.2025,35878,8,n/d,161,Plan Activo
+EXP_0820,CLI_0475,2025/05/14,33.589 €,5,"Consumo Ya,Banco Norte,Telecom Dato,Crédito Express,Financiera Hispalis",369,ACEPTADO / EN NEGOCIACIÓN
+EXP0193,CLI0440,2025-05-02,"56.862,34",4,Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL,522 €,Aceptado / En Negociación
+EXP_0280,198,2025-03-06,27041.24,8,Banco Norte; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Caja Campiña,693 €,Activo
+EXP_879,CLI_0407,17/05/2025,62232,4,"Banco Norte,Financiera Hispalis,Crédito Express,Telecom Dato",522 €,Plan Activo
+exp-950,CLI_0601,2025-08-18,26760,3,"Crédito Express,Banco Sur ,Tarjetas Mediterráneo",496 €,Aceptado
+EXP_0791,CLI_0174,02-10-25,46890,3,Caja Campiña y Tarjetas Mediterráneo y Préstamos Rápidos SL,349 EUR,Plan Activo
+EXP_0447,CLI_0239,09/04/2025,"35.877,12",4,BANCO NORTE; Préstamos Rápidos SL; Consumo Ya,382.05,Aceptado / En Negociación
+EXP_0266,cli-161,21/12/2025,null,3,Seguros Atlántico y Financiera Hispalis y Préstamos Rápidos SL,309,Plan Activo 
+EXP_246,CLI_0213,2025-09-21,54.089,8,Préstamos Rápidos SL / Caja Campiña / Seguros Atlántico / Financiera Hispalis / Crédito Express / Banco Sur / Banco Norte / Tarjetas Mediterráneo,556,Plan Activo
+EXP_0282,201,13/06/2025,57.832 €,3,Préstamos Rápidos SL; Banco Norte; Telecom Dato,290,CANCELADO CON ÉXITO
+exp-62,CLI_0236,2025-10-02,19163.34,4,Caja Campiña; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis,243,Aceptado / En Negociación
+EXP_0729,CLI_0508,"April 25, 2025",64520,7,Banco Norte; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis,-,Aceptado / En Negociación
+EXP_0365,CLI_0449,12/07/2025,55.367,7,Financiera Hispalis; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo; Telecom Dato; Préstamos Rápidos SL; Banco Sur,"435,39",Incumplido
+EXP_0822,cli-449,2025/07/06,€ 17457,4,,564,Estudio
+EXP0031,CLI_0652,31/08/2025,n/d,7,Consumo Ya / Préstamos Rápidos SL  / Banco Sur / Telecom Dato / Seguros Atlántico / Caja Campiña / Crédito Express,€ 284,EN ESTUDIO
+EXP_0129,CLI_0161,32-01-25,17873,cinco,Tarjetas Mediterráneo ; Caja Campiña; Banco Norte; Financiera Hispalis; Seguros Atlántico; Banco Sur,663 €,En Estudio
+EXP_0906,CLI0305,2025-06-22,"27.752,24",4,Financiera Hispalis / Consumo Ya / crédito express / Banco Sur,441,Plan Activo
+EXP_0147,CLI_0604,2025-03-18,46515 EUR,2,Banco Sur; Tarjetas Mediterráneo,425,PLAN ACTIVO
+EXP_0957,cli-473,11-05-25,34696,4,Préstamos Rápidos SL | Tarjetas Mediterráneo |  Banco Sur | Crédito Express,"696,76",PLAN ACTIVO
+EXP_0448,CLI_0593,03/05/2025,11.882,2,Financiera Hispalis; Banco Norte,195,en estudio
+EXP_0155,CLI_0644,2025-06-29,9900 EUR,6,"Caja Campiña,Crédito Express,Seguros Atlántico,Banco Norte,tarjetas mediterráneo,Financiera Hispalis",688,plan activo
+EXP_0823,CLI_0025,2025-09-25,49327 EUR,,"Consumo Ya,Telecom Dato,Préstamos Rápidos SL,Banco Norte,Seguros Atlántico",236.39,Aceptado / En Negociación 
+exp-162,CLI_0403,2025-01-16,€ 35507,7,Caja Campiña | Telecom Dato | Seguros Atlántico | Banco Sur | Préstamos Rápidos SL | Crédito Express | Financiera Hispalis,434,Plan Activo
+EXP_0557,CLI_0109,2025-06-04,62856,5,Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña; Banco Sur; Tarjetas Mediterráneo,237,En Estudio
+EXP_0287,CLI_0356,19/11/2025,49.697 €,8,"Financiera Hispalis,Préstamos Rápidos SL,Telecom Dato,Crédito Express,Tarjetas Mediterráneo,Consumo Ya,Banco Norte,Banco Sur",675,Aceptado / En Negociación
+EXP_0299,cli-267,24/05/2025,13409,8,Telecom Dato; Crédito Express; Banco Norte; Consumo Ya; Financiera Hispalis; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL,548,Incumplido 
+EXP_0067,CLI_0285,22.05.2025,11190,2,"Préstamos Rápidos SL,Caja Campiña",692,Cancelado con Éxito
+EXP_0544,CLI_0129,09.08.2025,13.547,6,Seguros Atlántico /  Banco Sur / Banco Norte / Financiera Hispalis / Crédito Express / Telecom Dato,318,Plan Activo 
+EXP_0347,CLI_0648,2025-07-27,48696,5,Telecom Dato; Consumo Ya; Crédito Express; Financiera Hispalis; Banco Sur,284,Aceptado
+EXP_0091,CLI0672,21.08.2025,€ 18623,5,"Préstamos Rápidos SL,Financiera Hispalis,Tarjetas Mediterráneo,Banco Sur,Seguros Atlántico",564,Aceptado / En Negociación
+EXP_0890,CLI_0596,2025-10-19,64718.53,8,Banco Norte y Crédito Express y Financiera Hispalis  y Telecom Dato y Tarjetas  Mediterráneo y Banco Sur y Caja Campiña y Préstamos Rápidos SL,0,aceptado / en negociación
+EXP_839,CLI_0353,07-01-25,43733,8,Tarjetas Mediterraneo; Banco Sur; Seguros Atlántico; CAJA CAMPIÑA; Crédito Express; Banco Norte; Consumo Ya; Telecom Dato,296 EUR,Aceptado / En Negociación 
+EXP_144,cli-266,01.01.2030,-,4,"Banco Sur,Tarjetas Mediterráneo, Consumo Ya,SEGUROS ATLÁNTICO",€ 547, Aceptado / En Negociación
+EXP_0050,CLI0130,24-07-25,55500,8,Banco Norte; Financiera Hispalis; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Crédito Express; Banco Sur,213 €,Activo
+EXP_0437,cli-280,2025-03-12,21796,4,"Consumo Ya,Telecom Dato,Banco Sur,Crédito Express",-, En Estudio
+EXP_0070,CLI0531,06/08/2025,"52.464,82",7,Caja Campiña; Seguros Atlántico; Banco Norte; Crédito Express; Consumo Ya; Telecom Dato; Préstamos Rápidos SL,385,Cancelado con Exito
+EXP0438,CLI_0407,14/06/2025,33.254,2,"Caja Campiña,Tarjetas Mediterráneo","249,71",en estudio
+EXP_0283,CLI_0663,2025-02-25,€ 25602,5,"Caja Campiña,Telecom Dato,Préstamos Rápidos SL,Seguros Atlántico,Financiera Hispalis",413.08,Cancelado con Exito
+EXP0975,CLI_0151,17-10-25,NULL,3,"Préstamos Rápidos SL,Telecom Dato,Consumo Ya",,Cancelado con Éxito
+EXP_0984,CLI0557,2025/09/11,N/A,7,Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Consumo Ya; Seguros Atlántico; Financiera Hispalis,320,Aceptado / En Negociación 
+EXP_0315,CLI_0041,2025-04-05,59046,4,Telecom Dato / Financiera Hispalis / Préstamos Rápidos SL / Tarjetas Mediterráneo,€ 542,ACEPTADO / EN NEGOCIACIÓN
+EXP_0311,607,31/05/2025,12795,5,Consumo Ya | Caja Campiña | Banco Norte | Financiera Hispalis | Telecom Dato,219,ACEPTADO / EN NEGOCIACIÓN
+EXP_0045,613,15-10-25,22872 EUR,5,"Crédito Express,Financiera Hispalis,Banco Sur,Telecom Dato,Tarjetas Mediterráneo","186,30",En Estudio
+EXP_0857,143,2025-03-28,"11.667,83",7,Préstamos Rápidos SL / Telecom Dato / Tarjetas Mediterráneo / Crédito Express / Banco Sur / Caja Campiña / Banco Norte,307,cancelado con éxito
+EXP_0761,cli-376,,46748,3,seguros atlántico; Telecom Dato; Caja Campiña,415,En Estudio
+EXP_0174,CLI_0012,2025/11/24,62325,3,Telecom Dato / Préstamos Rápidos SL / Consumo Ya,"547,33",Incumplido 
+EXP_0687,cli-492,2025-10-25,30.188 €,7,Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis; Préstamos Rápidos SL; Banco Sur; Telecom Dato; consumo ya,540 €,Plan Activo
+EXP_429,CLI_0184,28/07/2025,23.244,2,Banco Sur | Financiera Hispalis,488,en estudio
+EXP0842,CLI_0068,20-06-25,n/d,2,Caja Campiña; Consumo Ya,235,Cancelado con Éxito 
+EXP_0745,CLI_0180,19-06-25,34.145 €,7,"Caja Campiña,Tarjetas Mediterráneo,Préstamos Rápidos SL,Financiera Hispalis,Banco Sur,Banco Norte,Telecom Dato",368,Plan Activo
+EXP_0826,437,28-07-25,€ 61437,6,"Crédito Express,Banco Norte,Telecom Dato,Caja Campiña,Seguros Atlántico,Banco Sur",584 €,Incumplido 
+EXP_0143,CLI0653,2025-04-02,25914,5,Telecom Dato y Banco Norte y Crédito Express y Financiera Hispalis y Banco Sur,-, Aceptado / En Negociación
+EXP_260,CLI_0496,2025-07-02,36.588,8,Financiera Hispalis; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Crédito Express; Consumo Ya; Seguros Atlántico; Caja Campiña,310,En Estudio
+EXP_0578,CLI_0101,25.09.2025,56188.18,4,Seguros Atlántico / Tarjetas Mediterráneo / préstamos rápidos sl / Crédito Express,219 EUR,En Estudio
+EXP_0086,CLI_0569,2025/08/15,27584,7,"Consumo Ya,Telecom Dato,Crédito Express,Tarjetas Mediterráneo,Banco Sur,Caja Campiña,Financiera Hispalis",377,Incumplido
+EXP_0254,CLI_0069,04.03.2025,28.635 €,8,Banco Sur / Seguros Atlántico / Consumo Ya / tarjetas mediterráneo / Crédito Express / Préstamos Rápidos SL / Banco Norte / Caja Campiña,352, Aceptado / En Negociación
+EXP_0021,CLI_0441,2025-11-17,19.907,6,"Financiera Hispalis, Tarjetas Mediterráneo,Seguros Atlántico,Banco Norte,TELECOM DATO,Préstamos Rápidos SL",678,Incumplido
+EXP_0617,CLI_0511,"November 11, 2025","61.225,50",10,Caja Campiña; Banco Norte; Crédito Express; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Financiera Hispalis,634,Plan Activo
+EXP_0075,169,2025-06-08,13.264 €,4,Banco Sur; Crédito Express; Financiera Hispalis; Banco Norte,192,Plan Activo 
+EXP_0575,CLI_0610,2025-11-01,31.089 €,3,Telecom Dato / Banco Norte / Caja Campiña,660,plan activo
+EXP_0574,CLI_0656,"July 23, 2025",16.832,7,"Seguros Atlántico,Financiera Hispalis,Caja Campiña,Consumo Ya,Préstamos Rápidos SL,Banco Norte,Banco Sur",488.02,Estudio
+EXP0733,CLI_0537,06/06/2025,0,3,Banco Sur  | Préstamos Rápidos SL | Crédito Express,194.30,Cancelado con Éxito
+EXP_0490,CLI_0540,06/02/2025,61120,6,Préstamos Rápidos SL / Financiera Hispalis / Tarjetas Mediterráneo / Seguros Atlántico / Caja Campiña  / Consumo Ya,496 €,Aceptado / En Negociacion
+EXP_0962,CLI_0566,2025/04/04,49526,5,Tarjetas Mediterráneo; Banco Sur; Préstamos Rápidos SL; Telecom Dato,695,En Estudio
+EXP_0087,CLI_0007,2025-02-28,52496,4,Caja Campiña ; Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya,235.65,Incumplido
+EXP_0373,cli-192,2025-04-18,50091,7,"Banco Sur,Financiera Hispalis,Banco Norte,Tarjetas Mediterráneo,Telecom Dato,Crédito Express,Caja Campiña",341 €,Incumplido
+EXP_0201,CLI_0267,2025-03-08,40674,4,Banco Sur | Consumo Ya | Telecom Dato | Seguros Atlántico,155 EUR,En Estudio
+EXP_0268,CLI_0074,27/03/2025,15.687 €,8,"Tarjetas Mediterráneo,Préstamos Rápidos SL,Banco Norte,Caja Campiña,Telecom Dato,Banco Sur,Financiera Hispalis,Crédito Express","599,94",ACEPTADO / EN NEGOCIACIÓN
+EXP_0705,CLI_0541,2025-09-04,"54.991,70",7,SEGUROS ATLÁNTICO; Consumo Ya; Banco Norte; Préstamos Rápidos SL; Telecom Dato; Caja Campiña; Crédito Express,661.91, Aceptado / En Negociación
+EXP0419,CLI_0447,2025-04-28,10.027,6,"Banco Norte,Consumo Ya,Financiera Hispalis,Seguros Atlántico,Caja Campiña,Tarjetas Mediterráneo",420.15,ACEPTADO / EN NEGOCIACIÓN
+EXP0914,CLI_0474,10/06/2025,n/d,3,Financiera Hispalis y Banco Norte y Telecom Dato,521 EUR,Plan Activo
+EXP_0893,CLI_0660,2025-04-11,"58.749,67",7,"Crédito Express,Telecom Dato,Financiera Hispalis,Caja Campiña,Banco Norte,Tarjetas Mediterráneo,Préstamos Rápidos SL",314 €,Plan Activo
+EXP_0394,CLI_0446,23-08-25,9365.26,4,Banco Norte; Seguros Atlántico; Crédito Express; Banco Sur,354 EUR,Incumplido
+EXP_0825,CLI_0561,2025-07-24,43624.76,2,Consumo Ya y Banco Norte,183 EUR, En Estudio
+exp-17,CLI_0571,25/11/2025,15686 EUR,3,"Crédito Express,Consumo Ya,Financiera Hispalis",510,Estudio
+EXP_0545,CLI0379,2025-06-15,16209,2,"Consumo Ya,Crédito Express",506,Cancelado con Éxito
+EXP_0117,CLI_0162,29/08/2025,9.116 €,7,Banco Norte; Consumo Ya; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur,"439,41",Cancelado con Exito
+EXP0691,CLI_0135,2025-08-28,"18.447,96",cuatro,Caja Campiña; Préstamos Rápidos SL; crédito express,"395,75",En Estudio
+EXP_0305,cli-139,17/04/2025,21.236,1,Consumo Ya / Financiera Hispalis,€ 233,Activo
+EXP_0607,CLI0225,12/08/2025,54220.25,7,Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Consumo Ya; Caja Campiña,262,Plan Activo
+EXP_850,CLI_0475,2025/07/25,58.732,2,Préstamos Rápidos SL; Banco Norte,"591,27",Plan Activo
+EXP_0389,CLI_0566,16/02/2025,55.856,4, Banco Norte; Crédito Express; Financiera Hispalis; Seguros Atlántico,233,ACEPTADO / EN NEGOCIACIÓN
+exp-73,CLI0131,2025-05-05,10704 EUR,8,Telecom Dato; Financiera Hispalis; Banco Sur; Préstamos Rápidos SL; Tarjetas Mediterráneo; Caja Campiña; Crédito Express; Banco Norte,431,En Estudio
+EXP_0845,CLI0605,2025-06-17,n/d,4,Financiera Hispalis / Banco Sur / Tarjetas Mediterráneo / Caja Campiña,€ 171,Incumplido 
+EXP_650,CLI0206,13.05.2025,58904,7,Tarjetas Mediterráneo; Banco Norte; Seguros Atlántico; Financiera Hispalis; Crédito Express; Banco Sur; Préstamos Rápidos SL,"344,56",En Estudio
+exp-403,CLI_0402,2025-09-15,29105,8,Financiera Hispalis; Crédito Express; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Caja Campiña; Banco Norte; Telecom Dato,490,ACEPTADO / EN NEGOCIACIÓN
+EXP_0947,CLI_0205,"June 14, 2025","15.278,36",6,Banco Sur; Banco Norte; Financiera Hispalis; Crédito Express; Tarjetas Mediterráneo; Préstamos Rápidos SL,"474,47",plan activo
+EXP_0562,CLI_0222,31/05/2025,38.473,7,"Banco Norte,Financiera Hispalis,Tarjetas Mediterráneo,Caja Campiña,Préstamos Rápidos SL,Seguros Atlántico,Telecom Dato",401 €,Plan Activo
+EXP_0831,CLI_0217,2025/02/16,"11.626,64",8,Consumo Ya; Crédito Express; Caja Campiña; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis; Banco Norte; Banco Sur,530,Plan Activo
+EXP_0551,CLI_0304,2025-10-01,22959 EUR,4,Seguros Atlántico; Banco Norte; Crédito Express; Caja Campiña,503,en estudio
+exp-737,CLI_0600,23/07/2025,28667,4,null,538 €,PLAN ACTIVO
+EXP_0807,CLI_0044,02/06/2025,14.829,10,"Seguros Atlántico,Caja Campina,Tarjetas Mediterráneo,Crédito Express,Telecom Dato,Financiera Hispalis,Préstamos Rápidos SL,Banco Norte",413,ACEPTADO / EN NEGOCIACIÓN
+exp-146,CLI_0463,2025-10-08,31.916 €,7,Prestamos Rapidos SL | Crédito Express | Banco Sur | Banco Norte | Tarjetas Mediterráneo | Seguros Atlántico | Telecom Dato,229,Aceptado / En Negociación
+EXP_420,CLI0270,2025-06-28,49.352,,"Telecom Dato,Tarjetas Mediterráneo,Consumo Ya,Financiera Hispalis,Crédito Express,Banco Sur,Banco Norte",a determinar,En  Estudio
+EXP_0742,CLI0261,2025-10-16,40275,4,Consumo Ya y Telecom Dato y Seguros Atlántico y Caja Campiña,330,Plan Activo
+EXP_0753,CLI0253,2025-03-19,39289 EUR,cinco,Telecom Dato / Tarjetas Mediterráneo / Crédito Express / Caja Campiña / Seguros Atlántico / Banco Sur,611 EUR,en estudio
+EXP_0588,CLI_0011,2025-07-18,19.893,4,Banco Sur; Caja Campiña; Telecom Dato; Préstamos Rápidos SL,562,Aceptado  /  En  Negociación
+EXP_0517,CLI_0496,2025-06-27,21708.09,5,Préstamos Rápidos SL / Financiera Hispalis / Consumo Ya / Caja Campiña / Crédito Express,416 €,Plan Activo
+EXP_0231,CLI_0236,NULL,52.297,5,Banco Norte / Banco Sur / Crédito Express / Financiera Hispalis / Tarjetas Mediterráneo,616 €,En Estudio
+EXP_0219,CLI_0263,22/05/2025,36791,7,"Seguros Atlántico,Consumo Ya,Préstamos Rápidos SL,Banco Sur,TARJETAS MEDITERRÁNEO,Financiera Hispalis,Telecom Dato",344,plan  activo
+exp-913,cli-469,10/03/2025,54.894,7,Consumo Ya; Seguros Atlántico; Crédito Express; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Telecom Dato,"695,30",Aceptado/En Negociacion
+EXP_0570,CLI_0583,09/02/2025,40.391 €,2,"Crédito Express,Telecom Dato",343 EUR, Plan Activo
+EXP_0190,CLI_0515,2025-12-12,"35.125,90",8,Telecom Dato | banco sur | Préstamos Rápidos SL | Tarjetas Mediterráneo | Consumo Ya | Banco Norte | Financiera Hispalis | Seguros Atlántico,483,Cancelado con Éxito
+EXP_0066,cli-350,2024-11-28,15.272,4,"Préstamos Rápidos SL,CONSUMO YA,Caja Campiña,Seguros Atlántico",272, Aceptado / En Negociación
+exp-508,CLI_0283,2025-08-20,22.236,5,Telecom Dato; Consumo Ya; Financiera Hispalis; Banco Sur; Seguros Atlántico,601 EUR,aceptado / en negociación
+EXP_0256,CLI0516,2025-03-22,34829.46,9,Banco Norte y Tarjetas Mediterráneo y Préstamos Rápidos SL y Financiera Hispalis y Telecom Dato y Caja Campiña y Seguros Atlántico y BANCO SUR,241,En Estudio
+EXP_583,CLI_0364,2025-10-07,"12.231,73",8,Seguros Atlántico y Crédito Express y Caja Campiña y Banco Sur y Financiera Hispalis y Consumo Ya y Banco Norte y Préstamos Rápidos SL,693 EUR,En Estudio
+EXP_0176,CLI_0372,21/07/2025,53695.67,cinco,n/d,"611,34",EN ESTUDIO
+EXP_0552,CLI_0256,09/03/2025,47384,8,Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Telecom Dato; Banco Norte,296 EUR,Aceptado / En Negociación
+EXP_0215,CLI0337,07-11-25,52885.83,2,Seguros Atlántico / Banco Norte,646,INCUMPLIDO
+EXP_0335,CLI_0206,13/04/2025,41.622,5,Banco Norte / Tarjetas Mediterráneo / Seguros Atlántico / Financiera Hispalis / Préstamos Rápidos SL,n/d,Plan Activo
+EXP_0178,319,07.11.2025,n/d,8,Crédito Express; Consumo Ya; Telecom Dato; Seguros Atlántico; Caja Campiña; Financiera Hispalis; Banco Sur,257,aceptado / en negociación
+EXP_0082,CLI_0426,2025/03/11,40867,2,Tarjetas Mediterráneo | Préstamos Rápidos SL,546, En Estudio
+EXP_0881,CLI_0421,2025-10-08,"43.611,89",7,Préstamos Rápidos SL / Seguros Atlántico / Banco Norte / Telecom Dato / Financiera Hispalis / Consumo Ya / Crédito Express,151 EUR,Plan Activo
+EXP_0374,CLI_0315,2025/04/19,60934.48,3,Banco Norte | Consumo Ya | Caja Campiña,519,Cancelado con Éxito 
+exp-812,157,31/03/2025,"58.181,00",7,Banco Norte; Consumo Ya; Tarjetas Mediterráneo; Crédito Express; Banco  Sur; Préstamos Rápidos SL; Caja Campiña,349.56,Cancelado con Exito
+EXP_0253,CLI_0520,2025-07-09,25789,8,Crédito Express; Préstamos Rápidos SL; Telecom Dato; Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Banco Sur; Banco Norte,386 €,Cancelado con Exito
+EXP_0587,cli-250,14/01/2025,11904.39,6,Seguros Atlántico; Consumo Ya; Crédito Express; Telecom Dato; Banco Norte; Préstamos Rápidos SL,€ 683,ACEPTADO / EN NEGOCIACIÓN
+EXP_0901,CLI0076,2025-06-26,10197,8,Préstamos Rápidos SL; Financiera Hispalis; Caja Campiña; Banco Norte ; Consumo Ya; Telecom Dato; Banco Sur; Seguros Atlántico,"423,49",Estudio
+EXP_0682,CLI_0433,17-09-25,39341.25,3,"Seguros Atlántico,Telecom Dato,Banco Norte",151,Aceptado / En Negociación
+EXP_0485,CLI_0396,25/10/2025,45.620,NaN,"Caja Campiña,Telecom  Dato,Crédito Express,Financiera Hispalis,Seguros Atlántico,Banco Norte,Banco Sur",€ 152,Plan Activo
+EXP0236,11,2025-06-22,60251,3,Telecom Dato;  Crédito Express; Préstamos Rápidos SL,382 EUR,En Estudio 
+EXP_0225,CLI0313,27/02/2025,50818 EUR,4,Banco Norte y Financiera Hispalis,€ 511,Plan Activo
+EXP0172,CLI_0146,2025/10/29,20075.76,8,Préstamos Rápidos SL; Consumo Ya; Financiera Hispalis; Caja Campiña; Banco Norte; Banco Sur; Seguros Atlántico; Crédito Express,346,En Estudio
+EXP_0020,CLI_0125,2025-09-30,62290,7,Banco Norte | Financiera Hispalis | Consumo Ya | Caja Campiña | Tarjetas Mediterráneo | Banco Sur | Telecom Dato,"500,34",En Estudio
+EXP0935,CLI_0487,02/05/2025,50286 EUR,4,Crédito Express | Banco Sur | Tarjetas Mediterráneo | Préstamos Rápidos SL,€ 489,Cancelado con Éxito
+EXP_501,null,07-05-25,10859,7,Banco Sur; Seguros Atlántico; Financiera Hispalis; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Banco Norte,524.03,Incumplido 
+EXP_203,CLI0614,22/05/2025,15.858 €,6,"Consumo Ya,Banco  Norte,Telecom Dato,Caja Campiña,Seguros Atlántico,Préstamos Rápidos SL",494,Incumplido
+EXP_0465,CLI_0625,2025-07-16,46234,2,"Consumo Ya,Banco Sur","236,32",Cancelado con Éxito
+EXP0618,CLI_0004,2025-05-28,16967,null,"Banco Norte,Caja Campiña,Tarjetas Mediterráneo",403 €,
+EXP0929,CLI_0200,2025-12-05,20.764 €,5,"Crédito Express,Préstamos Rápidos SL,Caja Campiña",658,plan  activo
+EXP_0668,CLI_0615,2025-07-31,53.894,7,Seguros Atlántico; Banco Sur; Telecom Dato; Préstamos Rápidos SL; CAJA CAMPIÑA; Crédito Express; Consumo Ya,,PLAN ACTIVO
+EXP_0442,CLI0485,02/07/2025,45990,6,Caja Campiña; Consumo Ya; Crédito Express; Banco Norte; Préstamos Rápidos SL; Telecom Dato,550 EUR,Plan Activo
+exp-778,CLI_0158,02/07/2025,24.412,6,Banco Norte y Financiera Hispalis y Tarjetas Mediterráneo y Seguros Atlántico,566,Incumplido 
+EXP_0979,CLI_0628,11-06-25,45762,3,Seguros Atlántico; Préstamos Rápidos SL; Banco Sur,615,Aceptado / En Negociación
+EXP_0626,CLI_0011,2025/06/11,32363,8,NaN,€ 456,En Estudio
+EXP_0764,CLI_0557,28-09-25,17.488 €,5,Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Banco Norte,660 EUR,Cancelado con Éxito
+EXP_0690,CLI_0388,25/10/2025,11817,3,Banco Sur; Consumo Ya; Financiera Hispalis,207 €,Aceptado
+exp-55,CLI0405,2025/06/23,0,7,"Crédito Express,Préstamos Rápidos SL,Banco Sur,CONSUMO YA,Seguros Atlántico,Telecom Dato,Tarjetas Mediterráneo",625.82,En Estudio
+EXP_0502,cli-676,2025-05-19,24565.34,6,Telecom Dato; Banco Norte; Crédito  Express; Financiera Hispalis; Préstamos Rápidos SL; Tarjetas Mediterráneo,344.61,Plan Activo
+EXP_0338,CLI_0525,2025-05-16,8253,3,Tarjetas Mediterráneo / Crédito Express / Telecom Dato,€ 569,Plan Activo
+exp-245,CLI_0088,15/04/2025,18209,4,Banco Norte | Consumo Ya | Telecom Dato | Financiera Hispalis,484,Aceptado / En Negociación
+EXP_0378,CLI_0046,2025-10-30,54035,4,crédito express | Consumo Ya | Banco Sur | Préstamos Rápidos SL ,"198,59",aceptado / en negociación
+exp-148,CLI_0303,2025-01-17,23.541,8,"Seguros Atlántico,Caja Campiña,Financiera Hispalis,Consumo Ya,Telecom Dato,Préstamos Rápidos SL,Tarjetas Mediterráneo,Banco Sur",225,Cancelado  con  Éxito
+EXP_0036,CLI_0544,03.03.2025,22.032 €,8,Consumo Ya / Financiera Hispalis / Telecom Dato / Caja Campiña / Banco Sur / Tarjetas Mediterráneo / Crédito  Express / Seguros Atlántico,187,ACEPTADO / EN NEGOCIACIÓN
+EXP_723,294,23/05/2025,26269.81,4,Seguros Atlántico / Consumo Ya / Telecom Dato / Caja Campiña,173,Plan Activo
+EXP_0536,51,03/09/2025,"14.528,67",9,Caja Campiña; Banco Norte; Consumo Ya; Financiera Hispalis; Banco Sur; Telecom Dato; Seguros Atlántico,390,En Estudio
+exp-491,CLI_0395,15/08/2025,22386,3,Telecom Dato; Caja Campiña; Préstamos Rápidos SL,387,Aceptado / En Negociación
+exp-464,543,2025-03-03,"50.731,88",3,"Consumo Ya,Crédito Express,Telecom Dato",€ 168,Cancelado con Éxito
+EXP_412,CLI_0241,12-03-25,27532,6,"Seguros Atlántico,Telecom Dato,Caja Campiña,Crédito Express,Financiera Hispalis,Préstamos Rápidos SL",286 €,En Estudio
+EXP_0519,CLI_0162,18/08/2025,-48619,5,Tarjetas Mediterráneo y Préstamos Rápidos SL y Banco Norte y Seguros Atlántico y Caja Campiña y Crédito Express,398.19,Aceptado / En Negociación
+EXP_0294,CLI_0433,01/11/2025,60008,null,"Banco Norte,Tarjetas Mediterráneo,Consumo Ya,Financiera Hispalis",527,Aceptado / En Negociación
+EXP_934,100,2025-02-20,27837 EUR,8,Banco Norte | Banco Sur | Telecom Dato | Tarjetas Mediterráneo | Seguros Atlántico | Consumo Ya | Préstamos Rápidos SL | financiera hispalis,"683,12",Aceptado / En Negociacion
+EXP_0085,cli-572,11/03/2025,14183 EUR,8,Telecom Dato | Financiera Hispalis | Banco Sur | préstamos rápidos sl | Tarjetas Mediterráneo | Banco Norte | Crédito Express | Seguros Atlántico,175,Aceptado / En Negociación
+EXP_0507,CLI0606,24-06-25,63215.28,5,,"313,32",Aceptado / En Negociación
+EXP_0719,CLI_0196,2025-03-22,61880,8,Seguros Atlántico; banco norte; Préstamos Rápidos SL; Crédito Express; Caja Campiña; Telecom Dato; Banco Sur; Financiera Hispalis,327,Activo
+exp-284,CLI_0502,2025-08-28,8393.23,6,"Consumo Ya,Seguros Atlántico,Caja Campiña,Crédito Express,Telecom Dato,Banco Sur",€ 504,Plan Activo
+EXP_0997,CLI_0264,2025-11-17,20471.74,7,Crédito Express; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Consumo Ya; BANCO SUR,543 €, Aceptado / En Negociación
+exp-844,CLI_0324,2025-11-19,27.278,6,Seguros Atlántico | Consumo Ya | Caja Campiña | Banco Norte | Crédito Express | Telecom Dato,669,Plan Activo
+EXP_0895,CLI_0278,27/09/2025,€ 64252,8,Consumo Ya; Banco Sur; Telecom Dato; Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Caja Campiña; Crédito Express,415,ACEPTADO / EN NEGOCIACIÓN
+EXP_101,CLI_0491,16.09.2025,21435.77,2,"Financiera Hispalis,Préstamos Rápidos SL",215,ACEPTADO / EN NEGOCIACIÓN
+EXP_768,CLI_0066,30-04-25,15.734 €,2,Banco Norte; Financiera Hispalis,522,cancelado con éxito
+exp-322,22,"April 28, 2025",51269,4,Seguros Atlántico; Banco Sur; Caja Campiña; Financiera Hispalis,474.51,Aceptado / En Negociación
+EXP_0432,CLI_0620,"March 18, 2025",41.251,cinco,Banco Norte / Telecom Dato / Crédito Express / Consumo Ya,375 EUR,
+EXP0334,CLI_0168,2025-04-06,61959.64,8,"Crédito Express,Caja Campiña,Tarjetas Mediterráneo,Préstamos Rápidos SL,Telecom Dato,Banco Norte,Financiera Hispalis,Seguros Atlántico",429 €,En Estudio
+EXP_0468,CLI_0270,22/07/2025,30.171,3,NaN,514,Plan Activo
+EXP_0340,CLI_0020,2025-06-29,43912,3,"Seguros Atlántico,Consumo Ya,Banco Sur","290,87",Incumplido 
+EXP0051,CLI_0493,2025-09-26,36696,6,Banco Sur y Financiera Hispalis y Crédito Express y Banco Norte y Préstamos Rápidos SL y Telecom Dato,-,PLAN ACTIVO
+EXP0210,CLI_0354,2025-06-04,"64.037,56",7,,"170,51",Aceptado
+EXP0954,379,,21803.60,5,Crédito Express / Financiera Hispalis / Consumo Ya / Préstamos Rápidos SL / Telecom Dato,378,en estudio
+EXP_0251,CLI_0364,2025-11-23,€ 60351,4,Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya; Seguros Atlántico,-,aceptado / en negociación
+EXP_0878,CLI_0038,11-10-25,34.060,7,Caja Campiña y Banco Norte y Telecom Dato y Seguros Atlántico y Préstamos Rápidos SL y Banco Sur,409,Aceptado / En Negociación 
+EXP_0168,CLI_0298,2025-05-30,15790,3,Crédito Express; Tarjetas Mediterráneo; Banco Norte,609 €,Cancelado con Éxito
+EXP0939,cli-539,2025-07-27,null,cinco,Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Caja Campiña; Financiera Hispalis; Banco Norte; Crédito Express; Préstamos Rápidos SL,€ 654,Plan Activo
+EXP_0393,CLI_0046,2025-11-28,60.395,4,"Préstamos Rápidos SL,Banco Sur,Caja Campiña,Banco Norte",155,ACEPTADO / EN NEGOCIACIÓN
+EXP_0134,CLI_0399,2025-05-09,64123 EUR,3,Seguros Atlántico / Banco Norte / Telecom Dato,617,Activo
+EXP_0782,CLI_0481,2025-05-26,55426.16,4,Crédito Express y Seguros Atlántico y consumo ya,169,plan  activo
+EXP_0735,CLI0531,2025-08-26,11114,2,Consumo Ya; Banco Norte,332,Aceptado / En Negociación
+EXP_0882,CLI_0603,20/08/2025,58.802,4,"Financiera Hispalis,Banco Sur,Tarjetas Mediterráneo,Caja Campiña",204 €,En Estudio
+EXP_710,CLI0638,20/05/2025,"14.848,57",8," Financiera Hispalis,Caja Campiña,Crédito Express,Consumo Ya,Tarjetas Mediterráneo,Seguros Atlántico",N/A,plan  activo
+EXP_0609,N/A,2025-06-24,"36.113,21",-,"Caja Campiña,Préstamos Rápidos SL,Financiera Hispalis",336,Plan Activo
+EXP_0905,CLI_0371,19-04-25,8754.25,4,Seguros Atlántico; financiera hispalis; Telecom Dato; Banco Sur,"296,67",plan  activo
+EXP_0002,CLI_0026,2025/07/31,NULL,n/d,"Seguros Atlántico,Crédito Express,Financiera Hispalis,Banco Norte","661,44",Aceptado / En Negociación 
+EXP_0824,CLI_0241,2025-04-06,30.855 €,5,Financiera Hispalis y Banco Sur y Telecom Dato y Préstamos Rápidos SL y Tarjetas Mediterráneo,null,En Estudio
+EXP_0006,CLI_0552,"May 17, 2025",36.309 €,6,"Seguros Atlántico,Banco Sur,Crédito Express,Telecom Dato,Caja Campiña,Banco Norte",182,Aceptado / En Negociación
+EXP_0111,CLI_0038,2025-10-07,€ 56781,2,"Préstamos Rápidos SL,Banco Norte","563,45",EN ESTUDIO
+EXP_0867,CLI_0419,26/05/2025,27632,4,Préstamos Rápidos SL; Tarjetas Mediterráneo; Caja Campiña,211 €,cancelado con éxito
+EXP_199,CLI_0625,17-08-25,€ 34056,7,Consumo Ya | Financiera Hispalis | Tarjetas Mediterráneo | Caja Campiña | Seguros Atlántico | Préstamos Rápidos SL | Banco Norte,693,En Estudio
+EXP0681,398,2025-04-13,€ 53031,8,Caja Campiña | Tarjetas Mediterráneo | Crédito Express | Banco Sur | Préstamos Rápidos SL | Telecom Dato | Consumo Ya | Seguros Atlántico,612,Plan Activo
+EXP_0414,CLI_0497,2025-02-16,N/A,2,"Banco Norte,Consumo Ya",222, En Estudio
+exp-665,CLI_0579,18.11.2025,€ 47415,5,"Telecom Dato,Banco Sur,Financiera Hispalis,Caja Campiña,Préstamos Rápidos SL",604,Aceptado / En Negociación
+EXP_429,CLI_0184,28/07/2025,23.244,2,Banco Sur | Financiera Hispalis,488,en estudio
+EXP_0079,CLI_0421,16/10/2025,33453 EUR,tres," Banco Norte,Préstamos Rápidos SL",596,PLAN ACTIVO
+EXP_0175,CLI_0070,12/07/2025,15574,8,Telecom Dato | Consumo Ya | Caja Campiña | Préstamos Rápidos SL | Crédito Express | Seguros Atlántico | Financiera Hispalis | Tarjetas Mediterráneo,572,plan  activo
+EXP_0926,CLI_0403,2025-04-30,50.136,6,Banco Sur y Banco Norte y Crédito Express y Financiera Hispalis y Telecom Dato,259,Plan Activo
+EXP_0663,479,2025-08-15,20026,4,Préstamos Rápidos SL; Banco Norte; Seguros Atlántico; Caja Campiña,678 €,
+exp-48,CLI_0402,2025/10/13,39179.46,8,n/d,n/d,Aceptado / En Negociación
+exp-392,CLI_0560,14/10/2025,43.171,4,N/A,380.97,NULL
+EXP_0035,cli-680,14.11.2025,37875,6,"Crédito Express,Consumo Ya,Banco Norte,Seguros Atlántico,Préstamos Rápidos SL,Tarjetas Mediterráneo",€ 238, En Estudio
+EXP_0573,CLI_0052,2025-04-24,26107 EUR,6,Préstamos Rápidos SL; Caja Campiña; Crédito Express; Consumo Ya; Seguros Atlántico; Tarjetas Mediterráneo,224 €,ACEPTADO / EN NEGOCIACIÓN
+EXP_0565,CLI_0598,29/09/2025,11162,4,"Banco Norte,Préstamos Rápidos SL,Tarjetas Mediterráneo,Consumo Ya",682 €,Incumplido 
+EXP_863,CLI_0634,2025-06-22,35007 EUR,4,Banco Norte y Seguros Atlántico y Financiera Hispalis y Consumo Ya,658,En Estudio
+EXP_0700,CLI_0515,25/11/2025,n/d,8,Crédito Express y Banco Norte y Caja Campiña y Telecom Dato y Consumo Ya y Préstamos Rápidos SL y Seguros Atlántico y Banco Sur,331,Aceptado / En Negociación
+EXP_0024,CLI_0483,24-03-25,56286,6,"Tarjetas Mediterráneo,Telecom Dato,Banco Sur,Banco Norte,Consumo Ya",518.94,Aceptado / En Negociacion
+EXP_0936,CLI_0107,2025-09-24,31271,3,Préstamos Rápidos SL | Seguros Atlántico | Crédito Express,,Plan Activo
+EXP_0694,CLI_0467,28-02-25,€ 8132,6,Banco Norte; Caja Campiña; CONSUMO YA; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL,N/A,Plan Activo
+exp-263,CLI_0369,2025-01-11,€ 18556,4,"Tarjetas Mediterráneo,Banco Sur,Consumo Ya,Telecom Dato",274 EUR,En Estudio
+EXP_0022,CLI_0632,2025-04-11,29945.59,4,"Banco Sur,Consumo Ya,Seguros Atlántico,Telecom Dato",698,incumplido
+EXP_0615,CLI_0531,24.04.2025,€ 22967,3,Consumo Ya; Préstamos Rápidos SL; Caja Campiña,442,Plan Activo
+EXP_0672,608,23/06/2025,56751,4,Seguros Atlántico; Telecom Dato; Financiera Hispalis; Consumo Ya,158 EUR,Aceptado / En Negociación
+exp-181,CLI_0437,05/07/2025,33775,2,Seguros Atlántico; Préstamos Rápidos SL,213.44,En Estudio
+EXP0068,CLI_0067,2025-10-27,24.796 €,2,Tarjetas Mediterráneo / Banco Norte,"442,36",Activo
+EXP_0797,CLI_0380,28/04/2025,52.436,6,Préstamos Rápidos SL; Consumo Ya; Banco Norte; Caja Campiña; Crédito Express; Tarjetas Mediterráneo,477,Plan Activo
+EXP_0769,CLI_0302,26/10/2025,"23.650,18",7,PRÉSTAMOS RÁPIDOS SL; Financiera Hispalis; Crédito Express; Consumo Ya; Seguros Atlántico; Banco Sur; Banco Norte,188, En Estudio
+exp-835,CLI_0106,05/10/2025,42254.79,2,Préstamos Rápidos SL; Financiera Hispalis,679,Aceptado
+EXP_187,CLI_0299,26/04/2025,25693,5,Caja Campiña y Seguros Atlántico y Préstamos Rápidos SL y Tarjetas Mediterráneo y Financiera Hispalis,554,EN ESTUDIO
+EXP_0944,CLI_0622,15/07/2025,"17.110,17",8,Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Banco Norte; Financiera Hispalis,378,Plan Activo
+EXP0140,CLI_0117,05/03/2025,49754,-,"Seguros Atlántico,BANCO SUR,Préstamos Rápidos SL,Tarjetas Mediterráneo",549 EUR,Aceptado / En Negociación
+exp-339,CLI_0609,05/12/2025,"63.171,32",8,Seguros Atlántico | Banco Norte | Caja Campiña | Consumo Ya | Financiera Hispalis | Crédito Express | Banco Sur | Telecom Dato,176,En Estudio 
+EXP_0834,CLI_0274,2025-10-18,37.245,6, Consumo Ya | Banco Norte | Telecom Dato | Crédito Express | Seguros Atlántico | Tarjetas Mediterráneo,602,Plan Activo
+exp-30,CLI_0520,2025-08-22,35.268,3,"Banco Norte,Seguros Atlántico",525, Plan Activo
+EXP_0398,cli-650,10/08/2025,60162,8,"Seguros Atlántico,Telecom Dato,Caja Campiña,Banco Sur,Consumo Ya,Crédito Express,Tarjetas Mediterráneo,Banco Norte",587, En Estudio
+EXP_0221,CLI0201,30/04/2025,17182,8,"Telecom Dato,Banco Norte,Caja Campiña,Consumo Ya,Crédito Express,Financiera Hispalis,Banco Sur,Seguros  Atlántico",321,Activo
+EXP_0426,CLI_0520,2025/06/30,16630,,Banco Sur; Financiera Hispalis,260,plan activo
+EXP_0454,CLI_0077,2025-02-25,"61.921,77",3,Seguros Atlántico; Telecom Dato,590 EUR,Cancelado con Éxito
+EXP0418,CLI_0497,2025-03-10,57.185 €,2,Tarjetas Mediterráneo / Préstamos Rápidos SL,690,Aceptado / En Negociación
+EXP_0978,CLI_0536,2025-03-22,23403.32,tres,Caja Campiña / Tarjetas Mediterráneo / Consumo Ya / Banco Sur / Financiera Hispalis / Banco Norte / Préstamos Rápidos SL,461,aceptado / en negociación
+EXP0059,CLI_0418,22-03-25,53475 EUR,2,CONSUMO YA; Crédito Express,559 €,Aceptado / En Negociación
+EXP_0039,CLI_0544,28-02-25,56.243 €,3,Préstamos Rápidos SL | Banco Norte | Telecom Dato,349,Plan Activo
+EXP_0504,CLI_0526,16/05/2025,17.028,10,"Seguros Atlántico,Crédito Express,Banco Norte,Banco Sur,Financiera Hispalis,Préstamos Rápidos SL,Caja Campiña,Tarjetas Mediterráneo",329,En Estudio
+EXP_0354,CLI_0423,10/10/2025,14884,7,Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Crédito Express; Banco Norte,372,cancelado con éxito
+exp-738,CLI_0324,2025/10/20,€ 49904,5,Seguros Atlántico;  Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL;  Banco Norte,446 EUR,PLAN ACTIVO
+EXP_0871,cli-360,"September 10, 2025",25056 EUR,8,Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; CAJA CAMPIÑA; Banco Norte; Consumo Ya; Préstamos Rápidos SL,354,Activo
+EXP_424,CLI_0197,"May 11, 2025",50602,5,Caja Campiña / Telecom Dato / Crédito Express / Banco Sur / Financiera Hispalis,362,Plan Activo
+EXP_0998,CLI_0659,25/02/2025,63.471,2,Seguros Atlántico | Telecom Dato,539.82,Plan Activo
+EXP_0390,CLI_0044,23.05.2025,15.145,2,Banco Sur / Préstamos Rápidos SL,402 €,Cancelado  con  Éxito
+EXP_0640,CLI_0664,03-04-25,14434,7,null,,Aceptado / En Negociación
+,,,,,,,
+EXP0887,CLI_0014,29/09/2025,NaN,7,N/A,NaN,plan activo
+EXP0704,CLI_0010,2025-03-22,11613,5,Crédito Express / Tarjetas Mediterráneo / Banco Sur / Seguros Atlántico / Telecom Dato,422,En Estudio
+EXP_0917,CLI_0106,21/09/2025,63712.72,4,Financiera Hispalis; Banco Sur; Caja  Campiña; Crédito Express,263,ACEPTADO / EN NEGOCIACIÓN
+EXP_0937,CLI_0495,04/05/2025,37.724,5,Préstamos Rápidos SL; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Banco Norte,"299,82",En Estudio
+EXP_0385,CLI_0007,2025-02-08,9276,6,Préstamos Rápidos SL; Banco Sur; Crédito Express; Financiera Hispalis; Consumo Ya; Seguros Atlántico,644,EN ESTUDIO
+EXP_0298,CLI_0672,2025-08-20,39937.23,cinco,Crédito Express; Tarjetas Mediterráneo; Banco Norte; Banco Sur; Seguros Atlántico,269.28,Aceptado / En Negociación
+exp-100,CLI0458,N/A,53.279,5,Financiera Hispalis | Banco Sur | Banco Norte | Telecom Dato | Caja Campiña | Préstamos Rápidos SL,651, Plan Activo
+exp-547,CLI_0183,05/06/2025,31.800 €,7,Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Banco Norte; Banco Sur; Consumo Ya; SEGUROS ATLÁNTICO,316,Aceptado / En Negociación 
+EXP_0789,CLI1052,2025-01-20,49.371,6,Préstamos Rápidos SL y Seguros Atlántico y Tarjetas Mediterráneo y Telecom Dato y Crédito Express y Financiera Hispalis,699 EUR,Aceptado/En Negociacion
+EXP0885,CLI0100,14-02-25,37.551,3,Tarjetas Mediterráneo; Financiera  Hispalis; Telecom Dato,"224,71",ACEPTADO / EN NEGOCIACIÓN
+EXP0707,CLI_0556,20/06/2025,58634,3,Consumo Ya; Caja Campiña; Seguros Atlántico,678, En Estudio
+EXP_0025,CLI0162,2025-06-27,56.704,6,,331,ACEPTADO / EN NEGOCIACIÓN
+exp-967,CLI_0264,2025-10-08,9.519,2,Crédito Express | Financiera Hispalis,418 €,plan activo
+EXP_0192,CLI_0328,21/01/2025,38709,5,Tarjetas Mediterráneo; Consumo Ya; Banco Norte; telecom dato; Financiera Hispalis,€ 575,Cancelado con Éxito
+EXP_0255,CLI_0316,,62.144 €,5,Caja Campiña | Banco Norte | Financiera Hispalis | Telecom Dato | Crédito Express,637 EUR,Plan Activo
+EXP_0286,CLI0096,10/05/2025,9.681,2,Banco Sur; Caja Campiña,"451,06",Plan Activo
+EXP_0946,129,05-08-25,56503,7,Seguros Atlántico; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Sur; Crédito Express,500,PLAN ACTIVO
+EXP_0958,CLI_0197,06/02/2025,34830.16,2,"Crédito Express,Tarjetas Mediterráneo",457 €,Plan Activo
+exp-171,303,2025-02-10,"20.725,67",6,Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Sur; Telecom Dato,"415,83",Aceptado / En Negociación
+EXP_0295,CLI0104,2025-01-12,60.479 €,6,Seguros Atlántico; Banco Norte; Financiera Hispalis; Telecom Dato; Consumo Ya; Caja Campiña,544,plan activo
+EXP_0599,CLI_0192,14/08/2025,€ 28961,2,"Tarjetas Mediterráneo,Crédito Express",609 €,Estudio
+EXP_0780,562,01-03-25,N/A,5,"Crédito Express,Financiera Hispalis,Consumo Ya,Seguros Atlántico,Banco Norte",493 EUR,Estudio
+EXP_0237,CLI_0535,27/06/2025,60.191,4,Banco Norte / Caja Campiña / Telecom Dato / Préstamos Rápidos SL,"204,12", Plan Activo
+EXP_0869,CLI0068,2025-05-04,28.016,3,"Banco Sur,Telecom Dato",547,Aceptado / En Negociación 
+EXP_0065,363,2025/04/05,34.129 €,,Consumo Ya / préstamos rápidos sl / Caja Campiña / Crédito Express / BANCO SUR / Financiera Hispalis / Telecom Dato / Banco Norte,"285,24",Aceptado
+exp-259,CLI_0029,05.08.2025,51.561,7,Crédito Express / Financiera Hispalis / Préstamos Rápidos SL / Banco Sur / Caja Campiña / Seguros Atlántico / Telecom Dato,420,ACEPTADO / EN NEGOCIACIÓN
+EXP_0348,CLI_0604,21/02/2025,38865.83,9,"Telecom Dato,Banco Norte,Consumo Ya,Banco Sur,Financiera Hispalis,Crédito Express,Seguros Atlántico, Préstamos Rápidos SL",190,plan activo
+EXP_0321,CLI_0105,2025-10-02,22505 EUR,3,Telecom Dato y Banco Sur y Financiera Hispalis,NaN,Aceptado / En Negociación
+EXP_0755,CLI0405,"June 01, 2025",23.311 €,4,Préstamos Rápidos SL y Banco Norte y Caja Campiña y Telecom Dato,"564,02",Incumplido
+EXP_0095,cli-660,18/04/2025,46292.63,2,Crédito Express; Banco Norte,489 EUR,Estudio
+EXP_0861,CLI_0189,03/05/2025,NaN,5,Consumo Ya; Banco Sur; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte,156,plan activo
+EXP_0527,CLI_0620,2025-03-26,13956,7,"Tarjetas Mediterráneo,Crédito Express,Seguros Atlántico,Banco Sur,Caja Campiña,Banco Norte, Préstamos Rápidos SL",345 €,Aceptado / En Negociación
+EXP_0560,CLI_0482,21-09-25,€ 44668,3,Préstamos Rápidos SL | Consumo Ya,561,Incumplido
+EXP_269,185,2025-07-10,31.011,cuatro,Caja Campiña y Banco Sur y Préstamos Rápidos SL y Financiera Hispalis,548.69,en estudio
+EXP0153,CLI_0157,07.03.2025,25142,5,Consumo Ya | Banco Sur | Telecom Dato | Tarjetas Mediterráneo | Préstamos Rápidos SL,426,ACEPTADO / EN NEGOCIACIÓN
+EXP0480,CLI_0648,2025-06-16,56481 EUR,7,"Banco Norte,Telecom Dato,Seguros Atlántico,Tarjetas Mediterráneo,Préstamos Rápidos SL,Caja Campiña,Consumo Ya",€ 586,Cancelado
+EXP_0739,cli-133,2025-02-23,9054,7,"Financiera Hispalis,Tarjetas Mediterráneo,Crédito Express,Banco Sur,Consumo Ya,Seguros Atlántico,Banco Norte",373,incumplido
+exp-968,145,03/12/2025,57704,8,"Tarjetas Mediterráneo,Crédito Express,Préstamos Rápidos SL,Telecom Dato,Seguros Atlántico,Consumo Ya,Caja Campiña ,Banco Norte",512,Incumplido
+EXP0273,CLI_0584,16/01/2025,51.177,9,Financiera Hispalis / Telecom Dato / Crédito Express / Banco Norte / Consumo Ya / Seguros Atlántico / Caja Campiña,331,plan  activo
+EXP_0920,CLI0126,2025/07/14,22.022,2,"Banco Norte,Telecom Dato",608,Cancelado con Exito
+EXP_0829,CLI_0153,"November 10, 2025",42357.81,2,Banco Sur; Caja Campiña,517,en estudio
+EXP_0538,CLI_0046,2025-11-23,"27.569,50",4,Caja Campiña / Financiera Hispalis / Tarjetas Mediterráneo / Banco Norte,275,Aceptado / En Negociación
+EXP_0794,cli-177,2025-08-18,35876,5,Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico,-,Aceptado / En Negociación
+EXP_0371,cli-209,2025/05/06,34866,6,Tarjetas Mediterráneo; Banco Sur; Banco Norte; Consumo Ya; Caja Campiña; Telecom Dato,,PLAN ACTIVO
+EXP_0450,CLI_0485,13/06/2025,20287,7,Consumo Ya; Telecom Dato; Banco Norte; Banco Sur; Financiera Hispalis; Caja Campiña; Préstamos Rápidos SL; Crédito Express,214,ACEPTADO / EN NEGOCIACIÓN
+EXP_0109,CLI_0258,2025-03-26,15523,3,"Crédito Express,Préstamos Rápidos SL,Banco Sur",411,En Estudio
+EXP_0642,CLI_0228,30-07-25,50.256,8,,225,Aceptado / En Negociacion
+EXP_199,CLI_0625,17-08-25,31.290,7,Consumo Ya | Financiera Hispalis | Tarjetas Mediterráneo | Caja Campiña | Seguros Atlántico | Préstamos Rápidos SL | Banco Norte,693,Cancelado con Éxito
+EXP_0678,CLI_0096,02/01/2025,62964,3,Banco Norte y Financiera Hispalis y Crédito Express,NaN,En Estudio
+EXP_0686,CLI_0126,2025/08/08,45.303,6,Crédito Express; Caja Campiña; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Consumo Ya,555 EUR,Aceptado / En Negociación 
+EXP_185,CLI_0329,28.02.2025,28.435 €,5,Telecom Dato; Banco Sur; Banco Norte; Seguros Atlántico; Caja Campiña,"324,31",Plan Activo
+EXP_0090,530,25-10-25,19084.62,5,Préstamos Rápidos SL | Tarjetas Mediterráneo | Crédito Express | Telecom Dato | Caja Campiña,,Aceptado / En Negociacion
+EXP_0916,639,04-09-25,62.157,6,Banco Sur;  Préstamos Rápidos SL; Banco Norte; Crédito Express; Caja Campiña; Consumo Ya,303,plan  activo
+EXP_0806,275,2025-06-08,36.146,dos,"Telecom Dato,Caja Campiña,Financiera Hispalis,Banco Norte",497,En Estudio 
+EXP0105,CLI_0138,"February 09, 2025",51289.32,3,Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico,€ 576,Aceptado / En Negociacion
+EXP_370,CLI_0595,2025-05-11,37253,2,"Crédito Express,Tarjetas Mediterráneo",618,PLAN ACTIVO
+EXP_0657,CLI0116,"July 18, 2025","41.991,31",3,"Telecom Dato,Préstamos Rápidos SL,Financiera Hispalis",212,Plan Activo
+EXP_0247,CLI_0013,2025-08-26,"61.137,87",6,Banco Norte / Seguros Atlántico / Telecom Dato / Préstamos Rápidos SL / Consumo Ya / Tarjetas Mediterráneo,€ 667,En Estudio
+EXP_0673,cli-304,"September 29, 2025",42777.34,2,"Seguros Atlántico,Préstamos Rápidos SL",574 €,Aceptado/En Negociacion
+EXP_601,cli-538,21/02/2025,36524,3,"Tarjetas Mediterráneo,Banco Sur,Financiera Hispalis",661, Aceptado / En Negociación
+EXP0727,CLI_0304,20-10-25,18.435,9,Financiera Hispalis / Banco Sur / Banco Norte / Telecom Dato / Préstamos Rápidos SL / Consumo Ya / Crédito Express,"537,93",CANCELADO CON ÉXITO
+EXP0098,CLI_0202,22.10.2025,NULL,7,Telecom Dato; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo,696.49,En Estudio
+EXP_19,CLI_0564,2025-04-10,63703 EUR,8,Seguros Atlántico | Préstamos Rápidos SL | Caja Campiña | Financiera Hispalis | Crédito Express | Tarjetas Mediterráneo | Telecom Dato | Banco Sur,441,Aceptado / En Negociación 
+EXP_0865,cli-11,2025-06-13,22.112 €,2,"Consumo Ya,Crédito Express","515,87",En Estudio 
+EXP_0703,CLI_0389,2025-10-31,27.297 €,4,BANCO SUR y Financiera Hispalis y Crédito Express y Telecom Dato,€ 663,En Estudio
+EXP_0103,CLI_0622,2025-06-11,54229,7,Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Crédito Express; Banco Sur,"660,06",en estudio
+EXP_0457,CLI_0642,2025-11-16,42231,6,,505 EUR,Activo
+exp-698,CLI_0191,2025/08/01,63.344 €,4,"Banco Norte,Banco Sur,Crédito Express,Consumo Ya,Seguros Atlántico",694 €,Plan  Activo
+EXP_0542,CLI_0498,2025-05-05,46.140 €,7,"Consumo Ya,Crédito Express,Caja Campiña,Banco Norte,Telecom Dato,Financiera Hispalis,Banco Sur",451,En Estudio
+EXP_0963,CLI_0327,2025/05/01,36283.66,6,Tarjetas Mediterráneo / Financiera Hispalis / Seguros Atlántico / Banco Norte / Caja Campiña / Crédito Express / Consumo Ya,334,Plan Activo
+EXP_0533,CLI_0409,2025-11-15,50039.21,4,Banco Sur / Financiera Hispalis / Seguros Atlántico / Tarjetas Mediterráneo,438 EUR,plan activo
+EXP_271,CLI_0271,2025-01-12,24.804,2,n/d,€ 194,En Estudio
+EXP_0771,CLI_0040,29/07/2025,"36.117,47",4,Tarjetas Mediterráneo; Financiera Hispalis; Consumo Ya; Caja Campiña,617,Aceptado / En Negociacion
+EXP_0750,CLI_0671,"December 07, 2025","16.357,96",6,Préstamos Rápidos SL; Crédito Express; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Banco Sur,274,Plan Activo
+EXP_0548,CLI_0508,2025-04-04,48.566,8,Banco Sur; Seguros Atlántico; Consumo Ya; Banco Norte; Caja Campiña; Financiera Hispalis; Telecom Dato; Tarjetas Mediterráneo,397 EUR,plan  activo
+EXP_0484,CLI0541,13/09/2025,64.813,6,Consumo Ya; Caja Campiña; Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis,191 EUR,Incumplido
+EXP_0145,CLI_0451,12.11.2025,10.455,2,Caja Campiña; Tarjetas Mediterráneo,209,plan  activo
+EXP_0416,CLI_0144,17/06/2025,"56.889,64",3,"Telecom Dato,Seguros Atlántico,Caja Campiña",647 EUR,PLAN ACTIVO
+EXP_0046,CLI_0339,09/03/2025,24400,8,Financiera Hispalis / Seguros Atlántico / Tarjetas Mediterráneo / Préstamos Rápidos SL / Crédito Express / Consumo Ya / Telecom Dato / Banco Sur,531,Plan Activo
+EXP_0600,CLI_0060,2025-09-07,13260,6,Tarjetas Mediterráneo; Caja Campiña; Telecom Dato; Banco Norte; Crédito Express; Financiera Hispalis,684.37,Aceptado / En Negociacion
+EXP0381,cli-156,09/08/2025,26175,4,Crédito Express; Tarjetas Mediterráneo; Financiera Hispalis; Banco Norte,163,ACEPTADO / EN NEGOCIACIÓN
+EXP_0792,CLI_0047,02.07.2025,46.871,4,Financiera Hispalis; Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña,null,Incumplido
+EXP_353,CLI_0303,27-02-25,58.503 €,8,Caja Campiña / Telecom Dato / Financiera Hispalis / Banco Norte / Banco Sur / Crédito Express / Tarjetas Mediterráneo / Préstamos Rápidos SL,"182,83",Aceptado
+EXP_0894,CLI_0219,2025-06-07,"60.123,15",7,Consumo Ya; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Telecom Dato; Banco Norte,345,en estudio
+EXP_0612,cli-595,20/04/2025,"23.635,01",4,"Tarjetas Mediterráneo,Préstamos Rápidos SL,Telecom Dato,Consumo Ya",289,cancelado con éxito
+EXP_699,CLI_0273,15/03/2025,51.280,2,"Banco Norte,Telecom Dato",624,En Estudio
+exp-774,CLI_0180,2025-06-15,32.314 €,5,PRÉSTAMOS RÁPIDOS SL / Consumo Ya / Banco Sur / Telecom Dato / Tarjetas Mediterráneo,536,Aceptado / En Negociación 
+EXP_0356,CLI_0437,12/07/2025,37169,dos,Banco Sur; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Caja Campiña; Crédito Express,192,Activo
+EXP_0296,CLI_0910,26/01/2025,44457,4,"Telecom Dato,Banco Sur","315,49",Incumplido
+exp-654,CLI_0550,29/07/2025,€ 49626,3,Crédito Express / Consumo Ya / Préstamos Rápidos SL,682 EUR,Cancelado con Éxito
+EXP_0841,CLI_0487,2025-05-06,31238,6,Caja Campiña; Consumo Ya; Crédito Express; Seguros Atlántico; Banco Norte; Tarjetas Mediterráneo,283,En Estudio
+EXP_0452,CLI_0361,27/09/2025,"30.735,41",7,"Telecom Dato,Crédito Express,Seguros Atlántico,Banco Norte,Consumo Ya,Financiera Hispalis,Caja Campiña",532,Aceptado / En Negociación
+exp-492,CLI0563,2025-07-24,45921 EUR,7,"Telecom Dato,Financiera Hispalis,Banco Norte,Préstamos Rápidos SL,Tarjetas Mediterráneo,Consumo Ya,Caja Campiña",NaN, Cancelado con Éxito
+EXP_0456,CLI_0419,2025-04-19,58541,7,"Seguros Atlántico,Crédito Express,Caja Campiña,Banco Sur,Préstamos Rápidos SL,Banco Norte,Financiera Hispalis",598,Aceptado  /  En  Negociación
+EXP_328,CLI_0502,28/08/2025,43.158,4,Crédito Express; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL,416.50,en estudio
+EXP_0864,CLI_0348,27/10/2025,24366,3,"Financiera Hispalis,Banco Norte,Préstamos Rápidos SL",578,Cancelado con Éxito
+EXP_0564,CLI_0104,2025-01-10,37527,6,"Tarjetas Mediterráneo,Crédito Express ,Caja Campiña,Banco Norte,Financiera Hispalis,Consumo Ya,Préstamos Rápidos SL",412,en estudio
+EXP_0637,null,2025-10-22,47338,8,Crédito Express | Seguros Atlántico | Banco Norte | Banco Sur | Consumo Ya | Caja Campiña | Tarjetas Mediterráneo | Préstamos Rápidos SL,660 EUR,Aceptado
+EXP_0475,CLI_0570,2025-06-22,55.250 €,2,Consumo Ya; Préstamos Rápidos SL ; Financiera Hispalis,156,Aceptado / En Negociación
+EXP_0882,CLI_0603,20/08/2025,58.802,4,"Financiera Hispalis,Banco Sur,Tarjetas Mediterráneo,Caja Campiña",204 €,En Estudio
+EXP_0290,CLI_0485,10/07/2025,43543,8,Caja Campiña; Banco Norte; Crédito Express; Seguros Atlántico; Telecom Dato; Consumo Ya; Banco Sur; Tarjetas Mediterráneo,232,n/d
+EXP_0639,CLI0269,"August 05, 2025",62947,7,Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Consumo Ya; Banco Sur,500,En Estudio
+EXP_0620,CLI_0154,21/04/2025,55622.41,3,Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico,649,aceptado / en negociación
+EXP_0550,CLI_0629,26.07.2025,42271,7,"Consumo Ya,Seguros Atlántico,Financiera Hispalis,Telecom Dato,Banco Norte,Caja Campiña,Crédito Express",620,Plan Activo
+EXP_732,CLI_0529,2025/10/03,43.346 €,n/d,"Crédito Express,Préstamos Rápidos SL,Seguros Atlántico,Banco Norte,Financiera Hispalis",238,Cancelado con Éxito
+EXP0808,CLI0666,2025-08-09,55.189 €,3,"Caja Campiña,Crédito Express,Tarjetas Mediterráneo","582,64",Plan Activo
+EXP_689,CLI_0404,14/11/2025,"21.173,06",5,Préstamos Rápidos SL / Consumo Ya / Seguros Atlántico / Crédito Express / Telecom Dato,358 EUR,Plan Activo 
+exp-407,CLI_0312,2025-09-15,"21.362,96",3,Tarjetas Mediterráneo | Préstamos Rápidos SL | Banco Norte,"541,83",Aceptado / En Negociación
+EXP_152,CLI0601,15-08-25,42455,5,"Tarjetas Mediterráneo,Crédito Express,Préstamos Rápidos SL,Banco Sur, Caja Campiña,Banco Norte",€ 333,En Estudio
+EXP_751,cli-499,13/10/2025,59.741,2,Banco Norte; Banco Sur,640,ACEPTADO / EN NEGOCIACIÓN
+EXP0625,CLI_0016,16-09-25,28.439,6,Banco Norte; Telecom Dato; Financiera Hispalis; Caja Campiña; Crédito Express; Banco Sur,"354,47",Cancelado con Exito
+EXP_0314,CLI_0201,09/05/2025,30.655,6,"BANCO NORTE,Financiera Hispalis,Caja Campiña,Tarjetas Mediterráneo,Préstamos Rápidos SL,Seguros Atlántico",526,Cancelado con Éxito
+EXP_848,23,2025-02-24,"40.044,60",7,Seguros Atlantico | Crédito Express | Financiera Hispalis | Consumo Ya | Banco Norte | Tarjetas Mediterráneo | Caja Campiña,166,Activo
+EXP_0121,CLI_0382,07/11/2025,€ 10899,3,Financiera Hispalis; Crédito Express; Seguros Atlántico,253,incumplido
+EXP_0685,CLI_0307,NaN,56.376,4,Tarjetas Mediterráneo; Banco Sur; Caja Campiña; Préstamos Rápidos SL,"222,75",Cancelado con Éxito
+EXP_0302,cli-643,12.11.2025,60.174,5,Préstamos Rápidos SL y Tarjetas Mediterráneo y Telecom Dato y Seguros Atlántico y Banco Norte,€ 248,Cancelado con Éxito
+EXP_0077,cli-413,2025-04-27,51815,N/A,Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte; Caja Campiña; Consumo Ya; Telecom Dato; Crédito Express,€ 575,en estudio
+EXP_0992,cli-317,11/09/2025,47511,4,Banco Norte y Financiera Hispalis y Préstamos Rápidos SL y Consumo Ya,500,en estudio
+EXP_0280,198,2025-03-06,22197,8,Banco Norte; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Caja Campiña,693 €,Cancelado con Éxito
+EXP0633,CLI_0400,31/05/2025,"62.237,62",cuatro,Telecom Dato y Préstamos Rápidos SL y Consumo Ya y Banco Norte y Seguros Atlántico,359,Aceptado  /  En  Negociación
+EXP0040,CLI0472,01-01-30,49.949,8,"Seguros Atlántico,Tarjetas Mediterráneo,Crédito Express,Préstamos Rápidos SL,Banco Sur,Caja Campiña,Financiera Hispalis,Consumo Ya",€ 682,Aceptado / En Negociación
+EXP_0952,CLI_0413,2025/05/04,38870,8,"Banco Sur,Telecom Dato,Tarjetas Mediterráneo,Préstamos Rápidos SL,Banco Norte,Crédito Express,Consumo Ya,Caja Campiña",524,Aceptado / En Negociación
+EXP_0425,CLI0403,2025/05/16,"16.971,47",2,Tarjetas Mediterráneo y Seguros Atlántico,355,En  Estudio
+EXP0217,cli-456,13/07/2025,"32.540,89",8,"Consumo Ya,Caja Campiña,Telecom Dato,Seguros Atlántico,Banco Norte,Crédito Express,Banco Sur,Financiera Hispalis",403 EUR,plan  activo
+EXP_0741,CLI_0017,,10700,2,"Seguros Atlántico,Banco Sur",561 €,Plan Activo
+EXP_470,CLI_0519,2025-07-18,15.460,5,"Tarjetas Mediterráneo,Telecom Dato,Consumo Ya",241,Plan Activo 
+EXP_0520,CLI0601,27/07/2025,59.125 €,5,Banco Norte y Préstamos Rápidos SL y Seguros Atlántico y Banco Sur y Caja Campiña,437,Plan Activo
+EXP_0604,CLI_0109,2025-06-23,61296,4,Crédito Express y Banco Norte y Préstamos Rápidos SL y Banco Sur,513,plan activo
+EXP_0658,CLI_0092,2025/10/20,53.534,3,"CRÉDITO EXPRESS,Banco Norte,Tarjetas Mediterráneo",607 €,ACEPTADO / EN NEGOCIACIÓN
+exp-770,CLI_0383,27/11/2025,55.274,-,Banco Norte; Caja Campiña; tarjetas mediterráneo; Consumo Ya; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Banco Sur,505.99,INCUMPLIDO
+EXP_0173,cli-563,2025-06-12,50.878 €,4,Consumo Ya; Banco Norte; Caja  Campiña; Tarjetas Mediterráneo,689,Aceptado / En Negociación
+EXP_0877,CLI_0486,2025-05-03,12.314,dos,"BANCO NORTE,Tarjetas Mediterráneo,Crédito Express ,Préstamos Rápidos SL",210.77,En Estudio
+EXP_0576,CLI0160,27/09/2025,32.071 €,dos, Seguros Atlántico / Banco Norte / Financiera Hispalis,349,Incumplido 
+EXP_0214,CLI_0294,13/04/2025,"9.525,13",7,Telecom Dato / Crédito Express / Seguros Atlántico / Consumo Ya / Préstamos Rápidos SL / Banco Norte / Caja Campiña,591 EUR,Plan Activo
+EXP0605,CLI_0639,26/09/2025,€ 19139,cinco,Tarjetas Mediterráneo; Financiera Hispalis; Banco Sur; Caja Campiña; Telecom Dato; Consumo Ya; Seguros Atlántico; Banco Norte,€ 191,Aceptado / En Negociación
+EXP_0815,CLI_0334,09-09-25,27878.79,3,n/d,443 EUR,En Estudio
+EXP_0495,551,08-09-25,€ 46754,2,,459.79,Plan Activo
+EXP_0568,CLI_0031,21/05/2025,41203,6,Seguros Atlántico y Financiera Hispalis y Caja Campiña y banco sur y Consumo Ya y Banco Norte,187.94,Plan Activo
+EXP_0764,CLI_0557,28-09-25,41315,5,Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Banco Norte,660 EUR, En Estudio
+EXP_476,CLI_0510,23-04-25,"12.702,33",,Préstamos Rápidos SL | Telecom Dato | Crédito Express | Financiera Hispalis | Seguros Atlántico | Caja Campiña,357 €,Aceptado  /  En  Negociación
+EXP0803,CLI_0021,2025-07-03,25813 EUR,8,Consumo Ya | Telecom Dato | Préstamos Rápidos SL  | Banco Sur | Seguros Atlantico | Caja Campiña | Crédito Express,n/d,Cancelado con Éxito
+EXP_0624,CLI_0651,,18359,4,"Telecom Dato,Caja Campiña,Seguros Atlántico,Banco Norte",605,Plan Activo
+EXP_0999,CLI_0561,2025-06-11,"53.309,07",3,NULL,243 €,PLAN ACTIVO
+EXP_0711,CLI_0670,03.03.2025,55.157,3,"Financiera Hispalis,Tarjetas Mediterráneo,Banco Norte",358,aceptado / en negociación
+exp-634,CLI_0094,00/00/0000,€ 63225,6,Caja Campiña | Financiera Hispalis | Tarjetas Mediterráneo | Telecom Dato | Consumo Ya | Seguros Atlántico,€ 540,En Estudio
+EXP_880,CLI_0680,2030-01-01,10.349,4,Telecom Dato; Caja Campiña; Tarjetas Mediterráneo; Crédito Express,582.50,En Estudio
+EXP_0467,CLI_0208,11-12-25,43495.69,6,"Consumo Ya,Financiera Hispalis,Banco Sur,Banco Norte,Crédito Express,Telecom Dato","209,89",Aceptado / En Negociación
+EXP_0359,CLI_0340,2025/10/23,30487,1,Tarjetas Mediterráneo / Crédito Express,n/d,aceptado / en negociación
+EXP_0405,501,"March 03, 2025","58.696,55",4,"Consumo Ya,Caja Campiña,Telecom Dato,Tarjetas Mediterráneo",636.25,CANCELADO CON ÉXITO
+EXP_699,CLI_0273,15/03/2025,51.280,2,"Banco Norte,Telecom Dato",624,En Estudio
+EXP_763,CLI_0377,17-09-25,45747,7,Telecom Dato; Seguros Atlántico; Crédito Express; Financiera Hispalis; Caja Campiña; Banco Sur; Préstamos Rápidos SL,155,Aceptado / En Negociación
+EXP_0459,465,07-02-25,€ 51548,6,Banco Sur; Caja Campiña; Telecom Dato; Financiera Hispalis; Banco Norte; Seguros Atlántico,681,aceptado / en negociación
+exp-207,CLI_0336,15/10/2025,32.036 €,2,Telecom Dato | Financiera Hispalis,"320,63",Aceptado / En Negociación
+EXP_0061,CLI_0111,"May 05, 2025","14.536,17",4,Crédito Express | Préstamos Rápidos SL | Banco Norte | Tarjetas Mediterráneo,567,Plan Activo
+EXP0921,CLI_0054,2025-07-12,43.129 €,9,Telecom Dato / Tarjetas Mediterráneo / Préstamos Rápidos SL / Consumo Ya / Seguros Atlántico / Banco Sur / Financiera Hispalis,211.02,Plan Activo
+EXP_0234,CLI_0277,30-05-25,"48.026,13",5,Tarjetas Mediterráneo / Préstamos Rápidos SL / Caja Campiña / Banco Sur / Crédito Express,€ 378,Aceptado / En Negociación
+EXP_0037,cli-14,20/09/2025,15.692,7,Telecom Dato; Banco Norte; Caja  Campiña; Banco Sur; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico,618 EUR,Cancelado con Éxito
+EXP_0674,CLI_0420,2025-07-25,23.933 €,6,Préstamos Rápidos SL | Caja Campiña | Telecom Dato | Seguros Atlántico | Financiera Hispalis | Banco Norte,169, Plan Activo
+EXP_4,CLI_0586,"October 29, 2025","49.532,01",4,"Caja Campiña,Banco Norte ",€ 248,En Estudio
+EXP_0791,CLI_0174,02-10-25,46890,3,Caja Campiña y Tarjetas Mediterráneo y Préstamos Rápidos SL,349 EUR,Plan Activo
+EXP_0655,CLI_0631,2025-08-12,19709,7,"Seguros Atlántico,Financiera Hispalis,Telecom Dato,Crédito Express,Banco Norte,Préstamos Rápidos SL,Consumo Ya",438.94,En Estudio
+EXP0158,CLI_0618,2025-03-25,19.766,7,Consumo Ya; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Financiera Hispalis; Crédito Express; Banco Norte,589,Plan Activo 
+exp-581,403,2025-04-24,"24.365,34",2,Crédito Express y Seguros Atlántico,329,Plan Activo
+EXP_0747,cli-429,08/02/2025,NULL,5,Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Telecom Dato,367 EUR,En Estudio
+exp-461,CLI_0310,2025-04-02,24620,-,null,445,Cancelado con Éxito
+EXP_0150,CLI_0274,2025-10-29,-32726,3,"Consumo Ya,Banco Norte,Tarjetas Mediterráneo,Caja Campiña","526,84",EN ESTUDIO
+EXP_0666,CLI_0247,2025-09-12,59174 EUR,5,telecom dato; Crédito Express; Tarjetas Mediterráneo; Seguros Atlántico; Préstamos Rápidos SL,190 EUR,en estudio
+EXP_0997,CLI_0264,2025-11-17,20471.74,7,Crédito Express; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Consumo Ya; BANCO SUR,543 €, Aceptado / En Negociación
+EXP_0832,642,11/11/2025,26934,3,Banco Norte | Préstamos Rápidos SL | Crédito Express,665,Plan Activo
+EXP_0194,cli-109,,"37.273,35",1,"Telecom Dato,FINANCIERA HISPALIS",310,Aceptado
+EXP_586,CLI_0312,2025-08-23,31322,2,Seguros Atlántico / Crédito Express,171 EUR,En Estudio
+exp-78,CLI_0056,05-01-25,"40.396,57",8,"Seguros Atlántico,Crédito Express,Banco Norte,Telecom Dato,Consumo Ya,Banco Sur,Préstamos Rápidos SL,Financiera Hispalis",366,Aceptado / En Negociación
+EXP_553,CLI_0541,2025-09-24,9340,2,"Crédito Express,Financiera Hispalis","178,25",Aceptado / En Negociación
+EXP_0555,CLI_0590,2025-11-04,NaN,7,"Tarjetas Mediterráneo,Caja Campiña,Banco Norte,Seguros Atlántico,Consumo Ya,Préstamos Rápidos SL,Banco Sur",611 EUR,PLAN ACTIVO
+EXP_0102,CLI_0023,2025-03-03,18065 EUR,2,Financiera Hispalis; Banco Sur,"471,97",ACEPTADO / EN NEGOCIACIÓN
+EXP0977,CLI0262,01-03-25,53399,3,"Consumo Ya,Seguros Atlántico,Banco Sur",157,Plan Activo
+EXP_125,CLI_0233,22-02-25,27975,6,"Financiera Hispalis,Caja Campiña,Tarjetas Mediterráneo,Seguros Atlántico,Préstamos Rápidos SL,Telecom Dato",655,-
+EXP_0010,CLI_0076,13-04-25,"25.122,34",8,Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico; Caja Campiña; Crédito Express; Consumo Ya,€ 308,cancelado con éxito
+EXP_0985,169,07/06/2025,42.080,6,Consumo Ya; Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Telecom Dato; FINANCIERA HISPALIS,648,Plan Activo
+EXP_0071,265,,"41.628,81",4,"Tarjetas Mediterráneo,Crédito Express,Préstamos Rápidos SL,Seguros Atlántico",486,Aceptado / En Negociación 
+EXP_0252,CLI_0020,04-07-25,9500,4,"Banco Sur,Telecom Dato,Financiera Hispalis",422,Aceptado / En Negociación
+EXP_0918,CLI_0588,2024/12/08,€ 39867,7,Financiera Hispalis / Banco Norte / Tarjetas Mediterráneo / Seguros Atlántico / Caja Campiña / Consumo Ya / Préstamos Rápidos SL,349,en estudio
+EXP_0126,CLI_0434,2025-01-23,NaN,7,"Banco Sur,Tarjetas Mediterráneo,Préstamos Rápidos SL,Crédito Express,Caja Campiña,Telecom Dato,Financiera Hispalis",177 EUR,Aceptado / En Negociación 
+exp-304,CLI_0552,2025-05-14,22377 EUR,4,Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña,245 €,Plan Activo
+EXP0537,CLI_0262,-,40953.87,8,Seguros Atlántico; Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Banco Norte; Crédito Express; Consumo Ya; Financiera Hispalis,420,plan activo
+EXP_784,CLI_0237,2025-07-21,60315.49,5,"Telecom Dato,Seguros Atlántico,Préstamos Rápidos SL,Tarjetas Mediterráneo,Financiera Hispalis",434.66,Aceptado/En Negociacion
+exp-930,CLI_0179,28.10.2025,9088.81,4,"Consumo Ya,Financiera Hispalis,Caja Campiña,Préstamos Rápidos SL",203,Plan Activo
+EXP0069,CLI_0256,2025/03/25,21.838,3,Caja Campiña y Banco Norte y Telecom Dato,543,Cancelado con Éxito
+EXP_0883,CLI_0517,2025-10-28,28485 EUR,8,n/d,231,Plan Activo
+EXP_0546,CLI_1131,2025-01-26,29333,3,Crédito Express | Tarjetas Mediterráneo | Financiera Hispalis,,Aceptado
+EXP_0953,CLI_0309,2025-04-17,64.241,8,"Consumo Ya,Caja Campiña,Financiera Hispalis,Seguros Atlántico,Tarjetas Mediterráneo,Telecom Dato,Banco Norte",490,PLAN ACTIVO
+exp-76,CLI0542,"February 01, 2025","43.937,05",7,"Seguros Atlántico,Préstamos Rápidos SL,Crédito Express,Banco Norte,Consumo Ya,Caja Campiña,Banco Sur",546,Plan Activo
+EXP_0549,CLI_0045,2025-03-01,38626,dos,Consumo Ya y Telecom Dato y Caja Campiña,642,Activo
+EXP_0904,CLI_0314,2025-04-15,32470,6,Caja Campiña y Tarjetas Mediterráneo  y Seguros Atlántico y Financiera Hispalis y Consumo Ya y Telecom Dato y Crédito Express,425,Cancelado con Exito
+EXP_0964,CLI_0575,2025-01-08,47.277 €,6,Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Banco Sur; Telecom Dato; Banco Norte,n/d,Aceptado / En Negociación 
+EXP_0043,CLI_0268,17-04-25,45800 EUR,2,"Crédito Express,Telecom Dato",331 €,Aceptado / En Negociación
+EXP0945,CLI_0231,17/06/2025,"21.300,48",7,Préstamos Rápidos SL / Consumo Ya / Seguros Atlántico / Banco Sur / Financiera Hispalis / Tarjetas Mediterráneo / Telecom Dato,388 €,Aceptado / En Negociación 
+EXP0537,CLI_0262,-,40953.87,8,Seguros Atlántico; Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Banco Norte; Crédito Express; Consumo Ya; Financiera Hispalis,420,plan activo
+EXP0874,CLI_0133,09.03.2025,25071.82,6,Banco Norte / Crédito Express / Tarjetas Mediterráneo / Seguros Atlántico / Telecom Dato / Caja Campiña,634,N/A
+EXP_0124,CLI_0596,"June 10, 2025","29.269,90",5,"Crédito Express,Financiera Hispalis,Banco Sur,Seguros Atlántico,Tarjetas Mediterráneo",523,Aceptado / En Negociación
+EXP_0554,CLI_0194,null,50910,6,Préstamos Rápidos SL; Telecom Dato; Seguros Atlántico; Consumo Ya; Crédito Express; Caja Campiña,162 EUR,Plan Activo
+EXP_0919,CLI_0612,01-06-25,31.145,-,"Banco Norte,Seguros Atlántico,Préstamos Rápidos SL,Banco Sur,Caja Campiña,Telecom Dato",657,plan  activo
+EXP_0932,CLI_0313,2025-02-17,€ 46836,6,N/A,399 €,Aceptado / En Negociación
+EXP_0083,CLI_0101,2025-11-04,49.716,3,"Tarjetas Mediterráneo,Crédito Express,Seguros Atlántico",667,plan activo
+EXP_130,CLI_0001,2025-01-28,54.688 €,7,Financiera Hispalis; Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Telecom Dato,€ 602,En Estudio
+EXP_0908,cli-402,2025-09-27,€ 47896,7,"Tarjetas Mediterráneo,Telecom Dato,Seguros Atlántico,Préstamos Rápidos SL,Banco Sur,Banco Norte,Consumo Ya",589 €,EN ESTUDIO
+EXP_0342,CLI_0021,2025-06-06,41.562 €,6,Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Banco Sur; Seguros Atlántico; Banco Norte,548,Aceptado / En Negociación
+EXP0836,CLI_0304,2025-10-16,"21.816,19",4,"Banco Norte,Préstamos Rápidos SL,Telecom Dato,Financiera Hispalis",678,plan  activo
+EXP_0779,411,27/02/2025,,6,Banco Norte; Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Crédito Express; Financiera Hispalis,€ 352,Aceptado  /  En  Negociación
+EXP0064,CLI_0300,03-03-25,21.825,8,,266,plan activo
+EXP_0731,CLI_0250,2025-02-13,51662 EUR,3,Financiera Hispalis; Banco Norte; Caja Campiña,366,Plan Activo
+EXP_235,CLI_0470,18.10.2025,53942 EUR,4,N/A,683,ACEPTADO / EN NEGOCIACIÓN
+exp-327,CLI0540,03/02/2025,0,2,Seguros Atlántico; Caja Campiña,563,plan  activo
+EXP_0966,CLI_0291,2025-08-31,18204,4,Consumo Ya / Seguros Atlántico,233.46,en estudio
+EXP_0809,CLI_0106,09-10-25,60.489,6,Financiera Hispalis y Consumo Ya y Tarjetas Mediterráneo y Caja Campiña y Seguros Atlántico y Banco Norte,"480,31",Cancelado
+exp-120,CLI_0592,17/11/2025,25.198,3,"Seguros Atlántico,Banco Norte,Crédito Express","344,80",Activo
+EXP_0847,CLI_0349,2025-04-09,17321 EUR,6,"Caja Campiña,Consumo Ya,Banco Sur,Seguros Atlántico,Banco Norte,Tarjetas Mediterráneo,Financiera Hispalis",586,Aceptado / En Negociación
+exp-539,CLI_0260,2025-07-01,0,7,Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Financiera Hispalis; Banco Norte; Seguros Atlántico; Banco Sur,219 €,Aceptado / En Negociación
+EXP_0307,CLI_0426,2024-12-30,29127 EUR,4, Consumo Ya / Banco Sur / Telecom Dato / Banco Norte,€ 498,Incumplido 
+EXP0089,cli-543,2025-04-12,32.302 €,2,"Préstamos Rápidos SL,Banco Sur",€ 283,En Estudio 
+EXP_0058,303,2025-02-18,22885.50,6,"Tarjetas Mediterráneo,Financiera Hispalis,Consumo Ya,Seguros Atlántico,Préstamos Rápidos SL,Banco Norte",348 €,Aceptado / En Negociación
+EXP_0556,CLI_0209,21-03-25,€ 43529,3,"Banco Sur,Caja Campiña,Tarjetas Mediterráneo",305,plan  activo
+EXP_0285,CLI_0069,2025-02-16,33.934,5,Consumo Ya; crédito express; Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato,298,En Estudio
+EXP_0637,null,2025-10-22,47338,8,Crédito Express | Seguros Atlántico | Banco Norte | Banco Sur | Consumo Ya | Caja Campiña | Tarjetas Mediterráneo | Préstamos Rápidos SL,660 EUR,Aceptado
+EXP_0598,CLI_0137,2025-08-15,10.021,2,Banco Norte / Seguros Atlántico,620,plan activo
+exp-148,CLI_0303,2025-01-17,23.541,8,"Seguros Atlántico,Caja Campiña,Financiera Hispalis,Consumo Ya,Telecom Dato,Préstamos Rápidos SL,Tarjetas Mediterráneo,Banco Sur",225,Cancelado  con  Éxito
+exp-320,cli-64,2025/11/10,9141.07,2,"Telecom Dato,Seguros Atlántico",NaN,aceptado / en negociación
+EXP_0323,CLI_0145,2025-11-07,30.014 €,6,Tarjetas Mediterráneo y Banco Sur y Crédito Express y Banco Norte y Caja Campiña y Financiera Hispalis,534,En Estudio
+EXP_0128,CLI_0258,03.03.2025,33.642,null,"Financiera Hispalis,Telecom Dato,Crédito Express,Préstamos Rápidos SL",335,Plan Activo
+EXP_0195,CLI_0075,19/09/2025,47003 EUR,4,Caja Campiña | Financiera Hispalis | Tarjetas Mediterráneo | Telecom Dato,183,Cancelado con Éxito
+EXP_0593,170,2025/01/24,59338,3,Seguros Atlántico / Financiera Hispalis / Consumo Ya,355,Aceptado / En Negociación
+EXP_63,CLI0059,2025-09-02,37302,dos,"Banco Norte,Financiera Hispalis,Telecom Dato,Crédito Express,Tarjetas Mediterráneo,Seguros Atlántico,Caja Campiña",385 €,Plan Activo
+EXP_0909,CLI0135,2025-10-16,€ 23623,5,Financiera Hispalis; Consumo Ya; Seguros Atlántico; Crédito Express; Préstamos Rápidos SL,526,Plan Activo
+EXP_0645,1286,11/01/2025,51862,4,"Tarjetas Mediterráneo,Crédito Express,Banco Norte,Consumo Ya",628, En Estudio
+EXP_0434,CLI_0072,31.03.2025,33.827,6,NaN,264,Aceptado / En Negociación
+EXP_0486,CLI_0561,null,49044,7,"Financiera Hispalis,Telecom Dato,Banco Sur,Consumo Ya,Seguros Atlántico,Crédito Express,Caja Campiña",403,Activo
+EXP_0198,CLI_0186,2025-06-14,51.985 €,6,Consumo Ya; Crédito Express; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Caja Campiña,,Aceptado / En Negociación
+exp-940,CLI_0520,2025-08-16,33482,2,Banco Norte | Préstamos Rápidos SL,665 €,PLAN ACTIVO
+exp-627,338,23/04/2025,"47.322,03",8,Seguros Atlántico; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Caja Campiña; Banco Sur; Telecom Dato; Consumo Ya,441,Aceptado / En Negociación
+EXP0343,CLI_0619,19.01.2025,54.307,2,Banco Sur y Financiera Hispalis,594 €,en estudio
+EXP_0474,CLI_0404,"October 20, 2025",62.092,3,Caja Campiña; Banco Norte; Consumo Ya,152,ACEPTADO / EN NEGOCIACIÓN
+EXP_0528,CLI_0388,09/09/2025,63763 EUR,6,Caja Campiña; Préstamos Rápidos SL; Banco Norte; Consumo Ya; Seguros Atlántico; Crédito Express,156.60,ACEPTADO / EN NEGOCIACIÓN
+EXP0411,636,27/07/2025,"21.803,25",cinco,BANCO NORTE; Financiera Hispalis,n/d,Plan Activo
+EXP_0638,cli-465,2025-02-09,64421.08,8,Caja Campiña / Telecom Dato / Seguros Atlántico / Tarjetas Mediterráneo / Banco  Norte / Consumo Ya / Banco Sur / Préstamos Rápidos SL,376,Plan Activo
+EXP0902,CLI_0176,2025-07-04,63088,5,"Financiera Hispalis,Tarjetas Mediterráneo,Banco Norte,Caja Campiña,Consumo Ya ",541,Plan Activo
+EXP_0988,CLI_0025,20/09/2025,54646,2,Caja Campiña | Telecom Dato,506,Aceptado / En Negociación
+exp-205,CLI_0537,24/06/2025,19892,7,Consumo Ya y Crédito Express y Banco Norte y Financiera Hispalis y Seguros Atlántico y Banco Sur y Tarjetas Mediterráneo y Telecom Dato,NaN,N/A
+EXP_131,CLI0873,2025-02-08,€ 52439,6,Préstamos Rápidos SL ; Financiera Hispalis;  Banco Sur; Crédito Express; Telecom Dato; Banco Norte,€ 492,En Estudio
+EXP_0325,CLI_0023,2025-04-21,"61.119,85",6,Banco Sur; Caja Campiña; Telecom Dato; Banco Norte; Crédito Express; Seguros Atlántico,395,Aceptado/En Negociacion
+EXP_623,CLI_0125,21.10.2025,"30.513,81",8,"Consumo Ya,Seguros Atlantico,Telecom Dato,Banco Sur,Crédito Express,Caja Campiña,Préstamos Rápidos SL,Financiera Hispalis",167,Cancelado
+EXP0496,cli-132,2025-07-24,59980,2,Financiera Hispalis y Banco Sur,640,Plan Activo
+EXP_0027,CLI_0308,23/06/2025,39827,tres,Caja Campiña / Crédito Express / Consumo  Ya / Seguros Atlántico / Banco Norte / Tarjetas Mediterráneo / Préstamos Rápidos SL / Banco Sur,683,Cancelado con Éxito
+EXP_0514,CLI_0122,"August 21, 2025","42.768,30",4,Tarjetas Mediterráneo; Crédito Express; Banco Norte; Caja Campiña,€ 308,ACEPTADO / EN NEGOCIACIÓN
+EXP_0319,CLI_0039,2025-05-11,31650,2,Financiera Hispalis y Seguros Atlántico,,Aceptado / En Negociación
+EXP_0849,135,14-10-25,€ 45720,2,Préstamos Rápidos SL y Telecom Dato,369 €, Aceptado / En Negociación
+EXP_0336,N/A,2025-05-23,"22.894,55",2,Seguros Atlántico; Crédito Express,486.07,En Estudio
+EXP_0619,CLI_0330,2025-07-08,"34.770,07",4,Crédito Express / Tarjetas Mediterráneo / Banco Norte / Consumo Ya,557.40,Plan Activo
+exp-228,CLI0127,20/02/2025,"45.651,35",6,,348,Activo
+EXP_0714,CLI_0297,17.09.2025,47639,4,Telecom Dato; Seguros Atlántico; Caja Campiña; Financiera Hispalis,483, Aceptado / En Negociación
+EXP_0907,CLI_0219,13/06/2025,41004,4,Tarjetas Mediterráneo y Seguros Atlántico y Banco Sur y Crédito Express,216,Plan Activo
+TOTAL EXPEDIENTES,1040 registros,,,,,,
