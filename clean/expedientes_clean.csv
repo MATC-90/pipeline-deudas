@@ -233,7 +233,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 590;44;2025-05-14;19422.0;5;"Crédito Express; Caja Campiña; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis";172.0;En Estudio
 840;513;2025-09-13;16728.34;8;"Telecom Dato; Crédito Express; Consumo Ya; Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo";615.0;En Estudio
 876;641;2025-08-08;29947.0;7;"Caja Campiña; Seguros Atlántico; Telecom Dato; Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte; Banco Sur";397.0;Plan Activo
-12;666;2025-05-28;10202.0;6;"Banco Norte; Financiera Hispalis; Consumo Ya; Crédito Express; Telecom Dato; Caja Campiña";322.0;Cancelado Con Éxito
 433;72;2025-03-04;22932.0;8;"Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Préstamos Rápidos SL; Crédito Express; Telecom Dato; Seguros Atlántico";531.0;Incumplido
 736;145;2025-12-05;26391.0;7;"Consumo Ya; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo";685.0;Aceptado / En Negociación
 38;424;2025-07-01;22179.0;8;"Telecom Dato; Tarjetas Mediterráneo; Crédito Express; Banco Sur; Consumo Ya; Caja Campiña; Préstamos Rápidos SL; Seguros Atlántico";534.0;En Estudio
@@ -343,7 +342,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 422;320;2025-09-19;18971.0;4;"Consumo Ya; Seguros Atlántico; Telecom Dato; Banco Sur";422.48;Plan Activo
 670;205;2025-05-28;23943.0;4;"Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico; Telecom Dato";643.0;Aceptado / En Negociación
 851;427;2025-10-18;13296.0;7;"Banco Sur; Consumo Ya; Telecom Dato; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Préstamos Rápidos SL";536.0;Plan Activo
-644;484;;48338.0;4;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis";478.0;Incumplido
 209;585;2025-05-19;15454.0;2;"Consumo Ya; Tarjetas Mediterráneo";414.65;Cancelado Con Éxito
 800;135;2025-08-28;61294.0;5;"financiera hispalis; Telecom Dato; banco sur; Caja Campiña; Banco Norte";384.0;En Estudio
 931;184;2025-09-13;23106.0;3;"Banco Norte; Caja Campiña; Financiera Hispalis";665.0;Plan Activo
@@ -355,7 +353,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 238;396;2025-11-15;50345.0;4;"Banco Sur; Seguros Atlántico; Financiera Hispalis; Banco Norte";672.0;Plan Activo
 660;516;2025-02-09;33044.0;7;"n; d";647.0;Plan Activo
 388;78;2025-03-17;13367.0;3;"Telecom Dato; Banco Norte; Consumo Ya";688.0;Aceptado / En Negociación
-722;677;2025-08-06;45864.0;4;"Crédito Express; Caja Campiña; Banco Norte; Financiera Hispalis";386.0;Cancelado Con Éxito
 730;50;2025-10-16;64071.0;4;"Caja Campiña; Financiera Hispalis; Banco Norte; Consumo Ya; Banco Sur";425.0;Plan Activo
 487;540;2025-02-22;54684.0;6;"Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña; Banco Norte; Financiera Hispalis";539.0;Cancelado Con Éxito
 993;461;2025-09-05;10309.0;4;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte";207.0;Aceptado / En Negociación
@@ -404,7 +401,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 346;33;2025-03-09;34147.91;;"Préstamos Rápidos SL; Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Banco Sur; Banco Norte";;Aceptado / En Negociación
 385;7;2025-02-08;9276.0;6;"Préstamos Rápidos SL; Banco Sur; Crédito Express; Financiera Hispalis; Consumo Ya; Seguros Atlántico";644.0;En Estudio
 695;315;2025-03-15;41292.0;8;"Préstamos Rápidos SL; Telecom Dato; Crédito Express; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Banco Norte";564.0;Plan Activo
-516;111;2025-04-09;32750.0;3;"Financiera Hispalis; Consumo Ya; Seguros Atlántico";549.0;Cancelado Con Éxito
 505;141;2025-12-06;22468.0;3;"Consumo Ya; Seguros Atlántico; Crédito Express";465.0;Plan Activo
 643;302;2025-10-28;;2;"Crédito Express; Consumo Ya";363.0;En Estudio
 54;76;2025-07-04;;2;"Seguros Atlántico; Tarjetas Mediterráneo";327.0;Plan Activo
@@ -605,7 +601,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 394;446;2025-08-23;9365.26;4;"Banco Norte; Seguros Atlántico; Crédito Express; Banco Sur";354.0;Incumplido
 825;561;2025-07-24;43624.76;2;"Consumo Ya; Banco Norte";183.0;En Estudio
 17;571;2025-11-25;15686.0;3;"Crédito Express; Consumo Ya; Financiera Hispalis";510.0;En Estudio
-545;379;2025-06-15;16209.0;2;"Consumo Ya; Crédito Express";506.0;Cancelado Con Éxito
 117;162;2025-08-29;9116.0;7;"Banco Norte; Consumo Ya; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur";439.41;Cancelado Con Éxito
 691;135;2025-08-28;18447.96;;"Caja Campiña; Préstamos Rápidos SL; crédito express";395.75;En Estudio
 305;139;2025-04-17;21236.0;1;"Consumo Ya; Financiera Hispalis";233.0;Plan Activo
@@ -665,7 +660,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 778;158;2025-07-02;24412.0;6;"Banco Norte; Financiera Hispalis; Tarjetas Mediterráneo; Seguros Atlántico";566.0;Incumplido
 979;628;2025-06-11;45762.0;3;"Seguros Atlántico; Préstamos Rápidos SL; Banco Sur";615.0;Aceptado / En Negociación
 626;11;2025-06-11;32363.0;8;;456.0;En Estudio
-764;557;2025-09-28;17488.0;5;"Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Banco Norte";660.0;Cancelado Con Éxito
 690;388;2025-10-25;11817.0;3;"Banco Sur; Consumo Ya; Financiera Hispalis";207.0;Aceptado / En Negociación
 55;405;2025-06-23;0.0;7;"Crédito Express; Préstamos Rápidos SL; Banco Sur; CONSUMO YA; Seguros Atlántico; Telecom Dato; Tarjetas Mediterráneo";625.82;En Estudio
 502;676;2025-05-19;24565.34;6;"Telecom Dato; Banco Norte; Crédito Express; Financiera Hispalis; Préstamos Rápidos SL; Tarjetas Mediterráneo";344.61;Plan Activo
@@ -808,7 +802,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 450;485;2025-06-13;20287.0;7;"Consumo Ya; Telecom Dato; Banco Norte; Banco Sur; Financiera Hispalis; Caja Campiña; Préstamos Rápidos SL; Crédito Express";214.0;Aceptado / En Negociación
 109;258;2025-03-26;15523.0;3;"Crédito Express; Préstamos Rápidos SL; Banco Sur";411.0;En Estudio
 642;228;2025-07-30;50256.0;8;;225.0;Aceptado / En Negociación
-199;625;2025-08-17;31290.0;7;"Consumo Ya; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte";693.0;Cancelado Con Éxito
 678;96;2025-01-02;62964.0;3;"Banco Norte; Financiera Hispalis; Crédito Express";;En Estudio
 686;126;2025-08-08;45303.0;6;"Crédito Express; Caja Campiña; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Consumo Ya";555.0;Aceptado / En Negociación
 185;329;2025-02-28;28435.0;5;"Telecom Dato; Banco Sur; Banco Norte; Seguros Atlántico; Caja Campiña";324.31;Plan Activo
@@ -850,7 +843,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 774;180;2025-06-15;32314.0;5;"PRÉSTAMOS RÁPIDOS SL; Consumo Ya; Banco Sur; Telecom Dato; Tarjetas Mediterráneo";536.0;Aceptado / En Negociación
 356;437;2025-07-12;37169.0;;"Banco Sur; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Caja Campiña; Crédito Express";192.0;Plan Activo
 296;910;2025-01-26;44457.0;4;"Telecom Dato; Banco Sur";315.49;Incumplido
-654;550;2025-07-29;49626.0;3;"Crédito Express; Consumo Ya; Préstamos Rápidos SL";682.0;Cancelado Con Éxito
 841;487;2025-05-06;31238.0;6;"Caja Campiña; Consumo Ya; Crédito Express; Seguros Atlántico; Banco Norte; Tarjetas Mediterráneo";283.0;En Estudio
 452;361;2025-09-27;30735.41;7;"Telecom Dato; Crédito Express; Seguros Atlántico; Banco Norte; Consumo Ya; Financiera Hispalis; Caja Campiña";532.0;Aceptado / En Negociación
 492;563;2025-07-24;45921.0;7;"Telecom Dato; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo; Consumo Ya; Caja Campiña";;Cancelado Con Éxito
@@ -876,7 +868,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 302;643;2025-11-12;60174.0;5;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Banco Norte";248.0;Cancelado Con Éxito
 77;413;2025-04-27;51815.0;;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte; Caja Campiña; Consumo Ya; Telecom Dato; Crédito Express";575.0;En Estudio
 992;317;2025-09-11;47511.0;4;"Banco Norte; Financiera Hispalis; Préstamos Rápidos SL; Consumo Ya";500.0;En Estudio
-280;198;2025-03-06;22197.0;8;"Banco Norte; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Caja Campiña";693.0;Cancelado Con Éxito
 633;400;2025-05-31;62237.62;;"Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Banco Norte; Seguros Atlántico";359.0;Aceptado / En Negociación
 40;472;2030-01-01;49949.0;8;"Seguros Atlántico; Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Banco Sur; Caja Campiña; Financiera Hispalis; Consumo Ya";682.0;Aceptado / En Negociación
 952;413;2025-05-04;38870.0;8;"Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Crédito Express; Consumo Ya; Caja Campiña";524.0;Aceptado / En Negociación
@@ -923,7 +914,6 @@ ExpedienteId;ClienteId;FechaApertura;DeudaTotal;NumAcreedores;Acreedores;CuotaMe
 150;274;2025-10-29;-32726.0;3;"Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Caja Campiña";526.84;En Estudio
 666;247;2025-09-12;59174.0;5;"telecom dato; Crédito Express; Tarjetas Mediterráneo; Seguros Atlántico; Préstamos Rápidos SL";190.0;En Estudio
 832;642;2025-11-11;26934.0;3;"Banco Norte; Préstamos Rápidos SL; Crédito Express";665.0;Plan Activo
-194;109;;37273.35;1;"Telecom Dato; FINANCIERA HISPALIS";310.0;Aceptado / En Negociación
 586;312;2025-08-23;31322.0;2;"Seguros Atlántico; Crédito Express";171.0;En Estudio
 78;56;2025-01-05;40396.57;8;"Seguros Atlántico; Crédito Express; Banco Norte; Telecom Dato; Consumo Ya; Banco Sur; Préstamos Rápidos SL; Financiera Hispalis";366.0;Aceptado / En Negociación
 553;541;2025-09-24;9340.0;2;"Crédito Express; Financiera Hispalis";178.25;Aceptado / En Negociación

@@ -36,6 +36,7 @@ clean/
 
 jupyter/
 └── EDA.ipynb                  — Exploración y limpieza completa de las tres tablas
+└── consultas_postgreSQL.ipynb — Práctica de consultas en PostGreSQL generada con IA
 
 src/
 ├── db.py                      — Nombre de la base de datos y esquemas de las tablas
