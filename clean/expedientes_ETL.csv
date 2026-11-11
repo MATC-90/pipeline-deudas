@@ -1,0 +1,975 @@
+expediente_id;cliente_id;fecha_apertura;deuda_total;num_acreedores;acreedores;cuota_mensual_propuesta;estado_id
+488;509;2025-04-25;29154.0;2;"Consumo Ya; Banco Sur";278.0;
+81;444;2025-06-02;52503.0;8;"Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Préstamos Rápidos SL; Telecom Dato; Banco Norte; Caja Campiña";481.0;1
+661;391;2025-08-23;9999999.0;6;"Préstamos Rápidos SL; Banco Sur; Crédito Express; Tarjetas Mediterráneo; Caja Campiña; Telecom Dato";383.0;3
+511;481;2025-04-23;43462.0;1;"Financiera Hispalis; Telecom Dato";498.0;1
+264;308;2025-06-27;38246.0;2;"Crédito Express; Préstamos Rápidos SL";634.0;
+943;402;2025-10-13;39645.67;4;"Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Seguros Atlántico";375.0;1
+364;413;2025-04-15;60585.0;4;"Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo";544.0;2
+106;505;2025-05-01;32625.0;4;"Seguros Atlántico; Telecom Dato; Crédito Express; Banco Sur";562.0;3
+630;91;2025-06-01;24257.6;8;"Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Consumo Ya; Telecom Dato; Caja Campiña; Crédito Express; Financiera Hispalis";407.0;5
+244;345;2025-10-09;28849.0;7;"Banco Sur; Seguros Atlántico; Financiera Hispalis; Crédito Express; Consumo Ya; Banco Norte; Caja Campiña";305.0;5
+110;177;2025-09-06;50135.59;;"Tarjetas Mediterráneo; Crédito Express; Caja Campiña; Banco Sur; Financiera Hispalis; Telecom Dato; Seguros Atlántico";236.0;2
+301;238;2025-06-30;48411.0;2;"Banco Sur; Tarjetas Mediterráneo";241.0;5
+194;109;;25140.0;1;"Telecom Dato; FINANCIERA HISPALIS";310.0;2
+477;641;2025-08-06;64180.0;;"Banco Sur; Consumo Ya; Crédito Express; FINANCIERA HISPALIS; Préstamos Rápidos SL";649.0;4
+261;116;2025-07-29;54227.93;4;"Banco Sur; Consumo Ya; Caja Campiña; Banco Norte";389.6;3
+400;541;2025-09-10;31592.21;7;"Banco Sur; Financiera Hispalis; Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Tarjetas Mediterráneo";464.0;1
+608;250;2025-01-25;18243.0;3;"Seguros Atlántico; Consumo Ya; Banco Sur; Caja Campiña";168.0;1
+183;350;2025-03-28;37121.0;8;"Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Credito Express; Caja Campiña";677.09;1
+567;468;2025-06-30;40300.0;2;"Seguros Atlántico; Caja Campiña";397.0;3
+56;667;2025-06-10;41091.0;6;"Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña; Crédito Express; Telecom Dato; Consumo Ya";293.91;1
+498;238;2025-05-15;51210.0;2;"Consumo Ya; Banco Sur";625.0;3
+341;154;2025-05-14;12507.0;5;"Consumo Ya; Banco Sur; Prestamos Rapidos SL; Telecom Dato; Caja Campiña";355.0;1
+466;395;2025-08-06;18076.0;7;"Crédito Express; Caja Campiña; Banco Norte; Préstamos Rápidos SL; Financiera Hispalis; Tarjetas Mediterráneo; Seguros Atlántico";339.0;5
+396;116;2025-08-18;26949.0;8;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico; CONSUMO YA; Banco Norte; Crédito Express; Caja Campiña";154.0;3
+138;280;;43159.0;;"Financiera Hispalis; Crédito Express; Caja Campiña; Banco Sur; Banco Norte; Telecom Dato; Consumo Ya";276.0;5
+23;40;2025-08-22;20802.07;8;"Telecom Dato; Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Banco Sur";505.0;5
+969;418;2025-02-21;53993.66;2;"Caja Campiña; Préstamos Rápidos SL";578.0;
+664;204;2025-09-10;28977.0;6;"Crédito Express; Telecom Dato; Caja Campiña; Consumo Ya; Banco Norte; Financiera Hispalis";231.0;1
+796;498;2025-02-02;10041.0;3;"Consumo Ya; Préstamos Rápidos SL; Caja Campiña";695.0;2
+910;211;2025-04-29;16823.0;;"Seguros Atlántico; Telecom Dato; Crédito Express; Caja Campiña; Consumo Ya";473.1;1
+180;238;2025-06-26;40914.85;5;"Telecom Dato; Consumo Ya; Financiera Hispalis; Banco Sur; Seguros Atlántico";;3
+818;615;2025-08-05;10480.87;6;"Caja Campiña; Financiera Hispalis; Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Banco Sur";453.93;4
+515;439;2025-02-01;42079.0;8;"Telecom Dato; Tarjetas Mediterráneo; Credito Express; Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña; consumo ya; Banco Sur";519.0;1
+531;236;2025-07-25;26158.0;2;"Banco Sur; Caja Campiña";565.12;3
+151;152;2025-04-28;37593.0;6;"Tarjetas Mediterráneo; Telecom Dato; Caja Campiña; Crédito Express";688.0;5
+852;129;;18905.0;2;"Banco Norte; Préstamos Rápidos SL";165.0;1
+973;229;2025-07-21;13270.56;2;"Seguros Atlántico; Consumo Ya";674.0;5
+648;533;2025-04-07;49273.0;5;"Consumo Ya; Préstamos Rápidos SL; Banco Sur";535.0;5
+580;558;2025-11-14;50165.15;6;"Seguros Atlántico; Caja Campiña; Banco Sur; Tarjetas Mediterráneo; Crédito Express";187.44;5
+13;323;2025-08-27;49424.44;3;;242.14;3
+108;253;2025-03-19;20809.0;8;"Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis; Banco Sur; Crédito Express; Consumo Ya; Banco Norte";391.0;1
+208;591;2025-09-19;23413.0;8;"Crédito Express; Tarjetas Mediterráneo; Consumo Ya; Caja Campiña; Préstamos Rápidos SL; Banco Norte; Banco Sur; Telecom Dato";264.0;5
+976;487;2030-01-01;10821.0;3;"Financiera Hispalis; Crédito Express";513.0;5
+982;246;2025-01-29;18748.0;6;"Financiera Hispalis; Telecom Dato; Banco Sur; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL";441.0;1
+179;67;2025-10-23;45115.0;3;"Tarjetas Mediterráneo; Banco Norte; Préstamos Rápidos SL";656.0;1
+756;246;2025-02-12;14120.0;5;"Caja Campiña; Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Banco Sur";155.14;3
+749;298;2025-06-09;54150.0;5;"Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya; TELECOM DATO; Caja Campiña";642.0;
+72;622;2025-06-17;64316.0;6;"Banco Norte; Crédito Express; Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico; Financiera Hispalis";234.0;3
+248;151;2025-10-02;51258.0;3;"Crédito Express; Caja Campiña; Telecom Dato";344.0;1
+57;393;2025-05-08;61980.0;6;"n; d";379.0;1
+563;217;2025-02-13;30792.16;6;"Consumo Ya; Seguros Atlántico; Crédito Express; Telecom Dato; Préstamos Rápidos SL; Banco Sur";154.0;3
+383;244;2025-07-18;51771.0;5;;507.64;5
+585;642;2030-01-01;56417.0;3;"Crédito Express; Telecom Dato; Préstamos Rápidos SL";589.0;5
+397;125;2025-10-01;21308.06;7;"Telecom Dato; Consumo Ya; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Financiera Hispalis";436.0;1
+631;162;2025-08-22;16526.0;7;"Crédito Express; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Consumo Ya; Telecom Dato; Préstamos Rápidos SL";202.0;1
+293;289;2025-06-21;36016.0;8;"Banco Norte; Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Financiera Hispalis; Banco Sur; Telecom Dato";272.49;3
+875;29;2025-07-11;16648.0;;"Financiera Hispalis; Crédito Express; Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Consumo Ya";151.0;3
+197;414;2025-02-28;64552.0;4;"Caja Campiña; Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya";546.0;5
+149;215;2025-09-29;14088.0;3;"Banco Sur; Consumo Ya; Caja Campiña";260.0;2
+526;117;2025-01-18;27475.0;8;"Seguros Atlántico; Financiera Hispalis; Banco Sur; Préstamos Rápidos SL; Crédito Express; Telecom Dato; Consumo Ya; Banco Norte";458.71;4
+757;178;2025-03-04;50494.0;6;"Financiera Hispalis; Consumo Ya; Préstamos Rápidos SL; Tarjetas Mediterráneo; Telecom Dato; Banco Sur";237.18;1
+191;306;2025-02-19;64661.0;8;"banco sur; Seguros Atlántico; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Banco Norte";586.0;3
+44;318;2025-09-16;29429.0;5;;223.0;5
+961;147;2025-01-20;20516.0;2;"Caja Campiña; Tarjetas Mediterráneo";679.0;5
+257;612;2025-06-28;57154.0;;"Consumo Ya; Seguros Atlántico; Financiera Hispalis; Banco Sur; Tarjetas Mediterráneo; Caja Campiña";445.0;3
+455;123;2025-08-03;10505.74;2;;;1
+413;186;2025-05-26;36488.0;6;"Tarjetas Mediterráneo; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Caja Campiña; Consumo Ya";191.22;1
+309;31;2025-05-18;10630.0;4;"Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya; Telecom Dato";480.0;3
+933;548;2025-05-21;51960.0;;"Caja Campina; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Banco Sur";681.0;5
+170;663;2025-01-27;12135.0;2;"Telecom Dato; Seguros Atlántico";;3
+898;2;2025-09-09;39071.8;5;"Financiera Hispalis; Consumo Ya; Telecom Dato; Caja Campiña; Banco Norte";446.0;1
+942;149;2025-07-13;58311.52;8;"Consumo Ya; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis; Banco Sur";607.0;1
+265;47;2025-06-30;15538.0;2;"Tarjetas Mediterráneo; Banco Sur";558.0;1
+18;327;2025-05-04;13027.0;6;"Caja Campiña; Banco Norte; Banco Sur; Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya";535.0;1
+683;356;2025-12-23;49982.12;6;"Seguros Atlántico; Crédito Express; Telecom Dato; Consumo Ya; Tarjetas Mediterráneo; Financiera Hispalis";414.0;2
+12;666;2025-05-28;57890.0;6;"Banco Norte; Financiera Hispalis; Consumo Ya; Crédito Express; Telecom Dato; Caja Campiña";322.0;2
+872;346;2025-04-11;58521.0;8;"Tarjetas Mediterráneo; Caja Campiña; crédito express; Telecom Dato; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Banco Norte";393.68;1
+202;182;2025-03-03;30904.29;5;"Consumo Ya; Crédito Express; Telecom Dato; Tarjetas Mediterráneo";567.34;5
+357;193;2025-08-05;46433.0;2;"Crédito Express; Caja Campiña";558.0;5
+743;5;2025-06-24;22075.0;2;"Consumo Ya; Préstamos Rápidos SL";698.0;2
+497;255;2025-09-15;13949.0;6;"Banco Norte; Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis";375.0;5
+224;249;2025-08-25;42749.0;5;"Consumo Ya; Seguros Atlántico; Financiera Hispalis; Caja Campiña";180.82;1
+41;53;2025-04-24;63778.47;;"Tarjetas Mediterráneo; Banco Norte; Crédito Express; Telecom Dato";577.0;5
+472;314;2025-05-14;52090.0;;"Banco Norte; Financiera Hispalis; Seguros Atlántico; Consumo Ya; Telecom Dato";412.0;3
+649;2;2025-09-21;31734.0;;"Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Banco Sur; Banco Norte; Telecom Dato";698.0;1
+494;291;2025-09-24;15992.0;8;"Consumo Ya; Telecom Dato; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Financiera Hispalis; CAJA CAMPIÑA; Seguros Atlántico";368.0;5
+758;368;2025-01-30;35532.12;6;"Consumo Ya; Crédito Express; Préstamos Rápidos SL; Financiera Hispalis; Tarjetas Mediterráneo";657.0;3
+647;673;2025-07-22;;4;"Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Caja Campiña";388.0;5
+603;576;;60443.36;2;"Caja Campiña; Crédito Express";498.0;1
+706;22;;12281.0;2;"Crédito Express; Préstamos Rápidos SL";345.86;1
+428;668;2025-11-02;46482.0;6;"Telecom Dato; Seguros Atlántico; Tarjetas Mediterráneo; Banco Norte; Crédito Express; Consumo Ya";568.37;2
+759;343;2025-07-15;47455.0;8;"Telecom Dato; Préstamos Rápidos SL; Banco Norte; Caja Campiña; Banco Sur; Crédito Express; Consumo Ya; Tarjetas Mediterráneo";210.0;5
+592;182;2025-04-01;46873.0;;"Consumo Ya; Tarjetas Mediterráneo; banco sur; Crédito Express; Banco Norte; Préstamos Rápidos SL; Financiera Hispalis; Seguros Atlántico";653.15;5
+367;173;2025-10-18;15888.0;5;"Préstamos Rápidos SL; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis";452.88;5
+955;627;2025-06-04;32332.13;8;"Banco Sur; Caja Campiña; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Telecom Dato; Tarjetas Mediterráneo; Crédito Express";424.0;5
+688;404;2025-12-14;16586.0;8;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Caja Campiña; Crédito Express; Seguros Atlántico; Telecom Dato; Banco Sur";268.0;1
+854;634;2025-05-21;43420.0;4;"Banco Norte; Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico";465.04;1
+363;51;2025-09-13;25203.0;7;"Préstamos Rápidos SL; Banco Norte; Caja Campiña; Consumo Ya; Financiera Hispalis; TARJETAS MEDITERRÁNEO; Crédito Express";252.0;5
+133;307;2025-05-12;49102.0;7;"Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Financiera Hispalis; Banco Norte; Consumo Ya; Crédito Express";648.0;1
+16;649;2025-11-09;14895.25;7;"Banco Sur; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Banco Norte; Crédito Express; Préstamos Rápidos SL";289.64;5
+80;607;2025-04-28;57356.0;6;"Préstamos Rápidos SL; Crédito Express; Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Caja Campiña";346.0;2
+226;596;2025-10-16;58183.0;6;"n; d";531.0;4
+715;78;2025-04-24;14043.95;3;"Banco Norte; Financiera Hispalis; Caja Campina";487.0;5
+188;14;2025-06-19;41925.0;2;"Banco Sur; Seguros Atlántico";;1
+118;581;2025-03-20;48096.0;4;"Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Caja Campiña";408.0;1
+478;105;2025-08-30;11477.94;2;"Banco Norte; Seguros Atlántico";179.0;5
+569;116;;13581.45;7;"Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Banco Norte; Banco Sur; Tarjetas Mediterráneo; Consumo Ya";498.0;4
+274;119;2025-04-28;14194.0;9;"Financiera Hispalis; Caja Campiña; Banco Norte; Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Seguros Atlántico";656.88;2
+182;70;2025-06-04;20491.32;7;"Caja Campiña; Financiera Hispalis; Banco Sur; Telecom Dato; Crédito Express; Banco Norte";346.0;1
+358;399;2025-04-11;29727.0;4;"Seguros Atlántico; Consumo Ya; Crédito Express; Telecom Dato";203.0;5
+566;252;2025-03-09;22106.0;8;"Préstamos Rápidos SL; Financiera Hispalis; Banco Sur; Consumo Ya; Telecom Dato; Crédito Express; Caja Campiña; Seguros Atlántico";383.0;2
+99;136;2025-04-15;53510.0;2;"Préstamos Rápidos SL; Crédito Express";583.59;5
+856;337;2025-11-19;44313.3;4;"Banco Sur; Telecom Dato; Caja Campiña; Préstamos Rápidos SL";389.0;3
+635;559;2025-09-12;37526.76;4;"Crédito Express; Caja Campiña; Financiera Hispalis; Banco Sur";438.86;3
+675;94;2025-05-06;57047.86;2;;273.0;
+717;21;;53855.0;7;"Telecom Dato; Consumo Ya; Crédito Express; Banco Sur; Préstamos Rápidos SL; Tarjetas Mediterráneo; Caja Campiña";378.0;5
+781;520;2025-07-09;24767.0;6;"Tarjetas Mediterráneo; Seguros Atlántico; Crédito Express; Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL";663.0;5
+785;594;2025-11-14;8718.0;7;"Préstamos Rápidos SL; Consumo Ya; Banco Norte; Caja Campiña; Banco Sur; Telecom Dato; Seguros Atlántico";155.78;5
+34;511;2025-12-15;53466.0;7;"Consumo Ya; Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Banco Norte; Banco Sur; Financiera Hispalis";586.0;1
+460;324;2025-10-29;42995.0;7;"Préstamos Rápidos SL; Consumo Ya; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Banco Norte; Crédito Express";553.6;1
+646;81;2025-11-30;40168.9;;"Préstamos Rápidos SL; Crédito Express; FINANCIERA HISPALIS; Caja Campiña; Consumo Ya; Telecom Dato; Banco Norte; Banco Sur";679.0;
+5;122;2025-09-04;12260.0;2;"Crédito Express; Tarjetas Mediterráneo";276.4;5
+32;244;2025-09-11;37981.0;3;"Seguros Atlántico; Banco Sur; Telecom Dato";594.0;3
+817;181;2025-07-28;61328.0;6;"Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Telecom Dato; Financiera Hispalis";0.0;2
+482;248;2025-05-14;57710.0;2;"Crédito Express; Seguros Atlántico";281.0;3
+372;137;2025-08-28;46840.0;3;"Préstamos Rápidos SL; Caja Campiña; Telecom Dato";389.0;5
+503;34;2025-07-13;64987.0;6;"Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya; Caja Campiña; Financiera Hispalis; Telecom Dato";334.48;1
+524;45;2025-03-06;34766.0;7;;341.17;3
+855;531;2025-06-29;45575.0;7;;196.46;5
+644;484;;43383.0;4;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis";478.0;2
+846;34;2025-06-23;8709.0;2;"Telecom Dato; Banco Norte";197.74;5
+924;5;2025-05-23;34590.0;2;"Seguros Atlántico; Banco Sur";376.0;3
+838;230;2025-04-02;57940.0;5;"Telecom Dato; Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Financiera Hispalis";249.22;3
+595;4;2025-02-25;31481.16;6;"Crédito Express; Caja Campiña; Banco Sur; Financiera Hispalis; Seguros Atlántico; Consumo Ya";478.0;5
+540;528;2025-03-07;37834.36;7;"Banco Sur; Préstamos Rápidos SL; Financiera Hispalis; Caja Campiña; Consumo Ya; Telecom Dato; Seguros Atlántico";457.0;2
+369;533;2025-02-25;51807.0;5;"Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Seguros Atlántico; Crédito Express";635.53;5
+232;264;2030-01-01;61500.0;7;"Crédito Express; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; CONSUMO YA; Caja Campiña; Financiera Hispalis";173.32;5
+135;641;2025-09-09;42879.0;4;"Banco Norte; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis";350.07;2
+991;629;2025-06-19;17914.0;8;"Financiera Hispalis; Banco Sur; Caja Campiña; Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico";592.0;1
+489;259;2025-03-18;40078.0;;"Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Consumo Ya; Banco Norte; Telecom Dato; Caja Campiña";614.0;1
+951;515;2025-11-18;60537.0;4;;544.0;5
+141;215;2025-08-25;33309.0;5;"Caja Campiña; Banco Norte; Seguros Atlántico; Telecom Dato; Banco Sur";672.0;3
+652;50;2025-10-14;30761.0;;"Seguros Atlántico; Caja Campiña";447.0;5
+93;532;2025-03-02;61578.0;5;"Crédito Express; FINANCIERA HISPALIS; Caja Campiña; Préstamos Rápidos SL; Consumo Ya";252.46;3
+521;614;2025-05-16;61713.77;5;"Préstamos Rápidos SL; Banco Sur; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo";509.0;5
+3;427;2025-09-20;13512.11;5;"Telecom Dato; Crédito Express; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur";;
+60;472;2025-09-08;38304.0;7;"Financiera Hispalis; Crédito Express; Tarjetas Mediterráneo; Banco Norte; Seguros Atlántico";273.57;3
+157;449;2025-06-21;25093.0;5;"Telecom Dato; Consumo Ya; Tarjetas Mediterráneo; Banco Norte; Seguros Atlántico";216.0;1
+596;255;2025-08-09;19817.0;;"Financiera Hispalis; Banco Sur; Telecom Dato; Crédito Express; Banco Norte";240.78;5
+828;130;2025-08-15;35416.0;6;"Seguros Atlántico; Financiera Hispalis; Banco Sur; Banco Norte; Consumo Ya; Crédito Express";651.0;5
+594;234;2025-09-21;53238.0;3;"Consumo Ya; Tarjetas Mediterráneo; Banco Norte";619.0;1
+431;596;2025-10-17;-18475.0;3;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte";630.97;5
+399;529;2025-11-17;59365.0;4;"Banco Sur; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico";474.0;1
+94;595;2025-04-08;35370.0;;"Crédito Express; Financiera Hispalis; Banco Sur";369.0;1
+366;570;2025-08-09;43810.0;6;"Telecom Dato; Caja Campiña; Banco Sur; Crédito Express; Financiera Hispalis";697.0;1
+163;212;;32418.0;3;"Seguros Atlántico; Financiera Hispalis; Crédito Express";626.0;5
+377;638;2025-05-05;42871.0;6;"Banco Sur; Telecom Dato; Préstamos Rápidos SL; Banco Norte; Crédito Express; Financiera Hispalis";494.0;3
+1;167;2025-05-26;42427.0;6;"Préstamos Rápidos SL; Crédito Express; Banco Sur; Tarjetas Mediterraneo; Banco Norte; Consumo Ya";672.95;3
+525;675;2025-07-18;60568.91;4;"Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express";201.0;5
+270;522;2025-02-09;32176.89;5;"Banco Sur; Consumo Ya; Crédito Express; Préstamos Rápidos SL; Financiera Hispalis";348.97;1
+788;38;2025-10-24;58469.0;4;"Consumo Ya; Banco Sur; Caja Campiña; Crédito Express";438.0;5
+227;671;2025-10-29;31733.0;2;"Seguros Atlántico; Crédito Express";589.66;3
+435;332;2025-05-12;53287.0;7;"Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Banco Norte; Consumo Ya; Financiera Hispalis";155.98;1
+582;496;2025-05-12;57544.19;8;"Consumo Ya; Tarjetas Mediterráneo; Crédito Express; Caja Campiña; Telecom Dato; Seguros Atlántico; Banco Sur; Financiera Hispalis";569.0;1
+47;551;2025-10-23;25923.95;8;"Crédito Express; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL; Telecom Dato; Caja Campiña; Seguros Atlántico; Banco Norte";359.0;2
+697;149;2025-10-06;;7;"Telecom Dato; Seguros Atlántico; Banco Sur; Crédito Express; Consumo Ya; Financiera Hispalis; Banco Norte";686.0;5
+156;357;2025-03-23;20598.79;8;"Telecom Dato; Banco Norte; Crédito Express; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL";199.0;5
+471;397;2025-02-20;44073.0;5;"Préstamos Rápidos SL; Consumo Ya; Tarjetas Mediterráneo; Banco Norte; Telecom Dato";549.0;5
+722;677;2025-08-06;47434.0;4;"Crédito Express; Caja Campiña; Banco Norte; Financiera Hispalis";386.0;1
+653;454;2030-01-01;8923.0;8;"Financiera Hispalis; Banco Sur; Caja Campiña; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte; Consumo Ya";293.0;5
+376;369;2025-02-22;63077.2;6;"Telecom Dato; Banco Sur; Tarjetas Mediterráneo; Financiera Hispalis; Préstamos Rápidos SL; Crédito Express";585.69;1
+971;306;2025-02-25;21553.0;3;"Telecom Dato; Caja Campiña; Crédito Express";478.2;5
+584;280;;11898.94;5;"Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis; Seguros Atlántico; Caja Campiña";378.0;2
+493;89;;45539.0;2;"Seguros Atlántico; Financiera Hispalis";589.0;5
+667;14;2025-09-18;42609.0;7;"Préstamos Rápidos SL; Financiera Hispalis; Telecom Dato; Crédito Express; Seguros Atlántico; Caja Campiña; Banco Norte";390.0;2
+379;297;2025-10-10;33233.85;6;"Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Telecom Dato";372.0;5
+351;126;2025-07-29;45167.0;2;"Caja Campiña; Préstamos Rápidos SL";474.0;5
+833;177;2025-09-01;10879.0;7;"Consumo Ya; Telecom Dato; Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Sur; Crédito Express";288.76;5
+680;131;2025-07-12;36880.0;4;"Seguros Atlántico; Banco Norte; Banco Sur; Préstamos Rápidos SL";197.0;5
+458;144;2025-05-19;14546.25;5;-;432.15;1
+473;19;2025-09-09;57631.99;7;"Crédito Express; Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis; Préstamos Rápidos SL; Banco Sur";219.0;
+137;347;2025-11-07;31251.0;5;"Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis";0.0;5
+522;254;2025-04-18;38858.0;4;"Telecom Dato; Préstamos Rápidos SL; Banco Norte; Crédito Express";589.0;5
+853;677;2025-08-14;13461.83;2;"Crédito Express; Financiera Hispalis";243.0;2
+693;190;2025-04-03;55307.0;7;"Seguros Atlántico; Crédito Express; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo; Financiera Hispalis; Banco Sur";484.0;5
+641;605;2025-10-13;38571.0;7;"Financiera Hispalis; Telecom Dato; Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico; Crédito Express; Banco Norte; Consumo Ya";411.0;3
+516;111;2025-04-09;31588.0;3;"Financiera Hispalis; Consumo Ya; Seguros Atlántico";549.0;1
+233;673;2025-05-02;45316.0;;"Financiera Hispalis; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Crédito Express; Caja Campiña; Banco Norte";616.0;3
+169;314;2025-04-30;33137.0;6;"Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Crédito Express; Préstamos Rápidos SL";428.0;3
+395;129;2025-07-24;26188.89;6;"Financiera Hispalis; Banco Sur; Consumo Ya; Crédito Express; Banco Norte; Tarjetas Mediterráneo";490.0;5
+171;303;2025-02-10;20725.67;6;"Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Sur; Telecom Dato";415.83;1
+288;534;;31680.0;6;"Préstamos Rápidos SL; Banco Sur; CONSUMO YA; Banco Norte; Telecom Dato; CAJA CAMPIÑA";288.0;4
+819;623;2025-04-19;36528.0;5;"Préstamos Rápidos SL; Telecom Dato; Caja Campiña; Banco Norte; Tarjetas Mediterráneo";464.0;1
+871;360;2025-09-10;25056.0;8;"Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; CAJA CAMPIÑA; Banco Norte; Consumo Ya; Préstamos Rápidos SL";354.0;5
+97;578;2025-06-12;60666.0;3;"Caja Campiña; Banco Norte; Seguros Atlántico";215.0;3
+200;599;2025-07-11;54968.11;4;"Préstamos Rápidos SL; Seguros Atlántico; Caja Campiña";295.0;1
+350;652;2025-07-05;55127.0;8;;413.0;5
+980;653;2025-03-10;38888.0;7;"Préstamos Rápidos SL; Banco Norte; Banco Sur; Crédito Express; Seguros Atlántico; Financiera Hispalis; Consumo Ya";353.59;5
+316;611;2025-09-21;58158.0;8;"Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Financiera Hispalis; Banco Norte; Telecom Dato";327.37;1
+974;408;2025-03-06;29740.0;6;"Banco Norte; Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico";333.0;1
+597;630;2025-06-11;9179.0;;"Seguros Atlantico; Tarjetas Mediterráneo";345.0;1
+892;301;2025-05-11;30156.45;4;"Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express";177.0;5
+859;397;2025-02-16;31179.0;8;"Préstamos Rápidos SL; Banco Norte; Caja Campiña; Banco Sur; Crédito Express; Seguros Atlántico";218.35;5
+702;612;2025-07-01;8189.0;7;"Seguros Atlántico; Telecom Dato; Financiera Hispalis; Banco Sur; Consumo Ya; Crédito Express; Préstamos Rápidos SL";280.0;2
+409;652;2025-07-25;46270.0;5;"Banco Sur; Préstamos Rápidos SL; Caja Campiña; Financiera Hispalis; Seguros Atlántico";308.0;3
+889;311;2025-09-03;;3;"Banco Sur; Seguros Atlántico; Banco Norte";457.0;5
+317;61;2025-11-21;54634.94;5;"Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Banco Norte";660.6;5
+790;57;;19111.0;4;"Financiera Hispalis; Caja Campiña; Seguros Atlántico; Banco Norte";196.0;5
+289;360;2025-09-16;63256.34;6;"Crédito Express; Telecom Dato; Préstamos Rápidos SL; Banco Norte; Caja Campiña";698.0;5
+578;101;2025-09-25;56188.18;4;"Seguros Atlántico; Tarjetas Mediterráneo; préstamos rápidos sl; Crédito Express";219.0;3
+656;16;2030-01-01;19461.0;3;"Telecom Dato; Crédito Express; Préstamos Rápidos SL";214.0;5
+684;521;2025-05-11;49046.09;3;"Financiera Hispalis; Seguros Atlántico; Caja Campiña";234.0;2
+167;657;2025-08-26;57148.53;5;"Tarjetas Mediterráneo; Crédito Express; Consumo Ya; Caja Campiña; Seguros Atlántico";291.0;5
+972;124;;56256.0;6;"Banco Sur; Consumo Ya; Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express";291.0;5
+249;125;2025-10-12;;4;"Banco Norte; Préstamos Rápidos SL; Crédito Express; Financiera Hispalis";659.44;1
+204;540;2025-01-09;44362.0;6;"Banco Sur; Telecom Dato; Crédito Express; Seguros Atlántico; Consumo Ya; Tarjetas Mediterráneo";;3
+606;100;2025-02-13;31797.46;5;"Préstamos Rápidos SL; Consumo Ya; Banco Sur; Seguros Atlántico; Telecom Dato; Crédito Express";671.03;1
+360;34;2025-08-02;10694.0;7;"Tarjetas Mediterráneo; Banco Norte; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Consumo Ya; Caja Campiña";193.0;1
+445;380;2025-03-23;14647.0;5;"Seguros Atlántico; Crédito Express; Préstamos Rápidos SL; Telecom Dato; Caja Campiña";422.67;3
+330;125;2025-09-28;46618.0;;"Banco Norte; Seguros Atlántico; Financiera Hispalis; Caja Campiña; Banco Sur; Crédito Express";688.45;1
+483;126;2025-08-01;62244.0;2;"Financiera Hispalis; Tarjetas Mediterráneo";570.0;5
+240;672;2025-08-05;38354.52;3;"Banco Sur; Crédito Express; Seguros Atlántico";208.0;2
+258;454;2025-01-30;59760.88;7;"Telecom Dato; Banco Sur; Crédito Express; Banco Norte; Caja Campiña; Financiera Hispalis; Seguros Atlántico";408.0;5
+590;44;2025-05-14;19422.0;5;"Crédito Express; Caja Campiña; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis";172.0;3
+840;513;2025-09-13;16728.34;8;"Telecom Dato; Crédito Express; Consumo Ya; Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo";615.0;3
+876;641;2025-08-08;29947.0;7;"Caja Campiña; Seguros Atlántico; Telecom Dato; Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte; Banco Sur";397.0;5
+433;72;2025-03-04;22932.0;8;"Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Préstamos Rápidos SL; Crédito Express; Telecom Dato; Seguros Atlántico";531.0;4
+736;145;2025-12-05;26391.0;7;"Consumo Ya; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo";685.0;1
+38;424;2025-07-01;22179.0;8;"Telecom Dato; Tarjetas Mediterráneo; Crédito Express; Banco Sur; Consumo Ya; Caja Campiña; Préstamos Rápidos SL; Seguros Atlántico";534.0;3
+888;273;2025-03-29;43400.0;8;"Banco Norte; Crédito Express; Consumo Ya; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Financiera Hispalis";559.0;1
+629;117;2025-03-03;53035.0;5;;;1
+513;642;2025-08-26;20519.0;1;"Financiera Hispalis; seguros atlántico";;2
+767;252;2025-06-15;22494.0;2;"Crédito Express; Tarjetas Mediterráneo";281.9;3
+153;157;2025-03-07;25142.0;5;"Consumo Ya; Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL";426.0;1
+408;635;2025-04-06;43339.0;3;"Crédito Express; Financiera Hispalis; BANCO SUR";699.4;5
+535;474;2025-07-18;20773.65;3;"Seguros Atlántico; Telecom Dato; Caja Campiña";444.0;1
+500;656;2025-06-13;59211.0;6;"Crédito Express; Banco Norte; Banco Sur; Consumo Ya; Financiera Hispalis; Tarjetas Mediterráneo";;2
+810;548;2025-07-13;50189.0;4;"Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo";278.0;2
+990;159;2025-06-06;19849.0;8;"Telecom Dato; Consumo Ya; Banco Sur; Crédito Express; Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña";196.23;1
+611;335;2025-06-01;35842.0;6;"Consumo Ya; Crédito Express; Banco Norte; Préstamos Rápidos SL; Telecom Dato; Caja Campiña";173.0;1
+923;214;2025-05-27;32489.0;;"Telecom Dato; Banco Norte";656.0;1
+89;543;2025-04-12;32302.0;2;"Préstamos Rápidos SL; Banco Sur";283.0;3
+206;643;2025-10-22;15899.0;4;"CAJA CAMPIÑA; Préstamos Rápidos SL; Crédito Express; Banco Sur";444.93;1
+154;294;2025-05-15;31725.91;8;"Banco Sur; Banco Norte; Caja Campiña; Crédito Express; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya";306.0;5
+275;224;2025-04-12;46725.44;7;"Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Consumo Ya; Caja Campiña";464.0;5
+805;192;2025-07-30;38472.0;3;"Telecom Dato; Crédito Express; Consumo Ya";666.65;5
+92;121;2025-05-25;46906.59;2;"Financiera Hispalis; BANCO NORTE";365.0;5
+783;47;2025-06-21;35839.0;8;"Banco Norte; Telecom Dato; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña";479.99;3
+870;225;2025-08-20;23794.0;5;"Consumo Ya; Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña; Tarjetas Mediterráneo";652.0;5
+713;595;2025-04-11;59900.0;4;"Banco Sur; CRÉDITO EXPRESS; Tarjetas Mediterráneo; Seguros Atlántico";391.0;1
+241;539;2025-06-12;47512.0;2;;184.0;5
+725;485;2025-07-08;18807.98;4;"Préstamos Rápidos SL; Banco Norte; Banco Sur; Telecom Dato";514.0;1
+558;113;2025-08-05;23973.94;7;"Consumo Ya; Financiera Hispalis; seguros atlántico; Banco Sur; Caja Campiña; Préstamos Rápidos SL; Banco Norte";281.0;1
+53;158;2025-08-15;46886.7;7;"Crédito Express; Consumo Ya; Financiera Hispalis; Caja Campiña; Banco Sur; Banco Norte; Telecom Dato";504.71;1
+196;662;2025-09-04;27864.0;7;"Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Seguros Atlántico; Caja Campina; Financiera Hispalis";229.0;2
+387;373;2025-06-05;13746.67;7;"Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Tarjetas Mediterráneo; Telecom Dato; Caja Campiña";469.0;4
+186;86;2025-08-27;48048.0;5;"Financiera Hispalis; Banco Norte; Telecom Dato; Tarjetas Mediterráneo; Consumo Ya";637.0;
+159;534;2025-04-15;23308.0;3;"Préstamos Rápidos SL; Caja Campiña";282.0;3
+512;272;2025-01-28;32595.39;;"Caja Campiña; Financiera Hispalis";326.0;1
+211;579;2025-10-01;16178.0;7;"Caja Campiña; Crédito Express; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Financiera Hispalis";361.0;5
+651;533;2025-03-09;15957.57;2;"Crédito Express; Banco Norte";628.78;4
+14;271;2025-04-15;8288.54;6;"Financiera Hispalis; Telecom Dato; Préstamos Rápidos SL; BANCO SUR; Crédito Express; Seguros Atlántico";189.0;4
+11;47;2025-06-12;10882.0;2;"Crédito Express; Consumo Ya";538.0;2
+439;155;2025-06-22;42600.85;5;"Caja Campiña; Consumo Ya; Banco Sur; Préstamos Rápidos SL; Financiera Hispalis";478.0;5
+899;421;2025-11-03;38179.0;9;"Consumo Ya; Financiera Hispalis; Crédito Express; Préstamos Rápidos SL; Seguros Atlántico; Telecom Dato; Banco Sur; Tarjetas Mediterráneo";355.0;1
+329;295;2025-06-20;45623.46;8;"Caja Campiña; Consumo Ya; Financiera Hispalis; Telecom Dato; préstamos rápidos sl; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte";409.0;5
+509;174;2025-08-23;47174.0;5;"Financiera Hispalis; Telecom Dato; Consumo Ya; Caja Campiña; Seguros Atlántico";159.32;1
+911;458;;57842.27;5;"Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico";193.0;1
+773;466;2025-10-19;15376.0;4;"Financiera Hispalis; Caja Campina; Telecom Dato; Consumo Ya; Préstamos Rápidos SL";610.0;5
+33;635;2025-03-13;56418.0;3;"Seguros Atlántico; Banco Sur; Crédito Express";530.0;3
+292;676;2025-08-26;29792.0;8;"Telecom Dato; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Caja Campiña; Banco Sur";667.0;1
+760;566;2025-04-05;50836.0;2;"Consumo Ya; Crédito Express";343.0;5
+430;644;2025-06-04;;2;"Caja Campiña; Préstamos Rápidos SL";368.0;1
+909;135;2025-10-16;23623.0;5;"Financiera Hispalis; Consumo Ya; Seguros Atlántico; Crédito Express; Préstamos Rápidos SL";526.0;5
+216;425;2025-06-29;53226.0;3;"Banco Sur; Financiera Hispalis; Telecom Dato";273.0;1
+616;573;2025-05-23;42551.0;6;"Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Banco Sur; Financiera Hispalis";289.0;3
+764;557;2025-09-28;41315.0;5;"Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Banco Norte";660.0;3
+404;119;2025-04-27;23140.34;7;"Financiera Hispalis; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Banco Norte; Telecom Dato";299.0;1
+740;183;2025-07-06;50613.0;3;"Financiera Hispalis; Consumo Ya; Banco Norte";222.0;1
+499;399;2025-04-12;13377.0;2;"Telecom Dato; Caja Campiña";;5
+123;5;2025-06-25;29212.0;5;"Crédito Express; Banco Norte; Préstamos Rápidos SL; Telecom Dato; Tarjetas Mediterráneo";265.95;5
+116;213;2025-10-14;63591.0;;"Banco Sur; Crédito Express; Consumo Ya; Caja Campiña";565.0;5
+679;417;2025-11-16;36752.0;3;"Tarjetas Mediterráneo; Banco Sur; Crédito Express";172.0;1
+26;428;2025-09-12;12381.0;7;"Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Financiera Hispalis; Caja Campiña; Banco Sur";614.0;1
+42;235;2025-03-13;30201.69;6;"Financiera Hispalis; Crédito Express; Préstamos Rápidos SL; Caja Campiña; Banco Norte; Seguros Atlántico";696.0;4
+692;529;2025-11-03;26182.0;5;"Consumo Ya; Crédito Express; Préstamos Rápidos SL; Banco Norte; Telecom Dato";550.0;2
+303;127;2025-03-11;9638.0;4;"Banco Norte; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo";216.0;2
+776;563;2025-06-30;46833.0;5;-;454.0;
+386;146;2025-09-15;64432.0;4;"Préstamos Rápidos SL; Banco Norte; Caja Campiña; Telecom Dato";572.0;3
+543;578;;63371.28;4;"Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Financiera Hispalis";;5
+142;507;2025-06-29;51284.0;2;"Telecom Dato; Préstamos Rápidos SL";365.0;5
+189;259;2025-04-22;11331.0;5;"Préstamos Rápidos SL; Caja Campiña; Banco Norte; Consumo Ya; SEGUROS ATLÁNTICO";165.0;5
+777;320;2025-08-26;32567.0;;"Seguros Atlántico; Financiera Hispalis";366.0;4
+333;381;2025-02-14;44458.0;5;"Consumo Ya; Caja Campiña; Seguros Atlántico; Tarjetas Mediterráneo; Financiera Hispalis";685.0;2
+886;533;2025-03-15;14412.0;8;"Préstamos Rápidos SL; Telecom Dato; Banco Norte; Crédito Express; Consumo Ya; Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo";535.0;1
+479;88;2025-05-06;12284.98;7;"Banco Norte; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Seguros Atlántico; Banco Sur; Consumo Ya";202.0;2
+107;639;2025-10-21;46866.96;5;"Financiera Hispalis; Seguros Atlántico; Banco Sur; TELECOM DATO; Banco Norte";663.0;1
+654;550;2025-07-29;38038.0;3;"Crédito Express; Consumo Ya; Préstamos Rápidos SL";682.0;5
+716;670;;35798.0;3;"Consumo Ya; Telecom Dato; Banco Sur";662.73;1
+332;17;2025-07-17;54731.0;5;"BANCO NORTE; Financiera Hispalis; Banco Sur; Tarjetas Mediterráneo";430.0;1
+122;468;2025-07-14;29747.0;;"Financiera Hispalis; Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Crédito Express";540.0;1
+391;245;2025-09-03;41650.0;;"Banco Norte; Préstamos Rápidos SL; Banco Sur";423.0;2
+52;576;2025-05-09;54763.0;5;"Banco Norte; Caja Campiña; Seguros Atlántico; Financiera Hispalis";350.0;5
+610;258;2025-02-28;18439.02;6;"Tarjetas Mediterráneo; BANCO NORTE; Consumo Ya; Seguros Atlántico; Crédito Express; Financiera Hispalis";657.0;1
+446;107;2025-10-03;64164.0;5;"Seguros Atlántico; Crédito Express; Financiera Hispalis";333.0;4
+481;51;2030-01-01;23785.0;8;"Seguros Atlántico; Crédito Express; Banco Sur; Caja Campiña; Préstamos Rápidos SL; Banco Norte; Telecom Dato; Consumo Ya";473.0;1
+928;584;2025-03-11;31026.52;6;"Telecom Dato; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico; Consumo Ya";670.0;4
+948;97;2025-04-20;13781.0;6;"Banco Sur; Crédito Express; Caja Campiña; Préstamos Rápidos SL; Consumo Ya; Tarjetas Mediterráneo";676.0;1
+104;303;2025-01-04;51176.0;7;"Telecom Dato; Seguros Atlántico; Crédito Express; Banco Sur; Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya";371.63;5
+243;383;2025-10-25;60733.98;7;"Telecom Dato; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico";407.0;1
+345;218;2025-02-05;50599.9;8;"Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Banco Sur; Tarjetas Mediterráneo; Caja Campiña; Banco Norte; Crédito Express";688.0;2
+300;130;2025-08-15;62535.0;4;"Seguros Atlántico; Préstamos Rápidos SL; Banco Norte; Caja Campiña";456.0;1
+941;177;2025-09-04;10479.0;4;"Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte";426.89;1
+278;675;2025-07-25;53336.75;2;"Crédito Express; Préstamos Rápidos SL";618.0;5
+811;595;2025-05-23;22063.54;9;"FINANCIERA HISPALIS; Préstamos Rápidos SL; Telecom Dato; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Banco Norte";503.0;5
+177;186;2025-06-15;36668.34;7;"Préstamos Rápidos SL; Banco Sur; Financiera Hispalis; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo; Crédito Express";393.08;5
+410;637;2025-03-19;30949.0;5;"Financiera Hispalis; Banco Sur; Consumo Ya; Seguros Atlántico; Préstamos Rápidos SL";397.0;1
+559;259;2025-04-08;31014.0;6;"Consumo Ya; Banco Norte; Préstamos Rápidos SL; financiera hispalis; Caja Campiña; Seguros Atlántico";506.0;1
+242;78;2025-05-07;28182.0;4;"Financiera Hispalis; Banco Sur; Caja Campiña; BANCO NORTE";408.34;1
+382;329;2025-04-12;51787.0;3;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico";428.0;5
+989;302;2025-08-12;60112.0;5;"Telecom Dato; Caja Campiña; Préstamos Rápidos SL";348.0;3
+860;491;2025-10-11;37200.82;2;"Crédito Express; Seguros Atlántico";220.0;1
+970;229;2025-07-12;26655.0;6;"Tarjetas Mediterráneo; Caja Campiña; Telecom Dato; Seguros Atlántico; Crédito Express";400.0;3
+281;88;2025-05-12;34053.0;3;"Consumo Ya; Banco Sur; Telecom Dato";471.0;5
+922;479;2025-09-12;59821.0;5;"Banco Norte; Préstamos Rápidos SL; Crédito Express; Tarjetas Mediterráneo; Telecom Dato";254.0;1
+164;80;2025-07-28;59317.0;8;"Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Crédito Express";311.0;5
+589;485;2025-06-22;17548.0;4;"Préstamos Rápidos SL; Seguros Atlántico; Financiera Hispalis; Crédito Express";444.0;1
+532;633;2025-07-04;58484.47;6;"Préstamos Rápidos SL; Banco Sur; Caja Campiña; Consumo Ya; Telecom Dato; Banco Norte";380.37;3
+422;320;2025-09-19;18971.0;4;"Consumo Ya; Seguros Atlántico; Telecom Dato; Banco Sur";422.48;5
+670;205;2025-05-28;23943.0;4;"Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico; Telecom Dato";643.0;1
+851;427;2025-10-18;13296.0;7;"Banco Sur; Consumo Ya; Telecom Dato; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Préstamos Rápidos SL";536.0;5
+209;585;2025-05-19;15454.0;2;"Consumo Ya; Tarjetas Mediterráneo";414.65;2
+800;135;2025-08-28;61294.0;5;"financiera hispalis; Telecom Dato; banco sur; Caja Campiña; Banco Norte";384.0;3
+931;184;2025-09-13;23106.0;3;"Banco Norte; Caja Campiña; Financiera Hispalis";665.0;5
+986;75;2025-07-28;23434.85;2;"Financiera Hispalis; Crédito Express";586.25;3
+88;459;2025-09-04;49000.0;4;"Financiera Hispalis; Préstamos Rápidos SL; Banco Norte; Seguros Atlántico";399.0;5
+462;380;2025-04-08;39471.0;2;"Crédito Express; Caja Campiña";343.37;4
+994;563;2025-07-22;18531.0;7;"Crédito Express; Banco Norte; Seguros Atlántico; Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Consumo Ya";363.0;5
+337;53;2025-03-09;18757.0;5;"Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Banco Norte; financiera hispalis";387.0;3
+238;396;2025-11-15;50345.0;4;"Banco Sur; Seguros Atlántico; Financiera Hispalis; Banco Norte";672.0;5
+660;516;2025-02-09;33044.0;7;"n; d";647.0;5
+388;78;2025-03-17;13367.0;3;"Telecom Dato; Banco Norte; Consumo Ya";688.0;1
+730;50;2025-10-16;64071.0;4;"Caja Campiña; Financiera Hispalis; Banco Norte; Consumo Ya; Banco Sur";425.0;5
+487;540;2025-02-22;54684.0;6;"Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña; Banco Norte; Financiera Hispalis";539.0;2
+993;461;2025-09-05;10309.0;4;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte";207.0;1
+469;564;2025-03-04;21153.0;4;"Tarjetas Mediterráneo; Financiera Hispalis; Seguros Atlántico; Consumo Ya";256.0;5
+349;273;2025-03-01;58720.0;2;"Seguros Atlántico; Financiera Hispalis";319.0;1
+9;394;2025-07-26;62530.0;3;"Telecom Dato; Tarjetas Mediterráneo; Banco Norte";626.0;1
+541;667;2025-06-29;28195.0;3;"Consumo Ya; Préstamos Rápidos SL; Banco Sur";602.0;5
+352;278;2025-10-01;30249.0;8;"Telecom Dato; Crédito Express; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Caja Campiña";312.0;3
+636;288;2025-06-26;13760.0;2;;697.42;5
+220;273;2025-03-14;8411.0;1;"Banco Norte; Crédito Express";523.0;4
+427;547;2025-05-28;20711.48;8;"Caja Campiña; Financiera Hispalis; Seguros Atlántico; Banco Norte; Banco Sur; Tarjetas Mediterráneo; Crédito Express; Consumo Ya";612.0;3
+826;437;2025-07-28;61437.0;6;"Crédito Express; Banco Norte; Telecom Dato; Caja Campiña; Seguros Atlántico; Banco Sur";584.0;4
+981;14;2025-09-02;26564.0;8;"Caja Campiña; Banco Norte; Seguros Atlántico; Banco Sur; Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Crédito Express";536.0;2
+775;196;;9606.81;3;"Banco Sur; Caja Campiña; Consumo Ya";526.1;5
+506;620;;42650.0;5;"Financiera Hispalis; Préstamos Rápidos SL; Banco Norte; Telecom Dato; Crédito Express";579.0;3
+114;545;2025-09-19;49782.0;8;"Crédito Express; Tarjetas Mediterráneo; Caja Campiña; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico; Financiera Hispalis; Telecom Dato";;5
+529;420;2025-06-01;64728.0;5;"Tarjetas Mediterráneo; Seguros Atlántico; Financiera Hispalis; Préstamos Rápidos SL; Crédito Express";447.8;1
+361;328;2025-02-11;12220.0;2;"Telecom Dato; Crédito Express; Tarjetas Mediterráneo";641.0;5
+436;625;2025-07-28;44155.0;8;"Seguros Atlántico; Consumo Ya; Banco Norte; Crédito Express; Caja Campiña; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL";595.31;5
+213;596;;48373.06;;"Caja Campiña; Consumo Ya";547.0;5
+748;201;;37935.0;4;"Financiera Hispalis; Préstamos Rápidos SL";336.0;3
+671;77;2025-06-07;;6;"Crédito Express; Seguros Atlántico; Banco Norte; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo";334.0;1
+938;13;2025-08-14;52755.0;8;"Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Crédito Express; Banco Norte; Telecom Dato; Consumo Ya; Seguros Atlántico";276.0;3
+166;636;2025-08-18;43306.0;2;;297.0;2
+561;668;2025-10-09;55267.0;8;"Telecom Dato; Seguros Atlántico; Financiera Hispalis; Banco Sur; Banco Norte; Crédito Express; Préstamos Rápidos SL; Tarjetas Mediterráneo";670.0;5
+949;126;2025-07-05;28870.0;7;"Telecom Dato; Préstamos Rápidos SL; Financiera Hispalis; Banco Norte; Consumo Ya; Crédito Express; Banco Sur";241.09;1
+136;117;2025-02-24;21738.0;5;"Caja Campiña; Crédito Express; Seguros Atlántico; Banco Norte; Consumo Ya";326.0;1
+786;304;2025-11-02;32018.0;;"Caja Campiña; Consumo Ya; Préstamos Rápidos SL; TARJETAS MEDITERRÁNEO";441.17;5
+960;24;2025-11-10;27285.0;4;"Préstamos Rápidos SL; Banco Sur; Telecom Dato";359.0;4
+225;313;2025-02-27;50818.0;4;"Banco Norte; Financiera Hispalis";511.0;5
+184;658;2025-09-02;62520.0;8;"Banco Sur; Telecom Dato; Banco Norte; Caja Campina; Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Crédito Express";660.0;5
+312;514;2025-09-28;54998.0;4;;558.0;3
+96;95;2025-11-21;44542.0;;"Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis";251.0;3
+798;407;2025-06-27;42036.0;;"Banco Sur; Crédito Express; Caja Campiña; Préstamos Rápidos SL; CONSUMO YA; Financiera Hispalis; Banco Norte; Telecom Dato";271.0;3
+212;411;2025-03-31;49743.29;9;"Financiera Hispalis; Banco Sur; Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Crédito Express; Préstamos Rápidos SL";202.0;5
+676;52;2025-03-26;12145.0;8;"Banco Norte; Caja Campiña; Financiera Hispalis; Tarjetas Mediterráneo; Crédito Express; Seguros Atlántico; Telecom Dato; Banco Sur";654.23;5
+362;659;2025-01-23;12452.0;;"Préstamos Rápidos SL; Banco Sur; Banco Norte; Financiera Hispalis; Caja Campiña; Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato";545.0;3
+752;411;2025-03-28;17247.0;8;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Crédito Express; Banco Norte; Telecom Dato; Seguros Atlántico; Banco Sur; Consumo Ya";334.0;3
+896;190;2025-04-12;13179.0;2;"Banco Norte; Financiera Hispalis";588.0;1
+858;621;2025-06-07;63462.0;7;"Prestamos Rapidos SL; Caja Campiña; Consumo Ya; Seguros Atlántico; Financiera Hispalis; Crédito Express; Banco Sur";456.0;1
+632;586;2025-11-02;19437.0;;"Consumo Ya; Seguros Atlántico; Telecom Dato; Préstamos Rápidos SL; Caja Campiña; Tarjetas Mediterráneo";349.74;2
+712;533;2025-03-04;52789.0;7;"Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Consumo Ya; Financiera Hispalis";673.0;5
+701;443;2025-02-22;23985.0;3;"Financiera Hispalis; Caja Campiña; Tarjetas Mediterráneo";650.0;5
+1000;598;2025-08-31;12757.0;3;"Crédito Express; Consumo Ya; Financiera Hispalis";451.0;1
+297;489;2025-09-19;25858.0;8;"Financiera Hispalis; Préstamos Rápidos SL; Banco Sur; Consumo Ya; Telecom Dato; Caja Campiña; Crédito Express; Tarjetas Mediterráneo";372.0;5
+346;33;2025-03-09;34147.91;;"Préstamos Rápidos SL; Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Banco Sur; Banco Norte";;1
+385;7;2025-02-08;9276.0;6;"Préstamos Rápidos SL; Banco Sur; Crédito Express; Financiera Hispalis; Consumo Ya; Seguros Atlántico";644.0;3
+695;315;2025-03-15;41292.0;8;"Préstamos Rápidos SL; Telecom Dato; Crédito Express; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Banco Norte";564.0;5
+505;141;2025-12-06;22468.0;3;"Consumo Ya; Seguros Atlántico; Crédito Express";465.0;5
+643;302;2025-10-28;;2;"Crédito Express; Consumo Ya";363.0;3
+54;76;2025-07-04;;2;"Seguros Atlántico; Tarjetas Mediterráneo";327.0;5
+814;675;2025-07-23;18888.0;6;"Consumo Ya; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico; Préstamos Rápidos SL";353.0;1
+983;224;2025-04-08;14582.55;3;"Telecom Dato; Crédito Express; Seguros Atlántico";479.0;5
+49;528;2025-03-15;52105.0;5;"Consumo Ya; Financiera Hispalis; Crédito Express; Telecom Dato; PRÉSTAMOS RÁPIDOS SL";318.0;5
+873;416;2025-07-31;32749.0;5;"Telecom Dato; Financiera Hispalis; Banco Norte; Banco Sur; Préstamos Rápidos SL";189.0;5
+793;664;2025-04-21;31474.71;6;"Banco Norte; Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL; Crédito Express";497.0;5
+987;74;2025-02-23;22726.0;2;"Crédito Express; Préstamos Rápidos SL";433.73;1
+903;478;2025-01-15;61487.0;8;"Crédito Express; Préstamos Rápidos SL; Banco Norte; TARJETAS MEDITERRÁNEO; Telecom Dato; Financiera Hispalis";396.0;3
+591;226;2025-05-13;42995.0;5;"Préstamos Rápidos SL; Financiera Hispalis; Telecom Dato; Crédito Express; Consumo Ya";394.0;5
+804;348;2025-11-05;18975.0;5;"Telecom Dato; Seguros Atlántico; Crédito Express; Tarjetas Mediterráneo; Préstamos Rápidos SL";553.9;3
+74;109;2025-06-20;22613.0;2;"Consumo Ya; Banco Norte";407.06;3
+308;202;2025-11-21;61697.7;4;"Telecom Dato; Consumo Ya; Crédito Express; Tarjetas Mediterráneo";496.0;1
+313;481;2025-05-06;47460.0;5;"Préstamos Rápidos SL; Banco Sur; Caja Campiña; Seguros Atlántico; Telecom Dato; Banco Norte";429.0;1
+272;182;2025-03-15;21707.0;2;"Seguros Atlántico; Banco Norte";;5
+602;313;2025-03-25;18453.21;6;"Préstamos Rápidos SL; Consumo Ya; Tarjetas Mediterráneo; Telecom Dato";677.0;5
+912;541;2025-08-12;57495.0;7;"Caja Campiña; CRÉDITO EXPRESS; Banco Sur; Telecom Dato; Banco Norte; Consumo Ya; Seguros Atlántico";357.0;5
+8;486;2025-03-18;57916.12;3;;477.76;3
+996;108;2025-09-11;43538.0;6;"Consumo Ya; Tarjetas Mediterráneo; Crédito Express; Caja Campiña; Banco Sur; Seguros Atlántico";364.0;3
+229;666;2025-08-01;36071.58;3;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico";672.86;4
+326;217;2025-03-02;62807.0;4;"Crédito Express; Seguros Atlántico; Financiera Hispalis; Banco Norte";644.14;5
+959;422;2025-08-17;30630.0;4;"Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Banco Norte";159.0;5
+463;626;2025-04-06;17995.0;3;"Caja Campiña; Financiera Hispalis; Crédito Express; Tarjetas Mediterráneo";446.0;5
+614;503;2025-11-12;18480.0;7;"Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo; Telecom Dato; Banco Norte";417.0;3
+139;238;2025-05-11;38018.0;6;"Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya";316.0;1
+571;618;2025-04-06;15855.0;;"Banco Sur; Crédito Express; Telecom Dato; Consumo Ya; Caja Campiña";230.0;2
+534;33;2025-02-03;26404.68;2;"Banco Sur; Caja Campiña";478.67;5
+843;55;2025-06-19;48651.92;4;"Telecom Dato; Banco Norte; Banco Sur; Préstamos Rápidos SL";461.13;3
+279;41;2025-04-02;22166.0;7;"Banco Norte; Crédito Express; Caja Campiña; Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Banco Sur";495.0;5
+384;196;2025-03-01;54053.0;9;"Banco Sur; Banco Norte; Seguros Atlántico; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express";;4
+799;479;2030-01-01;32510.0;7;"Banco Sur; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis; Crédito Express; Préstamos Rápidos SL; Consumo Ya";255.0;1
+324;664;2025-03-05;49246.0;;"Financiera Hispalis; Banco Sur; Consumo Ya; Banco Norte";524.85;4
+628;530;2025-10-31;42581.0;3;"Banco Sur; Financiera Hispalis; Préstamos Rápidos SL";376.0;1
+787;229;2025-07-03;12819.0;4;"Seguros Atlántico; Telecom Dato; Banco Norte; Préstamos Rápidos SL";586.0;2
+927;657;2025-09-05;14309.77;5;"Préstamos Rápidos SL; Crédito Express; Consumo Ya; Tarjetas Mediterráneo; Financiera Hispalis";526.0;5
+510;602;2025-10-17;36408.0;8;"Consumo Ya; Tarjetas Mediterráneo; Telecom Dato; Caja Campiña; Crédito Express; Seguros Atlántico; Préstamos Rápidos SL";417.0;5
+868;581;2025-03-24;42675.0;5;"Telecom Dato; Seguros Atlántico; Tarjetas Mediterráneo; Crédito Express; Banco Sur";;3
+754;104;2025-03-01;25734.5;;"Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Banco Norte";397.0;4
+726;122;2025-07-27;61367.0;2;"Consumo Ya; Banco Norte";;3
+965;493;2025-08-19;8339.0;2;"Crédito Express; Seguros Atlántico";520.0;
+925;426;2025-03-15;61209.34;3;"Crédito Express; Banco Sur; Préstamos Rápidos SL";641.33;
+884;256;2025-03-12;27425.0;5;"Banco Norte; Financiera Hispalis; Consumo Ya; Telecom Dato; Tarjetas Mediterráneo";347.57;2
+112;487;2025-05-07;24545.0;3;"Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo";620.1;5
+830;552;2025-06-08;21711.0;3;"Préstamos Rápidos SL; Seguros Atlántico";276.0;5
+355;80;2025-08-20;58636.0;4;"Préstamos Rápidos SL; Seguros Atlántico; Telecom Dato; Consumo Ya";329.0;5
+113;544;2025-03-01;13140.0;8;"Financiera Hispalis; Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña; Consumo Ya; Crédito Express; Telecom Dato";305.0;4
+662;441;2025-12-11;43880.0;;"Financiera Hispalis; Crédito Express";443.05;1
+862;248;2025-06-03;52851.0;8;"Financiera Hispalis; Telecom Dato; Banco Norte; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña; Consumo Ya; Préstamos Rápidos SL";178.02;5
+421;509;2025-05-15;64314.08;2;"Banco Sur; Telecom Dato";509.0;4
+417;187;2025-02-21;53127.53;;"Telecom Dato; Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Seguros Atlántico";458.0;2
+331;465;2025-01-31;8974.0;5;"Caja Campiña; Banco Sur; Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL";;1
+728;211;2025-04-20;11070.0;5;"Banco Norte; Caja Campiña; crédito express; Préstamos Rápidos SL";202.81;4
+696;58;2025-03-03;13319.0;;"Caja Campiña; Banco Sur; Financiera Hispalis; Tarjetas Mediterráneo; Consumo Ya; Banco Norte; Crédito Express";448.91;4
+250;110;2025-09-13;46907.0;6;"Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Financiera Hispalis; Caja Campiña; Crédito Express";417.0;1
+677;67;2025-11-19;13693.0;5;"Consumo Ya; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Banco Sur; Caja Campiña";351.43;3
+223;622;2025-07-09;21731.0;3;"Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL";185.07;3
+277;625;2025-08-09;18798.1;3;"Telecom Dato; Consumo Ya; Caja Campiña";646.24;5
+744;499;2025-11-03;61606.0;2;"Telecom Dato; Préstamos Rápidos SL";290.86;3
+444;660;2025-05-07;48614.0;4;;187.0;5
+545;379;2025-06-15;30912.64;2;"Consumo Ya; Crédito Express";506.0;1
+119;186;2025-07-02;30964.0;9;"Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte; Financiera Hispalis; Consumo Ya; Banco Sur; Telecom Dato; Crédito Express";396.28;5
+230;399;2025-04-14;51535.51;9;"n; d";557.0;5
+772;352;2025-03-01;36152.0;4;"Crédito Express; Caja Campiña; Banco Norte; Seguros Atlántico";243.0;3
+802;419;2025-05-27;56815.0;8;"Caja Campiña; Banco Sur; Crédito Express; Telecom Dato; Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Préstamos Rápidos SL";182.73;5
+344;667;2025-06-17;18256.0;6;"Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis; Seguros Atlántico; Telecom Dato; Crédito Express";;4
+530;660;2025-04-01;49977.0;3;"Caja Campiña; Tarjetas Mediterráneo; Financiera Hispalis";552.0;5
+453;287;2025-03-11;52936.0;7;"Banco Sur; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Seguros Atlántico; Telecom Dato";612.0;3
+956;178;2025-02-18;48922.0;4;"Banco Norte; Caja Campiña; Banco Sur; Telecom Dato";171.33;3
+375;368;2025-05-26;47931.0;6;"Crédito Express; Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte";450.0;1
+440;493;2025-06-02;31727.0;8;"Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Telecom Dato; Caja Campiña; Banco Norte; Crédito Express; Financiera Hispalis";496.0;3
+669;123;2025-09-05;27817.0;2;"Seguros Atlántico; Consumo Ya";490.0;5
+441;501;2025-02-27;43869.0;6;"Caja Campiña; Seguros Atlántico; Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Banco Sur";483.32;2
+762;675;;14528.0;5;"Consumo Ya; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico; Caja Campiña";518.0;3
+127;459;2025-09-21;56833.0;;"Consumo Ya; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Caja Campiña; Crédito Express";166.0;5
+423;579;2025-11-07;30288.0;2;"Tarjetas Mediterráneo; Telecom Dato";354.2;3
+572;554;2025-05-30;22134.0;10;"Consumo Ya; Banco Sur; Banco Norte; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Préstamos Rápidos SL";202.0;3
+718;637;2025-03-22;52873.3;2;"Crédito Express; Consumo Ya";274.0;2
+291;634;2025-05-15;59023.0;6;"Banco Sur; Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis";608.0;3
+765;76;2025-05-27;46830.0;3;"Telecom Dato; Caja Campiña; Banco Norte";613.0;1
+795;443;2025-03-25;57370.0;;"Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico";502.0;1
+402;482;2025-10-15;56278.0;5;"Caja Campiña; Consumo Ya; Telecom Dato; Financiera Hispalis; Banco Norte";;2
+891;610;2025-09-18;12370.0;3;"Préstamos Rápidos SL; Consumo Ya; Banco Norte";352.0;5
+724;643;2025-08-18;60128.0;4;"Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Financiera Hispalis";521.25;1
+746;129;2025-08-14;54226.0;5;"Seguros Atlántico; Caja Campiña; Consumo Ya; crédito express; Tarjetas Mediterráneo";695.61;3
+222;57;2025-08-06;30909.0;2;"Telecom Dato; Financiera Hispalis";620.18;5
+821;363;2025-04-14;43202.0;2;"Telecom Dato; Consumo Ya";227.02;1
+276;235;2025-07-03;9999999.0;6;"Caja Campiña; Consumo Ya; Seguros Atlántico; Telecom Dato; Tarjetas Mediterráneo; Banco Norte";367.0;3
+310;287;2025-04-16;39793.39;6;"Caja Campiña; Préstamos Rápidos SL; Banco Norte; Crédito Express; Telecom Dato; Tarjetas Mediterráneo";260.0;5
+28;306;2025-02-15;16520.0;8;"Consumo Ya; Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña; Banco Norte; Banco Sur; Tarjetas Mediterráneo";620.0;3
+451;167;2025-05-22;20460.0;7;"Banco Norte; Banco Sur; Caja Campiña; Financiera Hispalis; Consumo Ya; Préstamos Rápidos SL; TELECOM DATO";237.0;1
+995;163;2025-05-26;18782.0;5;"Crédito Express; Tarjetas Mediterráneo; Telecom Dato; Financiera Hispalis; Banco Sur";190.0;3
+160;51;2025-09-09;42026.82;8;"Crédito Express; Caja Campiña; Telecom Dato; Financiera Hispalis; CONSUMO YA; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico";512.0;4
+915;576;2025-04-29;60495.0;3;"Tarjetas Mediterráneo; Banco Norte; Seguros Atlántico";203.0;3
+262;27;2025-05-26;44534.0;7;"Tarjetas Mediterráneo; Consumo Ya; Financiera Hispalis; Crédito Express; Préstamos Rápidos SL; Telecom Dato; Seguros Atlántico";528.0;2
+443;37;2025-10-09;56225.0;4;"Préstamos Rápidos SL; Banco Norte; Crédito Express; Tarjetas Mediterráneo";413.0;5
+449;192;2025-07-21;42997.0;6;;188.0;3
+622;52;2025-04-20;49700.0;5;"Crédito Express; Seguros Atlántico; Telecom Dato; Financiera Hispalis; Consumo Ya";516.86;5
+816;413;2025-05-17;27901.71;7;"Préstamos Rápidos SL; Consumo Ya; Banco Norte; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Caja Campiña";538.0;5
+318;25;2025-10-10;15584.0;;"Caja Campiña; Préstamos Rápidos SL; Consumo Ya; Banco Norte; Telecom Dato; Financiera Hispalis; Seguros Atlántico";488.0;5
+415;673;2025-07-13;9859.0;3;"Banco Norte; Banco Sur; Caja Campiña";507.0;5
+218;329;2025-03-12;43364.92;4;"Crédito Express; Banco Norte; Consumo Ya; Tarjetas Mediterráneo";365.0;5
+720;465;2025-02-17;36779.0;4;"Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Telecom Dato";197.0;5
+165;593;2025-04-06;55537.55;;"Banco Sur; Telecom Dato; Financiera Hispalis; Seguros Atlántico; Préstamos Rápidos SL";440.74;5
+900;189;;49095.0;5;"Crédito Express; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Financiera Hispalis";460.84;5
+7;243;2025-01-30;53862.0;2;"Caja Campiña; Seguros Atlántico";575.05;5
+621;143;2025-02-14;56386.0;7;"Crédito Express; Tarjetas Mediterráneo; Financiera Hispalis; Telecom Dato; Consumo Ya; Banco Norte; Seguros Atlántico";301.0;1
+625;16;2025-09-16;28439.0;6;"Banco Norte; Telecom Dato; Financiera Hispalis; Caja Campiña; Crédito Express; Banco Sur";354.47;2
+84;15;2025-08-14;52921.42;5;"Caja Campiña; Financiera Hispalis; Crédito Express; Telecom Dato; Tarjetas Mediterráneo";598.0;5
+808;666;2025-08-09;55189.0;3;"Caja Campiña; Crédito Express; Tarjetas Mediterráneo";582.64;5
+306;274;2025-11-02;16620.0;5;"Consumo Ya; Banco Sur; Banco Norte; Caja Campiña; Telecom Dato";455.0;5
+837;86;2025-05-12;22085.0;5;"Consumo Ya; Banco Norte; Seguros Atlántico; Financiera Hispalis; Crédito Express";607.0;5
+132;543;2024-12-14;;7;"Banco Sur; Telecom Dato; Consumo Ya; Caja Campiña; Banco Norte; Préstamos Rápidos SL; Financiera Hispalis";238.0;3
+659;19;2025-09-18;40190.0;4;"Consumo Ya; Caja Campiña; Banco Norte; Seguros Atlántico";417.0;1
+29;629;2025-06-17;56197.0;8;"Crédito Express; Consumo Ya; Tarjetas Mediterráneo; Préstamos Rápidos SL; Telecom Dato; Banco Sur; Caja Campiña; Financiera Hispalis";549.0;1
+734;547;2025-05-14;23952.7;5;"Banco Norte; Caja Campiña; Préstamos Rápidos SL; Consumo Ya; Banco Sur";151.0;5
+801;651;2025-06-16;54979.78;6;"Financiera Hispalis; BANCO NORTE; Prestamos Rapidos SL; Crédito Express; Banco Sur; Telecom Dato";173.58;1
+239;70;2025-06-10;40624.0;4;"Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Telecom Dato";238.0;5
+577;389;2025-10-21;44237.0;5;"Financiera Hispalis; Telecom Dato; Crédito Express; Banco Norte; Seguros Atlántico";151.0;5
+368;132;2025-08-09;32312.03;8;"Crédito Express; Caja Campiña; Consumo Ya; Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Financiera Hispalis; Tarjetas Mediterráneo";202.0;1
+709;338;2025-04-30;25658.0;5;"Financiera Hispalis; Crédito Express; Banco Sur; Seguros Atlántico; Consumo Ya";577.0;5
+897;214;2025-06-26;35878.0;8;"n; d";161.0;5
+820;475;2025-05-14;33589.0;5;"Consumo Ya; Banco Norte; Telecom Dato; Crédito Express; Financiera Hispalis";369.0;1
+193;440;2025-05-02;56862.34;4;"Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL";522.0;1
+280;198;2025-03-06;27041.24;8;"Banco Norte; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Caja Campiña";693.0;5
+879;407;2025-05-17;62232.0;4;"Banco Norte; Financiera Hispalis; Crédito Express; Telecom Dato";522.0;5
+950;601;2025-08-18;26760.0;3;"Crédito Express; Banco Sur; Tarjetas Mediterráneo";496.0;1
+791;174;2025-10-02;46890.0;3;"Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL";349.0;5
+447;239;2025-04-09;35877.12;4;"BANCO NORTE; Préstamos Rápidos SL; Consumo Ya";382.05;1
+266;161;2025-12-21;;3;"Seguros Atlántico; Financiera Hispalis; Préstamos Rápidos SL";309.0;5
+246;213;2025-09-21;54089.0;8;"Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Crédito Express; Banco Sur; Banco Norte; Tarjetas Mediterráneo";556.0;5
+282;201;2025-06-13;57832.0;3;"Préstamos Rápidos SL; Banco Norte; Telecom Dato";290.0;2
+62;236;2025-10-02;19163.34;4;"Caja Campiña; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis";243.0;1
+729;508;2025-04-25;64520.0;7;"Banco Norte; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis";;1
+365;449;2025-07-12;55367.0;7;"Financiera Hispalis; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo; Telecom Dato; Préstamos Rápidos SL; Banco Sur";435.39;4
+822;449;2025-07-06;17457.0;4;;564.0;3
+31;652;2025-08-31;;7;"Consumo Ya; Préstamos Rápidos SL; Banco Sur; Telecom Dato; Seguros Atlántico; Caja Campiña; Crédito Express";284.0;3
+129;161;;17873.0;;"Tarjetas Mediterráneo; Caja Campiña; Banco Norte; Financiera Hispalis; Seguros Atlántico; Banco Sur";663.0;3
+906;305;2025-06-22;27752.24;4;"Financiera Hispalis; Consumo Ya; crédito express; Banco Sur";441.0;5
+147;604;2025-03-18;46515.0;2;"Banco Sur; Tarjetas Mediterráneo";425.0;5
+957;473;2025-05-11;34696.0;4;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Sur; Crédito Express";696.76;5
+448;593;2025-05-03;11882.0;2;"Financiera Hispalis; Banco Norte";195.0;3
+155;644;2025-06-29;9900.0;6;"Caja Campiña; Crédito Express; Seguros Atlántico; Banco Norte; tarjetas mediterráneo; Financiera Hispalis";688.0;5
+823;25;2025-09-25;49327.0;;"Consumo Ya; Telecom Dato; Préstamos Rápidos SL; Banco Norte; Seguros Atlántico";236.39;1
+162;403;2025-01-16;35507.0;7;"Caja Campiña; Telecom Dato; Seguros Atlántico; Banco Sur; Préstamos Rápidos SL; Crédito Express; Financiera Hispalis";434.0;5
+557;109;2025-06-04;62856.0;5;"Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña; Banco Sur; Tarjetas Mediterráneo";237.0;3
+287;356;2025-11-19;49697.0;8;"Financiera Hispalis; Préstamos Rápidos SL; Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Consumo Ya; Banco Norte; Banco Sur";675.0;1
+299;267;2025-05-24;13409.0;8;"Telecom Dato; Crédito Express; Banco Norte; Consumo Ya; Financiera Hispalis; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL";548.0;4
+67;285;2025-05-22;11190.0;2;"Préstamos Rápidos SL; Caja Campiña";692.0;2
+544;129;2025-08-09;13547.0;6;"Seguros Atlántico; Banco Sur; Banco Norte; Financiera Hispalis; Crédito Express; Telecom Dato";318.0;5
+347;648;2025-07-27;48696.0;5;"Telecom Dato; Consumo Ya; Crédito Express; Financiera Hispalis; Banco Sur";284.0;1
+91;672;2025-08-21;18623.0;5;"Préstamos Rápidos SL; Financiera Hispalis; Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico";564.0;1
+890;596;2025-10-19;64718.53;8;"Banco Norte; Crédito Express; Financiera Hispalis; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Caja Campiña; Préstamos Rápidos SL";0.0;1
+839;353;2025-01-07;43733.0;8;"Tarjetas Mediterraneo; Banco Sur; Seguros Atlántico; CAJA CAMPIÑA; Crédito Express; Banco Norte; Consumo Ya; Telecom Dato";296.0;1
+144;266;2030-01-01;;4;"Banco Sur; Tarjetas Mediterráneo; Consumo Ya; SEGUROS ATLÁNTICO";547.0;1
+50;130;2025-07-24;55500.0;8;"Banco Norte; Financiera Hispalis; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Crédito Express; Banco Sur";213.0;5
+437;280;2025-03-12;21796.0;4;"Consumo Ya; Telecom Dato; Banco Sur; Crédito Express";;3
+70;531;2025-08-06;52464.82;7;"Caja Campiña; Seguros Atlántico; Banco Norte; Crédito Express; Consumo Ya; Telecom Dato; Préstamos Rápidos SL";385.0;2
+438;407;2025-06-14;33254.0;2;"Caja Campiña; Tarjetas Mediterráneo";249.71;3
+283;663;2025-02-25;25602.0;5;"Caja Campiña; Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Financiera Hispalis";413.08;2
+975;151;2025-10-17;;3;"Préstamos Rápidos SL; Telecom Dato; Consumo Ya";;2
+984;557;2025-09-11;;7;"Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Consumo Ya; Seguros Atlántico; Financiera Hispalis";320.0;1
+315;41;2025-04-05;59046.0;4;"Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Tarjetas Mediterráneo";542.0;1
+311;607;2025-05-31;12795.0;5;"Consumo Ya; Caja Campiña; Banco Norte; Financiera Hispalis; Telecom Dato";219.0;1
+45;613;2025-10-15;22872.0;5;"Crédito Express; Financiera Hispalis; Banco Sur; Telecom Dato; Tarjetas Mediterráneo";186.3;3
+857;143;2025-03-28;11667.83;7;"Préstamos Rápidos SL; Telecom Dato; Tarjetas Mediterráneo; Crédito Express; Banco Sur; Caja Campiña; Banco Norte";307.0;2
+761;376;;46748.0;3;"seguros atlántico; Telecom Dato; Caja Campiña";415.0;3
+174;12;2025-11-24;62325.0;3;"Telecom Dato; Préstamos Rápidos SL; Consumo Ya";547.33;4
+687;492;2025-10-25;30188.0;7;"Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis; Préstamos Rápidos SL; Banco Sur; Telecom Dato; consumo ya";540.0;5
+429;184;2025-07-28;23244.0;2;"Banco Sur; Financiera Hispalis";488.0;3
+842;68;2025-06-20;;2;"Caja Campiña; Consumo Ya";235.0;2
+745;180;2025-06-19;34145.0;7;"Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Financiera Hispalis; Banco Sur; Banco Norte; Telecom Dato";368.0;5
+143;653;2025-04-02;25914.0;5;"Telecom Dato; Banco Norte; Crédito Express; Financiera Hispalis; Banco Sur";;1
+260;496;2025-07-02;36588.0;8;"Financiera Hispalis; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Crédito Express; Consumo Ya; Seguros Atlántico; Caja Campiña";310.0;3
+86;569;2025-08-15;27584.0;7;"Consumo Ya; Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Banco Sur; Caja Campiña; Financiera Hispalis";377.0;4
+254;69;2025-03-04;28635.0;8;"Banco Sur; Seguros Atlántico; Consumo Ya; tarjetas mediterráneo; Crédito Express; Préstamos Rápidos SL; Banco Norte; Caja Campiña";352.0;1
+21;441;2025-11-17;19907.0;6;"Financiera Hispalis; Tarjetas Mediterráneo; Seguros Atlántico; Banco Norte; TELECOM DATO; Préstamos Rápidos SL";678.0;4
+617;511;2025-11-11;61225.5;10;"Caja Campiña; Banco Norte; Crédito Express; Banco Sur; Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Financiera Hispalis";634.0;5
+75;169;2025-06-08;13264.0;4;"Banco Sur; Crédito Express; Financiera Hispalis; Banco Norte";192.0;5
+575;610;2025-11-01;31089.0;3;"Telecom Dato; Banco Norte; Caja Campiña";660.0;5
+574;656;2025-07-23;16832.0;7;"Seguros Atlántico; Financiera Hispalis; Caja Campiña; Consumo Ya; Préstamos Rápidos SL; Banco Norte; Banco Sur";488.02;3
+733;537;2025-06-06;0.0;3;"Banco Sur; Préstamos Rápidos SL; Crédito Express";194.3;2
+490;540;2025-02-06;61120.0;6;"Préstamos Rápidos SL; Financiera Hispalis; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Consumo Ya";496.0;1
+962;566;2025-04-04;49526.0;5;"Tarjetas Mediterráneo; Banco Sur; Préstamos Rápidos SL; Telecom Dato";695.0;3
+87;7;2025-02-28;52496.0;4;"Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya";235.65;4
+373;192;2025-04-18;50091.0;7;"Banco Sur; Financiera Hispalis; Banco Norte; Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Caja Campiña";341.0;4
+201;267;2025-03-08;40674.0;4;"Banco Sur; Consumo Ya; Telecom Dato; Seguros Atlántico";155.0;3
+268;74;2025-03-27;15687.0;8;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Caja Campiña; Telecom Dato; Banco Sur; Financiera Hispalis; Crédito Express";599.94;1
+705;541;2025-09-04;54991.7;7;"SEGUROS ATLÁNTICO; Consumo Ya; Banco Norte; Préstamos Rápidos SL; Telecom Dato; Caja Campiña; Crédito Express";661.91;1
+419;447;2025-04-28;10027.0;6;"Banco Norte; Consumo Ya; Financiera Hispalis; Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo";420.15;1
+914;474;2025-06-10;;3;"Financiera Hispalis; Banco Norte; Telecom Dato";521.0;5
+893;660;2025-04-11;58749.67;7;"Crédito Express; Telecom Dato; Financiera Hispalis; Caja Campiña; Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL";314.0;5
+394;446;2025-08-23;9365.26;4;"Banco Norte; Seguros Atlántico; Crédito Express; Banco Sur";354.0;4
+825;561;2025-07-24;43624.76;2;"Consumo Ya; Banco Norte";183.0;3
+17;571;2025-11-25;15686.0;3;"Crédito Express; Consumo Ya; Financiera Hispalis";510.0;3
+117;162;2025-08-29;9116.0;7;"Banco Norte; Consumo Ya; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur";439.41;2
+691;135;2025-08-28;18447.96;;"Caja Campiña; Préstamos Rápidos SL; crédito express";395.75;3
+305;139;2025-04-17;21236.0;1;"Consumo Ya; Financiera Hispalis";233.0;5
+607;225;2025-08-12;54220.25;7;"Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Consumo Ya; Caja Campiña";262.0;5
+850;475;2025-07-25;58732.0;2;"Préstamos Rápidos SL; Banco Norte";591.27;5
+389;566;2025-02-16;55856.0;4;"Banco Norte; Crédito Express; Financiera Hispalis; Seguros Atlántico";233.0;1
+73;131;2025-05-05;10704.0;8;"Telecom Dato; Financiera Hispalis; Banco Sur; Préstamos Rápidos SL; Tarjetas Mediterráneo; Caja Campiña; Crédito Express; Banco Norte";431.0;3
+845;605;2025-06-17;;4;"Financiera Hispalis; Banco Sur; Tarjetas Mediterráneo; Caja Campiña";171.0;4
+650;206;2025-05-13;58904.0;7;"Tarjetas Mediterráneo; Banco Norte; Seguros Atlántico; Financiera Hispalis; Crédito Express; Banco Sur; Préstamos Rápidos SL";344.56;3
+403;402;2025-09-15;29105.0;8;"Financiera Hispalis; Crédito Express; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Caja Campiña; Banco Norte; Telecom Dato";490.0;1
+947;205;2025-06-14;15278.36;6;"Banco Sur; Banco Norte; Financiera Hispalis; Crédito Express; Tarjetas Mediterráneo; Préstamos Rápidos SL";474.47;5
+562;222;2025-05-31;38473.0;7;"Banco Norte; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Préstamos Rápidos SL; Seguros Atlántico; Telecom Dato";401.0;5
+831;217;2025-02-16;11626.64;8;"Consumo Ya; Crédito Express; Caja Campiña; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis; Banco Norte; Banco Sur";530.0;5
+551;304;2025-10-01;22959.0;4;"Seguros Atlántico; Banco Norte; Crédito Express; Caja Campiña";503.0;3
+737;600;2025-07-23;28667.0;4;;538.0;5
+807;44;2025-06-02;14829.0;10;"Seguros Atlántico; Caja Campina; Tarjetas Mediterráneo; Crédito Express; Telecom Dato; Financiera Hispalis; Préstamos Rápidos SL; Banco Norte";413.0;1
+146;463;2025-10-08;31916.0;7;"Prestamos Rapidos SL; Crédito Express; Banco Sur; Banco Norte; Tarjetas Mediterráneo; Seguros Atlántico; Telecom Dato";229.0;1
+420;270;2025-06-28;49352.0;;"Telecom Dato; Tarjetas Mediterráneo; Consumo Ya; Financiera Hispalis; Crédito Express; Banco Sur; Banco Norte";;3
+742;261;2025-10-16;40275.0;4;"Consumo Ya; Telecom Dato; Seguros Atlántico; Caja Campiña";330.0;5
+753;253;2025-03-19;39289.0;;"Telecom Dato; Tarjetas Mediterráneo; Crédito Express; Caja Campiña; Seguros Atlántico; Banco Sur";611.0;3
+588;11;2025-07-18;19893.0;4;"Banco Sur; Caja Campiña; Telecom Dato; Préstamos Rápidos SL";562.0;1
+517;496;2025-06-27;21708.09;5;"Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya; Caja Campiña; Crédito Express";416.0;5
+231;236;;52297.0;5;"Banco Norte; Banco Sur; Crédito Express; Financiera Hispalis; Tarjetas Mediterráneo";616.0;3
+219;263;2025-05-22;36791.0;7;"Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Banco Sur; TARJETAS MEDITERRÁNEO; Financiera Hispalis; Telecom Dato";344.0;5
+913;469;2025-03-10;54894.0;7;"Consumo Ya; Seguros Atlántico; Crédito Express; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Telecom Dato";695.3;1
+570;583;2025-02-09;40391.0;2;"Crédito Express; Telecom Dato";343.0;5
+190;515;2025-12-12;35125.9;8;"Telecom Dato; banco sur; Préstamos Rápidos SL; Tarjetas Mediterráneo; Consumo Ya; Banco Norte; Financiera Hispalis; Seguros Atlántico";483.0;2
+66;350;2024-11-28;15272.0;4;"Préstamos Rápidos SL; CONSUMO YA; Caja Campiña; Seguros Atlántico";272.0;1
+508;283;2025-08-20;22236.0;5;"Telecom Dato; Consumo Ya; Financiera Hispalis; Banco Sur; Seguros Atlántico";601.0;1
+256;516;2025-03-22;34829.46;9;"Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Financiera Hispalis; Telecom Dato; Caja Campiña; Seguros Atlántico; BANCO SUR";241.0;3
+583;364;2025-10-07;12231.73;8;"Seguros Atlántico; Crédito Express; Caja Campiña; Banco Sur; Financiera Hispalis; Consumo Ya; Banco Norte; Préstamos Rápidos SL";693.0;3
+176;372;2025-07-21;53695.67;;"n; d";611.34;3
+552;256;2025-03-09;47384.0;8;"Consumo Ya; Financiera Hispalis; Préstamos Rápidos SL; Seguros Atlántico; Tarjetas Mediterráneo; Banco Sur; Telecom Dato; Banco Norte";296.0;1
+215;337;2025-11-07;52885.83;2;"Seguros Atlántico; Banco Norte";646.0;4
+335;206;2025-04-13;41622.0;5;"Banco Norte; Tarjetas Mediterráneo; Seguros Atlántico; Financiera Hispalis; Préstamos Rápidos SL";;5
+178;319;2025-11-07;;8;"Crédito Express; Consumo Ya; Telecom Dato; Seguros Atlántico; Caja Campiña; Financiera Hispalis; Banco Sur";257.0;1
+82;426;2025-03-11;40867.0;2;"Tarjetas Mediterráneo; Préstamos Rápidos SL";546.0;3
+881;421;2025-10-08;43611.89;7;"Préstamos Rápidos SL; Seguros Atlántico; Banco Norte; Telecom Dato; Financiera Hispalis; Consumo Ya; Crédito Express";151.0;5
+374;315;2025-04-19;60934.48;3;"Banco Norte; Consumo Ya; Caja Campiña";519.0;2
+812;157;2025-03-31;58181.0;7;"Banco Norte; Consumo Ya; Tarjetas Mediterráneo; Crédito Express; Banco Sur; Préstamos Rápidos SL; Caja Campiña";349.56;2
+253;520;2025-07-09;25789.0;8;"Crédito Express; Préstamos Rápidos SL; Telecom Dato; Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Banco Sur; Banco Norte";386.0;2
+587;250;2025-01-14;11904.39;6;"Seguros Atlántico; Consumo Ya; Crédito Express; Telecom Dato; Banco Norte; Préstamos Rápidos SL";683.0;1
+901;76;2025-06-26;10197.0;8;"Préstamos Rápidos SL; Financiera Hispalis; Caja Campiña; Banco Norte; Consumo Ya; Telecom Dato; Banco Sur; Seguros Atlántico";423.49;3
+682;433;2025-09-17;39341.25;3;"Seguros Atlántico; Telecom Dato; Banco Norte";151.0;1
+485;396;2025-10-25;45620.0;;"Caja Campiña; Telecom Dato; Crédito Express; Financiera Hispalis; Seguros Atlántico; Banco Norte; Banco Sur";152.0;5
+236;11;2025-06-22;60251.0;3;"Telecom Dato; Crédito Express; Préstamos Rápidos SL";382.0;3
+172;146;2025-10-29;20075.76;8;"Préstamos Rápidos SL; Consumo Ya; Financiera Hispalis; Caja Campiña; Banco Norte; Banco Sur; Seguros Atlántico; Crédito Express";346.0;3
+20;125;2025-09-30;62290.0;7;"Banco Norte; Financiera Hispalis; Consumo Ya; Caja Campiña; Tarjetas Mediterráneo; Banco Sur; Telecom Dato";500.34;3
+935;487;2025-05-02;50286.0;4;"Crédito Express; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL";489.0;2
+203;614;2025-05-22;15858.0;6;"Consumo Ya; Banco Norte; Telecom Dato; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL";494.0;4
+465;625;2025-07-16;46234.0;2;"Consumo Ya; Banco Sur";236.32;2
+618;4;2025-05-28;16967.0;;"Banco Norte; Caja Campiña; Tarjetas Mediterráneo";403.0;
+929;200;2025-12-05;20764.0;5;"Crédito Express; Préstamos Rápidos SL; Caja Campiña";658.0;5
+668;615;2025-07-31;53894.0;7;"Seguros Atlántico; Banco Sur; Telecom Dato; Préstamos Rápidos SL; CAJA CAMPIÑA; Crédito Express; Consumo Ya";;5
+442;485;2025-07-02;45990.0;6;"Caja Campiña; Consumo Ya; Crédito Express; Banco Norte; Préstamos Rápidos SL; Telecom Dato";550.0;5
+778;158;2025-07-02;24412.0;6;"Banco Norte; Financiera Hispalis; Tarjetas Mediterráneo; Seguros Atlántico";566.0;4
+979;628;2025-06-11;45762.0;3;"Seguros Atlántico; Préstamos Rápidos SL; Banco Sur";615.0;1
+626;11;2025-06-11;32363.0;8;;456.0;3
+690;388;2025-10-25;11817.0;3;"Banco Sur; Consumo Ya; Financiera Hispalis";207.0;1
+55;405;2025-06-23;0.0;7;"Crédito Express; Préstamos Rápidos SL; Banco Sur; CONSUMO YA; Seguros Atlántico; Telecom Dato; Tarjetas Mediterráneo";625.82;3
+502;676;2025-05-19;24565.34;6;"Telecom Dato; Banco Norte; Crédito Express; Financiera Hispalis; Préstamos Rápidos SL; Tarjetas Mediterráneo";344.61;5
+338;525;2025-05-16;8253.0;3;"Tarjetas Mediterráneo; Crédito Express; Telecom Dato";569.0;5
+245;88;2025-04-15;18209.0;4;"Banco Norte; Consumo Ya; Telecom Dato; Financiera Hispalis";484.0;1
+378;46;2025-10-30;54035.0;4;"crédito express; Consumo Ya; Banco Sur; Préstamos Rápidos SL";198.59;1
+148;303;2025-01-17;23541.0;8;"Seguros Atlántico; Caja Campiña; Financiera Hispalis; Consumo Ya; Telecom Dato; Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Sur";225.0;2
+36;544;2025-03-03;22032.0;8;"Consumo Ya; Financiera Hispalis; Telecom Dato; Caja Campiña; Banco Sur; Tarjetas Mediterráneo; Crédito Express; Seguros Atlántico";187.0;1
+723;294;2025-05-23;26269.81;4;"Seguros Atlántico; Consumo Ya; Telecom Dato; Caja Campiña";173.0;5
+536;51;2025-09-03;14528.67;9;"Caja Campiña; Banco Norte; Consumo Ya; Financiera Hispalis; Banco Sur; Telecom Dato; Seguros Atlántico";390.0;3
+491;395;2025-08-15;22386.0;3;"Telecom Dato; Caja Campiña; Préstamos Rápidos SL";387.0;1
+464;543;2025-03-03;50731.88;3;"Consumo Ya; Crédito Express; Telecom Dato";168.0;2
+412;241;2025-03-12;27532.0;6;"Seguros Atlántico; Telecom Dato; Caja Campiña; Crédito Express; Financiera Hispalis; Préstamos Rápidos SL";286.0;3
+519;162;2025-08-18;-48619.0;5;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Seguros Atlántico; Caja Campiña; Crédito Express";398.19;1
+294;433;2025-11-01;60008.0;;"Banco Norte; Tarjetas Mediterráneo; Consumo Ya; Financiera Hispalis";527.0;1
+934;100;2025-02-20;27837.0;8;"Banco Norte; Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; financiera hispalis";683.12;1
+85;572;2025-03-11;14183.0;8;"Telecom Dato; Financiera Hispalis; Banco Sur; préstamos rápidos sl; Tarjetas Mediterráneo; Banco Norte; Crédito Express; Seguros Atlántico";175.0;1
+507;606;2025-06-24;63215.28;5;;313.32;1
+719;196;2025-03-22;61880.0;8;"Seguros Atlántico; banco norte; Préstamos Rápidos SL; Crédito Express; Caja Campiña; Telecom Dato; Banco Sur; Financiera Hispalis";327.0;5
+284;502;2025-08-28;8393.23;6;"Consumo Ya; Seguros Atlántico; Caja Campiña; Crédito Express; Telecom Dato; Banco Sur";504.0;5
+997;264;2025-11-17;20471.74;7;"Crédito Express; Caja Campiña; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Consumo Ya; BANCO SUR";543.0;1
+844;324;2025-11-19;27278.0;6;"Seguros Atlántico; Consumo Ya; Caja Campiña; Banco Norte; Crédito Express; Telecom Dato";669.0;5
+895;278;2025-09-27;64252.0;8;"Consumo Ya; Banco Sur; Telecom Dato; Seguros Atlántico; Banco Norte; Préstamos Rápidos SL; Caja Campiña; Crédito Express";415.0;1
+101;491;2025-09-16;21435.77;2;"Financiera Hispalis; Préstamos Rápidos SL";215.0;1
+768;66;2025-04-30;15734.0;2;"Banco Norte; Financiera Hispalis";522.0;2
+322;22;2025-04-28;51269.0;4;"Seguros Atlántico; Banco Sur; Caja Campiña; Financiera Hispalis";474.51;1
+432;620;2025-03-18;41251.0;;"Banco Norte; Telecom Dato; Crédito Express; Consumo Ya";375.0;
+334;168;2025-04-06;61959.64;8;"Crédito Express; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Telecom Dato; Banco Norte; Financiera Hispalis; Seguros Atlántico";429.0;3
+468;270;2025-07-22;30171.0;3;;514.0;5
+340;20;2025-06-29;43912.0;3;"Seguros Atlántico; Consumo Ya; Banco Sur";290.87;4
+51;493;2025-09-26;36696.0;6;"Banco Sur; Financiera Hispalis; Crédito Express; Banco Norte; Préstamos Rápidos SL; Telecom Dato";;5
+210;354;2025-06-04;64037.56;7;;170.51;1
+954;379;;21803.6;5;"Crédito Express; Financiera Hispalis; Consumo Ya; Préstamos Rápidos SL; Telecom Dato";378.0;3
+251;364;2025-11-23;60351.0;4;"Préstamos Rápidos SL; Financiera Hispalis; Consumo Ya; Seguros Atlántico";;1
+878;38;2025-10-11;34060.0;7;"Caja Campiña; Banco Norte; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur";409.0;1
+168;298;2025-05-30;15790.0;3;"Crédito Express; Tarjetas Mediterráneo; Banco Norte";609.0;2
+939;539;2025-07-27;;;"Seguros Atlántico; Tarjetas Mediterráneo; Consumo Ya; Caja Campiña; Financiera Hispalis; Banco Norte; Crédito Express; Préstamos Rápidos SL";654.0;5
+393;46;2025-11-28;60395.0;4;"Préstamos Rápidos SL; Banco Sur; Caja Campiña; Banco Norte";155.0;1
+134;399;2025-05-09;64123.0;3;"Seguros Atlántico; Banco Norte; Telecom Dato";617.0;5
+782;481;2025-05-26;55426.16;4;"Crédito Express; Seguros Atlántico; consumo ya";169.0;5
+735;531;2025-08-26;11114.0;2;"Consumo Ya; Banco Norte";332.0;1
+882;603;2025-08-20;58802.0;4;"Financiera Hispalis; Banco Sur; Tarjetas Mediterráneo; Caja Campiña";204.0;3
+710;638;2025-05-20;14848.57;8;"Financiera Hispalis; Caja Campiña; Crédito Express; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico";;5
+905;371;2025-04-19;8754.25;4;"Seguros Atlántico; financiera hispalis; Telecom Dato; Banco Sur";296.67;5
+2;26;2025-07-31;;;"Seguros Atlántico; Crédito Express; Financiera Hispalis; Banco Norte";661.44;1
+824;241;2025-04-06;30855.0;5;"Financiera Hispalis; Banco Sur; Telecom Dato; Préstamos Rápidos SL; Tarjetas Mediterráneo";;3
+6;552;2025-05-17;36309.0;6;"Seguros Atlántico; Banco Sur; Crédito Express; Telecom Dato; Caja Campiña; Banco Norte";182.0;1
+111;38;2025-10-07;56781.0;2;"Préstamos Rápidos SL; Banco Norte";563.45;3
+867;419;2025-05-26;27632.0;4;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Caja Campiña";211.0;2
+199;625;2025-08-17;34056.0;7;"Consumo Ya; Financiera Hispalis; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte";693.0;3
+681;398;2025-04-13;53031.0;8;"Caja Campiña; Tarjetas Mediterráneo; Crédito Express; Banco Sur; Préstamos Rápidos SL; Telecom Dato; Consumo Ya; Seguros Atlántico";612.0;5
+414;497;2025-02-16;;2;"Banco Norte; Consumo Ya";222.0;3
+665;579;2025-11-18;47415.0;5;"Telecom Dato; Banco Sur; Financiera Hispalis; Caja Campiña; Préstamos Rápidos SL";604.0;1
+79;421;2025-10-16;33453.0;;"Banco Norte; Préstamos Rápidos SL";596.0;5
+175;70;2025-07-12;15574.0;8;"Telecom Dato; Consumo Ya; Caja Campiña; Préstamos Rápidos SL; Crédito Express; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo";572.0;5
+926;403;2025-04-30;50136.0;6;"Banco Sur; Banco Norte; Crédito Express; Financiera Hispalis; Telecom Dato";259.0;5
+663;479;2025-08-15;20026.0;4;"Préstamos Rápidos SL; Banco Norte; Seguros Atlántico; Caja Campiña";678.0;
+48;402;2025-10-13;39179.46;8;"n; d";;1
+392;560;2025-10-14;43171.0;4;;380.97;
+35;680;2025-11-14;37875.0;6;"Crédito Express; Consumo Ya; Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo";238.0;3
+573;52;2025-04-24;26107.0;6;"Préstamos Rápidos SL; Caja Campiña; Crédito Express; Consumo Ya; Seguros Atlántico; Tarjetas Mediterráneo";224.0;1
+565;598;2025-09-29;11162.0;4;"Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo; Consumo Ya";682.0;4
+863;634;2025-06-22;35007.0;4;"Banco Norte; Seguros Atlántico; Financiera Hispalis; Consumo Ya";658.0;3
+700;515;2025-11-25;;8;"Crédito Express; Banco Norte; Caja Campiña; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Banco Sur";331.0;1
+24;483;2025-03-24;56286.0;6;"Tarjetas Mediterráneo; Telecom Dato; Banco Sur; Banco Norte; Consumo Ya";518.94;1
+936;107;2025-09-24;31271.0;3;"Préstamos Rápidos SL; Seguros Atlántico; Crédito Express";;5
+694;467;2025-02-28;8132.0;6;"Banco Norte; Caja Campiña; CONSUMO YA; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL";;5
+263;369;2025-01-11;18556.0;4;"Tarjetas Mediterráneo; Banco Sur; Consumo Ya; Telecom Dato";274.0;3
+22;632;2025-04-11;29945.59;4;"Banco Sur; Consumo Ya; Seguros Atlántico; Telecom Dato";698.0;4
+615;531;2025-04-24;22967.0;3;"Consumo Ya; Préstamos Rápidos SL; Caja Campiña";442.0;5
+672;608;2025-06-23;56751.0;4;"Seguros Atlántico; Telecom Dato; Financiera Hispalis; Consumo Ya";158.0;1
+181;437;2025-07-05;33775.0;2;"Seguros Atlántico; Préstamos Rápidos SL";213.44;3
+68;67;2025-10-27;24796.0;2;"Tarjetas Mediterráneo; Banco Norte";442.36;5
+797;380;2025-04-28;52436.0;6;"Préstamos Rápidos SL; Consumo Ya; Banco Norte; Caja Campiña; Crédito Express; Tarjetas Mediterráneo";477.0;5
+769;302;2025-10-26;23650.18;7;"PRÉSTAMOS RÁPIDOS SL; Financiera Hispalis; Crédito Express; Consumo Ya; Seguros Atlántico; Banco Sur; Banco Norte";188.0;3
+835;106;2025-10-05;42254.79;2;"Préstamos Rápidos SL; Financiera Hispalis";679.0;1
+187;299;2025-04-26;25693.0;5;"Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis";554.0;3
+944;622;2025-07-15;17110.17;8;"Seguros Atlántico; Préstamos Rápidos SL; Consumo Ya; Telecom Dato; Banco Norte; Financiera Hispalis";378.0;5
+140;117;2025-03-05;49754.0;;"Seguros Atlántico; BANCO SUR; Préstamos Rápidos SL; Tarjetas Mediterráneo";549.0;1
+339;609;2025-12-05;63171.32;8;"Seguros Atlántico; Banco Norte; Caja Campiña; Consumo Ya; Financiera Hispalis; Crédito Express; Banco Sur; Telecom Dato";176.0;3
+834;274;2025-10-18;37245.0;6;"Consumo Ya; Banco Norte; Telecom Dato; Crédito Express; Seguros Atlántico; Tarjetas Mediterráneo";602.0;5
+30;520;2025-08-22;35268.0;3;"Banco Norte; Seguros Atlántico";525.0;5
+398;650;2025-08-10;60162.0;8;"Seguros Atlántico; Telecom Dato; Caja Campiña; Banco Sur; Consumo Ya; Crédito Express; Tarjetas Mediterráneo; Banco Norte";587.0;3
+221;201;2025-04-30;17182.0;8;"Telecom Dato; Banco Norte; Caja Campiña; Consumo Ya; Crédito Express; Financiera Hispalis; Banco Sur; Seguros Atlántico";321.0;5
+426;520;2025-06-30;16630.0;;"Banco Sur; Financiera Hispalis";260.0;5
+454;77;2025-02-25;61921.77;3;"Seguros Atlántico; Telecom Dato";590.0;2
+418;497;2025-03-10;57185.0;2;"Tarjetas Mediterráneo; Préstamos Rápidos SL";690.0;1
+978;536;2025-03-22;23403.32;;"Caja Campiña; Tarjetas Mediterráneo; Consumo Ya; Banco Sur; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL";461.0;1
+59;418;2025-03-22;53475.0;2;"CONSUMO YA; Crédito Express";559.0;1
+39;544;2025-02-28;56243.0;3;"Préstamos Rápidos SL; Banco Norte; Telecom Dato";349.0;5
+504;526;2025-05-16;17028.0;10;"Seguros Atlántico; Crédito Express; Banco Norte; Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña; Tarjetas Mediterráneo";329.0;3
+354;423;2025-10-10;14884.0;7;"Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Crédito Express; Banco Norte";372.0;2
+738;324;2025-10-20;49904.0;5;"Seguros Atlántico; Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Banco Norte";446.0;5
+424;197;2025-05-11;50602.0;5;"Caja Campiña; Telecom Dato; Crédito Express; Banco Sur; Financiera Hispalis";362.0;5
+998;659;2025-02-25;63471.0;2;"Seguros Atlántico; Telecom Dato";539.82;5
+390;44;2025-05-23;15145.0;2;"Banco Sur; Préstamos Rápidos SL";402.0;2
+640;664;2025-04-03;14434.0;7;;;1
+887;14;2025-09-29;;7;;;5
+704;10;2025-03-22;11613.0;5;"Crédito Express; Tarjetas Mediterráneo; Banco Sur; Seguros Atlántico; Telecom Dato";422.0;3
+917;106;2025-09-21;63712.72;4;"Financiera Hispalis; Banco Sur; Caja Campiña; Crédito Express";263.0;1
+937;495;2025-05-04;37724.0;5;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Banco Norte";299.82;3
+298;672;2025-08-20;39937.23;;"Crédito Express; Tarjetas Mediterráneo; Banco Norte; Banco Sur; Seguros Atlántico";269.28;1
+100;458;;53279.0;5;"Financiera Hispalis; Banco Sur; Banco Norte; Telecom Dato; Caja Campiña; Préstamos Rápidos SL";651.0;5
+547;183;2025-06-05;31800.0;7;"Tarjetas Mediterráneo; Telecom Dato; Crédito Express; Banco Norte; Banco Sur; Consumo Ya; SEGUROS ATLÁNTICO";316.0;1
+885;100;2025-02-14;37551.0;3;"Tarjetas Mediterráneo; Financiera Hispalis; Telecom Dato";224.71;1
+707;556;2025-06-20;58634.0;3;"Consumo Ya; Caja Campiña; Seguros Atlántico";678.0;3
+25;162;2025-06-27;56704.0;6;;331.0;1
+967;264;2025-10-08;9519.0;2;"Crédito Express; Financiera Hispalis";418.0;5
+192;328;2025-01-21;38709.0;5;"Tarjetas Mediterráneo; Consumo Ya; Banco Norte; telecom dato; Financiera Hispalis";575.0;2
+255;316;;62144.0;5;"Caja Campiña; Banco Norte; Financiera Hispalis; Telecom Dato; Crédito Express";637.0;5
+286;96;2025-05-10;9681.0;2;"Banco Sur; Caja Campiña";451.06;5
+946;129;2025-08-05;56503.0;7;"Seguros Atlántico; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Sur; Crédito Express";500.0;5
+958;197;2025-02-06;34830.16;2;"Crédito Express; Tarjetas Mediterráneo";457.0;5
+295;104;2025-01-12;60479.0;6;"Seguros Atlántico; Banco Norte; Financiera Hispalis; Telecom Dato; Consumo Ya; Caja Campiña";544.0;5
+599;192;2025-08-14;28961.0;2;"Tarjetas Mediterráneo; Crédito Express";609.0;3
+780;562;2025-03-01;;5;"Crédito Express; Financiera Hispalis; Consumo Ya; Seguros Atlántico; Banco Norte";493.0;3
+237;535;2025-06-27;60191.0;4;"Banco Norte; Caja Campiña; Telecom Dato; Préstamos Rápidos SL";204.12;5
+869;68;2025-05-04;28016.0;3;"Banco Sur; Telecom Dato";547.0;1
+65;363;2025-04-05;34129.0;;"Consumo Ya; préstamos rápidos sl; Caja Campiña; Crédito Express; BANCO SUR; Financiera Hispalis; Telecom Dato; Banco Norte";285.24;1
+259;29;2025-08-05;51561.0;7;"Crédito Express; Financiera Hispalis; Préstamos Rápidos SL; Banco Sur; Caja Campiña; Seguros Atlántico; Telecom Dato";420.0;1
+348;604;2025-02-21;38865.83;9;"Telecom Dato; Banco Norte; Consumo Ya; Banco Sur; Financiera Hispalis; Crédito Express; Seguros Atlántico; Préstamos Rápidos SL";190.0;5
+321;105;2025-10-02;22505.0;3;"Telecom Dato; Banco Sur; Financiera Hispalis";;1
+755;405;2025-06-01;23311.0;4;"Préstamos Rápidos SL; Banco Norte; Caja Campiña; Telecom Dato";564.02;4
+95;660;2025-04-18;46292.63;2;"Crédito Express; Banco Norte";489.0;3
+861;189;2025-05-03;;5;"Consumo Ya; Banco Sur; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte";156.0;5
+527;620;2025-03-26;13956.0;7;"Tarjetas Mediterráneo; Crédito Express; Seguros Atlántico; Banco Sur; Caja Campiña; Banco Norte; Préstamos Rápidos SL";345.0;1
+560;482;2025-09-21;44668.0;3;"Préstamos Rápidos SL; Consumo Ya";561.0;4
+269;185;2025-07-10;31011.0;;"Caja Campiña; Banco Sur; Préstamos Rápidos SL; Financiera Hispalis";548.69;3
+480;648;2025-06-16;56481.0;7;"Banco Norte; Telecom Dato; Seguros Atlántico; Tarjetas Mediterráneo; Préstamos Rápidos SL; Caja Campiña; Consumo Ya";586.0;2
+739;133;2025-02-23;9054.0;7;"Financiera Hispalis; Tarjetas Mediterráneo; Crédito Express; Banco Sur; Consumo Ya; Seguros Atlántico; Banco Norte";373.0;4
+968;145;2025-12-03;57704.0;8;"Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Telecom Dato; Seguros Atlántico; Consumo Ya; Caja Campiña; Banco Norte";512.0;4
+273;584;2025-01-16;51177.0;9;"Financiera Hispalis; Telecom Dato; Crédito Express; Banco Norte; Consumo Ya; Seguros Atlántico; Caja Campiña";331.0;5
+920;126;2025-07-14;22022.0;2;"Banco Norte; Telecom Dato";608.0;2
+829;153;2025-11-10;42357.81;2;"Banco Sur; Caja Campiña";517.0;3
+538;46;2025-11-23;27569.5;4;"Caja Campiña; Financiera Hispalis; Tarjetas Mediterráneo; Banco Norte";275.0;1
+794;177;2025-08-18;35876.0;5;"Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL; Caja Campiña; Seguros Atlántico";;1
+371;209;2025-05-06;34866.0;6;"Tarjetas Mediterráneo; Banco Sur; Banco Norte; Consumo Ya; Caja Campiña; Telecom Dato";;5
+450;485;2025-06-13;20287.0;7;"Consumo Ya; Telecom Dato; Banco Norte; Banco Sur; Financiera Hispalis; Caja Campiña; Préstamos Rápidos SL; Crédito Express";214.0;1
+109;258;2025-03-26;15523.0;3;"Crédito Express; Préstamos Rápidos SL; Banco Sur";411.0;3
+642;228;2025-07-30;50256.0;8;;225.0;1
+678;96;2025-01-02;62964.0;3;"Banco Norte; Financiera Hispalis; Crédito Express";;3
+686;126;2025-08-08;45303.0;6;"Crédito Express; Caja Campiña; Telecom Dato; Tarjetas Mediterráneo; Banco Sur; Consumo Ya";555.0;1
+185;329;2025-02-28;28435.0;5;"Telecom Dato; Banco Sur; Banco Norte; Seguros Atlántico; Caja Campiña";324.31;5
+90;530;2025-10-25;19084.62;5;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Crédito Express; Telecom Dato; Caja Campiña";;1
+916;639;2025-09-04;62157.0;6;"Banco Sur; Préstamos Rápidos SL; Banco Norte; Crédito Express; Caja Campiña; Consumo Ya";303.0;5
+806;275;2025-06-08;36146.0;;"Telecom Dato; Caja Campiña; Financiera Hispalis; Banco Norte";497.0;3
+105;138;2025-02-09;51289.32;3;"Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico";576.0;1
+370;595;2025-05-11;37253.0;2;"Crédito Express; Tarjetas Mediterráneo";618.0;5
+657;116;2025-07-18;41991.31;3;"Telecom Dato; Préstamos Rápidos SL; Financiera Hispalis";212.0;5
+247;13;2025-08-26;61137.87;6;"Banco Norte; Seguros Atlántico; Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Tarjetas Mediterráneo";667.0;3
+673;304;2025-09-29;42777.34;2;"Seguros Atlántico; Préstamos Rápidos SL";574.0;1
+601;538;2025-02-21;36524.0;3;"Tarjetas Mediterráneo; Banco Sur; Financiera Hispalis";661.0;1
+727;304;2025-10-20;18435.0;9;"Financiera Hispalis; Banco Sur; Banco Norte; Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Crédito Express";537.93;2
+98;202;2025-10-22;;7;"Telecom Dato; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis; Caja Campiña; Consumo Ya; Tarjetas Mediterráneo";696.49;3
+19;564;2025-04-10;63703.0;8;"Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña; Financiera Hispalis; Crédito Express; Tarjetas Mediterráneo; Telecom Dato; Banco Sur";441.0;1
+865;11;2025-06-13;22112.0;2;"Consumo Ya; Crédito Express";515.87;3
+703;389;2025-10-31;27297.0;4;"BANCO SUR; Financiera Hispalis; Crédito Express; Telecom Dato";663.0;3
+103;622;2025-06-11;54229.0;7;"Telecom Dato; Préstamos Rápidos SL; Seguros Atlántico; Financiera Hispalis; Tarjetas Mediterráneo; Crédito Express; Banco Sur";660.06;3
+457;642;2025-11-16;42231.0;6;;505.0;5
+698;191;2025-08-01;63344.0;4;"Banco Norte; Banco Sur; Crédito Express; Consumo Ya; Seguros Atlántico";694.0;5
+542;498;2025-05-05;46140.0;7;"Consumo Ya; Crédito Express; Caja Campiña; Banco Norte; Telecom Dato; Financiera Hispalis; Banco Sur";451.0;3
+963;327;2025-05-01;36283.66;6;"Tarjetas Mediterráneo; Financiera Hispalis; Seguros Atlántico; Banco Norte; Caja Campiña; Crédito Express; Consumo Ya";334.0;5
+533;409;2025-11-15;50039.21;4;"Banco Sur; Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo";438.0;5
+271;271;2025-01-12;24804.0;2;"n; d";194.0;3
+771;40;2025-07-29;36117.47;4;"Tarjetas Mediterráneo; Financiera Hispalis; Consumo Ya; Caja Campiña";617.0;1
+750;671;2025-12-07;16357.96;6;"Préstamos Rápidos SL; Crédito Express; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Banco Sur";274.0;5
+548;508;2025-04-04;48566.0;8;"Banco Sur; Seguros Atlántico; Consumo Ya; Banco Norte; Caja Campiña; Financiera Hispalis; Telecom Dato; Tarjetas Mediterráneo";397.0;5
+484;541;2025-09-13;64813.0;6;"Consumo Ya; Caja Campiña; Crédito Express; Telecom Dato; Tarjetas Mediterráneo; Financiera Hispalis";191.0;4
+145;451;2025-11-12;10455.0;2;"Caja Campiña; Tarjetas Mediterráneo";209.0;5
+416;144;2025-06-17;56889.64;3;"Telecom Dato; Seguros Atlántico; Caja Campiña";647.0;5
+46;339;2025-03-09;24400.0;8;"Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Consumo Ya; Telecom Dato; Banco Sur";531.0;5
+600;60;2025-09-07;13260.0;6;"Tarjetas Mediterráneo; Caja Campiña; Telecom Dato; Banco Norte; Crédito Express; Financiera Hispalis";684.37;1
+381;156;2025-08-09;26175.0;4;"Crédito Express; Tarjetas Mediterráneo; Financiera Hispalis; Banco Norte";163.0;1
+792;47;2025-07-02;46871.0;4;"Financiera Hispalis; Seguros Atlántico; Préstamos Rápidos SL; Caja Campiña";;4
+353;303;2025-02-27;58503.0;8;"Caja Campiña; Telecom Dato; Financiera Hispalis; Banco Norte; Banco Sur; Crédito Express; Tarjetas Mediterráneo; Préstamos Rápidos SL";182.83;1
+894;219;2025-06-07;60123.15;7;"Consumo Ya; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Préstamos Rápidos SL; Telecom Dato; Banco Norte";345.0;3
+612;595;2025-04-20;23635.01;4;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Telecom Dato; Consumo Ya";289.0;2
+699;273;2025-03-15;51280.0;2;"Banco Norte; Telecom Dato";624.0;3
+774;180;2025-06-15;32314.0;5;"PRÉSTAMOS RÁPIDOS SL; Consumo Ya; Banco Sur; Telecom Dato; Tarjetas Mediterráneo";536.0;1
+356;437;2025-07-12;37169.0;;"Banco Sur; Telecom Dato; Consumo Ya; Préstamos Rápidos SL; Caja Campiña; Crédito Express";192.0;5
+841;487;2025-05-06;31238.0;6;"Caja Campiña; Consumo Ya; Crédito Express; Seguros Atlántico; Banco Norte; Tarjetas Mediterráneo";283.0;3
+452;361;2025-09-27;30735.41;7;"Telecom Dato; Crédito Express; Seguros Atlántico; Banco Norte; Consumo Ya; Financiera Hispalis; Caja Campiña";532.0;1
+492;563;2025-07-24;45921.0;7;"Telecom Dato; Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Tarjetas Mediterráneo; Consumo Ya; Caja Campiña";;2
+456;419;2025-04-19;58541.0;7;"Seguros Atlántico; Crédito Express; Caja Campiña; Banco Sur; Préstamos Rápidos SL; Banco Norte; Financiera Hispalis";598.0;1
+328;502;2025-08-28;43158.0;4;"Crédito Express; Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL";416.5;3
+864;348;2025-10-27;24366.0;3;"Financiera Hispalis; Banco Norte; Préstamos Rápidos SL";578.0;2
+564;104;2025-01-10;37527.0;6;"Tarjetas Mediterráneo; Crédito Express; Caja Campiña; Banco Norte; Financiera Hispalis; Consumo Ya; Préstamos Rápidos SL";412.0;3
+475;570;2025-06-22;55250.0;2;"Consumo Ya; Préstamos Rápidos SL; Financiera Hispalis";156.0;1
+290;485;2025-07-10;43543.0;8;"Caja Campiña; Banco Norte; Crédito Express; Seguros Atlántico; Telecom Dato; Consumo Ya; Banco Sur; Tarjetas Mediterráneo";232.0;
+639;269;2025-08-05;62947.0;7;"Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Consumo Ya; Banco Sur";500.0;3
+620;154;2025-04-21;55622.41;3;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico";649.0;1
+550;629;2025-07-26;42271.0;7;"Consumo Ya; Seguros Atlántico; Financiera Hispalis; Telecom Dato; Banco Norte; Caja Campiña; Crédito Express";620.0;5
+732;529;2025-10-03;43346.0;;"Crédito Express; Préstamos Rápidos SL; Seguros Atlántico; Banco Norte; Financiera Hispalis";238.0;2
+689;404;2025-11-14;21173.06;5;"Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Crédito Express; Telecom Dato";358.0;5
+407;312;2025-09-15;21362.96;3;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte";541.83;1
+152;601;2025-08-15;42455.0;5;"Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Banco Sur; Caja Campiña; Banco Norte";333.0;3
+751;499;2025-10-13;59741.0;2;"Banco Norte; Banco Sur";640.0;1
+314;201;2025-05-09;30655.0;6;"BANCO NORTE; Financiera Hispalis; Caja Campiña; Tarjetas Mediterráneo; Préstamos Rápidos SL; Seguros Atlántico";526.0;2
+848;23;2025-02-24;40044.6;7;"Seguros Atlantico; Crédito Express; Financiera Hispalis; Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Caja Campiña";166.0;5
+121;382;2025-11-07;10899.0;3;"Financiera Hispalis; Crédito Express; Seguros Atlántico";253.0;4
+685;307;;56376.0;4;"Tarjetas Mediterráneo; Banco Sur; Caja Campiña; Préstamos Rápidos SL";222.75;2
+302;643;2025-11-12;60174.0;5;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Banco Norte";248.0;2
+77;413;2025-04-27;51815.0;;"Préstamos Rápidos SL; Tarjetas Mediterráneo; Banco Norte; Caja Campiña; Consumo Ya; Telecom Dato; Crédito Express";575.0;3
+992;317;2025-09-11;47511.0;4;"Banco Norte; Financiera Hispalis; Préstamos Rápidos SL; Consumo Ya";500.0;3
+633;400;2025-05-31;62237.62;;"Telecom Dato; Préstamos Rápidos SL; Consumo Ya; Banco Norte; Seguros Atlántico";359.0;1
+40;472;2030-01-01;49949.0;8;"Seguros Atlántico; Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Banco Sur; Caja Campiña; Financiera Hispalis; Consumo Ya";682.0;1
+952;413;2025-05-04;38870.0;8;"Banco Sur; Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Norte; Crédito Express; Consumo Ya; Caja Campiña";524.0;1
+425;403;2025-05-16;16971.47;2;"Tarjetas Mediterráneo; Seguros Atlántico";355.0;3
+217;456;2025-07-13;32540.89;8;"Consumo Ya; Caja Campiña; Telecom Dato; Seguros Atlántico; Banco Norte; Crédito Express; Banco Sur; Financiera Hispalis";403.0;5
+741;17;;10700.0;2;"Seguros Atlántico; Banco Sur";561.0;5
+470;519;2025-07-18;15460.0;5;"Tarjetas Mediterráneo; Telecom Dato; Consumo Ya";241.0;5
+520;601;2025-07-27;59125.0;5;"Banco Norte; Préstamos Rápidos SL; Seguros Atlántico; Banco Sur; Caja Campiña";437.0;5
+604;109;2025-06-23;61296.0;4;"Crédito Express; Banco Norte; Préstamos Rápidos SL; Banco Sur";513.0;5
+658;92;2025-10-20;53534.0;3;"CRÉDITO EXPRESS; Banco Norte; Tarjetas Mediterráneo";607.0;1
+770;383;2025-11-27;55274.0;;"Banco Norte; Caja Campiña; tarjetas mediterráneo; Consumo Ya; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Banco Sur";505.99;4
+173;563;2025-06-12;50878.0;4;"Consumo Ya; Banco Norte; Caja Campiña; Tarjetas Mediterráneo";689.0;1
+877;486;2025-05-03;12314.0;;"BANCO NORTE; Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL";210.77;3
+576;160;2025-09-27;32071.0;;"Seguros Atlántico; Banco Norte; Financiera Hispalis";349.0;4
+214;294;2025-04-13;9525.13;7;"Telecom Dato; Crédito Express; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Banco Norte; Caja Campiña";591.0;5
+605;639;2025-09-26;19139.0;;"Tarjetas Mediterráneo; Financiera Hispalis; Banco Sur; Caja Campiña; Telecom Dato; Consumo Ya; Seguros Atlántico; Banco Norte";191.0;1
+815;334;2025-09-09;27878.79;3;"n; d";443.0;3
+495;551;2025-09-08;46754.0;2;;459.79;5
+568;31;2025-05-21;41203.0;6;"Seguros Atlántico; Financiera Hispalis; Caja Campiña; banco sur; Consumo Ya; Banco Norte";187.94;5
+476;510;2025-04-23;12702.33;;"Préstamos Rápidos SL; Telecom Dato; Crédito Express; Financiera Hispalis; Seguros Atlántico; Caja Campiña";357.0;1
+803;21;2025-07-03;25813.0;8;"Consumo Ya; Telecom Dato; Préstamos Rápidos SL; Banco Sur; Seguros Atlantico; Caja Campiña; Crédito Express";;2
+624;651;;18359.0;4;"Telecom Dato; Caja Campiña; Seguros Atlántico; Banco Norte";605.0;5
+999;561;2025-06-11;53309.07;3;;243.0;5
+711;670;2025-03-03;55157.0;3;"Financiera Hispalis; Tarjetas Mediterráneo; Banco Norte";358.0;1
+634;94;;63225.0;6;"Caja Campiña; Financiera Hispalis; Tarjetas Mediterráneo; Telecom Dato; Consumo Ya; Seguros Atlántico";540.0;3
+880;680;2030-01-01;10349.0;4;"Telecom Dato; Caja Campiña; Tarjetas Mediterráneo; Crédito Express";582.5;3
+467;208;2025-12-11;43495.69;6;"Consumo Ya; Financiera Hispalis; Banco Sur; Banco Norte; Crédito Express; Telecom Dato";209.89;1
+359;340;2025-10-23;30487.0;1;"Tarjetas Mediterráneo; Crédito Express";;1
+405;501;2025-03-03;58696.55;4;"Consumo Ya; Caja Campiña; Telecom Dato; Tarjetas Mediterráneo";636.25;2
+763;377;2025-09-17;45747.0;7;"Telecom Dato; Seguros Atlántico; Crédito Express; Financiera Hispalis; Caja Campiña; Banco Sur; Préstamos Rápidos SL";155.0;1
+459;465;2025-02-07;51548.0;6;"Banco Sur; Caja Campiña; Telecom Dato; Financiera Hispalis; Banco Norte; Seguros Atlántico";681.0;1
+207;336;2025-10-15;32036.0;2;"Telecom Dato; Financiera Hispalis";320.63;1
+61;111;2025-05-05;14536.17;4;"Crédito Express; Préstamos Rápidos SL; Banco Norte; Tarjetas Mediterráneo";567.0;5
+921;54;2025-07-12;43129.0;9;"Telecom Dato; Tarjetas Mediterráneo; Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Banco Sur; Financiera Hispalis";211.02;5
+234;277;2025-05-30;48026.13;5;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Caja Campiña; Banco Sur; Crédito Express";378.0;1
+37;14;2025-09-20;15692.0;7;"Telecom Dato; Banco Norte; Caja Campiña; Banco Sur; Consumo Ya; Tarjetas Mediterráneo; Seguros Atlántico";618.0;2
+674;420;2025-07-25;23933.0;6;"Préstamos Rápidos SL; Caja Campiña; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Banco Norte";169.0;5
+4;586;2025-10-29;49532.01;4;"Caja Campiña; Banco Norte";248.0;3
+655;631;2025-08-12;19709.0;7;"Seguros Atlántico; Financiera Hispalis; Telecom Dato; Crédito Express; Banco Norte; Préstamos Rápidos SL; Consumo Ya";438.94;3
+158;618;2025-03-25;19766.0;7;"Consumo Ya; Préstamos Rápidos SL; Banco Sur; Tarjetas Mediterráneo; Financiera Hispalis; Crédito Express; Banco Norte";589.0;5
+581;403;2025-04-24;24365.34;2;"Crédito Express; Seguros Atlántico";329.0;5
+747;429;2025-02-08;;5;"Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Consumo Ya; Telecom Dato";367.0;3
+461;310;2025-04-02;24620.0;;;445.0;2
+150;274;2025-10-29;-32726.0;3;"Consumo Ya; Banco Norte; Tarjetas Mediterráneo; Caja Campiña";526.84;3
+666;247;2025-09-12;59174.0;5;"telecom dato; Crédito Express; Tarjetas Mediterráneo; Seguros Atlántico; Préstamos Rápidos SL";190.0;3
+832;642;2025-11-11;26934.0;3;"Banco Norte; Préstamos Rápidos SL; Crédito Express";665.0;5
+586;312;2025-08-23;31322.0;2;"Seguros Atlántico; Crédito Express";171.0;3
+78;56;2025-01-05;40396.57;8;"Seguros Atlántico; Crédito Express; Banco Norte; Telecom Dato; Consumo Ya; Banco Sur; Préstamos Rápidos SL; Financiera Hispalis";366.0;1
+553;541;2025-09-24;9340.0;2;"Crédito Express; Financiera Hispalis";178.25;1
+555;590;2025-11-04;;7;"Tarjetas Mediterráneo; Caja Campiña; Banco Norte; Seguros Atlántico; Consumo Ya; Préstamos Rápidos SL; Banco Sur";611.0;5
+102;23;2025-03-03;18065.0;2;"Financiera Hispalis; Banco Sur";471.97;1
+977;262;2025-03-01;53399.0;3;"Consumo Ya; Seguros Atlántico; Banco Sur";157.0;5
+125;233;2025-02-22;27975.0;6;"Financiera Hispalis; Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Préstamos Rápidos SL; Telecom Dato";655.0;
+10;76;2025-04-13;25122.34;8;"Financiera Hispalis; Banco Norte; Préstamos Rápidos SL; Banco Sur; Seguros Atlántico; Caja Campiña; Crédito Express; Consumo Ya";308.0;2
+985;169;2025-06-07;42080.0;6;"Consumo Ya; Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Telecom Dato; FINANCIERA HISPALIS";648.0;5
+71;265;;41628.81;4;"Tarjetas Mediterráneo; Crédito Express; Préstamos Rápidos SL; Seguros Atlántico";486.0;1
+252;20;2025-07-04;9500.0;4;"Banco Sur; Telecom Dato; Financiera Hispalis";422.0;1
+918;588;2024-12-08;39867.0;7;"Financiera Hispalis; Banco Norte; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña; Consumo Ya; Préstamos Rápidos SL";349.0;3
+126;434;2025-01-23;;7;"Banco Sur; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Caja Campiña; Telecom Dato; Financiera Hispalis";177.0;1
+304;552;2025-05-14;22377.0;4;"Banco Sur; Financiera Hispalis; Préstamos Rápidos SL; Caja Campiña";245.0;5
+537;262;;40953.87;8;"Seguros Atlántico; Banco Sur; Caja Campiña; Tarjetas Mediterráneo; Banco Norte; Crédito Express; Consumo Ya; Financiera Hispalis";420.0;5
+784;237;2025-07-21;60315.49;5;"Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; Tarjetas Mediterráneo; Financiera Hispalis";434.66;1
+930;179;2025-10-28;9088.81;4;"Consumo Ya; Financiera Hispalis; Caja Campiña; Préstamos Rápidos SL";203.0;5
+69;256;2025-03-25;21838.0;3;"Caja Campiña; Banco Norte; Telecom Dato";543.0;2
+883;517;2025-10-28;28485.0;8;"n; d";231.0;5
+953;309;2025-04-17;64241.0;8;"Consumo Ya; Caja Campiña; Financiera Hispalis; Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato; Banco Norte";490.0;5
+76;542;2025-02-01;43937.05;7;"Seguros Atlántico; Préstamos Rápidos SL; Crédito Express; Banco Norte; Consumo Ya; Caja Campiña; Banco Sur";546.0;5
+549;45;2025-03-01;38626.0;;"Consumo Ya; Telecom Dato; Caja Campiña";642.0;5
+904;314;2025-04-15;32470.0;6;"Caja Campiña; Tarjetas Mediterráneo; Seguros Atlántico; Financiera Hispalis; Consumo Ya; Telecom Dato; Crédito Express";425.0;2
+964;575;2025-01-08;47277.0;6;"Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Banco Sur; Telecom Dato; Banco Norte";;1
+43;268;2025-04-17;45800.0;2;"Crédito Express; Telecom Dato";331.0;1
+945;231;2025-06-17;21300.48;7;"Préstamos Rápidos SL; Consumo Ya; Seguros Atlántico; Banco Sur; Financiera Hispalis; Tarjetas Mediterráneo; Telecom Dato";388.0;1
+874;133;2025-03-09;25071.82;6;"Banco Norte; Crédito Express; Tarjetas Mediterráneo; Seguros Atlántico; Telecom Dato; Caja Campiña";634.0;
+124;596;2025-06-10;29269.9;5;"Crédito Express; Financiera Hispalis; Banco Sur; Seguros Atlántico; Tarjetas Mediterráneo";523.0;1
+554;194;;50910.0;6;"Préstamos Rápidos SL; Telecom Dato; Seguros Atlántico; Consumo Ya; Crédito Express; Caja Campiña";162.0;5
+919;612;2025-06-01;31145.0;;"Banco Norte; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Caja Campiña; Telecom Dato";657.0;5
+932;313;2025-02-17;46836.0;6;;399.0;1
+83;101;2025-11-04;49716.0;3;"Tarjetas Mediterráneo; Crédito Express; Seguros Atlántico";667.0;5
+130;1;2025-01-28;54688.0;7;"Financiera Hispalis; Seguros Atlántico; Caja Campiña; Tarjetas Mediterráneo; Banco Sur; Banco Norte; Telecom Dato";602.0;3
+908;402;2025-09-27;47896.0;7;"Tarjetas Mediterráneo; Telecom Dato; Seguros Atlántico; Préstamos Rápidos SL; Banco Sur; Banco Norte; Consumo Ya";589.0;3
+342;21;2025-06-06;41562.0;6;"Tarjetas Mediterráneo; Crédito Express; Financiera Hispalis; Banco Sur; Seguros Atlántico; Banco Norte";548.0;1
+836;304;2025-10-16;21816.19;4;"Banco Norte; Préstamos Rápidos SL; Telecom Dato; Financiera Hispalis";678.0;5
+779;411;2025-02-27;;6;"Banco Norte; Consumo Ya; Préstamos Rápidos SL; Seguros Atlántico; Crédito Express; Financiera Hispalis";352.0;1
+64;300;2025-03-03;21825.0;8;;266.0;5
+731;250;2025-02-13;51662.0;3;"Financiera Hispalis; Banco Norte; Caja Campiña";366.0;5
+235;470;2025-10-18;53942.0;4;;683.0;1
+327;540;2025-02-03;0.0;2;"Seguros Atlántico; Caja Campiña";563.0;5
+966;291;2025-08-31;18204.0;4;"Consumo Ya; Seguros Atlántico";233.46;3
+809;106;2025-10-09;60489.0;6;"Financiera Hispalis; Consumo Ya; Tarjetas Mediterráneo; Caja Campiña; Seguros Atlántico; Banco Norte";480.31;2
+120;592;2025-11-17;25198.0;3;"Seguros Atlántico; Banco Norte; Crédito Express";344.8;5
+847;349;2025-04-09;17321.0;6;"Caja Campiña; Consumo Ya; Banco Sur; Seguros Atlántico; Banco Norte; Tarjetas Mediterráneo; Financiera Hispalis";586.0;1
+539;260;2025-07-01;0.0;7;"Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Financiera Hispalis; Banco Norte; Seguros Atlántico; Banco Sur";219.0;1
+307;426;2024-12-30;29127.0;4;"Consumo Ya; Banco Sur; Telecom Dato; Banco Norte";498.0;4
+58;303;2025-02-18;22885.5;6;"Tarjetas Mediterráneo; Financiera Hispalis; Consumo Ya; Seguros Atlántico; Préstamos Rápidos SL; Banco Norte";348.0;1
+556;209;2025-03-21;43529.0;3;"Banco Sur; Caja Campiña; Tarjetas Mediterráneo";305.0;5
+285;69;2025-02-16;33934.0;5;"Consumo Ya; crédito express; Seguros Atlántico; Tarjetas Mediterráneo; Telecom Dato";298.0;3
+598;137;2025-08-15;10021.0;2;"Banco Norte; Seguros Atlántico";620.0;5
+320;64;2025-11-10;9141.07;2;"Telecom Dato; Seguros Atlántico";;1
+323;145;2025-11-07;30014.0;6;"Tarjetas Mediterráneo; Banco Sur; Crédito Express; Banco Norte; Caja Campiña; Financiera Hispalis";534.0;3
+128;258;2025-03-03;33642.0;;"Financiera Hispalis; Telecom Dato; Crédito Express; Préstamos Rápidos SL";335.0;5
+195;75;2025-09-19;47003.0;4;"Caja Campiña; Financiera Hispalis; Tarjetas Mediterráneo; Telecom Dato";183.0;2
+593;170;2025-01-24;59338.0;3;"Seguros Atlántico; Financiera Hispalis; Consumo Ya";355.0;1
+63;59;2025-09-02;37302.0;;"Banco Norte; Financiera Hispalis; Telecom Dato; Crédito Express; Tarjetas Mediterráneo; Seguros Atlántico; Caja Campiña";385.0;5
+434;72;2025-03-31;33827.0;6;;264.0;1
+486;561;;49044.0;7;"Financiera Hispalis; Telecom Dato; Banco Sur; Consumo Ya; Seguros Atlántico; Crédito Express; Caja Campiña";403.0;5
+198;186;2025-06-14;51985.0;6;"Consumo Ya; Crédito Express; Telecom Dato; Seguros Atlántico; Financiera Hispalis; Caja Campiña";;1
+940;520;2025-08-16;33482.0;2;"Banco Norte; Préstamos Rápidos SL";665.0;5
+627;338;2025-04-23;47322.03;8;"Seguros Atlántico; Tarjetas Mediterráneo; Préstamos Rápidos SL; Crédito Express; Caja Campiña; Banco Sur; Telecom Dato; Consumo Ya";441.0;1
+343;619;2025-01-19;54307.0;2;"Banco Sur; Financiera Hispalis";594.0;3
+474;404;2025-10-20;62092.0;3;"Caja Campiña; Banco Norte; Consumo Ya";152.0;1
+528;388;2025-09-09;63763.0;6;"Caja Campiña; Préstamos Rápidos SL; Banco Norte; Consumo Ya; Seguros Atlántico; Crédito Express";156.6;1
+411;636;2025-07-27;21803.25;;"BANCO NORTE; Financiera Hispalis";;5
+638;465;2025-02-09;64421.08;8;"Caja Campiña; Telecom Dato; Seguros Atlántico; Tarjetas Mediterráneo; Banco Norte; Consumo Ya; Banco Sur; Préstamos Rápidos SL";376.0;5
+902;176;2025-07-04;63088.0;5;"Financiera Hispalis; Tarjetas Mediterráneo; Banco Norte; Caja Campiña; Consumo Ya";541.0;5
+988;25;2025-09-20;54646.0;2;"Caja Campiña; Telecom Dato";506.0;1
+205;537;2025-06-24;19892.0;7;"Consumo Ya; Crédito Express; Banco Norte; Financiera Hispalis; Seguros Atlántico; Banco Sur; Tarjetas Mediterráneo; Telecom Dato";;
+325;23;2025-04-21;61119.85;6;"Banco Sur; Caja Campiña; Telecom Dato; Banco Norte; Crédito Express; Seguros Atlántico";395.0;1
+623;125;2025-10-21;30513.81;8;"Consumo Ya; Seguros Atlantico; Telecom Dato; Banco Sur; Crédito Express; Caja Campiña; Préstamos Rápidos SL; Financiera Hispalis";167.0;2
+496;132;2025-07-24;59980.0;2;"Financiera Hispalis; Banco Sur";640.0;5
+27;308;2025-06-23;39827.0;;"Caja Campiña; Crédito Express; Consumo Ya; Seguros Atlántico; Banco Norte; Tarjetas Mediterráneo; Préstamos Rápidos SL; Banco Sur";683.0;2
+514;122;2025-08-21;42768.3;4;"Tarjetas Mediterráneo; Crédito Express; Banco Norte; Caja Campiña";308.0;1
+319;39;2025-05-11;31650.0;2;"Financiera Hispalis; Seguros Atlántico";;1
+849;135;2025-10-14;45720.0;2;"Préstamos Rápidos SL; Telecom Dato";369.0;1
+619;330;2025-07-08;34770.07;4;"Crédito Express; Tarjetas Mediterráneo; Banco Norte; Consumo Ya";557.4;5
+228;127;2025-02-20;45651.35;6;;348.0;5
+714;297;2025-09-17;47639.0;4;"Telecom Dato; Seguros Atlántico; Caja Campiña; Financiera Hispalis";483.0;1
+907;219;2025-06-13;41004.0;4;"Tarjetas Mediterráneo; Seguros Atlántico; Banco Sur; Crédito Express";216.0;5

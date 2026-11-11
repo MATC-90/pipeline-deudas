@@ -1,18 +1,20 @@
 # Pipeline Deudas 💶
 
-Proyecto individual de limpieza y transformación de datos (EDA y ETL) sobre un dataset ficticio de una empresa de gestión de deudas, con tres tablas: clientes, expedientes y oficinas. Los datos crudos tienen problemas de calidad típicos (formatos mezclados, duplicados, nulos escritos como texto, filas basura) y el objetivo es dejarlos limpios y coherentes entre sí para cargarlos después en una base de datos relacional y analizarlos con SQL.
+Proyecto individual de limpieza, transformación y carga de datos (EDA y ETL) sobre un dataset ficticio de una empresa de gestión de deudas, con tres tablas: clientes, expedientes y oficinas. Los datos crudos tienen problemas de calidad típicos (formatos mezclados, duplicados, nulos escritos como texto, filas basura) y el objetivo es dejarlos limpios y coherentes entre sí, cargarlos en una base de datos relacional en MySQL y analizarlos con SQL.
 
 Todos los datos son ficticios. No hay información real de personas.
 
 ## Tech Stack 🔧
 
-Python · Jupyter Notebook · pandas · numpy
+Python · Jupyter Notebook · pandas · numpy · MySQL
 
 Librerías usadas:
 
 - `pandas`: lectura, limpieza y transformación de los datos
 - `numpy`: manejo de valores nulos
 - `pathlib`: rutas de entrada y salida de los archivos
+- `mysql-connector-python`: conexión con MySQL y carga de los datos
+- `python-dotenv`: variables de entorno (contraseña de MySQL fuera del código)
 
 ## Project Structure 🧬
 
@@ -23,14 +25,28 @@ raw/
 └── oficinas_raw.csv           — Datos crudos de oficinas
 
 clean/
-├── clientes_clean.csv         — Clientes limpios
-├── expedientes_clean.csv      — Expedientes limpios
-└── oficinas_clean.csv         — Oficinas limpias
+├── clientes_clean.csv         — Clientes limpios (resultado del EDA)
+├── expedientes_clean.csv      — Expedientes limpios (resultado del EDA)
+├── oficinas_clean.csv         — Oficinas limpias (resultado del EDA)
+├── clientes_ETL.csv           — Clientes listos para cargar (resultado del ETL)
+├── expedientes_ETL.csv        — Expedientes listos para cargar (resultado del ETL)
+├── oficinas_ETL.csv           — Oficinas listas para cargar (resultado del ETL)
+├── canales_ETL.csv            — Tabla maestra de canales de captación
+└── estados_ETL.csv            — Tabla maestra de estados del expediente
 
 jupyter/
 └── EDA.ipynb                  — Exploración y limpieza completa de las tres tablas
 
+src/
+├── db.py                      — Nombre de la base de datos y esquemas de las tablas
+├── extraccion.py              — Lectura de los CSV en bruto
+├── transformacion.py          — Funciones de limpieza y transformación relacional
+└── funciones.py               — Funciones de conexión, creación de tablas y carga en MySQL
+
+main.py                        — Script principal: ejecuta el ETL completo
 generar_datos_sucios.py        — Script que genera los datos ficticios con errores
+requirements.txt
+.env.example                   — Plantilla de variables de entorno
 README.md
 ```
 
@@ -77,7 +93,7 @@ Una función por columna, cada una con su propia regex y sus condiciones.
 *Expedientes*
 
 - Nombres de columnas renombrados al mismo estilo que clientes (`EXPEDIENTE-ID` pasa a `ExpedienteId`).
-- `ExpedienteId` y `ClienteId`: sin prefijo y en entero. `ClienteId` admite nulos, y solo se eliminan las filas sin `ExpedienteId` válido.
+- `ExpedienteId` y `ClienteId`: sin prefijo y en entero. Se eliminan las filas sin `ExpedienteId` válido.
 - `FechaApertura`, `DeudaTotal` y `CuotaMensualPropuesta`: las mismas reglas de fechas e importes que en clientes.
 - `NumAcreedores`: entero con nulos.
 - `Acreedores`: separador unificado en `; ` (había `;`, `,`, `/`, `|` y la palabra "y").
@@ -90,13 +106,42 @@ Una función por columna, cada una con su propia regex y sus condiciones.
 - `NombreOficina`: formato título y `Malaga` corregido a `Málaga`.
 - Fechas con las mismas reglas que en el resto de tablas.
 
-**Fase 4 — Comprobaciones y exportación**
+**Fase 4 — Comprobaciones y exportación** (`jupyter/EDA.ipynb`)
 
 - Comparación de `NumAcreedores` con los acreedores que aparecen en la lista.
 - Expedientes cuyo `ClienteId` no existe en la tabla de clientes.
 - Comprobación de `ClienteId` y `ExpedienteId` repetidos.
 - Porcentaje de nulos por columna.
 - Exportación de las tres tablas a `clean/` con separador `;` y codificación UTF-8.
+
+**Fase 5 — Pipeline ETL** (`main.py` y `src/`)
+
+Las funciones de limpieza del EDA se pasan a módulos reutilizables y `main.py` ejecuta el proceso completo en tres pasos:
+
+- *Extracción* (`extraccion.py`): lee los tres CSV en bruto como texto, con el separador y la codificación de cada uno.
+- *Transformación* (`transformacion.py`): aplica la limpieza de cada tabla, elimina los registros que romperían la integridad referencial y construye las tablas maestras `canales` y `estados` con sus identificadores. Los textos se sustituyen por claves foráneas (`canal_id`, `oficina_id`, `estado_id`) y las columnas finales pasan a `snake_case`. El resultado se guarda en `clean/` con el sufijo `_ETL`.
+- *Carga* (`funciones.py` y `db.py`): crea la base de datos `deuda_analytics` y las cinco tablas con claves primarias y foráneas, e inserta los datos en MySQL.
+
+## Modelo de datos 🗂️
+
+```
+oficinas (oficina_id PK, nombre_oficina, responsable, objetivo_conversion_pct, fecha_apertura_oficina)
+canales (canal_id PK, canal_nombre)
+estados (estado_id PK, estado_nombre)
+
+clientes (cliente_id PK, nombre_completo, fecha_entrada, canal_id FK, oficina_id FK,
+          codigo_postal, email, telefono, ingresos_mensuales, tiene_aval)
+
+expedientes (expediente_id PK, cliente_id FK, fecha_apertura, deuda_total, num_acreedores,
+             acreedores, cuota_mensual_propuesta, estado_id FK)
+```
+
+Relaciones:
+
+- `expedientes.cliente_id` → `clientes.cliente_id` (un cliente puede tener varios expedientes)
+- `clientes.canal_id` → `canales.canal_id`
+- `clientes.oficina_id` → `oficinas.oficina_id`
+- `expedientes.estado_id` → `estados.estado_id`
 
 ## Decisiones y supuestos 📝
 
@@ -109,12 +154,18 @@ Algunas decisiones no se pueden comprobar con los datos y son supuestos:
 - **Estados de expediente:** `Activo`, `Estudio`, `Cancelado` y `Aceptado` se tratan como versiones recortadas del estado completo.
 - **Canal de captación:** `Rrss` se interpreta como Redes Sociales.
 - **Oficinas:** `Málaga` aparecía duplicada (idéntica) y se elimina. `Sevilla` aparece con dos responsables distintos y se conserva la primera fila.
-- **Expedientes sin cliente:** se mantienen, con `ClienteId` nulo, y quedan documentados.
+- **ExpedienteId repetidos:** se conserva la primera aparición.
+- **Expedientes sin cliente:** se eliminan en el ETL (clave foránea obligatoria en la base de datos). En el EDA se mantenían con `ClienteId` nulo.
 
-## Relaciones entre tablas
+## Limitaciones conocidas ⚠️
 
-- `expedientes.ClienteId` → `clientes.ClienteId`
-- `clientes.DepartamentoOficina` → `oficinas.NombreOficina`
+Casos detectados que todavía no se tratan en la limpieza:
+
+- Deudas y cuotas a cero o negativas, y valores extremos (por ejemplo, deudas de 9.999.999 €).
+- Fechas de apertura en el futuro o anteriores a la fecha de entrada del cliente.
+- `NumAcreedores` que no coincide con el número de acreedores de la lista.
+- Nombres de acreedores con mayúsculas, tildes o espacios distintos.
+- Expedientes con estado nulo.
 
 ## Getting Started ▶️
 
@@ -127,7 +178,7 @@ git clone https://github.com/MATC-90/Pipeline_deudas.git
 Instalar las librerías:
 
 ```
-pip install pandas numpy jupyter
+pip install -r requirements.txt
 ```
 
 Generar los datos crudos:
@@ -136,12 +187,20 @@ Generar los datos crudos:
 python generar_datos_sucios.py
 ```
 
-Ejecutar el notebook:
+Configurar la contraseña de MySQL: copiar `.env.example` a `.env` y escribir la contraseña en la variable `PASS_SQL`.
 
-Abrir `jupyter/EDA.ipynb` y ejecutarlo de arriba abajo. Lee los datos de `raw/` y genera los tres CSV limpios en `clean/`. Las rutas son relativas, así que el notebook debe abrirse desde la carpeta `jupyter/`.
+Con el servidor de MySQL en marcha, ejecutar el pipeline desde la carpeta del proyecto:
+
+```
+python main.py
+```
+
+Esto lee los CSV de `raw/`, guarda los datos transformados en `clean/` y crea y rellena la base de datos `deuda_analytics`.
+
+Para ver la exploración y la limpieza paso a paso, abrir `jupyter/EDA.ipynb` y ejecutarlo de arriba abajo. Las rutas son relativas, así que el notebook debe abrirse desde la carpeta `jupyter/`.
 
 ## Próximos pasos 🚧
 
-- Crear las tablas en PostgreSQL y cargar los CSV limpios.
-- Escribir consultas SQL sobre los datos (joins, agregaciones y funciones de ventana).
-- Decidir cómo resolver los casos pendientes (oficina de Sevilla, expedientes sin cliente).
+- Escribir consultas SQL sobre la base de datos (joins, agregaciones y funciones de ventana).
+- Resolver los casos de las limitaciones conocidas.
+- Replicar el proyecto en PostgreSQL.

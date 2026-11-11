@@ -1,0 +1,801 @@
+cliente_id;nombre_completo;fecha_entrada;canal_id;oficina_id;codigo_postal;email;telefono;ingresos_mensuales;tiene_aval
+614;Domínguez Gómez, Francisco;2025-04-26;2;4;46887;f.dominguez63@example.com;672949241;2141.38;True
+392;Marta García Pérez;2025-02-23;3;2;28971;m.garcia68@example.org;686083774;;False
+82;María Díaz López;2025-05-12;4;5;29178;m.diaz3@example.com;623559456;1101.0;
+476;Torres Navarro, Ana;2025-08-24;1;4;46608;a.torres36@example.org;638182902;2773.0;True
+449;Díaz Romero Lucía;2025-06-06;5;2;28834;l.diaz8@example.org;;2975.06;True
+11;Francisco Moreno García;2025-06-07;1;1;41601;;647994956;3225.0;False
+248;Torres Domínguez, David;2025-05-05;4;4;46242;d.torres70@example.org;686470422;2017.0;True
+357;David Gil López;2025-02-15;1;1;08559;d.gil64@example.com;671285407;1960.0;False
+388;Antonio López Gil;2025-09-07;2;3;08336;a.lopez56@example.com;666711587;2483.0;False
+122;Torres Sánchez Antonio;2025-07-20;5;3;08707;a.torres70@example.org;695427960;3038.54;True
+452;Sánchez Martínez, Manuel;2025-10-05;1;3;08419;m.sanchez82@example.org;610543900;1815.0;True
+237;López Jiménez, Manuel;2025-07-18;1;;29070;m.lopez38@example.org;648563483;121.0;True
+29;Lucía Ruiz Díaz;;5;5;41654;l.ruiz16@example.org;693824799;1583.0;False
+579;Moreno Gómez, Manuel;2025-09-26;4;3;08529;m.moreno92@example.org;602702795;;True
+295;Pablo Romero Martínez;2025-06-13;;2;28384;p.romero28@example.org;641186558;;False
+489;Pablo Gómez Moreno;2025-08-18;3;1;41820;;672550481;2503.0;True
+633;José Sánchez Navarro;2025-05-11;1;1;41278;j.sanchez88@example.org;661104711;913.0;False
+355;Ana Navarro Pérez;2025-10-18;3;2;28113;a.navarro81@example.com;652364494;1644.0;
+200;Pérez Jiménez, Javier;2025-10-16;1;3;08009;j.perez26@example.org;677822547;2867.0;
+473;Lucía López Gómez;2025-05-10;3;5;29103;l.lopez48@example.com;684879756;3374.0;True
+676;Gil Moreno, José;2025-08-06;3;2;28798;j.gil91@example.com;;;False
+586;Pablo García Gómez;2025-10-05;1;2;28410;p.garcia6@example.org;686336650;2479.0;False
+52;Pedro Moreno Romero;2025-02-28;1;5;29029;p.moreno50@example.org;631568902;3468.0;True
+66;Pedro Jiménez Moreno;2025-04-08;2;4;46317;;637655130;975.12;True
+563;Ana Sánchez Torres;2025-05-28;4;2;28857;a.sanchez76@example.com;686555870;1471.0;False
+331;Lucía Moreno Gómez;2025-06-14;2;3;08667;;675730776;1405.19;True
+647;Francisco Moreno Jiménez;2025-05-19;2;5;29918;f.moreno85@example.com;606039064;1271.0;False
+28;Sánchez Torres, Antonio;2025-09-04;1;5;29012;a.sanchez32@example.com;691353720;2320.0;True
+595;Domínguez Ruiz, José;2025-04-07;5;2;28644;j.dominguez5@example.org;619397229;2463.22;True
+412;Ana Martínez Gil;2025-03-10;5;4;46977;a.martinez40@example.org;;1535.0;
+592;Antonio Domínguez;2025-09-28;5;3;;a.dominguez92@example.org;668961215;1938.0;False
+193;Ana Gómez;2025-07-02;4;1;41841;a.gomez81@example.com;693866387;131.45;
+145;Lucía Gómez Martínez;2025-10-25;3;1;;;696707378;1201.0;False
+62;Francisco Pérez Martínez;2025-08-12;4;5;29169;f.perez26@example.org;627795081;1278.15;False
+684;José García Domínguez;2025-10-15;1;1;41521;j.garcia49@example.com;685447233;1616.0;False
+583;Ana Ruiz Ruiz;2025-02-02;3;2;28326;a.ruiz8@example.org;688319512;;True
+654;Carmen Torres Navarro;2025-08-30;2;2;28413;;665320590;349.0;
+210;Manuel Jiménez Pérez;2025-08-22;3;3;08445;m.jimenez72@example.com;632961811;2142.29;False
+334;Manuel Martínez Pérez;2025-09-06;4;4;41927;m.martinez41@example.org;629237257;2052.0;True
+438;Ana Jiménez Ruiz;2025-10-06;3;1;41081;a.jimenez70@example.com;603283443;1451.21;
+158;Lucía Jiménez Sánchez;2025-06-17;3;4;46402;l.jimenez76@example.org;;;False
+202;José López Ruiz;2025-09-30;3;4;46240;j.lopez66@example.org;609413962;1349.0;True
+507;Manuel Moreno Gil;2025-06-09;3;2;28416;m.moreno12@example.org;626131500;285.0;False
+379;López Domínguez, Francisco;2025-04-24;1;2;28657;;674711412;2312.0;False
+408;Moreno Ruiz, Javier;2025-02-13;3;4;46927;j.moreno56@example.org;644369785;703.0;False
+109;Pedro Martínez Sánchez;2025-05-22;1;2;28944;p.martinez87@example.org;608214396;3314.0;False
+760;Torres Moreno Marta;2025-08-07;5;5;28424;m.torres36@example.com;637697378;2671.0;False
+638;Elena Pérez Domínguez;2025-03-31;3;4;46567;e.perez83@example.org;660628786;;True
+683;Carmen Torres;2025-10-15;3;2;28630;c.torres75@example.org;693813815;;True
+769;María Moreno;2025-02-11;3;;29040;m.moreno82@example.org;610342141;1072.0;True
+156;José Gómez Romero;2025-07-18;5;4;46370;j.gomez71@example.org;615222300;247.0;False
+350;Pablo Romero Ruiz;2025-02-19;5;5;29744;p.romero24@example.com;631333651;1426.0;False
+650;Ana Pérez Pérez;2025-09-12;1;1;41624;a.perez88@example.com;632065647;468.0;False
+138;Javier Jiménez Gil;2025-01-10;1;1;41364;j.jimenez74@example.org;655308817;;True
+455;José Martínez García;2025-06-29;1;4;08987;j.martinez16@example.com;680927676;421.0;
+238;Francisco López Jiménez;2025-05-10;3;1;41060;f.lopez96@example.org;653325133;1840.0;False
+631;Marta Gómez Torres;2025-08-10;2;3;;m.gomez68@example.org;622860632;645.19;False
+49;Martínez Romero, Laura;2025-07-23;1;5;29798;l.martinez71@example.org;652288379;2848.7;False
+291;Torres López, Carmen;2025-08-31;1;3;08737;c.torres94@example.com;607095912;1043.0;True
+363;Carmen Romero Gómez;2025-03-09;5;5;29279;c.romero82@example.org;626497159;3319.12;False
+675;Ana Pérez;2025-07-06;3;5;29524;a.perez65@example.com;646816040;271.0;
+102;García Torres, María;2025-03-01;1;1;41015;m.garcia16@example.com;664764021;;True
+124;Díaz Torres, Francisco;2025-05-22;3;1;41939;f.diaz3@example.org;644187802;25.0;True
+325;Gómez Gil, Manuel;2025-10-20;3;5;29860;m.gomez64@example.com;607628121;1998.91;True
+500;Manuel Pérez Moreno;2025-05-08;3;1;41491;m.perez36@example.com;677575335;1311.0;True
+522;García Sánchez, Carmen;2025-02-13;3;2;28613;c.garcia8@example.com;;601.0;True
+59;Laura Jiménez Gómez;2025-08-12;3;4;46979;l.jimenez31@example.org;;364.0;False
+727;Lucía Gómez Gil;2025-08-05;3;2;28173;l.gomez34@example.com;600980095;2196.0;False
+42;Torres Navarro Laura;2025-08-16;4;4;;l.torres57@example.com;699141099;1745.0;True
+178;Carmen López Díaz;2025-02-18;3;3;08738;c.lopez82@example.com;;131.0;True
+712;Torres Torres Laura;2025-06-06;1;2;28173;l.torres97@example.com;660174270;2095.21;False
+465;Pedro Martínez Pérez;2025-01-02;3;2;28735;;636560522;3192.0;
+46;Gómez Moreno, Pedro;2025-10-19;5;1;41352;p.gomez26@example.org;691193028;580.0;True
+410;Carmen Sánchez;2025-01-05;3;5;;c.sanchez93@example.com;653093695;1665.0;
+86;Manuel Ruiz Pérez;2025-07-30;3;4;46699;m.ruiz59@example.org;671008318;705.0;True
+750;Pablo Romero Díaz;2025-02-17;1;1;41805;p.romero42@example.com;648118840;1281.0;True
+569;Martínez Gil, Javier;2025-07-12;1;5;08510;j.martinez27@example.com;638144635;3216.0;True
+81;Ana Díaz;2025-10-10;3;1;41524;a.diaz22@example.com;620243133;2876.0;True
+324;José Gómez Pérez;2025-10-02;1;2;28637;j.gomez53@example.org;;269.0;
+230;Lucía Gómez;2025-02-23;3;2;28898;l.gomez12@example.org;647575667;1515.92;False
+176;Pedro Gil García;2025-05-19;4;2;28681;p.gil46@example.org;642336005;2552.0;True
+451;Lucía Torres Jiménez;2025-10-16;1;2;28956;l.torres15@example.com;664899969;;True
+596;Javier Ruiz Navarro;2025-08-29;1;;08046;j.ruiz61@example.com;695338676;700.0;False
+568;Díaz Martínez, Laura;2025-03-16;1;3;08184;l.diaz14@example.org;625281418;2895.0;True
+304;Moreno Díaz, José;2025-09-26;5;1;41681;;626392862;778.0;False
+640;Javier Pérez Martínez;2025-10-12;2;5;28677;j.perez38@example.org;667852711;849.0;True
+713;Ana Ruiz;2025-08-07;4;4;46664;a.ruiz63@example.com;637096988;382.0;
+613;Lucía Moreno;2025-08-24;5;2;28893;l.moreno38@example.com;648800340;3131.0;False
+104;Pérez López, Manuel;2025-01-03;3;5;46889;m.perez44@example.org;604236865;826.0;True
+207;Lucía Navarro Sánchez;2025-08-18;2;5;29653;l.navarro58@example.com;600400118;671.0;False
+564;María Jiménez López;2025-02-24;1;2;28876;m.jimenez37@example.org;639336857;2080.0;True
+693;Manuel Gil Díaz;2025-10-07;4;1;41138;m.gil35@example.com;636274928;;True
+590;Elena Jiménez López;2025-09-11;1;5;29034;e.jimenez31@example.org;694206806;1196.0;False
+797;Javier Domínguez;2025-10-18;1;4;46370;j.dominguez62@example.com;628183299;1474.31;True
+786;Pedro Jiménez Jiménez;2025-06-26;2;2;28991;p.jimenez24@example.com;654779320;1706.0;False
+195;Domínguez Romero David;2025-10-15;2;;08248;d.dominguez37@example.com;685706657;1435.18;False
+74;Pablo Díaz Romero;2025-02-08;3;1;41026;;660056972;3024.0;True
+323;Ruiz Sánchez Manuel;2025-07-04;5;2;28720;m.ruiz17@example.com;643689486;3327.84;
+698;Elena Pérez Torres;2025-06-27;4;4;28244;e.perez85@example.com;604528624;402.81;False
+79;Martínez Torres, Antonio;2025-06-19;4;3;08579;;641443677;1739.0;False
+196;Sánchez Gómez, David;2025-01-27;3;4;46096;d.sanchez52@example.com;668336652;1319.0;False
+340;Marta Torres Pérez;2025-10-13;4;3;08139;m.torres53@example.org;;2750.74;True
+164;Sánchez Pérez Marta;2025-05-02;1;2;28621;m.sanchez47@example.org;;2922.0;False
+125;Ana Jiménez Martínez;2025-09-14;1;2;28589;a.jimenez9@example.com;605844241;3490.0;True
+643;Javier Domínguez Sánchez;2025-09-14;1;5;29524;j.dominguez5@example.com;615466581;1053.0;True
+697;David García García;2025-08-05;5;3;08146;d.garcia16@example.org;610419583;2344.56;True
+47;David Domínguez Díaz;2025-05-14;3;1;41753;d.dominguez9@example.org;694486547;2331.0;False
+5;Díaz Romero, Manuel;2025-05-10;1;4;;m.diaz50@example.org;;2526.0;False
+330;Romero Díaz, Marta;2025-06-16;2;4;46531;m.romero13@example.com;676031500;2627.46;True
+191;Pablo López Navarro;2025-07-25;4;2;28322;p.lopez75@example.com;609878769;2382.0;True
+382;Gil Romero David;2025-10-09;1;5;29995;d.gil41@example.com;644085945;;False
+103;Javier Sánchez García;2025-08-30;1;2;28557;j.sanchez31@example.com;602168867;947.0;True
+240;Lucía Romero Pérez;2025-07-08;1;5;29719;l.romero38@example.org;665605046;2500.2;False
+618;Pedro Díaz Ruiz;2025-03-21;3;3;08753;p.diaz44@example.com;668406950;3207.56;False
+271;Laura Gómez Moreno;2025-03-30;5;4;46538;l.gomez47@example.org;622416792;1687.39;False
+127;Pablo López Jiménez;2025-01-24;1;3;08511;p.lopez93@example.org;646020907;820.03;True
+147;Lucía Martínez Ruiz;2025-01-11;4;5;29949;l.martinez53@example.org;672570623;286.0;True
+470;Moreno López Pablo;2025-10-07;3;1;;p.moreno89@example.org;618831705;1011.0;False
+347;Ana Gómez Navarro;2025-10-25;4;3;08819;a.gomez46@example.org;;460.0;False
+537;Pablo Jiménez;2025-05-17;1;4;46794;p.jimenez1@example.com;615026170;1240.0;False
+217;Elena Romero Pérez;2025-01-24;4;2;28901;e.romero46@example.com;615752923;460.0;False
+244;Manuel Ruiz Díaz;2025-07-14;4;2;28142;m.ruiz28@example.org;646655635;;True
+622;Díaz Torres, Manuel;2025-05-24;3;5;29756;m.diaz89@example.com;673384073;2476.0;False
+761;Ruiz Jiménez, Laura;2025-02-22;2;2;28720;l.ruiz28@example.org;641963809;3405.0;True
+736;Díaz Romero, Elena;2025-07-21;3;1;41294;e.diaz65@example.com;;1966.09;True
+92;Elena Gil Martínez;2025-08-30;2;4;46625;e.gil88@example.com;653184277;3202.0;False
+87;Sánchez Ruiz, Elena;2025-01-30;3;1;;e.sanchez35@example.com;677070633;1433.26;
+386;Díaz Sánchez, Ana;2025-02-06;5;2;28750;a.diaz55@example.org;600197660;717.0;True
+543;Javier Díaz Romero;2025-02-28;3;;41871;j.diaz59@example.org;602739347;2308.42;True
+646;Domínguez Gil, José;2025-04-09;3;1;41388;j.dominguez49@example.com;670058953;1937.0;True
+247;Lucía Domínguez;2025-08-16;1;2;28706;l.dominguez31@example.org;629526660;2478.0;
+544;Manuel Pérez Martínez;2025-02-22;3;3;08096;m.perez48@example.org;610720812;2898.0;True
+17;José Martínez;2025-06-03;5;1;41196;j.martinez81@example.com;625039595;273.0;True
+135;Francisco Navarro Jiménez;2025-08-27;4;3;08859;f.navarro1@example.com;674813713;1051.0;True
+637;Moreno Sánchez Marta;2025-03-12;1;3;08088;m.moreno54@example.org;;566.24;False
+236;García Martínez Elena;2025-08-04;4;4;46556;e.garcia88@example.com;647341475;1604.0;True
+669;Pablo Navarro Jiménez;2025-10-03;4;4;46736;p.navarro15@example.org;691731258;1718.0;True
+459;Laura Gil;2025-09-10;3;;08301;l.gil27@example.org;675759476;1070.0;False
+738;Laura Torres Torres;2025-04-11;4;1;41249;l.torres33@example.com;664686489;650.0;False
+535;López Pérez Carmen;2025-06-23;2;3;08700;c.lopez31@example.org;;2718.0;
+781;Antonio Díaz Gil;2025-09-21;5;2;28905;a.diaz7@example.com;;1820.0;True
+264;Marta Gil Jiménez;2025-10-05;4;4;46477;m.gil68@example.org;692476189;442.0;True
+784;Lucía López Gil;2025-02-06;1;3;08146;l.lopez57@example.com;637095663;1404.0;False
+695;García Gil, David;2025-01-28;3;3;08988;d.garcia83@example.org;677328245;1159.0;True
+265;Ana García Gil;2025-10-24;1;4;28428;a.garcia66@example.com;670439987;740.0;True
+601;Romero López, Francisco;2025-07-04;3;5;29241;f.romero52@example.com;;;False
+515;Carmen Ruiz Martínez;2025-10-15;1;5;29876;c.ruiz24@example.com;642864561;1032.0;True
+779;José Gil García;2025-03-23;2;1;41016;j.gil54@example.org;694812678;932.43;True
+657;Gil Díaz, Pedro;2025-08-18;1;5;41580;p.gil63@example.org;696814428;;False
+778;López Sánchez, José;2025-02-05;5;4;46831;j.lopez31@example.com;666933585;1228.0;True
+391;Sánchez Jiménez, Ana;2025-08-13;3;3;08316;a.sanchez31@example.org;691695938;2183.19;True
+791;Jiménez Navarro, María;2025-01-29;1;4;46664;m.jimenez36@example.org;622505891;;True
+348;Manuel Gil Díaz;2025-10-08;5;4;41364;m.gil25@example.org;697325438;1517.0;False
+454;David Romero Martínez;2025-01-08;4;4;46445;;677848856;2004.0;True
+724;Elena Moreno;2025-02-05;4;1;41405;e.moreno53@example.com;663089034;1003.0;True
+239;Elena Pérez Domínguez;2025-04-03;3;3;08359;e.perez88@example.com;;1219.77;False
+40;Carmen Romero Moreno;2025-07-09;3;5;29285;c.romero83@example.org;;2121.0;
+450;Torres Torres, Pablo;2025-03-27;2;5;29444;p.torres25@example.org;698501294;1220.0;True
+32;Jiménez Ruiz Ana;2025-03-10;3;2;28648;a.jimenez74@example.org;680572187;715.0;False
+557;Ana Martínez López;2025-08-09;3;2;28297;a.martinez40@example.org;;3125.0;False
+198;Javier Pérez Moreno;2025-02-05;1;2;28281;j.perez12@example.com;615641079;1723.0;False
+655;Elena Gómez Gil;2025-06-15;1;3;08962;e.gomez75@example.com;619192425;3371.0;True
+215;Díaz Moreno, Pedro;2025-08-10;1;3;08238;p.diaz3@example.com;;1502.0;False
+519;Domínguez Martínez, María;2025-05-23;4;3;08539;m.dominguez72@example.org;645262916;3222.0;
+113;Gómez Navarro, Antonio;2025-06-16;2;2;28821;a.gomez63@example.org;616388530;1681.0;True
+181;Díaz Jiménez, Marta;2025-10-09;2;3;08591;m.diaz12@example.com;680144871;385.0;True
+133;David Ruiz Jiménez;2025-01-28;3;2;29923;d.ruiz41@example.com;698151369;;False
+96;Francisco Romero Domínguez;2025-03-28;5;;46969;f.romero22@example.com;;2137.0;
+400;Romero Ruiz, María;2025-04-04;4;4;46074;;667747876;1171.0;False
+212;Ruiz Sánchez, Elena;2025-08-04;3;4;46811;e.ruiz98@example.org;;918.89;False
+256;Carmen Pérez Gil;2025-02-13;4;5;29130;c.perez98@example.org;644394469;814.56;
+469;Ana García Gil;2025-02-24;3;5;29983;a.garcia10@example.org;688347155;164.0;False
+4;Jiménez Torres Ana;2025-05-12;3;5;29159;a.jimenez8@example.com;688530657;3068.37;
+467;Pérez Ruiz, Ana;;1;1;28507;a.perez47@example.com;614474052;1581.0;True
+547;Laura López Jiménez;2025-05-09;3;5;29471;l.lopez1@example.com;613164004;823.08;True
+418;José Martínez Díaz;2025-02-06;3;4;46440;j.martinez58@example.com;634907946;;False
+6;López Pérez, Ana;2025-09-15;1;4;46934;;648732723;2491.71;False
+302;Gil Torres, Carmen;2025-09-05;1;3;08797;c.gil36@example.org;;1316.95;False
+225;Pérez Sánchez, Francisco;2025-08-05;4;5;29738;f.perez66@example.org;648507921;873.33;True
+772;Romero Sánchez Javier;2025-10-23;3;2;28454;j.romero8@example.com;625932756;1319.0;False
+233;Gil Jiménez, Ana;2025-01-06;3;4;46489;a.gil37@example.com;666606865;1351.0;True
+318;Pablo Moreno López;2025-08-07;4;3;08655;p.moreno27@example.org;650392856;2286.36;False
+160;Gil Moreno Antonio;2025-08-24;3;3;08120;a.gil23@example.org;618284457;2109.0;True
+478;Ruiz García María;2025-01-06;1;4;46575;m.ruiz60@example.com;681239785;2562.0;False
+98;Ruiz Moreno, Carmen;2025-07-24;1;1;41957;c.ruiz53@example.com;663268487;2913.28;False
+653;Moreno García Francisco;2025-03-02;5;1;41681;f.moreno22@example.com;699838229;2644.0;False
+587;Javier Pérez Jiménez;2025-07-26;4;3;29801;j.perez72@example.com;696982836;1412.27;True
+377;Ana Torres García;2025-08-09;3;2;28176;a.torres24@example.com;667213793;2177.73;True
+360;Javier Díaz García;2025-08-13;4;2;41540;j.diaz75@example.com;679707289;611.0;True
+294;María Sánchez López;2025-04-10;1;2;28932;m.sanchez62@example.org;632555127;2148.0;False
+187;Pablo Ruiz Martínez;2025-02-19;1;4;46391;p.ruiz7@example.com;661740151;796.42;False
+128;Moreno García Marta;2025-08-18;5;2;28891;m.moreno24@example.org;653646772;1663.67;False
+706;Domínguez García, Ana;2025-06-19;3;2;28599;a.dominguez57@example.org;617664236;1407.0;True
+448;Ana Díaz Moreno;2025-10-14;1;3;08151;a.diaz71@example.com;685662031;;False
+502;Manuel Gil Moreno;2025-07-15;3;3;08096;m.gil44@example.com;681997059;2248.0;False
+65;Marta Domínguez Martínez;2025-05-04;1;;29548;m.dominguez61@example.org;601072409;1083.4;False
+15;Moreno Torres Ana;2025-08-04;;4;46802;a.moreno3@example.com;612464304;1923.0;False
+171;Manuel Gil Gil;2025-02-01;1;2;28541;m.gil93@example.com;;;True
+270;Elena Díaz;2025-06-27;3;1;41425;e.diaz53@example.com;699985677;783.0;False
+137;Lucía Martínez Gómez;2025-06-30;2;1;41344;l.martinez70@example.org;617422046;2534.0;False
+468;Carmen García Navarro;2025-06-28;2;2;28633;c.garcia59@example.com;658978548;413.0;False
+353;Carmen Navarro García;2025-03-31;1;3;08992;;611077899;1167.67;False
+267;Díaz Romero Javier;2025-05-15;3;5;29913;j.diaz76@example.com;681091874;2879.77;False
+751;José Martínez Gil;2025-10-16;1;2;28833;j.martinez82@example.org;675854646;;True
+528;Domínguez Navarro, Antonio;2025-02-13;3;1;41802;;626443111;1905.0;False
+305;Romero Sánchez, David;2025-06-12;1;2;28391;d.romero59@example.com;606625752;;True
+20;Antonio Romero López;2025-05-16;1;5;29032;a.romero5@example.com;616455224;48.0;True
+378;Gil Domínguez Marta;2025-08-13;3;1;41053;m.gil61@example.com;698338086;3088.0;True
+108;Ana Martínez;2025-07-19;1;1;41235;a.martinez7@example.com;625780109;922.0;True
+447;Laura Jiménez Domínguez;2025-04-05;4;5;29780;;625295540;;True
+523;Antonio Moreno Jiménez;2025-02-27;1;3;08989;a.moreno48@example.com;633486908;2895.0;True
+106;Pablo Martínez García;2025-08-25;4;4;46830;p.martinez35@example.org;;2321.6;False
+529;Elena Jiménez Gómez;2025-10-02;1;4;46397;e.jimenez94@example.org;632827186;2126.0;True
+100;Carmen Torres Domínguez;2025-02-11;3;4;46282;;675741764;3458.0;False
+292;Elena Jiménez Ruiz;2025-03-22;4;3;08662;e.jimenez58@example.org;;1781.0;True
+728;Manuel Navarro García;2025-01-27;3;1;41647;m.navarro81@example.com;;683.0;False
+320;Marta Díaz;2025-08-19;5;3;08598;m.diaz16@example.com;659087718;;False
+635;Lucía García Domínguez;2025-02-24;1;2;28236;l.garcia52@example.com;660193162;2924.18;True
+110;José Ruiz Díaz;2025-07-31;1;;41909;j.ruiz19@example.com;669519571;2281.0;True
+731;José García Moreno;2025-08-07;1;1;41496;j.garcia89@example.org;663424978;2578.0;False
+788;Manuel Navarro Martínez;2025-07-25;3;1;41109;m.navarro40@example.org;621862450;2401.0;False
+428;Antonio Pérez Martínez;2025-08-30;3;5;;a.perez68@example.com;601781972;3170.37;
+718;Carmen García Navarro;2025-05-28;2;1;41194;c.garcia60@example.com;638539412;;True
+358;José Navarro Martínez;2025-09-25;1;5;;j.navarro28@example.com;667545905;2144.98;True
+402;José García García;2025-08-22;3;3;08696;j.garcia24@example.org;642257527;470.21;False
+398;José Díaz Romero;2025-02-28;4;5;29987;j.diaz59@example.org;636822030;3320.0;False
+289;Martínez Gil, Antonio;2025-06-12;3;4;46924;;636432227;;True
+31;Javier Gil Navarro;2025-05-16;4;2;28538;j.gil29@example.org;625199730;1967.0;
+714;Pedro Pérez;2025-08-18;4;2;28191;p.perez2@example.org;;1647.01;True
+538;Antonio García Díaz;2025-02-04;3;2;28903;a.garcia53@example.org;649358057;2900.0;False
+800;Javier Gil Gil;2025-05-13;1;4;46640;;621299827;1400.0;True
+425;Sánchez Díaz Javier;2025-05-06;1;3;08149;j.sanchez43@example.com;674314857;1696.0;True
+234;Domínguez Martínez, Pablo;2025-08-16;2;2;28599;p.dominguez31@example.org;;3092.0;True
+328;Romero Pérez Lucía;2025-01-12;4;4;46728;l.romero59@example.com;;475.2;True
+597;Javier Ruiz Díaz;2025-06-23;3;4;46500;j.ruiz83@example.org;647628722;326.0;True
+720;Pablo Sánchez;2025-06-29;1;3;08838;p.sanchez77@example.com;;663.19;
+117;Pérez Domínguez Manuel;2025-01-12;1;3;08385;m.perez58@example.org;;2794.0;True
+396;Pedro Pérez Moreno;2025-09-20;1;4;46670;p.perez31@example.org;663908038;;True
+69;Ana Pérez Gómez;2025-01-23;1;3;08096;a.perez90@example.com;617043059;2138.36;True
+462;Manuel Torres Torres;2025-02-12;3;5;29442;m.torres54@example.com;616474771;3156.0;False
+756;Pablo López Díaz;2025-05-12;4;1;41174;p.lopez81@example.org;605030209;3209.17;False
+112;Marta Pérez Sánchez;2025-08-23;5;1;41894;m.perez19@example.org;645256284;3158.0;True
+146;María Sánchez Ruiz;2025-09-14;1;1;41110;m.sanchez77@example.org;605456389;3234.44;False
+527;Domínguez Díaz, Elena;2025-10-05;3;4;46801;e.dominguez87@example.org;630637033;1750.0;True
+116;Antonio Martínez Sánchez;2025-06-20;2;3;08313;a.martinez22@example.org;636594256;2547.0;True
+144;Ruiz Martínez, Francisco;2025-05-03;3;3;08133;f.ruiz47@example.org;679473832;1212.0;True
+280;Pérez Jiménez, María;2025-01-25;1;5;;m.perez70@example.com;623393976;2666.0;True
+607;Pedro Navarro Pérez;2025-04-07;2;2;28588;p.navarro69@example.org;681569165;1205.78;True
+372;Martínez Moreno, José;2025-07-18;4;4;46269;;;3390.0;False
+389;Navarro Gil Marta;2025-09-25;1;3;08961;m.navarro50@example.org;;1306.0;False
+38;Gómez Moreno, José;2025-09-06;2;1;41534;j.gomez22@example.org;648382255;;
+585;Elena Gil García;;2;2;28191;e.gil53@example.com;629046970;2784.0;False
+511;Jiménez Romero, Pablo;2025-10-26;3;3;08708;p.jimenez40@example.org;639754572;1537.0;
+107;Martínez Ruiz Javier;2025-08-23;3;3;08881;j.martinez15@example.org;671356084;3029.0;True
+493;David Domínguez Jiménez;2025-08-15;3;3;08765;d.dominguez17@example.com;693672991;3010.91;False
+252;Jiménez Martínez, Lucía;2025-05-29;1;2;28154;l.jimenez11@example.com;;1020.0;
+550;David Martínez López;2025-07-24;1;3;08288;d.martinez12@example.org;682668770;2645.0;False
+710;Ana Ruiz Jiménez;2025-05-20;4;4;46267;a.ruiz71@example.org;630797940;2414.0;False
+359;María Moreno Torres;2025-01-28;3;2;28691;m.moreno71@example.org;603389670;1087.0;False
+216;Martínez Jiménez, Francisco;2025-03-23;1;5;29028;f.martinez6@example.org;641018401;;False
+716;Francisco Navarro Martínez;;1;5;41939;f.navarro95@example.org;614497615;58.76;True
+717;Francisco Domínguez Romero;2025-06-05;1;3;08292;f.dominguez40@example.org;690885284;3481.0;True
+290;Moreno Romero, Carmen;2025-05-23;3;;41841;c.moreno83@example.org;;1749.85;False
+170;Martínez Gil, Lucía;2025-01-07;1;1;41869;l.martinez64@example.com;618320738;2888.0;False
+444;Francisco Torres;2025-05-27;1;3;28501;f.torres83@example.org;680462850;;
+54;Elena Martínez Sánchez;2025-05-21;2;2;28906;e.martinez76@example.com;692075810;1837.83;True
+549;Carmen Gómez García;2025-06-04;3;4;46413;c.gomez82@example.com;629118401;1991.0;False
+780;David Sánchez;2025-09-13;5;4;46971;d.sanchez60@example.org;635860535;755.0;False
+753;López Díaz, Javier;2025-01-26;1;3;08291;j.lopez9@example.org;646272671;149.0;True
+152;Ruiz Díaz, Laura;2025-03-26;1;2;28387;l.ruiz24@example.com;652572563;1191.0;False
+231;Elena Sánchez Martínez;2025-05-19;3;3;08307;e.sanchez73@example.com;609883562;855.0;False
+652;Carmen Gil;2025-07-15;4;1;41243;c.gil58@example.com;664726593;1874.0;True
+709;Pablo López Sánchez;2025-05-23;1;5;46891;p.lopez78@example.org;;;False
+704;Marta López Torres;2025-02-21;3;2;28593;m.lopez2@example.com;645430067;2432.64;True
+725;Marta Navarro Navarro;2025-08-24;4;;46605;m.navarro51@example.org;675300222;286.0;True
+189;Martínez Gil, Javier;2025-03-13;1;2;28420;j.martinez57@example.com;635381758;3122.14;False
+771;López Martínez, Elena;2025-07-15;3;1;;e.lopez34@example.org;675646668;1624.0;
+186;María Ruiz Romero;2025-05-14;2;4;46277;m.ruiz91@example.org;682140896;36.39;False
+44;Sánchez Jiménez, Pedro;2025-04-17;3;1;41807;p.sanchez61@example.org;650099517;1189.0;True
+143;María Jiménez Romero;2025-03-24;1;5;46329;m.jimenez14@example.com;617879903;2998.01;False
+492;Ruiz García, Elena;;4;5;29339;e.ruiz92@example.org;610744339;232.0;True
+666;Marta Jiménez Jiménez;2025-07-28;4;1;41297;;688220065;2192.0;False
+616;García Moreno David;2025-07-11;4;4;46202;d.garcia48@example.org;699436138;;
+351;Pablo Jiménez Ruiz;2025-06-09;1;2;28902;p.jimenez13@example.org;;126.0;False
+795;Manuel López Pérez;2025-05-10;5;4;46484;m.lopez36@example.com;681090063;61.18;True
+151;Ruiz Martínez, Marta;2025-09-14;3;1;41613;m.ruiz4@example.com;608318019;3101.0;True
+68;Francisco Ruiz;2025-04-22;;5;29097;f.ruiz74@example.com;646972284;2160.0;True
+479;Moreno Moreno, Manuel;2025-07-19;5;1;41723;m.moreno14@example.org;681889437;647.4;False
+556;Javier Navarro Torres;2025-06-01;1;3;08422;j.navarro46@example.com;685696109;;False
+337;María López Díaz;2025-10-16;3;4;46016;m.lopez47@example.org;644675182;2416.0;True
+711;Antonio Navarro Domínguez;2025-07-23;1;2;28434;a.navarro27@example.com;606559725;3422.0;True
+672;Ana Gil García;2025-07-04;1;4;;a.gil18@example.com;690350543;2139.0;
+649;García Romero, Laura;2025-10-16;4;4;46943;l.garcia37@example.com;686905584;1419.93;True
+555;Gómez Moreno David;2025-10-23;5;2;28705;d.gomez82@example.com;698421332;2743.03;True
+329;López Torres, María;2025-02-12;4;3;08231;m.lopez56@example.com;660175421;735.0;True
+600;Marta Romero Domínguez;2025-07-12;3;2;28788;m.romero98@example.org;650204082;110.0;False
+132;Carmen Pérez Pérez;2025-06-16;3;4;;c.perez45@example.com;618695194;3407.82;True
+656;Díaz López, Laura;2025-06-09;1;1;41468;l.diaz69@example.com;631714156;951.0;False
+297;Pérez Ruiz, Pablo;2025-09-12;1;5;29965;p.perez3@example.com;672848153;;
+284;López Gómez, Ana;2025-05-28;5;3;08823;a.lopez27@example.com;618413620;1541.77;True
+702;Domínguez Torres, Pedro;2025-07-04;2;2;28404;p.dominguez63@example.org;;;True
+611;Domínguez Torres, Manuel;2025-09-08;5;1;41863;m.dominguez1@example.org;667851044;2728.0;False
+131;García Pérez, Pablo;2025-06-19;1;3;;p.garcia1@example.com;635622352;;False
+315;Antonio Gómez;2025-03-15;;1;41003;a.gomez31@example.org;655061434;3439.0;True
+115;Marta Ruiz Gil;2025-06-01;2;3;;m.ruiz18@example.org;644501941;3231.28;False
+383;López Díaz, Lucía;2025-10-12;1;4;46059;l.lopez10@example.com;661511552;;True
+356;García García Marta;2025-10-25;1;3;08189;m.garcia18@example.com;699592944;1415.0;True
+420;Pedro Romero Martínez;2025-06-01;1;3;08223;p.romero75@example.com;643759274;359.0;False
+782;Pérez López Manuel;2025-07-11;1;2;41567;m.perez48@example.com;637282526;2229.0;True
+272;Elena Pérez Moreno;2025-01-07;4;2;28366;e.perez97@example.org;684334504;;True
+314;Laura Moreno Domínguez;2025-03-26;2;2;28205;;673134452;2927.0;False
+525;Javier López Domínguez;2025-04-06;1;5;29397;j.lopez19@example.com;640865090;3472.0;True
+285;García Pérez Marta;2025-05-13;2;2;28289;m.garcia44@example.org;619589409;3297.0;False
+130;Jiménez Martínez, Francisco;2025-07-10;4;3;08550;f.jimenez33@example.com;667775052;572.0;False
+730;Javier López García;2025-07-17;1;5;;j.lopez12@example.org;641804265;1846.73;False
+551;Pablo Martínez;2025-08-29;4;1;41432;p.martinez52@example.org;615894266;2902.0;False
+211;Manuel Torres Ruiz;2025-03-20;4;2;28278;m.torres54@example.com;620391605;1610.0;
+576;Díaz Romero, David;2025-04-23;1;5;29169;d.diaz10@example.com;622847566;2898.35;True
+524;Sánchez García, María;2025-09-05;4;5;29313;m.sanchez72@example.org;691827672;3244.0;False
+387;Domínguez Torres, Marta;2025-01-21;3;1;41631;m.dominguez23@example.com;651078620;1702.65;True
+416;Pérez Sánchez, Pablo;2025-07-23;3;1;41773;p.perez92@example.org;;1453.47;False
+41;Sánchez García Antonio;2025-02-19;;2;;a.sanchez72@example.com;652374880;675.0;True
+307;Elena Romero Torres;;;2;28310;e.romero60@example.com;601514789;481.44;False
+553;Pedro Moreno López;2025-09-06;1;3;29095;p.moreno77@example.com;621504170;931.0;True
+205;López Torres Ana;2025-05-18;4;1;41915;a.lopez78@example.com;659214304;995.0;False
+273;José García;2025-02-15;3;4;46502;;670867937;658.0;True
+9;Domínguez Pérez, Francisco;2025-03-02;3;2;28796;f.dominguez63@example.org;677314014;1155.7;False
+536;David García García;2025-02-16;5;5;29303;d.garcia3@example.com;680206715;2974.0;False
+71;Antonio García Gil;2025-08-27;4;3;08997;;656044611;1159.0;False
+506;Romero Díaz, Antonio;2025-05-17;2;4;46551;a.romero50@example.org;;;True
+394;Martínez Moreno Antonio;2025-06-29;2;4;29920;a.martinez63@example.com;668991324;1144.0;False
+8;Ana Torres Torres;;1;1;41133;a.torres96@example.org;629196983;;True
+701;Domínguez Pérez, Lucía;2025-06-06;4;3;29193;l.dominguez15@example.com;616732168;363.71;False
+513;Javier López Romero;2025-09-10;3;4;46298;j.lopez70@example.com;;328.78;False
+352;Gómez Navarro, Marta;2025-01-14;5;3;;m.gomez61@example.com;695627421;3368.0;False
+94;Marta Moreno Romero;2025-04-27;1;5;29341;m.moreno35@example.com;;2249.0;True
+559;Gómez López, Marta;2025-08-26;4;1;41043;m.gomez6@example.org;614975375;728.0;True
+374;Laura Gómez Navarro;2025-04-23;4;1;41226;l.gomez40@example.org;687299939;1407.0;False
+80;María Domínguez García;2025-07-20;3;4;46192;m.dominguez47@example.org;619895576;1089.0;True
+432;Ana Domínguez López;2025-08-10;3;4;46717;a.dominguez95@example.org;661025861;3217.0;
+343;Ruiz Torres María;2025-07-06;5;5;29488;m.ruiz92@example.com;647678120;1917.33;True
+50;Pedro Romero Gómez;2025-08-22;2;4;46566;p.romero56@example.com;658386075;2037.0;False
+251;David Navarro;2025-02-23;4;3;08594;d.navarro50@example.com;650055959;878.72;True
+148;Laura Gil Gil;2025-03-12;5;1;41274;l.gil86@example.org;;1677.0;
+58;Pedro Torres Díaz;2025-02-16;5;1;;p.torres73@example.org;642876369;1515.0;True
+433;Elena Jiménez Jiménez;2025-09-05;1;5;46818;e.jimenez17@example.org;;1342.0;True
+440;Domínguez Sánchez, Javier;2025-04-30;1;1;41548;j.dominguez95@example.com;698206651;3036.0;True
+56;Javier Moreno Gil;2025-01-14;3;5;29533;j.moreno53@example.org;647298805;1723.0;True
+458;Carmen García Gómez;2025-07-10;5;3;08123;c.garcia3@example.org;687856463;;True
+441;Elena Ruiz Pérez;2025-10-19;5;3;08550;e.ruiz64@example.com;610496690;1240.0;False
+390;Carmen Gil Pérez;2025-02-15;4;1;41103;c.gil18@example.com;670001399;594.0;True
+571;Elena Ruiz Díaz;;1;5;29938;e.ruiz66@example.org;605935317;2669.0;True
+339;Ana Ruiz Romero;2025-03-02;1;4;46535;a.ruiz23@example.com;657474927;2615.0;True
+757;Díaz Gómez, Elena;2025-08-10;2;5;29212;e.diaz12@example.org;639521105;840.0;True
+572;Javier Romero Díaz;2025-05-05;2;2;29521;j.romero21@example.com;677089842;795.0;True
+26;Martínez Ruiz, Ana;2025-07-13;1;1;41133;a.martinez70@example.org;609409947;2108.0;
+48;Pedro Moreno;2025-09-25;4;1;41059;p.moreno35@example.org;632599514;1737.0;False
+175;Manuel Moreno;2025-07-29;1;1;;m.moreno81@example.com;606562277;661.0;
+443;García Torres María;2025-02-09;3;5;29931;m.garcia89@example.org;617117328;2547.0;
+60;María García Ruiz;2025-07-24;3;5;29161;m.garcia25@example.org;621435501;776.0;False
+154;Pérez García, Ana;2025-03-30;1;3;08275;a.perez80@example.com;661493617;1697.36;False
+510;Pedro Gómez;2025-03-12;2;5;29905;p.gomez73@example.com;690297564;442.73;True
+641;Francisco Sánchez Moreno;2025-07-21;1;4;46789;f.sanchez54@example.com;;766.0;False
+162;Pedro Ruiz García;2025-07-19;3;;08827;p.ruiz75@example.com;630506966;;False
+245;Lucía Gómez;2025-07-08;1;4;46622;l.gomez79@example.org;697276462;433.0;True
+659;Pablo Jiménez García;2025-01-22;2;2;28025;;694744346;2122.0;False
+159;Pérez Jiménez, Marta;2025-06-01;3;5;29308;m.perez78@example.com;675501088;665.0;False
+499;Marta Gil;2025-10-05;4;3;08153;m.gil88@example.org;625228717;;False
+327;Laura Jiménez Romero;2025-03-12;3;5;29150;l.jimenez41@example.com;633698941;1489.0;True
+773;Ana Sánchez Ruiz;2025-01-02;;4;46941;a.sanchez29@example.com;674281433;2883.0;False
+667;José Romero Sánchez;2025-05-31;3;4;46630;j.romero89@example.org;690849279;1194.49;False
+488;Antonio Romero;2025-06-09;1;2;28085;a.romero19@example.org;616806805;1681.0;False
+401;Manuel Gómez García;2025-10-27;3;5;29114;m.gomez75@example.com;;2420.0;False
+630;Laura Gil Moreno;2025-04-20;3;4;46326;l.gil46@example.org;689120237;329.0;False
+180;Pablo Navarro García;2025-05-31;1;3;08500;p.navarro39@example.com;608297881;1131.0;False
+430;Sánchez Jiménez, Lucía;2025-08-03;1;2;28857;l.sanchez98@example.com;621317912;1823.0;True
+726;David Torres Ruiz;2025-02-05;1;1;41804;d.torres47@example.com;626665321;2725.03;True
+55;Ruiz López Lucía;2025-05-30;1;2;28754;l.ruiz67@example.org;692728102;473.0;True
+645;Pablo López;2025-08-20;1;1;41229;p.lopez59@example.org;634225154;445.11;True
+588;Sánchez Romero, Elena;2025-01-30;1;;28275;;631432348;477.0;
+169;Romero Ruiz, José;2025-04-11;3;5;29549;j.romero27@example.com;613929486;217.0;True
+723;Laura Jiménez Sánchez;2025-09-11;5;1;41393;l.jimenez51@example.org;632855529;535.0;True
+762;Laura Domínguez Jiménez;2025-06-15;4;2;28097;l.dominguez53@example.org;693258414;919.0;True
+686;María López Sánchez;2025-08-29;1;5;29816;m.lopez28@example.com;;1359.0;False
+25;Elena Sánchez Gómez;2025-08-23;5;4;46327;e.sanchez27@example.com;629343933;3467.0;False
+299;María Ruiz Moreno;2025-03-27;5;1;41692;m.ruiz83@example.com;696729254;3275.75;True
+692;Carmen Díaz Gil;2025-08-27;5;3;08898;c.diaz20@example.org;608561984;1399.0;False
+662;Elena Jiménez;2025-08-09;3;2;28824;e.jimenez89@example.org;662094823;3338.0;True
+19;David Jiménez Gil;2025-09-09;4;4;46025;d.jimenez45@example.com;683304477;1562.0;True
+681;Torres Ruiz, David;2025-08-06;3;1;41803;d.torres32@example.com;653726296;1421.0;True
+313;Domínguez Gómez David;2025-02-05;4;1;41739;d.dominguez21@example.org;671100079;2361.0;True
+255;Carmen Torres Moreno;2025-07-18;1;1;41703;c.torres79@example.com;;3137.0;True
+226;Javier Moreno López;2025-04-02;1;1;41004;j.moreno89@example.org;642436704;2306.0;False
+88;Domínguez Moreno, Pedro;2025-04-04;1;1;41529;p.dominguez20@example.org;637726425;2509.0;False
+460;Francisco Sánchez Moreno;2025-02-01;2;5;29075;f.sanchez56@example.org;606058078;173.0;False
+570;Pedro Gómez Díaz;2025-06-21;1;4;46411;p.gomez55@example.com;665590098;48.0;False
+621;María Martínez Díaz;2025-05-11;4;5;29857;m.martinez18@example.com;671591937;1727.0;True
+223;María Gómez Navarro;2025-07-31;2;5;29620;m.gomez48@example.org;691043218;280.0;True
+558;García Martínez María;2025-09-20;3;1;41230;m.garcia26@example.org;613704410;1603.0;False
+688;Laura Domínguez Gil;2025-06-28;3;1;41643;l.dominguez48@example.org;621238613;2683.28;False
+219;Pérez López, Pedro;2025-05-15;1;1;41465;p.perez37@example.com;;1495.0;False
+429;David Díaz Domínguez;2025-01-08;2;1;41401;d.diaz24@example.org;;;
+480;Ruiz Gil José;2025-02-02;3;5;29779;j.ruiz75@example.org;601174204;2522.0;True
+431;David Navarro Gil;2025-01-26;1;5;29219;d.navarro31@example.org;691915364;;
+194;Torres Díaz, José;2025-04-19;1;3;08690;;687894781;1817.0;False
+287;Gil Sánchez, Javier;2025-02-18;4;5;29094;j.gil3@example.org;684861702;1239.0;False
+67;Javier Díaz López;2025-09-29;5;5;;j.diaz56@example.com;618806634;341.0;True
+785;José Pérez Navarro;2025-05-24;4;4;46742;j.perez7@example.org;;2835.0;
+72;José Ruiz Sánchez;;1;2;28776;j.ruiz89@example.org;605758500;222.0;True
+413;García Domínguez, David;;3;3;08782;d.garcia17@example.org;673590305;3217.0;True
+83;Lucía García Domínguez;2025-02-18;2;3;08954;l.garcia84@example.com;;709.37;True
+764;Navarro Domínguez, Pablo;2025-10-08;2;5;29885;p.navarro75@example.org;609712238;1392.0;False
+639;Ana Torres Pérez;2025-08-26;2;2;28655;a.torres24@example.org;661650232;1940.0;False
+694;José Martínez;2025-10-11;4;;28907;j.martinez51@example.org;605757410;139.0;False
+16;Lucía Navarro Gómez;2025-08-24;5;5;29522;l.navarro72@example.com;647303456;1662.58;
+770;García Martínez, María;2025-04-23;3;5;29978;m.garcia58@example.com;;3142.0;True
+752;Francisco García Díaz;2025-02-14;3;5;29446;f.garcia60@example.org;635810698;;False
+629;Laura Gómez Díaz;2025-06-01;4;2;;l.gomez23@example.com;641362476;148.9;True
+457;José Jiménez Navarro;2025-02-14;4;2;28681;;608601464;1253.0;
+407;Carmen Torres García;2025-05-11;4;3;08495;c.torres6@example.com;687753295;;False
+446;Laura Jiménez Torres;2025-07-18;1;5;46555;l.jimenez8@example.com;601287264;2071.0;True
+136;Torres Ruiz, Ana;2025-04-02;;5;29317;a.torres72@example.com;678295676;2331.0;True
+674;José Domínguez Romero;2025-01-29;3;2;28719;j.dominguez22@example.com;693391798;388.0;
+417;Martínez Torres, María;2025-10-18;1;3;08426;m.martinez97@example.com;;1511.0;False
+30;Javier García López;2025-05-14;1;1;41136;;667987484;212.0;True
+182;Francisco Ruiz Romero;2025-02-15;5;4;46837;f.ruiz84@example.org;611198873;1042.56;
+228;Elena Sánchez;2025-06-23;;2;28302;e.sanchez30@example.com;649213191;3473.34;False
+405;Carmen Gómez Martínez;2025-05-30;1;4;46667;c.gomez19@example.org;;2702.0;False
+365;Javier Sánchez Moreno;2025-02-04;1;3;08754;;609329758;3496.71;False
+783;Javier García Martínez;2025-02-06;3;3;28555;j.garcia52@example.org;609530600;2494.0;False
+105;Torres Martínez, Laura;2025-08-28;2;3;08949;l.torres43@example.com;608086032;1634.0;True
+322;Elena López Martínez;2025-02-02;1;1;41745;e.lopez26@example.org;609983558;2273.0;True
+269;Elena Díaz Sánchez;2025-07-03;1;2;28737;e.diaz54@example.com;699552872;721.0;True
+466;Laura Moreno Gómez;2025-10-17;5;1;41213;l.moreno35@example.com;687595257;3479.0;False
+593;Torres García, Laura;2025-03-13;1;5;29409;l.torres67@example.com;658679256;3143.21;True
+393;Lucía Moreno Domínguez;;5;1;41981;;667255107;2295.0;True
+534;Gil Gómez, José;2025-03-27;2;5;29198;j.gil53@example.org;611389899;2289.0;False
+707;Manuel Martínez Romero;2025-01-03;4;5;29625;m.martinez25@example.org;610765100;83.0;False
+242;García Navarro, Francisco;2025-06-25;4;5;46270;f.garcia57@example.org;607607745;;False
+566;López Romero, Francisco;2025-03-13;3;1;28036;f.lopez69@example.com;667975488;333.4;True
+594;María Gómez Martínez;2025-10-21;1;4;;;679578276;752.0;True
+204;Javier Moreno Moreno;2025-07-29;1;5;29760;j.moreno16@example.com;649837083;205.0;False
+453;Domínguez Díaz David;2025-05-30;1;1;41960;d.dominguez17@example.com;662174812;2089.0;True
+746;Domínguez López, Marta;2025-04-20;3;3;08017;m.dominguez35@example.org;670789326;2946.26;True
+84;Jiménez García, Pablo;2025-09-07;3;1;41497;p.jimenez85@example.org;671064680;1805.0;True
+119;Ruiz Sánchez, David;2025-03-15;1;2;28019;d.ruiz21@example.org;623316027;2473.0;True
+97;Ana García García;2025-03-13;1;3;08952;a.garcia73@example.org;640170533;322.9;True
+531;Antonio García Gómez;2025-06-29;4;3;08540;a.garcia49@example.com;;;False
+167;Ana López Gil;2025-04-07;2;4;;a.lopez27@example.com;625926181;255.0;True
+540;David Pérez;;3;3;08406;d.perez91@example.com;;2438.0;
+190;Ana Romero Torres;2025-04-01;4;4;46776;;680976504;1926.0;True
+759;Laura Domínguez;2025-02-08;4;5;29027;l.dominguez11@example.com;654766733;;True
+696;Carmen Torres Moreno;2025-03-18;4;3;08879;c.torres37@example.com;619328367;564.0;True
+93;Carmen Torres Díaz;2025-09-10;1;3;08286;c.torres9@example.com;697839246;14.0;True
+367;María Torres;2025-05-21;5;1;41627;m.torres18@example.org;683391898;1781.0;True
+316;Martínez Pérez Manuel;2025-07-17;1;3;41926;m.martinez70@example.org;661536622;980.0;True
+262;Laura Jiménez Romero;2025-02-21;4;4;46826;l.jimenez53@example.com;648730784;;False
+362;Romero López, Lucía;2025-09-25;4;3;08442;;;;True
+139;Elena López;2025-04-15;5;3;29434;e.lopez8@example.org;682849702;1390.82;True
+741;Martínez Jiménez Francisco;2025-09-03;5;3;;f.martinez98@example.org;601157240;;False
+277;Marta García Romero;;3;4;28739;m.garcia2@example.com;625197459;3170.0;False
+385;Pablo Navarro;2025-01-10;1;3;08708;p.navarro68@example.com;625785650;376.87;
+57;Martínez García Ana;2025-06-13;4;2;08753;a.martinez5@example.com;664045527;;False
+668;Navarro Díaz, Pedro;2025-09-16;;2;28526;p.navarro25@example.org;674467120;3485.0;
+533;Laura Ruiz Moreno;2025-02-16;3;3;08502;l.ruiz66@example.com;623907194;2801.0;True
+411;Ana Gómez;2025-02-22;4;4;46383;a.gomez62@example.org;665772580;2006.0;True
+89;Moreno Navarro María;2025-08-19;1;1;41971;m.moreno49@example.org;665967192;1901.0;False
+670;Marta Navarro Pérez;2025-02-09;;1;41739;m.navarro71@example.org;695499384;2083.0;True
+574;Laura Díaz;2025-01-15;;3;08607;l.diaz80@example.org;617300583;1632.54;False
+281;Pablo Díaz Martínez;2025-03-24;1;5;29348;p.diaz79@example.org;;3372.0;False
+371;Martínez Torres, Carmen;2025-04-11;3;4;46182;c.martinez34@example.org;;1282.0;True
+140;Carmen Romero;2025-05-12;1;3;08556;c.romero15@example.org;;3285.14;False
+361;Díaz Navarro María;2025-09-11;1;3;08552;m.diaz51@example.com;;3021.0;False
+461;Jiménez Torres Elena;2025-08-05;1;2;28256;e.jimenez64@example.com;678637675;2017.0;False
+526;Jiménez López, Carmen;2025-04-04;5;1;41388;c.jimenez82@example.org;647522489;1051.0;True
+288;García Navarro, Pablo;2025-06-21;4;;29659;p.garcia14@example.org;;1111.0;True
+735;Elena Gil Romero;2025-03-04;1;5;29420;e.gil6@example.com;695596509;500.0;True
+700;Martínez Moreno, Javier;2025-01-29;4;5;29370;j.martinez20@example.com;694091969;1893.0;True
+203;Domínguez Díaz, Marta;2025-05-29;1;3;08646;m.dominguez25@example.org;;3177.81;True
+403;Pérez Martínez Antonio;2025-04-07;5;5;29429;;651130758;2040.0;False
+341;Lucía Pérez Martínez;2025-07-10;3;5;29243;l.perez96@example.org;637650664;585.94;True
+575;Gil Domínguez, Marta;2025-01-03;2;5;;m.gil95@example.com;685779775;2455.0;True
+366;Martínez Domínguez, Pablo;2025-06-05;5;1;41581;p.martinez66@example.com;670617942;2189.38;False
+24;Javier Díaz Moreno;2025-10-06;4;4;46488;j.diaz13@example.org;;1866.0;False
+346;Marta Sánchez Gil;2025-03-18;1;3;08330;m.sanchez44@example.org;659441731;756.0;False
+165;Carmen López García;2025-05-06;2;5;29612;c.lopez42@example.com;634039949;2611.0;False
+491;Manuel López Díaz;2025-10-07;3;2;28256;m.lopez65@example.org;604221516;2198.0;
+530;Manuel Gómez Romero;2025-10-04;1;2;28989;m.gomez12@example.org;;3365.0;True
+789;Torres Martínez Manuel;2025-06-13;1;5;29223;m.torres19@example.com;606313448;2489.0;False
+335;Gómez López, María;2025-05-19;2;4;46178;m.gomez40@example.org;;1988.0;False
+311;López Gómez, María;2025-07-19;1;4;46100;m.lopez15@example.com;654778146;108.0;False
+763;Torres Torres, Pedro;2025-10-12;5;2;08263;p.torres98@example.com;683176721;1262.0;True
+129;José Martínez Gil;2025-06-22;3;3;08320;j.martinez58@example.com;677820957;1061.0;True
+354;Elena Navarro;2025-05-11;1;5;;e.navarro76@example.com;633261769;2078.0;True
+765;María Gómez Domínguez;2025-04-19;4;3;08596;m.gomez64@example.com;639631546;1222.0;
+241;Francisco Pérez Jiménez;2025-02-12;1;4;46632;f.perez83@example.com;627750964;1756.0;False
+319;Francisco Navarro García;2025-10-09;1;4;46787;f.navarro39@example.com;644028810;3296.0;True
+624;Torres Gómez José;2025-05-06;3;4;46503;j.torres81@example.org;615965816;;True
+263;Domínguez Sánchez, María;2025-03-31;1;1;41770;;636564717;2790.0;True
+99;David Torres;2025-07-11;1;1;41573;d.torres79@example.org;621759294;2536.0;True
+628;Marta García Sánchez;;1;5;29035;m.garcia45@example.com;;2794.0;True
+758;Carmen Pérez;2025-04-25;3;4;46846;c.perez74@example.org;615293349;178.0;True
+733;Pablo Navarro López;2025-10-04;3;5;29047;p.navarro94@example.org;620401274;82.0;True
+90;Antonio Gómez Torres;2025-09-07;4;2;28812;a.gomez48@example.com;604016727;;True
+516;Laura Ruiz;2025-02-01;4;2;28313;;;597.0;False
+332;Carmen Torres Pérez;2025-04-22;3;4;46101;c.torres14@example.com;;2792.0;True
+578;Ruiz Romero, Elena;2025-06-07;5;4;46571;e.ruiz74@example.com;674039253;1316.68;False
+434;Lucía Gómez Gil;2025-02-09;4;4;46403;l.gomez93@example.com;;3194.0;
+776;García Gómez, Lucía;2025-10-13;1;2;28044;l.garcia90@example.com;647627637;425.0;False
+615;Pablo Martínez Moreno;2025-07-25;1;;08935;p.martinez15@example.org;645522755;3230.0;False
+487;Ruiz Domínguez, Pablo;2025-04-11;3;5;29017;p.ruiz41@example.com;660601230;2210.0;False
+632;López Gómez, Pablo;2025-04-09;4;1;41675;p.lopez76@example.org;684590296;2803.0;True
+634;Navarro García, Francisco;2025-04-24;1;3;08976;f.navarro7@example.org;662117685;743.0;True
+261;Carmen Navarro Martínez;2025-08-27;2;4;46462;c.navarro76@example.org;;3455.0;True
+306;David Gil Torres;2025-02-12;4;1;41151;d.gil62@example.org;615767244;1050.0;False
+197;Romero Gil Elena;2025-04-13;4;3;08470;e.romero10@example.com;640688565;2570.52;False
+141;Laura Pérez Martínez;2025-10-22;1;4;46175;;;136.0;False
+123;Francisco Sánchez Ruiz;2025-07-16;4;3;08530;f.sanchez84@example.org;;3346.0;False
+495;Gil Romero, Laura;2025-03-28;1;5;29628;l.gil66@example.org;668969526;1187.26;
+111;María Gil;2025-03-25;4;4;46095;;648302206;;True
+85;Sánchez Ruiz, Marta;2025-07-08;1;5;29402;m.sanchez61@example.org;602843261;3235.0;False
+796;Ana Díaz Díaz;2025-03-30;4;1;41459;a.diaz24@example.com;655249192;194.0;True
+514;José Ruiz Jiménez;2025-09-02;1;5;29291;;612395291;2703.99;True
+483;Pablo Sánchez Gil;2025-03-17;3;2;;p.sanchez28@example.org;636656792;2695.0;False
+580;Lucía Ruiz Sánchez;2025-01-31;3;3;08345;l.ruiz10@example.com;;1162.7;True
+75;Carmen Moreno Moreno;2025-07-25;4;4;46928;c.moreno10@example.org;693989765;333.0;False
+620;Sánchez Navarro, Pablo;2025-02-11;2;3;08288;p.sanchez59@example.com;680478375;2247.0;True
+274;Pérez García, Javier;2025-10-15;2;3;08035;j.perez47@example.org;608469360;805.0;False
+397;Francisco Gómez López;2025-01-14;1;4;46375;f.gomez34@example.com;679711053;2892.0;False
+155;Domínguez Romero, Laura;2025-05-11;2;4;;l.dominguez52@example.com;630256995;797.34;False
+192;Sánchez Romero, Laura;2025-07-09;4;3;28036;l.sanchez85@example.org;;2635.0;True
+777;Torres García, Marta;2025-05-08;4;3;08389;m.torres52@example.com;669353033;;False
+188;Manuel Gil;2025-04-25;1;2;28992;m.gil78@example.org;677745025;2300.0;True
+51;Manuel Martínez López;2025-08-16;1;5;29948;m.martinez58@example.org;;580.0;True
+39;López López, Elena;2025-03-25;3;1;41631;e.lopez20@example.org;609710068;1128.62;True
+419;Romero Gil José;2025-03-30;4;5;29904;j.romero83@example.org;676588759;809.93;False
+743;Gil Sánchez, José;2025-07-10;3;1;41054;j.gil78@example.org;684929166;1761.0;True
+209;Marta Jiménez López;2025-03-21;4;4;46229;m.jimenez47@example.com;;1195.0;True
+376;Pérez López, Manuel;2025-01-29;4;2;;m.perez58@example.org;;2961.0;False
+464;Martínez Navarro, Marta;;2;5;29230;;633060252;513.0;True
+471;David Gómez Gil;2025-08-10;2;;28441;d.gomez28@example.com;;;
+518;Antonio Pérez Sánchez;2025-01-20;1;3;08767;a.perez69@example.com;648330246;2098.0;False
+76;María Torres Pérez;2025-05-23;5;3;08295;m.torres82@example.com;607261178;392.43;False
+249;Elena Navarro Domínguez;2025-08-25;5;4;46043;e.navarro36@example.org;698078817;1108.99;False
+560;José Martínez Sánchez;2025-09-13;1;2;28393;j.martinez15@example.com;679195733;767.0;False
+303;Pablo Ruiz;2025-01-03;4;5;29044;p.ruiz64@example.com;688204350;991.0;True
+627;Pérez Pérez, Francisco;;1;4;;f.perez22@example.com;;1752.65;False
+243;Romero Martínez, José;2025-01-29;4;3;08995;j.romero34@example.org;600452393;1179.0;True
+12;Gómez Navarro, Francisco;;1;5;29308;f.gomez70@example.com;691199146;3170.27;
+486;Díaz Domínguez Laura;2025-03-11;2;1;41119;l.diaz21@example.com;;1372.0;True
+463;Elena Gil Pérez;2025-08-13;1;3;08319;e.gil92@example.org;667529182;;True
+342;María López Pérez;2025-03-29;4;2;28498;m.lopez9@example.com;677267585;3418.0;False
+282;Torres Navarro, David;2025-05-26;2;5;29224;d.torres49@example.org;630004549;389.85;False
+254;Torres Sánchez, Elena;2025-04-09;1;5;29181;e.torres83@example.org;627717221;2691.62;False
+775;Antonio Gil Navarro;2025-09-11;1;1;41655;a.gil35@example.com;683864335;287.0;False
+220;Jiménez Gil, Ana;2025-09-28;3;1;41433;a.jimenez94@example.org;649769173;;True
+426;María Torres;2025-03-01;5;5;28868;m.torres28@example.org;699113571;2080.0;False
+370;María López Moreno;2025-08-20;1;5;29339;m.lopez16@example.org;660272092;2706.0;True
+708;Pérez Gómez, Lucía;2025-06-21;3;3;08935;l.perez42@example.com;669762449;2154.0;True
+70;Sánchez Ruiz, Ana;2025-05-21;1;1;41465;a.sanchez45@example.org;691918391;594.0;
+581;Marta Díaz;2025-01-28;3;5;29792;m.diaz59@example.com;623501960;2269.0;False
+22;José Ruiz López;2025-04-22;3;4;46945;j.ruiz83@example.com;642401207;;True
+78;David Pérez López;2025-03-10;1;4;46173;d.perez83@example.com;;2869.0;
+548;Moreno Jiménez, Manuel;2025-06-27;3;4;08478;m.moreno38@example.com;694413091;2381.0;False
+126;Lucía Domínguez Navarro;2025-06-19;;5;29906;l.dominguez77@example.org;646498708;;True
+229;Elena Pérez Domínguez;2025-06-14;4;3;08294;e.perez16@example.org;662089005;274.0;True
+43;Gil García, Marta;2025-07-30;3;5;29836;m.gil53@example.org;;571.22;False
+517;Francisco Martínez;2025-09-22;3;4;46614;f.martinez18@example.com;651490712;1497.82;False
+573;Laura Díaz;2025-03-26;3;3;08295;;640228881;913.0;
+577;García Navarro Antonio;2025-10-05;4;5;29376;a.garcia30@example.com;691310953;2638.0;True
+677;Antonio Moreno Pérez;2025-06-24;3;3;08427;;657752559;729.0;True
+375;Pablo Gil Domínguez;2025-09-23;3;1;;p.gil29@example.org;607840010;1339.0;True
+206;Francisco Gómez Torres;2025-03-21;3;5;29225;f.gomez39@example.com;627415087;2828.0;False
+7;Ana García Gómez;2025-01-26;4;3;08779;a.garcia74@example.org;687822554;2485.06;True
+494;María Sánchez;2025-06-30;1;1;41387;m.sanchez76@example.org;673676464;594.0;True
+798;José Jiménez;2025-05-18;1;4;46932;;616771236;1409.98;True
+625;Romero Romero, Javier;2025-07-01;3;2;28399;j.romero69@example.com;655933763;;False
+260;Navarro Gil, Pablo;2025-06-26;4;2;28195;p.navarro65@example.org;689687921;2307.0;True
+283;Lucía Martínez Martínez;2025-07-21;2;5;29026;l.martinez57@example.com;604377422;;True
+591;María Pérez;2025-08-29;2;2;28522;m.perez6@example.org;607558009;556.0;False
+749;María Díaz Gómez;2025-04-04;1;3;08550;m.diaz92@example.org;611365926;2804.0;True
+456;Romero Martínez, Lucía;2025-06-16;5;1;;l.romero84@example.org;654227883;89.0;False
+321;Sánchez Martínez, Ana;2025-04-07;4;1;41247;a.sanchez3@example.com;623794431;2247.0;True
+435;José Gómez Domínguez;2025-05-11;1;4;46259;j.gomez27@example.org;618231493;632.0;True
+300;Javier Jiménez;2025-01-07;1;3;08370;j.jimenez37@example.com;644812904;30.0;False
+437;Javier Sánchez Jiménez;2025-06-20;1;1;41995;j.sanchez71@example.org;681923426;1595.0;False
+787;Manuel Jiménez;2025-01-10;1;5;;m.jimenez9@example.com;633712992;17.0;True
+439;Marta Gómez Navarro;2025-01-25;1;2;28520;m.gomez95@example.com;686943808;677.21;True
+326;David Gómez Torres;2025-03-11;3;5;29005;d.gomez5@example.org;698825353;1373.34;False
+404;Francisco Jiménez Martínez;2025-10-19;4;4;46999;f.jimenez50@example.com;670044655;3409.0;
+266;Ana López Moreno;2025-06-24;2;2;28081;a.lopez62@example.org;633750374;2013.0;True
+565;Sánchez Martínez, Carmen;2025-09-24;3;3;08633;c.sanchez91@example.com;662262256;2700.0;True
+603;Carmen Díaz;2025-08-10;2;2;28045;c.diaz73@example.org;606392483;2137.98;True
+690;José Torres Pérez;2025-08-23;3;3;08375;j.torres56@example.com;693659554;383.0;False
+279;José Romero Martínez;;4;3;08625;j.romero34@example.com;;;True
+554;María García;2025-04-06;1;5;29022;m.garcia95@example.org;611968271;2587.0;True
+636;Elena Moreno Díaz;2025-07-25;2;1;41076;;649726433;2020.0;True
+754;Antonio Domínguez Romero;2025-10-08;3;4;;;666010694;9.0;False
+232;José López Jiménez;2025-09-14;4;1;41111;;;857.0;True
+246;Jiménez Torres, Lucía;2025-01-26;1;1;41811;l.jimenez82@example.org;663472656;981.02;
+168;Carmen Gómez Jiménez;2025-02-20;1;2;28480;;613580414;825.0;False
+503;Ruiz Torres, Manuel;2025-10-16;4;4;46764;;698129437;;False
+333;Díaz Ruiz, Antonio;2025-04-03;1;4;46235;a.diaz30@example.org;625415912;2865.0;False
+427;Jiménez Gómez, Pablo;2025-09-17;3;1;41977;p.jimenez71@example.com;661606707;1505.0;
+542;Gil Moreno, Ana;2025-01-17;5;1;41228;a.gil76@example.com;;3382.0;False
+163;Ruiz Jiménez, Antonio;2025-05-03;1;5;29559;a.ruiz34@example.org;609168790;1933.0;False
+150;Martínez Gil, Pedro;2025-01-18;1;2;28332;p.martinez41@example.org;690206671;546.0;True
+227;Marta Ruiz Sánchez;2025-08-31;2;1;46250;m.ruiz47@example.com;650325589;2752.0;True
+95;Torres López Javier;2025-09-27;4;;46051;j.torres22@example.org;657018614;3007.0;True
+222;Sánchez Ruiz, Laura;2025-05-17;4;1;41155;l.sanchez14@example.org;633607474;8.44;False
+598;Lucía García Domínguez;2025-08-22;2;4;46851;l.garcia51@example.org;698168667;2260.42;False
+474;García Gil, Ana;2025-05-21;3;;46470;a.garcia45@example.com;633606728;736.8;
+602;Manuel Pérez Romero;2025-08-22;1;2;28628;m.perez31@example.org;669496729;2596.96;True
+740;López Domínguez, Pedro;2025-09-27;3;4;46500;p.lopez5@example.org;672047196;1853.0;False
+35;Pedro Gómez Moreno;2025-09-24;4;;29066;p.gomez56@example.com;615792070;;False
+218;Pablo Díaz Torres;2025-01-29;5;3;08709;;670648030;2421.51;True
+73;Javier Pérez Gómez;2025-05-19;2;1;29142;j.perez39@example.com;;2417.0;True
+221;Gómez Moreno, Carmen;2025-02-08;5;1;41252;c.gomez45@example.org;639378262;3051.96;False
+214;Laura Martínez Moreno;2025-05-15;2;2;28485;l.martinez43@example.org;620155618;1714.0;True
+742;Torres Díaz, María;;1;2;28554;m.torres13@example.org;640532362;247.0;True
+395;Francisco García;2025-08-04;5;3;08090;f.garcia43@example.com;654300523;;
+368;Torres Gómez Ana;2025-04-05;3;2;28038;a.torres29@example.com;620198924;1837.0;False
+13;David Sánchez;2025-08-09;2;4;46203;d.sanchez58@example.com;693678493;3449.0;True
+799;María López García;2025-04-05;5;5;29301;m.lopez51@example.org;659494010;350.0;False
+344;Martínez Torres, Pablo;2025-06-04;5;5;29200;p.martinez9@example.com;688532969;81.0;True
+199;Lucía Moreno Torres;2025-04-12;2;5;29782;l.moreno69@example.org;618459028;2224.0;False
+235;Antonio Domínguez Torres;2025-05-28;3;1;41100;a.dominguez25@example.com;644660134;2078.0;False
+421;José Díaz Ruiz;2025-10-06;1;4;46295;j.diaz45@example.org;;242.0;False
+703;Torres Navarro, Ana;2025-02-20;3;2;28685;a.torres88@example.com;637919017;3439.0;False
+609;José Navarro Torres;;5;1;41938;j.navarro50@example.org;671587356;3133.0;False
+664;Domínguez Pérez, Antonio;2025-03-02;1;1;41685;a.dominguez1@example.org;606638089;272.0;False
+298;Carmen Pérez Gil;2025-05-12;5;4;46143;c.perez44@example.com;673873985;;True
+64;Antonio Díaz García;2025-10-18;3;4;46837;a.diaz67@example.org;;1641.97;False
+608;Romero García, Marta;2025-06-04;1;;29749;m.romero96@example.org;673588227;3322.0;True
+14;Lucía Moreno Jiménez;2025-08-17;3;2;28104;l.moreno67@example.org;643514158;;False
+436;Sánchez Gil, Ana;2025-02-07;1;2;28782;a.sanchez33@example.com;656730865;;False
+18;López Romero David;2025-02-08;3;1;41368;d.lopez72@example.org;;2569.0;True
+699;Laura Gil;2025-01-16;1;3;08011;;608931216;946.08;False
+349;Gil Gómez Ana;2025-02-24;3;4;46121;a.gil47@example.org;636322600;1735.97;False
+208;Sánchez Torres, José;2025-10-18;1;3;08374;j.sanchez35@example.org;600616197;1935.0;False
+91;López Sánchez Antonio;2025-05-11;1;1;41498;a.lopez84@example.org;651522079;1763.0;True
+308;Marta Domínguez Domínguez;2025-06-16;3;5;29027;m.dominguez97@example.org;;255.0;False
+381;Marta García Gómez;2025-01-02;4;4;46912;m.garcia95@example.com;;;True
+345;Pérez Moreno, José;2025-09-29;3;2;28607;j.perez89@example.org;;3472.0;
+472;Lucía Sánchez Moreno;2025-08-30;3;1;41577;l.sanchez3@example.org;630970059;1128.0;False
+679;Ana Moreno Domínguez;2025-06-06;3;2;28705;a.moreno46@example.com;645905308;493.61;False
+552;Manuel Pérez Torres;2025-04-29;5;2;;m.perez76@example.com;635621823;1894.0;True
+599;Ana Pérez Pérez;2025-07-08;3;1;41217;a.perez30@example.org;685669682;989.0;
+33;Marta Sánchez Pérez;2025-01-28;3;3;08240;m.sanchez69@example.com;660809799;1826.0;False
+792;Lucía Romero Domínguez;2025-05-17;1;2;28507;l.romero90@example.com;695109263;2354.0;False
+658;Navarro Díaz, Manuel;2025-07-09;3;3;08097;;679119386;1979.0;True
+671;María Torres Ruiz;2025-10-13;2;5;29069;m.torres18@example.com;694008321;2647.47;
+173;Antonio Domínguez;2025-08-20;1;3;08331;;657272241;969.0;True
+737;Manuel Navarro Sánchez;2025-08-08;4;1;41646;m.navarro11@example.org;640195638;2863.0;False
+722;Carmen López Romero;2025-10-07;3;4;46924;c.lopez54@example.org;653228373;1099.0;True
+409;Manuel Jiménez Gil;2025-10-08;1;2;28438;m.jimenez66@example.com;;488.0;True
+794;David Jiménez Romero;2025-09-05;3;1;41438;d.jimenez44@example.com;608011889;213.0;True
+767;Navarro Sánchez Javier;2025-07-03;1;5;29051;j.navarro28@example.org;683897916;2528.0;False
+201;Javier García Sánchez;2025-04-20;1;5;29167;j.garcia63@example.org;626657138;2282.0;True
+293;Ana Moreno;2025-10-14;1;5;29723;a.moreno31@example.com;663889508;1036.19;False
+584;Martínez Gil, Manuel;2025-01-16;2;5;41048;m.martinez56@example.org;698471811;1820.0;True
+734;Antonio Torres Martínez;2025-08-21;4;1;41653;a.torres98@example.com;644344138;1436.0;False
+774;Moreno Gómez Manuel;2025-08-04;5;5;29210;m.moreno10@example.com;661226537;969.0;False
+747;Javier Torres Sánchez;2025-06-09;1;4;46990;;697631256;276.0;
+490;Francisco Torres Gil;2025-07-01;3;4;46042;f.torres33@example.org;678022519;1064.0;True
+744;Romero Moreno Elena;2025-03-23;1;3;08057;e.romero9@example.com;628543022;743.0;False
+739;Pedro Gil López;2025-08-10;5;4;46542;p.gil18@example.org;632151175;1400.0;True
+134;Ruiz Domínguez, Francisco;2025-06-17;4;4;46288;f.ruiz63@example.org;626237117;375.0;True
+61;Marta Moreno Gil;2025-10-04;4;5;08379;m.moreno39@example.org;686541349;201.0;
+691;Díaz Ruiz, David;2025-10-26;1;2;28550;d.diaz95@example.com;685518251;;True
+27;Pedro Ruiz García;2025-05-01;3;;46257;p.ruiz87@example.org;687375044;1446.0;True
+101;Manuel Jiménez;2025-09-07;3;1;41660;m.jimenez93@example.com;664734476;791.66;True
+532;Elena Moreno Gil;2025-02-19;3;4;46437;e.moreno24@example.org;687797999;;True
+589;Laura Domínguez Moreno;2025-09-09;2;5;29443;l.dominguez47@example.com;699360612;2174.14;True
+521;José Ruiz Gil;2025-04-18;3;1;41509;j.ruiz74@example.org;695045972;;
+364;Carmen Gómez;2025-09-26;1;3;08381;c.gomez33@example.com;646050152;;False
+310;Pedro Ruiz;2025-02-02;1;1;41105;p.ruiz74@example.org;630543155;874.27;False
+605;Pablo Jiménez Gómez;2025-09-05;1;1;41332;p.jimenez59@example.org;648001899;2766.51;False
+253;Ana Martínez Gil;2025-02-26;1;3;29350;a.martinez58@example.com;610210331;759.0;False
+545;Javier Gómez Sánchez;2025-09-07;2;1;41897;;;2220.0;False
+482;Domínguez Ruiz María;2025-09-06;3;4;46399;m.dominguez37@example.org;663802941;3343.0;True
+442;Sánchez Domínguez Elena;2025-04-01;1;4;;;601731237;;True
+648;Manuel Moreno Gil;2025-06-10;3;5;29578;m.moreno6@example.org;690124611;180.0;
+477;Laura Navarro Gil;2025-09-12;1;4;46360;l.navarro21@example.org;624113557;3331.0;False
+23;Laura Pérez;2025-02-24;1;1;41372;l.perez23@example.com;610435276;2508.0;
+63;Elena Díaz Navarro;2025-04-20;4;1;41168;e.diaz32@example.org;621982189;;True
+149;López Ruiz, David;2025-09-04;5;5;29221;d.lopez45@example.com;615268539;1933.35;True
+484;José Romero;2025-08-28;4;5;29591;j.romero32@example.com;607467365;3230.1;True
+258;Romero Jiménez, Laura;2025-02-01;1;4;46358;l.romero20@example.com;602517168;1137.0;False
+53;Carmen Navarro Torres;2025-04-20;5;5;29334;c.navarro77@example.com;638072150;2473.44;False
+174;José Jiménez;2025-08-05;;3;08595;j.jimenez20@example.com;676679296;270.0;True
+36;Domínguez Díaz, Elena;2025-01-20;3;4;46763;e.dominguez88@example.org;658902408;1825.0;False
+179;Martínez Martínez, Francisco;2025-09-28;3;2;28796;;617720381;220.0;False
+680;José García Moreno;2025-10-08;3;3;08992;j.garcia94@example.com;669808692;520.0;True
+121;López López, Pedro;2025-05-12;1;5;;p.lopez61@example.org;676054727;649.33;False
+276;Ana García Pérez;2025-05-25;1;1;41937;a.garcia61@example.org;689021104;3418.35;True
+45;Carmen Díaz;2025-01-21;1;1;41030;c.diaz64@example.com;629022248;2113.0;False
+301;Javier Torres Domínguez;2025-04-20;1;3;08990;;641370128;1582.0;False
+77;Pérez Jiménez, David;2025-04-10;3;3;08801;d.perez89@example.org;691185232;948.0;True
+721;Antonio Torres García;2025-02-11;1;5;29995;a.torres37@example.org;616056334;2042.0;False
+369;Gómez Pérez, David;2025-01-07;5;5;29653;d.gomez63@example.com;662150468;;True
+213;Elena Jiménez Martínez;2025-08-25;3;2;28079;e.jimenez95@example.org;644354121;113.15;False
+268;Laura Jiménez Gil;;4;4;46133;l.jimenez52@example.com;645714042;3143.0;True
+312;María Moreno;2025-07-21;3;2;28475;m.moreno7@example.com;688605687;744.47;False
+729;Carmen Romero Domínguez;2025-05-27;1;1;41127;c.romero96@example.org;621895802;94.0;True
+445;José Domínguez Navarro;2025-06-02;3;5;;j.dominguez84@example.org;631410596;279.0;False
+504;Antonio Romero Moreno;2025-09-18;1;5;29966;a.romero22@example.org;603636257;2835.31;
+496;María Ruiz Sánchez;2025-05-04;3;3;08932;m.ruiz53@example.com;698647613;1744.0;False
+34;Pérez Pérez, Antonio;;4;1;41331;a.perez18@example.org;648090047;1742.99;True
+10;López Pérez, Ana;2025-01-29;2;5;29559;a.lopez25@example.com;;1431.0;
+689;Gómez Sánchez Laura;2025-05-14;5;1;41805;l.gomez83@example.com;;3317.12;
+161;Gómez Pérez, Laura;2025-10-26;3;1;41105;l.gomez37@example.com;624955962;2034.0;False
+286;Carmen Gil Gil;2025-10-09;4;5;29200;;606936844;1031.3;True
+296;Antonio Domínguez;2025-06-06;3;1;29267;a.dominguez91@example.org;;;
+617;Elena Jiménez Romero;2025-03-16;3;4;46402;e.jimenez64@example.com;646244163;2861.0;False
+626;Torres García, Marta;2025-03-11;3;5;29460;m.torres22@example.com;635064162;;False
+278;Gil López, María;2025-08-23;3;1;41322;m.gil97@example.com;650967103;1453.0;False
+768;Moreno Gil, María;2025-05-24;1;4;46022;m.moreno49@example.org;617376979;2966.0;True
+604;Javier Martínez Romero;2025-02-10;1;2;28143;j.martinez63@example.com;688689156;2520.76;False
+485;Navarro Sánchez, María;2025-05-19;2;2;28649;m.navarro69@example.com;635169009;;True
+497;Lucía Ruiz Gómez;2025-02-05;1;2;28223;l.ruiz41@example.org;639115815;1054.0;True
+183;María Moreno;;4;3;08350;m.moreno29@example.org;661482903;1165.09;False
+685;Gil Jiménez, Ana;2025-02-20;4;3;08056;a.gil13@example.org;643300339;;True
+745;Carmen Torres Romero;2025-08-27;3;2;28647;c.torres48@example.org;676151934;857.0;False
+37;Martínez Ruiz Javier;2025-09-15;4;5;29987;j.martinez68@example.com;625010271;2646.0;True
+157;Ana López Domínguez;2025-02-07;4;3;08453;;623136651;1243.76;True
+3;José Sánchez Martínez;2025-07-16;5;3;08274;j.sanchez19@example.com;622958626;786.0;False
+755;Pablo López Sánchez;2025-06-16;1;3;08184;p.lopez49@example.org;611171484;;True
+509;Francisco Martínez Gil;2025-03-22;1;3;08419;;621062746;2241.0;False
+498;Moreno López Pablo;2025-04-23;1;4;46174;p.moreno57@example.org;691416992;1499.0;
+309;Elena Sánchez Moreno;2025-04-05;2;5;29609;e.sanchez76@example.org;675300784;1222.0;False
+561;Moreno López, Manuel;2025-06-10;4;1;41354;m.moreno78@example.com;630549951;533.11;False
+415;Pedro Torres Pérez;2025-01-06;1;1;41204;p.torres58@example.com;656912290;2950.0;False
+422;Ruiz Pérez, Elena;2025-07-28;;3;08677;e.ruiz14@example.org;615975564;2151.0;True
+142;José Romero López;2025-03-06;5;3;08163;j.romero78@example.org;611954126;2838.0;True
+224;Javier Ruiz;2025-03-02;3;5;08627;j.ruiz11@example.org;;535.93;True
+184;Carmen Jiménez Jiménez;2025-07-28;3;4;46107;;601806538;2632.48;False
+793;David Ruiz López;2025-08-05;2;2;;d.ruiz54@example.com;684444108;630.0;False
+673;Ana Pérez García;2025-07-10;1;3;08182;a.perez4@example.com;689185269;1051.0;False
+512;Javier Pérez Jiménez;2025-08-12;2;2;28133;j.perez28@example.org;686301942;1652.0;False
+732;David López;2025-05-06;1;1;41873;d.lopez32@example.org;665802559;2672.0;False
+612;Gómez García, Marta;2025-05-19;2;3;08814;m.gomez63@example.com;666378520;42.0;False
+748;Antonio López Romero;2025-04-05;4;5;29951;a.lopez55@example.org;606595755;1432.0;False
+118;López Torres, Lucía;2025-02-11;1;4;46098;l.lopez17@example.org;605700354;874.95;True
+2;Lucía Romero Torres;2025-08-21;1;2;28526;l.romero14@example.com;613211154;1441.0;False
+114;David Martínez Moreno;2025-05-18;2;5;29752;d.martinez65@example.org;;2762.0;True
+541;Marta Navarro Ruiz;2025-08-01;1;3;08816;m.navarro97@example.org;;1088.0;False
+687;Díaz Díaz, Marta;2025-05-03;2;;41806;m.diaz66@example.com;649778664;74.0;False
+766;Manuel López Díaz;2025-08-23;3;3;08203;m.lopez74@example.org;653227905;613.0;True
+166;Elena Martínez Domínguez;2025-09-02;3;3;;e.martinez5@example.org;609546535;;
+185;Javier Díaz Gil;;1;3;08915;j.diaz61@example.org;675095266;235.0;False
+678;Díaz Jiménez Manuel;2025-01-26;2;2;28910;m.diaz51@example.org;641938523;3443.0;True
+373;Elena Pérez Torres;2025-05-04;1;2;28500;;;570.67;False
+275;David García;2025-05-06;5;3;28477;d.garcia33@example.org;651122496;540.0;True
+705;Ana Sánchez Torres;2025-02-08;5;3;08929;a.sanchez72@example.org;;2274.0;False
+1;Domínguez Navarro, Ana;2025-01-27;4;1;41429;a.dominguez14@example.org;689239520;1324.0;True
+567;Ruiz Torres, Pablo;2025-03-10;1;2;28113;p.ruiz83@example.com;677315158;416.0;True
+501;Díaz Gil, Javier;2025-02-04;1;4;46880;j.diaz21@example.org;;1033.0;True
+719;Carmen Jiménez;2025-03-12;1;3;08584;c.jimenez85@example.org;607850844;991.0;False
+384;Gómez Gómez Carmen;2025-03-14;1;3;08599;c.gomez67@example.org;623926196;;True
+406;Manuel Torres Ruiz;2025-05-31;1;5;29659;m.torres26@example.com;652456743;676.47;False
+562;Marta Navarro;2025-01-14;3;1;41421;m.navarro84@example.org;647009763;1787.0;False
+21;María Jiménez Díaz;2025-05-31;1;1;41769;;607893096;3433.0;False
+177;Moreno Martínez, Manuel;2025-08-04;3;1;41028;m.moreno30@example.com;619410393;3327.0;True
+336;Gómez Martínez, Antonio;2025-08-31;1;1;41255;a.gomez33@example.org;668257719;644.0;True
+380;Carmen Torres López;2025-03-20;1;1;41540;c.torres84@example.com;626801290;785.0;False
+546;Navarro Martínez Pablo;2025-01-17;4;5;29431;p.navarro78@example.com;626270362;2776.0;False
+172;Gómez Martínez, Lucía;2025-01-28;1;3;08250;l.gomez2@example.com;;;
+520;Gómez Domínguez Javier;2025-06-28;5;2;28642;j.gomez94@example.org;623172606;2600.0;False
+508;López Pérez, Ana;2025-03-16;4;2;28350;a.lopez30@example.com;624387196;1623.54;True
+153;Manuel Díaz Ruiz;2025-10-03;1;4;46890;m.diaz67@example.org;602956877;2002.0;
+619;Ruiz Martínez, José;2025-01-19;5;5;29320;j.ruiz75@example.com;649703817;193.0;False
+414;Lucía Pérez Domínguez;2025-02-09;3;5;;l.perez71@example.org;611651690;2714.39;True
+610;Ana Moreno García;2025-09-15;4;2;28732;a.moreno89@example.com;615326298;2479.0;True
+623;Carmen Domínguez Torres;2025-02-19;3;3;08075;c.dominguez73@example.org;663987438;1185.1;True
+582;Romero Torres, Elena;2025-09-08;1;2;28602;;656685781;2931.0;False
+642;Carmen Ruiz Domínguez;2025-10-02;1;3;08668;c.ruiz46@example.org;639323356;1211.0;True
+317;Javier Moreno Martínez;2025-08-08;1;5;29798;j.moreno1@example.com;;1125.0;False
+259;Moreno Jiménez, Antonio;2025-02-22;3;3;08783;a.moreno47@example.com;604373961;19.0;True
+663;Antonio Díaz Martínez;2025-01-11;1;1;41037;a.diaz29@example.com;663780968;3300.29;True
+475;Pérez Torres, Ana;2025-07-10;1;4;46326;;654873521;836.0;False
+338;Sánchez Moreno, María;2025-04-06;3;2;28562;m.sanchez53@example.com;607772213;660.0;False
+539;Sánchez Sánchez, Marta;2025-06-12;5;;46455;m.sanchez6@example.com;685010774;386.37;False
+505;Jiménez Díaz Carmen;2025-03-24;5;4;46152;c.jimenez77@example.org;604339252;163.06;True
+399;Romero Gil Francisco;2025-03-26;1;5;29568;f.romero62@example.org;662454671;113.0;True
+424;Elena Gil Díaz;2025-06-24;4;4;46514;e.gil32@example.org;631032296;3254.0;False
+606;Antonio Gómez Moreno;2025-06-10;1;1;41570;;685479186;3221.0;False
+661;Javier Ruiz;2025-02-23;4;4;29916;;;174.0;False
+481;José López Gil;2025-03-28;3;4;46451;j.lopez24@example.org;646865225;660.0;True
+423;Antonio Ruiz;2025-08-18;5;5;08258;a.ruiz2@example.org;637184550;1366.64;True
+120;Ana Martínez Romero;2025-02-04;3;4;;a.martinez87@example.org;649986191;2925.0;True
+651;Francisco Ruiz Gómez;2025-05-27;;2;28620;f.ruiz47@example.org;;;True
+682;Gil Sánchez, Ana;2025-02-11;1;1;41703;a.gil94@example.com;677940496;2290.0;True
+715;Díaz García, Pedro;2025-10-04;5;2;28716;p.diaz91@example.com;653267040;2038.0;True
+660;Elena García;2025-03-28;3;3;08774;e.garcia98@example.org;687111879;3250.0;False
+790;Romero López, Antonio;2025-01-04;1;1;41642;a.romero68@example.com;633138831;3087.4;False
+257;Pedro Moreno Romero;2025-07-23;2;3;08142;p.moreno35@example.org;636250709;675.0;True
+644;Gómez Gómez Marta;2025-05-25;1;3;08481;m.gomez37@example.org;628841296;3349.0;False
+250;Domínguez Sánchez, Elena;2025-01-13;1;1;41743;e.dominguez51@example.com;685388573;1590.0;False
+665;García Sánchez, Marta;2025-06-29;4;5;29684;m.garcia73@example.com;660824247;;True

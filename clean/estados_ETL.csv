@@ -1,0 +1,6 @@
+estado_id;estado_nombre
+1;Aceptado / En Negociación
+2;Cancelado Con Éxito
+3;En Estudio
+4;Incumplido
+5;Plan Activo
